@@ -50,7 +50,7 @@ function contrastRatio(first, second) {
 
 function assertNoEmoji(value, path = 'landingPage') {
   if (typeof value === 'string') {
-    if (/\p{Extended_Pictographic}/u.test(value) && !path.endsWith('.footer.copyright')) {
+    if (/\p{Extended_Pictographic}/u.test(value.replaceAll('↔', '')) && !path.endsWith('.footer.copyright')) {
       fail(`${path} must not contain emoji; use a supported icon key instead`);
     }
     return;
@@ -385,7 +385,7 @@ function validateEventIntroductions(landingPage) {
     'footer.disclaimer', 'footer.copyright',
   ].forEach(requireString);
   [
-    ['header.navItems', 5], ['tracks', 3], ['hero.chat.suggestedPrompts', 3], ['hero.briefDemo.fields', 9],
+    ['header.navItems', 4], ['tracks', 3], ['hero.chat.suggestedPrompts', 3], ['hero.briefDemo.fields', 9],
     ['about.images', 3], ['about.principles', 3], ['process.steps', 4], ['pairing.images', 2],
     ['pairing.criteria', 3], ['pairing.cards', 3], ['faq.items', 6], ['footer.groups', 2],
   ].forEach(([path, count]) => requireExact(path, count));

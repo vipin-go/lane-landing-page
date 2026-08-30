@@ -3,14 +3,14 @@
   "resourceKey": "landing_page.lane",
   "runtimeDataPolicy": "definitions_only",
   "landingPage": {
-    "headline": "One careful introduction can change your event.",
-    "subheadline": "Human-reviewed founder, investor, co-founder, and startup introductions—one private proposal at a time.",
-    "ctaLabel": "Build my private brief",
-    "secondaryCtaLabel": "See how Lane works",
+    "headline": "Real business introductions, one person at a time.",
+    "subheadline": "Founders find investors—and investors find founders. Co-founders find each other. Startups find the right startup to buy from, sell to, or build with.",
+    "ctaLabel": "Chat with Lane",
+    "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/og.png",
-      "alt": "Lane — one careful conference introduction at a time"
+      "alt": "Lane — real business introductions, one person at a time"
     },
     "design": {
       "variant": "event-introductions",
@@ -57,76 +57,75 @@
           { "label": "About", "target": "about" },
           { "label": "How it works", "target": "how-it-works" },
           { "label": "Pairings", "target": "pairings" },
-          { "label": "FAQs", "target": "faqs" },
-          { "label": "Future events", "target": "waitlist" }
+          { "label": "FAQs", "target": "faqs" }
         ],
-        "ctaLabel": "Request an introduction"
+        "ctaLabel": "Meet Lane"
       },
       "event": {
         "name": "HumanX Amsterdam",
         "shortName": "HumanX",
         "city": "Amsterdam",
         "venue": "RAI",
-        "neighborhood": "RAI Amsterdam",
+        "neighborhood": "RAI, Zuidas",
         "dateRange": "22–24 September 2026",
-        "shortDateRange": "22–24 Sep",
-        "cardDate": "22–24 SEP 2026",
+        "shortDateRange": "22–24 Sept 2026",
+        "cardDate": "Tue 22–Thu 24 Sep",
         "availability": "unverified",
-        "availabilityLabel": "Availability verified privately",
-        "confirmedLocation": "Meeting details are shared only after both people opt in.",
-        "disclaimer": "Event details and availability are confirmed privately before any introduction is proposed."
+        "availabilityLabel": "Availability confirmed manually",
+        "confirmedLocation": "Exact table or quiet corner shared after both sides accept",
+        "disclaimer": "HumanX Amsterdam is not a partner unless stated."
       },
       "tracks": [
         {
           "id": "founder-investor",
           "kicker": "Capital",
-          "label": "Founder to investor",
-          "pairing": "Founder and investor",
-          "body": "A focused conversation around stage, thesis, timing, and the help actually needed.",
+          "label": "Founders ↔ investors",
+          "pairing": "Founder × Seed investor",
+          "body": "Founders share the raise, cheque size, and reason to meet. Investors share thesis, cheque size, and the founders they want to find.",
           "sides": ["Founder", "Investor"]
         },
         {
           "id": "founder-cofounder",
-          "kicker": "Team",
-          "label": "Founder to co-founder",
-          "pairing": "Founder and co-founder",
-          "body": "A careful pairing around working style, ambition, gaps, and mutual expectations.",
+          "kicker": "Co-founding",
+          "label": "Founders ↔ co-founders",
+          "pairing": "Founder × Co-founder",
+          "body": "Each side shares the role or strength they bring, the gap they want to fill, the company stage, and what is already built.",
           "sides": ["Founder", "Prospective co-founder"]
         },
         {
           "id": "startup-startup",
-          "kicker": "Growth",
-          "label": "Startup to startup",
-          "pairing": "Startup collaboration",
-          "body": "A useful business-development conversation with a concrete offer, need, and reason to meet.",
+          "kicker": "Business fit",
+          "label": "Startups ↔ startups",
+          "pairing": "Startup × Startup — BD",
+          "body": "Each startup shares what it offers, the sectors or company types it wants to meet, and what a useful commercial fit looks like.",
           "sides": ["Startup offering", "Startup seeking"]
         }
       ],
       "hero": {
-        "eyebrow": "HumanX Amsterdam · 22–24 September 2026",
-        "heading": "One careful introduction can change your event.",
-        "accentText": "One",
-        "body": "Tell Lane what you are building, who would genuinely help, and what you can offer in return. A human operator reviews every brief and proposes one private, double-opt-in introduction at a time.",
-        "primaryCtaLabel": "Build my private brief",
-        "secondaryCtaLabel": "See how Lane works",
+        "eyebrow": "Now matching at HumanX Amsterdam — 22–24 Sept 2026",
+        "heading": "Real business introductions, one person at a time.",
+        "accentText": "Real business introductions,",
+        "body": "Founders find investors—and investors find founders. Co-founders find each other. Startups find the right startup to buy from, sell to, or build with. Lane proposes one pairing at a time. Both sides say yes.",
+        "primaryCtaLabel": "Chat with Lane",
+        "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
         "characterAlt": "Lane, a relaxed winged conference introduction operator",
         "chat": {
-          "statusLabel": "Human-operated and private",
-          "operatorBadge": "One at a time",
-          "openingMessage": "Hi, I am Lane. Which event, introduction track, and side of the table describe you?",
-          "inputPlaceholder": "Describe the introduction that would make this event worthwhile…",
+          "statusLabel": "Online · on the floor",
+          "operatorBadge": "Human-run",
+          "openingMessage": "Hi, I’m Lane. I introduce one carefully chosen person at a time—never a list.",
+          "inputPlaceholder": "Ask Lane about your next introduction…",
           "suggestedPrompts": [
-            "I am a founder raising a round",
-            "I am looking for a co-founder",
-            "I want a startup partnership"
+            "How do you choose?",
+            "What happens if I pass?",
+            "When are details shared?"
           ]
         },
         "briefDemo": {
           "enabled": true,
           "commandTrigger": "request-introduction",
           "introHeading": "Your private introduction brief",
-          "introBody": "Start with the track and your side. Lane will collect only what a human operator needs to review a thoughtful introduction.",
+          "introBody": "You tell me which side of the table you’re on and what a useful meeting looks like. I’ll propose one fit. Both accept or pass privately.",
           "trackLabel": "Introduction track",
           "sideLabel": "Your side",
           "fields": [
@@ -153,90 +152,90 @@
         }
       },
       "about": {
-        "kicker": "Introductions with context",
-        "heading": "No directory. No swipe deck. No automated match claim.",
-        "body": "Lane learns enough to make one careful proposal. A human checks the context, each person can pass privately, and contact details stay hidden until both people opt in.",
+        "kicker": "A deliberately narrow service",
+        "heading": "Networking tools gave you everyone. Lane introduces you to someone.",
+        "body": "One specific business pairing with a reason behind it—whether the useful match is capital, a complementary co-founder, or another startup.",
         "images": [
-          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png", "alt": "Founder and investor in a thoughtful event conversation", "label": "Founder and investor" },
-          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png", "alt": "Potential co-founders discussing how they work", "label": "Founder and co-founder" },
-          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png", "alt": "Startup teams exploring a collaboration", "label": "Startup collaboration" }
+          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png", "alt": "Founder and investor in a focused first meeting at a conference", "label": "Founders ↔ investors" },
+          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png", "alt": "Potential co-founders discussing how they work", "label": "Founders ↔ co-founders" },
+          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png", "alt": "Startup operators discussing a business collaboration", "label": "Startups ↔ startups" }
         ],
         "principles": [
-          { "icon": "search", "title": "Context before names", "body": "Lane starts from goals, constraints, timing, and mutual usefulness.", "tone": "signal" },
-          { "icon": "lock", "title": "A private pass stays private", "body": "Either person can decline without a reason being exposed to the other.", "tone": "iris" },
-          { "icon": "users", "title": "Double opt-in", "body": "Contact details and meeting specifics appear only after both people agree.", "tone": "mint" }
+          { "icon": "check", "title": "Specific beats endless.", "body": "One relevant person, with a reason to meet—never a public list to work through.", "tone": "signal" },
+          { "icon": "users", "title": "Both sides choose.", "body": "A proposed pairing moves forward only after two private yeses. Passing stays private too.", "tone": "iris" },
+          { "icon": "shield-check", "title": "Private, always.", "body": "Names, contact details, and the exact meeting point unlock only when both sides accept.", "tone": "mint" }
         ],
-        "scopeNote": "Lane supports founder–investor, founder–co-founder, and startup–startup introductions for the configured event."
+        "scopeNote": "For founders, investors, potential co-founders, and startups with a concrete reason to meet. Not for dating, job seeking, expo-hall pitching, or general networking."
       },
       "process": {
-        "kicker": "Human-operated matching",
-        "heading": "A short brief. One proposal. Both people choose.",
-        "body": "The interface helps Lane collect and organize context; a human remains responsible for review, proposal, and consent.",
+        "kicker": "How the introduction happens",
+        "heading": "From “tell me your side” to “here’s when you’re meeting.”",
+        "body": "Lane is a human operator—not a matching engine, feed, or booking marketplace. The process stays the same; the two sides change.",
         "steps": [
-          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png", "alt": "A private introduction brief", "title": "Share the real goal", "body": "Choose the event, track, side, offer, need, and private constraints." },
-          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png", "alt": "Human review of an introduction brief", "title": "A human reviews it", "body": "Lane checks completeness and whether the request is appropriate for the pool." },
-          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png", "alt": "A private introduction proposal", "title": "One proposal at a time", "body": "A relevant counterpart is proposed privately, without exposing the wider pool." },
-          { "number": "04", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png", "alt": "Double-opt-in introduction", "title": "Connect after two yeses", "body": "Only mutual consent unlocks contact details and meeting coordination." }
+          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png", "alt": "", "title": "Have a real conversation", "body": "Founders share the raise, cheque size, and reason to meet. Investors share thesis, cheque size, and the founders they want to find." },
+          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png", "alt": "", "title": "Lane does the looking", "body": "The operator compares private intake across the same track and checks the fit beyond the obvious labels." },
+          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png", "alt": "", "title": "Meet one good possibility", "body": "You get one proposed pairing with context. Both sides accept or pass before any contact detail is shared." },
+          { "number": "04", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png", "alt": "", "title": "Get the confirmed slot", "body": "Lane sets a time and a quiet place. The exact table and two names unlock only after both sides say yes." }
         ]
       },
       "pairing": {
-        "kicker": "What good fit means",
-        "heading": "Useful on both sides of the table.",
-        "body": "A strong introduction has a specific reason to happen now and a credible exchange of value.",
+        "kicker": "Lane’s latest fit",
+        "heading": "Two full businesses. One good reason to meet.",
+        "body": "The useful introduction is rarely “two people in the same industry.” It is a timely need on one side and a credible answer on the other—plus two private yeses.",
         "images": [
           { "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png", "alt": "Two event attendees considering a thoughtful introduction" },
           { "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png", "alt": "Startup operators discussing a potential collaboration" }
         ],
-        "fitLabel": "Mutual usefulness",
+        "fitLabel": "Lane’s fit",
         "criteria": [
-          "The ask and offer are concrete",
-          "Timing and event availability overlap",
-          "Both people can pass without pressure"
+          "Timing overlaps",
+          "Need and offer align",
+          "Both opted into this kind of first meeting"
         ],
-        "statusHeading": "Illustrative introduction states",
-        "statusBody": "These cards show the lifecycle—not real participants or live availability.",
+        "statusHeading": "The card changes as two decisions come in.",
+        "statusBody": "Illustrative card formats—not a public attendee list or live schedule. Status and location change as each introduction is accepted.",
         "cards": [
-          { "track": "Founder to investor", "time": "Under review", "status": "proposed", "location": "HumanX Amsterdam", "note": "Private proposal prepared" },
-          { "track": "Founder to co-founder", "time": "Awaiting reply", "status": "accepted", "location": "RAI Amsterdam", "note": "First person opted in" },
-          { "track": "Startup to startup", "time": "Scheduled privately", "status": "confirmed", "location": "Shared after consent", "note": "Both people opted in" }
+          { "track": "Founder × Seed investor", "time": "Tue · 10:20", "status": "proposed", "location": "RAI, Zuidas", "note": "Waiting for two decisions" },
+          { "track": "Founder × Co-founder", "time": "Wed · 13:40", "status": "accepted", "location": "RAI, Zuidas", "note": "Lane is setting the slot" },
+          { "track": "Startup × Startup — BD", "time": "Thu · 15:10", "status": "confirmed", "location": "Exact table or quiet corner shared after both sides accept", "note": "Full detail sent privately" }
         ]
       },
       "faq": {
-        "kicker": "Clear boundaries",
-        "heading": "Questions before you share a brief.",
+        "kicker": "Good questions",
+        "heading": "Before Lane makes the introduction.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
-          { "question": "Does Lane show me a list of people?", "answer": "No. Lane supports one human-reviewed proposal at a time and never exposes the participant pool." },
-          { "question": "Is the matching automated?", "answer": "No. The software organizes context, but a human operator reviews fit and controls proposals." },
-          { "question": "Can I decline privately?", "answer": "Yes. A pass remains private and does not reveal a reason to the proposed counterpart." },
-          { "question": "When are contact details shared?", "answer": "Only after both people explicitly opt in to the same introduction." },
-          { "question": "Can I attach a pitch deck or one-pager?", "answer": "Yes, after signing in. Authenticated Lane conversations support images and files as private context." },
-          { "question": "What if my event is not configured?", "answer": "Use the future-event waitlist. Lane will preserve the request through sign-in and review it as a future event brief." }
+          { "question": "Is Lane only for founders looking for investors?", "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and startups find another startup with a plausible customer or collaboration fit." },
+          { "question": "Is Lane a matching app?", "answer": "No. A human operator reads the intake and proposes one pairing at a time. There is no public deck, swipe feed, attendee directory, or automated matching engine." },
+          { "question": "Will everyone see my details?", "answer": "No. Intake stays private. Each proposed introduction is shown only to the two relevant sides, and direct contact details stay hidden until both accept." },
+          { "question": "What if I pass on a proposed pairing?", "answer": "Lane records the pass privately and moves on. The other side is not given your contact details, and there is no public rejection or ranking." },
+          { "question": "What happens after both sides accept?", "answer": "Lane confirms a time and a table or quiet corner. You receive two names and the exact location only after both yeses are in." },
+          { "question": "How does the meeting guarantee work?", "answer": "The guarantee applies to the track selected at signup: three accepted meetings on the current event calendar, or the founder-side fee is refunded. Lane books the meeting, not the round, co-founder, customer, or deal." }
         ]
       },
       "waitlist": {
-        "kicker": "A different event?",
-        "heading": "Bring Lane to the room that matters.",
-        "body": "Tell Lane which future event and city you care about. The request continues as a private introduction brief after sign-in.",
-        "nameLabel": "Name or organization",
-        "emailLabel": "Work email",
-        "eventLabel": "Event",
+        "kicker": "One event at a time",
+        "heading": "Want Lane at your event?",
+        "body": "Lane moves from one select conference to the next. Join the future-event waitlist and tell the operator where careful introductions would matter.",
+        "nameLabel": "Name",
+        "emailLabel": "Email",
+        "eventLabel": "Event or conference name",
         "cityLabel": "City",
-        "ctaLabel": "Continue privately",
+        "ctaLabel": "Join the future-event waitlist",
         "loginNotice": "Sign in to save this future-event introduction request with Lane."
       },
       "closing": {
-        "kicker": "One introduction can be enough",
-        "heading": "Leave the event with one conversation worth continuing.",
-        "body": "Build the private brief now. Lane will keep the pool hidden, review the context, and move only with mutual consent.",
-        "ctaLabel": "Build my brief",
-        "note": "Human-operated · private passes · double opt-in",
-        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-fullbody.png",
-        "characterAlt": "Lane ready to arrange one careful conference introduction"
+        "kicker": "Ready when you are",
+        "heading": "One useful introduction at a time.",
+        "body": "Tell Lane which side of the table you’re on. The operator will take it from there—thoughtfully, privately, and one real person at a time.",
+        "ctaLabel": "Chat with Lane",
+        "note": "No swipe feed · Mutual consent only · Human-run · Private until both say yes",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane standing calmly with a tablet, ready to make an introduction"
       },
       "footer": {
-        "tagline": "Lane makes one careful conference introduction at a time.",
-        "disclaimer": "Human-operated matching. No automated match claims. Contact details stay private until both people opt in.",
+        "tagline": "Lane by Gabriel Operator.",
+        "disclaimer": "Lane matches people at select conferences and events. HumanX Amsterdam is not a partner unless stated.",
         "copyright": "2026 Lane",
         "groups": [
           { "label": "Explore", "links": [
