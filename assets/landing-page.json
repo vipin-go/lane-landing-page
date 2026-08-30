@@ -173,10 +173,10 @@
         "heading": "A short brief. One proposal. Both people choose.",
         "body": "The interface helps Lane collect and organize context; a human remains responsible for review, proposal, and consent.",
         "steps": [
-          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-1.png", "alt": "A private introduction brief", "title": "Share the real goal", "body": "Choose the event, track, side, offer, need, and private constraints." },
-          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-2.png", "alt": "Human review of an introduction brief", "title": "A human reviews it", "body": "Lane checks completeness and whether the request is appropriate for the pool." },
-          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-3.png", "alt": "A private introduction proposal", "title": "One proposal at a time", "body": "A relevant counterpart is proposed privately, without exposing the wider pool." },
-          { "number": "04", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-4.png", "alt": "Double-opt-in introduction", "title": "Connect after two yeses", "body": "Only mutual consent unlocks contact details and meeting coordination." }
+          { "number": "01", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png", "alt": "A private introduction brief", "title": "Share the real goal", "body": "Choose the event, track, side, offer, need, and private constraints." },
+          { "number": "02", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png", "alt": "Human review of an introduction brief", "title": "A human reviews it", "body": "Lane checks completeness and whether the request is appropriate for the pool." },
+          { "number": "03", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png", "alt": "A private introduction proposal", "title": "One proposal at a time", "body": "A relevant counterpart is proposed privately, without exposing the wider pool." },
+          { "number": "04", "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png", "alt": "Double-opt-in introduction", "title": "Connect after two yeses", "body": "Only mutual consent unlocks contact details and meeting coordination." }
         ]
       },
       "pairing": {
