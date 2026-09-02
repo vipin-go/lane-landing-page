@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "cs",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Skutečné obchodní představení, jedna osoba po druhé.",
+    "subheadline": "Zakladatelé nacházejí investory – a investoři nacházejí zakladatele. spoluzakladatelé se nacházejí. Startupy najdou ten správný startup, od kterého nakupovat, prodávat nebo s ním stavět.",
+    "ctaLabel": "Chatujte s Lane",
+    "secondaryCtaLabel": "Podívejte se, jak to funguje",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Operátor konference Lane Conference na HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "dráha.",
+        "brandTagline": "Jeden pečlivý úvod",
+        "navItems": [
+          {
+            "label": "O",
+            "target": "about"
+          },
+          {
+            "label": "Jak to funguje",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Párování",
+            "target": "pairings"
+          },
+          {
+            "label": "Časté dotazy",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Seznamte se s Lane"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "Humanx",
+        "city": "Amsterodam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22.–24. září 2026",
+        "shortDateRange": "22.–24. září 2026",
+        "cardDate": "Út 22.–Čt 24. září",
+        "availability": "unverified",
+        "availabilityLabel": "Dostupnost potvrzena ručně",
+        "confirmedLocation": "Přesný stůl nebo tichý kout sdílený po přijetí obou stran",
+        "disclaimer": "Humanx Amsterdam není partnerem, pokud není uvedeno."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Hlavní město",
+          "label": "Zakladatelé ↔ Investoři",
+          "pairing": "zakladatel × počáteční investor",
+          "body": "Zakladatelé sdílejí zvýšení, velikost kontroly a důvod k setkání. Investoři sdílejí tezi, velikost kontroly a zakladatele, které chtějí najít.",
+          "sides": [
+            "Zakladatel",
+            "Investor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "spoluzakládání",
+          "label": "Zakladatelé ↔ spoluzakladatelé",
+          "pairing": "Zakladatel × spoluzakladatel",
+          "body": "Každá strana sdílí roli nebo sílu, kterou přináší, mezeru, kterou chce zaplnit, fázi společnosti a to, co je již vybudováno.",
+          "sides": [
+            "Zakladatel",
+            "budoucí spoluzakladatel"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Obchodní fit",
+          "label": "Startupy ↔ Startupy",
+          "pairing": "Startup × Startup — BD",
+          "body": "Každý startup sdílí to, co nabízí, sektory nebo typy společností, se kterými se chce setkat, a jak vypadá užitečná reklama.",
+          "sides": [
+            "Startupová nabídka",
+            "Hledání startu"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "nyní párování v Humanx Amsterdam — 22.–24. září 2026",
+        "heading": "Skutečné obchodní představení, jedna osoba po druhé.",
+        "accentText": "Skutečné obchodní představení,",
+        "body": "Zakladatelé nacházejí investory – a investoři nacházejí zakladatele. spoluzakladatelé se nacházejí. Startupy najdou ten správný startup, od kterého nakupovat, prodávat nebo s ním stavět. Lane navrhuje jedno párování najednou. Obě strany říkají ano.",
+        "primaryCtaLabel": "Chatujte s Lane",
+        "secondaryCtaLabel": "Podívejte se, jak to funguje",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, uvolněný okřídlený operátor úvodu konference",
+        "chat": {
+          "statusLabel": "Online · Na podlaze",
+          "operatorBadge": "člověk-run",
+          "openingMessage": "Ahoj, já jsem Lane. Představuji jednu pečlivě vybranou osobu najednou – nikdy seznam.",
+          "inputPlaceholder": "Zeptejte se Lane na svůj další úvod…",
+          "suggestedPrompts": [
+            "Jak si vyberete?",
+            "Co se stane, když projdu?",
+            "Kdy jsou sdíleny podrobnosti?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Váš soukromý úvod",
+          "introBody": "Řekneš mi, na které straně stolu jsi a jak vypadá užitečná schůzka. Navrhnu jeden střih. oba přijímají nebo procházejí soukromě.",
+          "trackLabel": "Úvodní skladba",
+          "sideLabel": "Tvá strana",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizace",
+              "placeholder": "společnost nebo fond",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Vaše role",
+              "placeholder": "Zakladatel, investor, provozovatel…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Aktuální událost",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Gól",
+              "placeholder": "Čím by byl rozhovor cenný?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "co nabízíš",
+              "placeholder": "Čím můžete přispět?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Co potřebuješ",
+              "placeholder": "Jaký druh pomoci nebo protějšku?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Kritéria shody",
+              "placeholder": "etapa, teze, odbornost, pracovní styl…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Dostupnost",
+              "placeholder": "Dny a užitečná časová okna",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Soukromá omezení",
+              "placeholder": "Cokoli pruhu by mělo zůstat v soukromí",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Sestavení hlasem · 5 min",
+          "reviewLabel": "Zkontrolujte stručný přehled",
+          "editLabel": "Vydat",
+          "reviewHeading": "Zkontrolujte svůj soukromý brief",
+          "reviewBody": "Nic není odesláno, vyhledáno ani sdíleno, dokud se nepřihlásíte a explicitně neschválíte.",
+          "submitLabel": "Přihlaste se a odešlete do Lane",
+          "loginNotice": "Přihlaste se a odešlete tento soukromý úvod do Lane pro Human Review.",
+          "expiryCopy": "Platnost neuhrazených slipů vyprší po jedné hodině.",
+          "privacyCopy": "Žádné vyhledávání účastníků nebo kontakt v anonymitě.",
+          "errorCopy": "Lane nemohl tento brief uložit. Zkuste to znovu nebo se přihlaste."
+        }
+      },
+      "about": {
+        "kicker": "záměrně úzká služba",
+        "heading": "Networkingové nástroje vám daly všechny. Lane vás s někým seznámí.",
+        "body": "Jeden konkrétní obchodní pár s důvodem, který za tím stojí – ať už je užitečným zápasem kapitál, doplňkovým spoluzakladatelem nebo jiným startupem.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "zakladatel a investor na soustředěném prvním setkání na konferenci",
+            "label": "Zakladatelé ↔ Investoři"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "potenciální spoluzakladatelé diskutující o tom, jak fungují",
+            "label": "Zakladatelé ↔ spoluzakladatelé"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup operátoři diskutující o obchodní spolupráci",
+            "label": "Startupy ↔ Startupy"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Specifické beaty nekonečné.",
+            "body": "Jedna relevantní osoba s důvodem k setkání – nikdy neveřejný seznam, který by se dal propracovat.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Obě strany volí.",
+            "body": "Navrhované párování se posouvá vpřed až po dvou soukromých ano. Míjení zůstává také soukromé.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Soukromé, vždy.",
+            "body": "Jména, kontaktní údaje a přesné místo setkání se odemknou pouze tehdy, když to přijmou obě strany.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Pro zakladatele, investory, potenciální spoluzakladatele a startupy s konkrétním důvodem k setkání. Ne pro randění, hledání práce, expo-hall pitching nebo obecné vytváření sítí."
+      },
+      "process": {
+        "kicker": "Jak probíhá úvod",
+        "heading": "Od „Řekni mi svou stranu“ po „Tady je, když se scházíš“.",
+        "body": "Lane je lidský operátor – nikoli odpovídající trh s motorem, krmivem nebo rezervací. Proces zůstává stejný; Obě strany se mění.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "mít opravdovou konverzaci",
+            "body": "Zakladatelé sdílejí zvýšení, velikost kontroly a důvod k setkání. Investoři sdílejí tezi, velikost kontroly a zakladatele, které chtějí najít."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane hledá",
+            "body": "Operátor porovnává soukromý příjem přes stejnou trať a kontroluje shodu nad zřejmými štítky."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "splnit jednu dobrou možnost",
+            "body": "Získáte jedno navrhované párování s kontextem. Obě strany přijmou nebo projdou před sdílením jakýchkoli kontaktních údajů."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Získejte potvrzený slot",
+            "body": "Lane nastavuje čas a klidné místo. Přesná tabulka a dvě jména se odemknou až poté, co obě strany řeknou ano."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Laneův nejnovější fit",
+        "heading": "dva plné podniky. Jeden dobrý důvod k setkání.",
+        "body": "Užitečný úvod je zřídka „dva lidé ve stejném odvětví“. Je to včasná potřeba na jedné straně a věrohodná odpověď na druhé – plus dvě soukromá ano.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dva účastníci akce zvažují promyšlený úvod"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "začínající operátoři diskutující o potenciální spolupráci"
+          }
+        ],
+        "fitLabel": "Lane je fit",
+        "criteria": [
+          "Načasování se překrývá",
+          "potřeba a nabídka sladit",
+          "Oba se rozhodli pro tento druh prvního setkání"
+        ],
+        "statusHeading": "Karta se změní, když přijdou dvě rozhodnutí.",
+        "statusBody": "Ilustrativní formáty karet – nikoli veřejný seznam účastníků nebo živý rozvrh. Stav a umístění se mění, jak je každý úvod akceptován.",
+        "cards": [
+          {
+            "track": "zakladatel × počáteční investor",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Čekání na dvě rozhodnutí"
+          },
+          {
+            "track": "Zakladatel × spoluzakladatel",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane nastavuje slot"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Přesný stůl nebo tichý kout sdílený po přijetí obou stran",
+            "note": "Celý detail zaslán soukromě"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "dobré otázky",
+        "heading": "než Lane udělá úvod.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Hledá Lane pouze pro zakladatele investory?",
+            "answer": "Ne. Služba je záměrně oboustranná: investoři používají Lane k nalezení zakladatelů, zakladatelé používají Lane k nalezení investorů, potenciální spoluzakladatelé se najdou a startupy najdou další startup s věrohodným zákazníkem nebo spoluprací."
+          },
+          {
+            "question": "Je Lane odpovídající aplikací?",
+            "answer": "Ne. Lidský operátor čte příjem a navrhuje jedno párování po druhém. Neexistuje žádná veřejná paluba, přenos přejetím prstem, adresář účastníků nebo automatizovaný engine pro párování."
+          },
+          {
+            "question": "Uvidí všichni moje podrobnosti?",
+            "answer": "Ne. Příjem zůstává soukromý. Každý navrhovaný úvod je zobrazen pouze na dvou relevantních stranách a přímé kontaktní údaje zůstávají skryté, dokud obě nepřijmou."
+          },
+          {
+            "question": "Co když předám navrhované párování?",
+            "answer": "Lane zaznamená průjezd soukromě a jde dál. Na druhé straně nejsou uvedeny vaše kontaktní údaje a nedochází k žádnému veřejnému zamítnutí nebo hodnocení."
+          },
+          {
+            "question": "Co se stane poté, co obě strany přijmou?",
+            "answer": "Lane potvrzuje čas a stůl nebo klidný roh. Obdržíte dvě jména a přesné umístění až poté, co jsou obě ano."
+          },
+          {
+            "question": "Jak funguje záruka schůzky?",
+            "answer": "Záruka se vztahuje na trať vybranou při registraci: tři akceptovaná schůzka v kalendáři aktuálních událostí nebo poplatek za zakladatele. Lane rezervuje schůzku, nikoli kolo, spoluzakladatel, zákazník nebo dohodu."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Jedna událost za druhou",
+        "heading": "Chcete Lane na vaší akci?",
+        "body": "Lane se přesouvá z jedné vybrané konference na další. Připojte se k čekací listině budoucí události a řekněte operátorovi, kde by záleželo na pečlivém představení.",
+        "nameLabel": "Jméno",
+        "emailLabel": "Email",
+        "eventLabel": "Název akce nebo konference",
+        "cityLabel": "Město",
+        "ctaLabel": "Připojte se k pořadníku budoucích událostí",
+        "loginNotice": "Přihlaste se pro uložení tohoto požadavku na představení budoucnosti pomocí Lane."
+      },
+      "closing": {
+        "kicker": "Připraveno, když jste",
+        "heading": "Jeden užitečný úvod po druhém.",
+        "body": "Řekněte Lane, na které straně stolu jste. Operátor to odtamtud vezme – promyšleně, soukromě a po jedné skutečné osobě.",
+        "ctaLabel": "Chatujte s Lane",
+        "note": "žádné přejetí prstem · pouze vzájemný souhlas · běh pro člověka · soukromé, dokud oba neřeknou ano",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane stojí klidně s tabletem, připravený k úvodu"
+      },
+      "footer": {
+        "tagline": "Lane od Gabrielova operátora.",
+        "disclaimer": "Lane odpovídá lidem na vybraných konferencích a akcích. Humanx Amsterdam není partnerem, pokud není uvedeno.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Prozkoumat",
+            "links": [
+              {
+                "label": "O",
+                "target": "about"
+              },
+              {
+                "label": "Jak to funguje",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Párování",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Pruh",
+            "links": [
+              {
+                "label": "Časté dotazy",
+                "target": "faqs"
+              },
+              {
+                "label": "budoucí události",
+                "target": "waitlist"
+              },
+              {
+                "label": "Vytvořte stručný",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

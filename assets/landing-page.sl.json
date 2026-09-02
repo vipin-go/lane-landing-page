@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "sl",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Prava poslovna predstavitev, ena oseba naenkrat.",
+    "subheadline": "Ustanovitelji najdejo vlagatelje – in vlagatelji najdejo ustanovitelje. Soustanovitelji se najdejo. Startupi najdejo pravi startup za nakup, prodajo ali gradnjo.",
+    "ctaLabel": "Klepetajte z Laneom",
+    "secondaryCtaLabel": "Poglejte, kako deluje",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Operater za uvedbo konference LANE v Amsterdamu 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "Lane",
+        "brandTagline": "En skrben uvod",
+        "navItems": [
+          {
+            "label": "Okoli",
+            "target": "about"
+          },
+          {
+            "label": "Kako deluje",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Pari",
+            "target": "pairings"
+          },
+          {
+            "label": "Pogosta vprašanja",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Spoznajte Lane"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "HumanX",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22.–24. september 2026",
+        "shortDateRange": "22.–24. september 2026",
+        "cardDate": "22.–čet 24. sep",
+        "availability": "unverified",
+        "availabilityLabel": "Razpoložljivost ročno potrjena",
+        "confirmedLocation": "Exact table or quiet corner shared after both sides accept",
+        "disclaimer": "HumanX Amsterdam ni partner, razen če je navedeno."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapital",
+          "label": "Ustanovitelji ↔ Vlagatelji",
+          "pairing": "Ustanovitelj × Investitor semena",
+          "body": "Ustanovitelji si delijo povišico, preverijo velikost in razlog za srečanje. Vlagatelji delijo tezo, velikost preverjanja in ustanovitelje, ki jih želijo najti.",
+          "sides": [
+            "Ustanovitelj",
+            "investitor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Soustanovitev",
+          "label": "Ustanovitelji ↔ Soustanovitelji",
+          "pairing": "Ustanovitelj × Soustanovitelj",
+          "body": "Vsaka stran si deli vlogo ali moč, ki jo prinaša, vrzel, ki jo želi zapolniti, stopnjo podjetja in tisto, kar je že zgrajeno.",
+          "sides": [
+            "Ustanovitelj",
+            "Bodoči soustanovitelj"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Poslovno prileganje",
+          "label": "Startupi ↔ Startupi",
+          "pairing": "Startup × Startup — BD",
+          "body": "Vsak startup deli, kaj ponuja, sektorje ali vrste podjetij, ki jih želi srečati, in kako izgleda uporabno komercialno prileganje.",
+          "sides": [
+            "Ponudba startupa",
+            "Iskanje startupa"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Zdaj se ujema v HumanX Amsterdam – 22.–24. september 2026",
+        "heading": "Prava poslovna predstavitev, ena oseba naenkrat.",
+        "accentText": "Prava poslovna predstavitev,",
+        "body": "Ustanovitelji najdejo vlagatelje – in vlagatelji najdejo ustanovitelje. Soustanovitelji se najdejo. Startupi najdejo pravi startup za nakup, prodajo ali gradnjo. Lane predlaga en par naenkrat. Obe strani pravita da.",
+        "primaryCtaLabel": "Klepetajte z Laneom",
+        "secondaryCtaLabel": "Poglejte, kako deluje",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, sproščena krilata uvedba konference",
+        "chat": {
+          "statusLabel": "na spletu · na tleh",
+          "operatorBadge": "Človeški tek",
+          "openingMessage": "Živjo, jaz sem Lane. Predstavljam eno skrbno izbrano osebo naenkrat – nikoli seznama.",
+          "inputPlaceholder": "Vprašajte Lane o naslednjem uvodu ...",
+          "suggestedPrompts": [
+            "Kako izbiraš?",
+            "Kaj se zgodi, če grem?",
+            "Kdaj se delijo podrobnosti?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Vaš zasebni uvodni povzetek",
+          "introBody": "Poveš mi, na kateri strani mize si in kako izgleda koristno srečanje. Predlagal bom eno fit. Oba sprejemata ali preideta zasebno.",
+          "trackLabel": "Uvodna skladba",
+          "sideLabel": "Tvoja stran",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizacija",
+              "placeholder": "podjetje ali sklad",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Vaša vloga",
+              "placeholder": "Ustanovitelj, investitor, operater…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Trenutni dogodek",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Cilj",
+              "placeholder": "Kaj bi naredilo pogovor dragocen?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "kar ponujaš",
+              "placeholder": "Kaj lahko prispevate?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "KAJ POTREBUJETE",
+              "placeholder": "Kakšna pomoč ali nasprotnik?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Merila za prileganje",
+              "placeholder": "Oder, teza, strokovno znanje, delovni slog…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Razpoložljivost",
+              "placeholder": "Dnevi in uporabna časovna okna",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Zasebne omejitve",
+              "placeholder": "Vse, kar je Lane, mora biti zasebno",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Gradite z glasom · 5 min",
+          "reviewLabel": "Povzetek pregleda",
+          "editLabel": "Urejanje",
+          "reviewHeading": "Preglejte svoj zasebni zapis",
+          "reviewBody": "Nič ni poslano, iskano ali deljeno, dokler se ne prijavite in izrecno odobrite.",
+          "submitLabel": "Prijavite se in se prijavite na Lane",
+          "loginNotice": "Prijavite se, če želite to zasebno uvodno poročilo oddati Laneu za človeški pregled.",
+          "expiryCopy": "Neoddane kratkih hlač potečejo po eni uri.",
+          "privacyCopy": "Brez iskanja udeležencev ali razkritja stikov, medtem ko je anonimno.",
+          "errorCopy": "Lane tega poročila ni mogel rešiti. Prosimo, poskusite znova ali se prijavite."
+        }
+      },
+      "about": {
+        "kicker": "namerno ozka storitev",
+        "heading": "Orodja za mreženje so vam dala vse. Lane te predstavi z nekom.",
+        "body": "Eno specifično poslovno združevanje z razlogom za tem – ne glede na to, ali je koristno ujemanje kapital, komplementarni soustanovitelj ali drug startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Ustanovitelj in vlagatelj na osredotočenem prvem srečanju na konferenci",
+            "label": "Ustanovitelji ↔ Vlagatelji"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potencialni soustanovitelji razpravljajo o tem, kako delujejo",
+            "label": "Ustanovitelji ↔ Soustanovitelji"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operaterji startupov razpravljajo o poslovnem sodelovanju",
+            "label": "Startupi ↔ Startupi"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Specifični utripi neskončni.",
+            "body": "Ena relevantna oseba z razlogom za srečanje – nikoli javnega seznama, ki bi ga lahko opravili.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Obe strani izbereta.",
+            "body": "Predlagano združevanje se premakne naprej šele po dveh zasebnih da. Tudi prehod ostane zaseben.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Zasebno, vedno.",
+            "body": "Imena, kontaktni podatki in natančna točka srečanja se odklenejo samo, ko obe strani sprejmeta.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Za ustanovitelje, vlagatelje, potencialne soustanovitelje in startupe s konkretnim razlogom za srečanje. Ne za zmenke, iskanje zaposlitve, predstavitev na razstavi ali splošno mreženje."
+      },
+      "process": {
+        "kicker": "Kako se zgodi uvod",
+        "heading": "Od \"Povej mi svojo stran\" do \"Tukaj je, ko se srečate.\"",
+        "body": "Lane je človeški operater – ne ujemajoč se motor, vir ali tržnica rezervacij. Postopek ostane enak; Obe strani se spreminjata.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Imejte pravi pogovor",
+            "body": "Ustanovitelji si delijo povišico, preverijo velikost in razlog za srečanje. Vlagatelji delijo tezo, velikost preverjanja in ustanovitelje, ki jih želijo najti."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane gleda",
+            "body": "Operater primerja zasebni dovod na istem tiru in preveri prileganje, ki presega očitne oznake."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Spoznajte eno dobro možnost",
+            "body": "Dobite eno predlagano združevanje s kontekstom. Obe strani sprejmeta ali preideta, preden se delijo kateri koli kontaktni podatki."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Pridobite potrjeno režo",
+            "body": "Lane določa čas in miren kraj. Natančna miza in dve imeni se odkleneta šele, ko obe strani rečeta da."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane's Latest Fit",
+        "heading": "Dve polni podjetji. En dober razlog za srečanje.",
+        "body": "Koristni uvod je redko \"dva človeka v isti panogi.\" To je pravočasna potreba na eni strani in verodostojen odgovor na drugi – plus dva zasebna da.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dva udeleženca dogodka razmišljata o premišljenem uvodu"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operaterji startupov razpravljajo o možnem sodelovanju"
+          }
+        ],
+        "fitLabel": "Lane se prilega",
+        "criteria": [
+          "Časovna prekrivanja",
+          "Potreba in ponudba uskladiti",
+          "Oba sta se odločila za tovrstno prvo srečanje"
+        ],
+        "statusHeading": "Kartica se spremeni, ko prideta dve odločitvi.",
+        "statusBody": "Ilustrativni formati kartic – ne javni seznam udeležencev ali urnik v živo. Status in lokacija se spremenita, ko je vsak uvod sprejet.",
+        "cards": [
+          {
+            "track": "Ustanovitelj × Investitor semena",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Čakanje na dve odločitvi"
+          },
+          {
+            "track": "Ustanovitelj × Soustanovitelj",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane nastavlja režo"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Exact table or quiet corner shared after both sides accept",
+            "note": "Vse podrobnosti poslane zasebno"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Dobra vprašanja",
+        "heading": "Preden Lane naredi uvod.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Ali Lane samo za ustanovitelje išče vlagatelje?",
+            "answer": "Ne. Storitev je namerno dvostranska: vlagatelji uporabljajo Lane za iskanje ustanoviteljev, ustanovitelji uporabljajo Lane za iskanje vlagateljev, potencialni soustanovitelji se najdejo, startupi najdejo drugo zagonsko podjetje z verodostojno stranko ali sodelovanjem."
+          },
+          {
+            "question": "Je Lane ujemajoča se aplikacija?",
+            "answer": "Ne. Človeški operater prebere vnos in predlaga en par naenkrat. Ni javnega krova, vira povlecite, imenika udeležencev ali avtomatiziranega motorja za ujemanje."
+          },
+          {
+            "question": "Bodo vsi videli moje podatke?",
+            "answer": "Ne. Vnos ostane zaseben. Vsak predlagani uvod je prikazan samo na dveh ustreznih straneh, neposredni kontaktni podatki pa ostanejo skriti, dokler oba ne sprejmeta."
+          },
+          {
+            "question": "Kaj pa, če posredujem predlagani par?",
+            "answer": "Lane zasebno beleži prelaz in gre naprej. Na drugi strani niso podani vaši kontaktni podatki in ni javne zavrnitve ali uvrstitve."
+          },
+          {
+            "question": "Kaj se zgodi, ko obe strani sprejmeta?",
+            "answer": "Lane potrjuje čas in mizo ali tihi kotiček. Dobite dve imeni in natančno lokacijo šele, ko sta oba da."
+          },
+          {
+            "question": "Kako deluje garancija za sestanek?",
+            "answer": "Garancija velja za skladbo, izbrano ob prijavi: tri sprejete sestanke na trenutnem koledarju dogodkov ali se povrne pristojbina na strani ustanovitelja. Lane rezervira srečanje, ne krog, soustanovitelj, stranka ali posel."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "En dogodek naenkrat",
+        "heading": "Želite Lane na svojem dogodku?",
+        "body": "Lane se premika z ene izbrane konference v drugo. Pridružite se čakalni listi za prihodnje dogodke in povejte operaterju, kje bi bilo pomembno skrbno predstavitev.",
+        "nameLabel": "Ime",
+        "emailLabel": "E-pošta",
+        "eventLabel": "Ime dogodka ali konference",
+        "cityLabel": "Mesto",
+        "ctaLabel": "Pridružite se čakalni listi Future-Event",
+        "loginNotice": "Prijavite se, če želite shraniti to zahtevo za predstavitev prihodnjega dogodka z Lane."
+      },
+      "closing": {
+        "kicker": "pripravljen, ko si",
+        "heading": "En uporaben uvod naenkrat.",
+        "body": "Povejte Laneu, na kateri strani mize ste. Operater ga bo vzel od tam – premišljeno, zasebno in ena resnična oseba naenkrat.",
+        "ctaLabel": "Klepetajte z Laneom",
+        "note": "Brez pomikanja · Samo medsebojno soglasje · Človeško vodenje · Zasebno, dokler oba ne rečeta da",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane mirno stoji s tablico, pripravljen za predstavitev"
+      },
+      "footer": {
+        "tagline": "Lane Gabrielovega operaterja.",
+        "disclaimer": "Lane se ujema z ljudmi na izbranih konferencah in dogodkih. HumanX Amsterdam ni partner, razen če je navedeno.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Raziskovati",
+            "links": [
+              {
+                "label": "Okoli",
+                "target": "about"
+              },
+              {
+                "label": "Kako deluje",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Pari",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Lane",
+            "links": [
+              {
+                "label": "Pogosta vprašanja",
+                "target": "faqs"
+              },
+              {
+                "label": "Prihodnji dogodki",
+                "target": "waitlist"
+              },
+              {
+                "label": "Sestavite kratko",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

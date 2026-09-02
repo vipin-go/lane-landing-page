@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "ja",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "実際のビジネスの紹介、一度に 1 人ずつ。",
+    "subheadline": "創業者は投資家を見つけ、投資家は創業者を見つけます。 共同創設者はお互いを見つけます。 スタートアップは、購入、販売、または構築に適したスタートアップを見つけます。",
+    "ctaLabel": "レーンとチャット",
+    "secondaryCtaLabel": "それがどのように機能するかをご覧ください",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "レーン カンファレンス イントロダクション オペレーター HumanX アムステルダム 2026 で"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "レーン。",
+        "brandTagline": "1 つの慎重な紹介",
+        "navItems": [
+          {
+            "label": "約",
+            "target": "about"
+          },
+          {
+            "label": "使い方",
+            "target": "how-it-works"
+          },
+          {
+            "label": "ペアリング",
+            "target": "pairings"
+          },
+          {
+            "label": "よくある質問",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "レーンに会います"
+      },
+      "event": {
+        "name": "HumanX アムステルダム",
+        "shortName": "ヒューマンクス",
+        "city": "アムステルダム",
+        "venue": "ライ",
+        "neighborhood": "ライ、ズイダス",
+        "dateRange": "2026 年 9 月 22 ～ 24 日",
+        "shortDateRange": "2026 年 9 月 22 ～ 24 日",
+        "cardDate": "9 月 22 日から 9 月 24 日木曜日",
+        "availability": "unverified",
+        "availabilityLabel": "可用性を手動で確認しました",
+        "confirmedLocation": "両サイドが受け入れた後、正確なテーブルまたは静かなコーナーを共有",
+        "disclaimer": "HumanX Amsterdam は、明記しない限りパートナーではありません。"
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "資本",
+          "label": "創業者 ↔ 投資家",
+          "pairing": "創業者×シード投資家",
+          "body": "創設者は、昇給、サイズの確認、会う理由を共有します。 投資家は論文を共有し、サイズを確認し、見つけたい創業者を探します。",
+          "sides": [
+            "初代",
+            "投資家"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "共同設立",
+          "label": "創設者 ↔ 共同創設者",
+          "pairing": "創設者 × 共同創設者",
+          "body": "それぞれがもたらす役割や強み、埋めたいギャップ、会社のステージ、そしてすでに構築されているものを共有します。",
+          "sides": [
+            "初代",
+            "将来の共同創設者"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "ビジネス フィット",
+          "label": "スタートアップ ↔ スタートアップ",
+          "pairing": "スタートアップ × スタートアップ — BD",
+          "body": "各スタートアップは、提供するもの、達成したいセクターまたは企業の種類、便利な商業的適合性がどのようなものかを共有します。",
+          "sides": [
+            "スタートアップ オファリング",
+            "スタートアップを求めています"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "現在、HumanX アムステルダムでマッチング — 2026 年 9 月 22 ～ 24 日",
+        "heading": "実際のビジネスの紹介、一度に 1 人ずつ。",
+        "accentText": "実際のビジネスの紹介、一度に 1 人ずつ。",
+        "body": "創業者は投資家を見つけ、投資家は創業者を見つけます。 共同創設者はお互いを見つけます。 スタートアップは、購入、販売、または構築に適したスタートアップを見つけます。 Lane は、一度に 1 つのペアリングを提案します。 双方はそう言っています。",
+        "primaryCtaLabel": "レーンとチャット",
+        "secondaryCtaLabel": "それがどのように機能するかをご覧ください",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane、リラックスした Winged Conference Introduction Operator",
+        "chat": {
+          "statusLabel": "オンライン · 床の上",
+          "operatorBadge": "ヒューマンラン",
+          "openingMessage": "こんにちは、レーンです。 慎重に選ばれた 1 人を一度に紹介します。決してリストではありません。",
+          "inputPlaceholder": "次の紹介についてレーンに尋ねる…",
+          "suggestedPrompts": [
+            "どのように選びますか？",
+            "合格したらどうなる？",
+            "詳細はいつ共有されますか?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "あなたのプライベート紹介ブリーフ",
+          "introBody": "あなたは、テーブルのどちら側にいて、どのような会議が役立つかを教えてくれます。 1つを提案します。 どちらも私的に受け入れるか合格します。",
+          "trackLabel": "はじめに トラック",
+          "sideLabel": "あなたの側",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "組織",
+              "placeholder": "会社またはファンド",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "あなたの役割",
+              "placeholder": "創業者、投資家、オペレーター…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "現在のイベント",
+              "placeholder": "HumanX アムステルダム",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "ゴール",
+              "placeholder": "会話の価値を高めるものは何ですか?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "あなたが提供するもの",
+              "placeholder": "あなたは何に貢献できますか？",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "何が必要",
+              "placeholder": "どんな種類のヘルプまたは対応?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "適合基準",
+              "placeholder": "舞台、論文、専門知識、働き方…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "可用性",
+              "placeholder": "日と有用な時間枠",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "プライベートな制約",
+              "placeholder": "レーンはすべて非公開にする必要があります",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "音声 · 5 分で構築します",
+          "reviewLabel": "ブリーフを確認します",
+          "editLabel": "エディット",
+          "reviewHeading": "プライベート ブリーフを確認してください",
+          "reviewBody": "サインインして明示的に承認するまで、何も送信、検索、共有されません。",
+          "submitLabel": "サインインして、レーンに送信します",
+          "loginNotice": "Sign in to submit this private introduction brief to Lane for human review.",
+          "expiryCopy": "送信されていないブリーフは 1 時間後に期限切れになります。",
+          "privacyCopy": "匿名の場合、参加者の検索または連絡先の開示はありません。",
+          "errorCopy": "レーンはこのブリーフを保存できませんでした。 再試行するか、サインインしてください。"
+        }
+      },
+      "about": {
+        "kicker": "意図的に狭いサービス",
+        "heading": "ネットワーキング ツールは、すべての人に提供しました。 レーンがあなたを誰かに紹介します。",
+        "body": "1 つの特定のビジネスとその背後にある理由が組み合わさっています。それは、資本、補完的な共同創設者、または別のスタートアップのいずれであっても、有用な一致です。",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "カンファレンスでの最初の会議に向けた創設者と投資家",
+            "label": "創業者 ↔ 投資家"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "潜在的な共同創設者は、それらがどのように機能するかについて話し合っています",
+            "label": "創設者 ↔ 共同創設者"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "ビジネス コラボレーションについて話し合うスタートアップ オペレーター",
+            "label": "スタートアップ ↔ スタートアップ"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "特定のビートは無限大です。",
+            "body": "関係者の 1 人で、会う理由があります。",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "どちらの側も選択します。",
+            "body": "提案されたペアリングは、2 つのプライベート イエスの後でのみ前進します。 パスもプライベートのままです。",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "プライベート、いつも。",
+            "body": "名前、連絡先の詳細、および正確なミーティング ポイントは、双方が受け入れた場合にのみロック解除されます。",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "創業者、投資家、潜在的な共同創設者、スタートアップにとっては、具体的な理由がある。 デート、求職、博覧会のピッチング、または一般的なネットワーキングのためではありません。"
+      },
+      "process": {
+        "kicker": "導入はどのように行われるか",
+        "heading": "「Tell Me Your Side」から「Here's when you meeting 」まで。",
+        "body": "Lane は人間のオペレーターであり、一致するエンジン、フィード、または予約市場ではありません。 プロセスは同じままです。 両面が変わります。",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "本当の会話をしてください",
+            "body": "創設者は、昇給、サイズの確認、会う理由を共有します。 投資家は論文を共有し、サイズを確認し、見つけたい創業者を探します。"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "レーンは見ています",
+            "body": "オペレーターは、同じトラックでプライベート インテークを比較し、明らかなラベルを超えたフィット感をチェックします。"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "1 つの良い可能性を満たしてください",
+            "body": "コンテキストとのペアリングが提案されます。 連絡先の詳細が共有される前に、どちらの側も承認または合格します。"
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "確認済みスロットを取得します",
+            "body": "レーンは時間と静かな場所を設定します。 正確な表と 2 つの名前は、両側が「はい」と言った後にのみロックを解除します。"
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "レーンの最新のフィット",
+        "heading": "2 つの完全なビジネス。 会う正当な理由の 1 つ。",
+        "body": "「同じ業界の 2 人」という有用な導入はめったにありません。 これは、一方ではタイムリーに必要であり、もう一方の側では信頼できる答えであり、さらに 2 つのプライベートなイエスです。",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "2 人のイベント参加者は、思慮深い紹介を考えています"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "潜在的なコラボレーションについて話し合うスタートアップ オペレーター"
+          }
+        ],
+        "fitLabel": "レーンのフィット",
+        "criteria": [
+          "タイミングが重なっています",
+          "必要とオファーの整列",
+          "どちらも、この種の最初の会議に参加しました"
+        ],
+        "statusHeading": "カードは 2 つの決定を下すと変わります。",
+        "statusBody": "一般的な参加者リストやライブ スケジュールではなく、カード形式の例です。 各導入が受け入れられると、ステータスと場所が変更されます。",
+        "cards": [
+          {
+            "track": "創業者×シード投資家",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "ライ、ズイダス",
+            "note": "2 つの決定を待っています"
+          },
+          {
+            "track": "創設者 × 共同創設者",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "ライ、ズイダス",
+            "note": "レーンがスロットを設定しています"
+          },
+          {
+            "track": "スタートアップ × スタートアップ — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "両サイドが受け入れた後、正確なテーブルまたは静かなコーナーを共有",
+            "note": "詳細は個人的に送信されます"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "良い質問です",
+        "heading": "レーンが紹介する前に。",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Lane は投資家を探している創業者のためだけですか?",
+            "answer": "いいえ。このサービスは意図的に双方向です。投資家はレーンを使ってファウンダーを見つけ、ファウンダーはレーンを使って投資家を見つけ、潜在的な共同創業者はお互いを見つけ、スタートアップはもっともらしい顧客やコラボレーション フィットの別のスタートアップを見つけます。"
+          },
+          {
+            "question": "Lane は一致するアプリですか?",
+            "answer": "いいえ。人間のオペレーターが摂取量を読み取り、一度に 1 つのペアリングを提案します。 パブリック デッキ、スワイプ フィード、出席者ディレクトリ、自動マッチング エンジンはありません。"
+          },
+          {
+            "question": "みんな私の詳細を見ることができますか?",
+            "answer": "いいえ。摂取量はプライベートのままです。 提案された各紹介は、関連する 2 つの側面のみに表示され、直接連絡先の詳細は、両方が受け入れるまで非表示のままです。"
+          },
+          {
+            "question": "提案されたペアリングを渡した場合はどうなりますか?",
+            "answer": "Lane はパスを非公開で記録し、次に進みます。 反対側には連絡先の詳細が表示されず、公開拒否やランキングもありません。"
+          },
+          {
+            "question": "双方が受け入れた後はどうなりますか?",
+            "answer": "レーンは、時間とテーブルまたは静かなコーナーを確認します。 2 つの名前と正確な場所は、両方とも Yes が入った後にのみ受け取ります。"
+          },
+          {
+            "question": "会議の保証はどのように機能しますか?",
+            "answer": "保証は、サインアップ時に選択されたトラックに適用されます。現在のイベント カレンダーで 3 回承認された会議、または創設者側の料金が払い戻されます。 Lane は、ラウンド、共同創設者、顧客、または取引ではなく、会議を予約します。"
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "一度に 1 つのイベント",
+        "heading": "あなたのイベントでレーンが欲しいですか？",
+        "body": "Lane は、選択された会議から次の会議に移動します。 将来のイベントの順番待ちリストに参加して、オペレーターに注意深い紹介が重要な場所を伝えてください。",
+        "nameLabel": "名",
+        "emailLabel": "メール",
+        "eventLabel": "イベントまたは会議名",
+        "cityLabel": "シティ",
+        "ctaLabel": "Future-Event Waitlist に参加してください",
+        "loginNotice": "Lane でこの将来のイベント紹介リクエストを保存するには、サインインしてください。"
+      },
+      "closing": {
+        "kicker": "あなたがいるときに準備ができています",
+        "heading": "一度に 1 つの便利な紹介。",
+        "body": "あなたがテーブルのどちら側にいるかをレーンに伝えます。 オペレーターはそこから、思いやりのある、私的な人、そして一度に 1 人の実在の人物をそこから取ります。",
+        "ctaLabel": "レーンとチャット",
+        "note": "スワイプ フィードなし · 相互同意のみ · ヒューマン ラン · プライベート まで 両方とも「はい」と言うまで",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "タブレットを持って静かに立っているレーン、紹介する準備ができています"
+      },
+      "footer": {
+        "tagline": "ガブリエル オペレーターによるレーン。",
+        "disclaimer": "Lane は、一部のカンファレンスやイベントで人々と一致します。 HumanX Amsterdam は、明記しない限りパートナーではありません。",
+        "copyright": "2026 レーン",
+        "groups": [
+          {
+            "label": "探る",
+            "links": [
+              {
+                "label": "約",
+                "target": "about"
+              },
+              {
+                "label": "使い方",
+                "target": "how-it-works"
+              },
+              {
+                "label": "ペアリング",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "レーン",
+            "links": [
+              {
+                "label": "よくある質問",
+                "target": "faqs"
+              },
+              {
+                "label": "将来の出来事",
+                "target": "waitlist"
+              },
+              {
+                "label": "簡単に作成します",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

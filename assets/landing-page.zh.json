@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "zh",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "真正的商业介绍，一次一个人。",
+    "subheadline": "创始人找到投资者，投资者找到创始人。 联合创始人互相寻找。 初创公司找到合适的初创公司来购买、出售或建造。",
+    "ctaLabel": "与莱恩聊天",
+    "secondaryCtaLabel": "看看它是如何工作的",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "2026年Humanx Amsterdam 车道会议介绍运营商"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "车道。",
+        "brandTagline": "一本细致的介绍",
+        "navItems": [
+          {
+            "label": "关于",
+            "target": "about"
+          },
+          {
+            "label": "这个怎么运作",
+            "target": "how-it-works"
+          },
+          {
+            "label": "配对",
+            "target": "pairings"
+          },
+          {
+            "label": "常见问题解答",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "遇见莱恩"
+      },
+      "event": {
+        "name": "人类阿姆斯特丹",
+        "shortName": "人类",
+        "city": "阿姆斯特丹",
+        "venue": "雷",
+        "neighborhood": "赖，朱达斯",
+        "dateRange": "2026 年 9 月 22 日至 24 日",
+        "shortDateRange": "2026 年 9 月 22 日至 24 日",
+        "cardDate": "2019年9月22日星期四至24日",
+        "availability": "unverified",
+        "availabilityLabel": "手动确认可用性",
+        "confirmedLocation": "双方接受后共享的确切桌子或安静角落",
+        "disclaimer": "除非另有说明，否则阿姆斯特丹 Humanx 不是合作伙伴。"
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "首都",
+          "label": "创始人 ↔ 投资者",
+          "pairing": "创始人×种子投资者",
+          "body": "创始人分享加薪、检查规模和见面的理由。 投资者分享论文、支票规模和他们想要找到的创始人。",
+          "sides": [
+            "创办人",
+            "投资者"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "共同创立",
+          "label": "创始人 ↔ 联合创始人",
+          "pairing": "创始人×联合创始人",
+          "body": "每一方都分享了他们带来的角色或力量、他们想要填补的差距、公司阶段以及已经建立的阶段。",
+          "sides": [
+            "创办人",
+            "准联合创始人"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "业务适合",
+          "label": "创业公司 ↔ 创业公司",
+          "pairing": "启动 × 启动 — BD",
+          "body": "每个初创公司都分享它提供的产品、它想要满足的行业或公司类型，以及有用的商业契合度。",
+          "sides": [
+            "启动产品",
+            "创业寻求"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "现在在阿姆斯特丹Humanx 匹配 — 2026年9月22-24日",
+        "heading": "真正的商业介绍，一次一个人。",
+        "accentText": "真正的商业介绍，",
+        "body": "创始人找到投资者，投资者找到创始人。 联合创始人互相寻找。 初创公司找到合适的初创公司来购买、出售或建造。 莱恩建议一次一对。 双方都说是。",
+        "primaryCtaLabel": "与莱恩聊天",
+        "secondaryCtaLabel": "看看它是如何工作的",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "莱恩，一个轻松的有翼会议介绍操作员",
+        "chat": {
+          "statusLabel": "在线·在地板上",
+          "operatorBadge": "人运行",
+          "openingMessage": "嗨，我是莱恩。 我一次介绍一个精心挑选的人——从来没有一份清单。",
+          "inputPlaceholder": "向莱恩询问您的下一次介绍……",
+          "suggestedPrompts": [
+            "你如何选择？",
+            "如果我通过了怎么办？",
+            "详细信息何时共享？"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "您的私人介绍简介",
+          "introBody": "你告诉我你站在桌子的哪一边，以及一个有用的会议是什么样的。 我会提出一种适合的。 两者都私下接受或通过。",
+          "trackLabel": "介绍轨道",
+          "sideLabel": "你的身边",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "组织",
+              "placeholder": "公司或基金",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "你的角色",
+              "placeholder": "创始人、投资者、运营商…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "当前事件",
+              "placeholder": "人类阿姆斯特丹",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "目标",
+              "placeholder": "是什么让谈话变得有价值？",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "你提供什么",
+              "placeholder": "你能贡献什么？",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "你需要的",
+              "placeholder": "什么样的帮助或对手？",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "适合标准",
+              "placeholder": "阶段、论文、专业知识、工作方式…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "可用性",
+              "placeholder": "天数和有用的时间窗口",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "私人约束",
+              "placeholder": "任何车道都应该保密",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "通过语音构建 · 5 分钟",
+          "reviewLabel": "回顾简介",
+          "editLabel": "编辑",
+          "reviewHeading": "查看您的私人简报",
+          "reviewBody": "在您登录并明确批准之前，不会提交、搜索或共享任何内容。",
+          "submitLabel": "登录并提交到 Lane",
+          "loginNotice": "登录以将此私人介绍简报提交给 Lane 进行人工审查。",
+          "expiryCopy": "未提交的简报在一小时后过期。",
+          "privacyCopy": "匿名时没有参与者搜索或联系披露。",
+          "errorCopy": "莱恩无法保存这个简短的内容。 请重试或登录。"
+        }
+      },
+      "about": {
+        "kicker": "故意狭窄的服务",
+        "heading": "网络工具为您提供了每个人。 莱恩将您介绍给某人。",
+        "body": "一个特定的业务与其背后的原因配对——无论是有用的匹配是资本、互补的联合创始人还是另一家初创公司。",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "创始人和投资者在一次会议上集中的第一次会议上",
+            "label": "创始人 ↔ 投资者"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "潜在的联合创始人讨论他们的工作方式",
+            "label": "创始人 ↔ 联合创始人"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "讨论业务协作的初创运营商",
+            "label": "创业公司 ↔ 创业公司"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "具体节拍无止境。",
+            "body": "一位相关人员，有理由见面——永远不要公开清单。",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "双方选择。",
+            "body": "提议的配对仅在两个私人是之后才会前进。 路过也保持私密。",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "私密，永远。",
+            "body": "仅在双方接受时才解锁姓名、联系方式和确切的会面点。",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "对于有具体理由见面的创始人、投资者、潜在的联合创始人和初创公司。 不适用于约会、求职、博览厅推销或一般网络。"
+      },
+      "process": {
+        "kicker": "介绍是如何发生的",
+        "heading": "从“告诉我你的身边”到“你见面的时候就在这里”。",
+        "body": "Lane 是一个人工操作员——而不是匹配的引擎、提要或预订市场。 过程保持不变； 两个方面都变了。",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "进行真正的对话",
+            "body": "创始人分享加薪、检查规模和见面的理由。 投资者分享论文、支票规模和他们想要找到的创始人。"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "莱恩做寻找",
+            "body": "操作员比较同一轨道上的私有摄入量，并检查是否适合明显标签之外的适合性。"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "遇到一种好可能性",
+            "body": "您可以获得一种建议与上下文配对。 在共享任何联系方式之前，双方都接受或通过。"
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "获取确认的插槽",
+            "body": "莱恩设定了一个时间和一个安静的地方。 确切的表和两个名称仅在双方都说是后解锁。"
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "莱恩的最新款式",
+        "heading": "两个完整的企业。 见面的好理由之一。",
+        "body": "有用的介绍很少是“同行业的两个人”。 一方面是及时的需求，另一方面是可信的答案——加上两个私人是的。",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "两位活动与会者考虑进行深思熟虑的介绍"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "讨论潜在协作的初创运营商"
+          }
+        ],
+        "fitLabel": "莱恩的合身",
+        "criteria": [
+          "时间重叠",
+          "需要和报价对齐",
+          "两人都选择参加这种第一次会议"
+        ],
+        "statusHeading": "随着两个决定的出现，卡片会发生变化。",
+        "statusBody": "说明性卡片格式——不是公众与会者列表或实时时间表。 接受每次介绍时的状态和位置变化。",
+        "cards": [
+          {
+            "track": "创始人×种子投资者",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "赖，朱达斯",
+            "note": "等待两个决定"
+          },
+          {
+            "track": "创始人×联合创始人",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "赖，朱达斯",
+            "note": "车道正在设置插槽"
+          },
+          {
+            "track": "启动 × 启动 — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "双方接受后共享的确切桌子或安静角落",
+            "note": "私下发送的完整详细信息"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "好问题",
+        "heading": "在莱恩做介绍之前。",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Lane 是否仅适用于寻找投资者的创始人？",
+            "answer": "不。该服务是故意两方面的：投资者使用 Lane 寻找创始人，创始人使用 Lane 寻找投资者，潜在的联合创始人找到彼此，而初创公司则找到另一家具有合理客户或合作的初创公司。"
+          },
+          {
+            "question": "车道是匹配的应用程序吗？",
+            "answer": "不会。人类操作员读取摄入量并建议一次配对。 没有公共平台、滑动提要、与会者目录或自动匹配引擎。"
+          },
+          {
+            "question": "每个人都会看到我的详细信息吗？",
+            "answer": "不，摄入量保持私密。 每个提议的介绍只显示给两个相关方面，并且直接联系细节保持隐藏，直到双方都接受为止。"
+          },
+          {
+            "question": "如果我传递一个建议的配对怎么办？",
+            "answer": "莱恩私下记录通行证并继续前进。 另一方没有提供您的联系方式，也没有公开拒绝或排名。"
+          },
+          {
+            "question": "双方接受后会发生什么？",
+            "answer": "莱恩确认时间和桌子或安静的角落。 您仅在两个是之后才收到两个名称和确切位置。"
+          },
+          {
+            "question": "会议保证如何运作？",
+            "answer": "该保证适用于在注册时选择的曲目：当前活动日历上的三场接受会议，或退还创始人方费用。 Lane 预订会议，而不是轮次、联合创始人、客户或交易。"
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "一次一场活动",
+        "heading": "想要在您的活动中使用 Lane？",
+        "body": "车道从一个选定的会议移动到下一次会议。 加入未来事件的候补名单，并告诉运营商仔细介绍的地方。",
+        "nameLabel": "名称",
+        "emailLabel": "电子邮件",
+        "eventLabel": "活动或会议名称",
+        "cityLabel": "市",
+        "ctaLabel": "加入未来事件候补名单",
+        "loginNotice": "登录以使用 Lane 保存此 Future-Event 介绍请求。"
+      },
+      "closing": {
+        "kicker": "当你准备好时准备好",
+        "heading": "一次有用的介绍。",
+        "body": "告诉车道你在桌子的哪一边。 运营商将从那里拿走它——深思熟虑、私下和一次真人。",
+        "ctaLabel": "与莱恩聊天",
+        "note": "没有刷卡 · 仅相互同意 · 人为运行 · 私有，直到双方都说是",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "莱恩用平板电脑平静地站着，准备进行介绍"
+      },
+      "footer": {
+        "tagline": "加布里埃尔运营商的车道。",
+        "disclaimer": "车道在选定的会议和活动中与人相匹配。 除非另有说明，否则阿姆斯特丹 Humanx 不是合作伙伴。",
+        "copyright": "2026车道",
+        "groups": [
+          {
+            "label": "探索",
+            "links": [
+              {
+                "label": "关于",
+                "target": "about"
+              },
+              {
+                "label": "这个怎么运作",
+                "target": "how-it-works"
+              },
+              {
+                "label": "配对",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "车道",
+            "links": [
+              {
+                "label": "常见问题解答",
+                "target": "faqs"
+              },
+              {
+                "label": "未来的事件",
+                "target": "waitlist"
+              },
+              {
+                "label": "建立一个简报",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

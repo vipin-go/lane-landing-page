@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "fa",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "معرفی‌های تجاری واقعی، یک نفر در هر زمان.",
+    "subheadline": "بنیان‌گذاران سرمایه‌گذاران را پیدا می‌کنند—و سرمایه‌گذاران بنیان‌گذاران را. هم‌بنیان‌گذاران یکدیگر را پیدا می‌کنند. استارتاپ‌ها استارتاپ مناسب برای خرید، فروش یا همکاری را پیدا می‌کنند.",
+    "ctaLabel": "گفت‌وگو با لین",
+    "secondaryCtaLabel": "نحوه کار را ببینید",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "اپراتور معرفی کنفرانس لین در HumanX آمستردام ۲۰۲۶"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "لین.",
+        "brandTagline": "یک معرفی دقیق",
+        "navItems": [
+          {
+            "label": "درباره",
+            "target": "about"
+          },
+          {
+            "label": "نحوه کار",
+            "target": "how-it-works"
+          },
+          {
+            "label": "جفت‌سازی‌ها",
+            "target": "pairings"
+          },
+          {
+            "label": "سؤالات متداول",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "با لین آشنا شوید"
+      },
+      "event": {
+        "name": "HumanX آمستردام",
+        "shortName": "HumanX",
+        "city": "آمستردام",
+        "venue": "RAI",
+        "neighborhood": "RAI، زویداس",
+        "dateRange": "۲۲ تا ۲۴ سپتامبر ۲۰۲۶",
+        "shortDateRange": "۲۲ تا ۲۴ سپتامبر ۲۰۲۶",
+        "cardDate": "سه‌شنبه ۲۲ تا پنجشنبه ۲۴ سپتامبر",
+        "availability": "unverified",
+        "availabilityLabel": "در دسترس بودن به‌صورت دستی تأیید شد",
+        "confirmedLocation": "میز دقیق یا گوشه آرام پس از پذیرش هر دو طرف به اشتراک گذاشته می‌شود",
+        "disclaimer": "HumanX آمستردام شریک نیست، مگر آنکه خلافش ذکر شده باشد."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "سرمایه",
+          "label": "بنیان‌گذاران ↔ سرمایه‌گذاران",
+          "pairing": "بنیان‌گذار × سرمایه‌گذار Seed",
+          "body": "بنیان‌گذاران دور جذب سرمایه، اندازه چک و دلیل ملاقات را به اشتراک می‌گذارند. سرمایه‌گذاران تز سرمایه‌گذاری، اندازه چک و بنیان‌گذارانی که می‌خواهند پیدا کنند را به اشتراک می‌گذارند.",
+          "sides": [
+            "بنیان‌گذار",
+            "سرمایه‌گذار"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "هم‌بنیان‌گذاری",
+          "label": "بنیان‌گذاران ↔ هم‌بنیان‌گذاران",
+          "pairing": "بنیان‌گذار × هم‌بنیان‌گذار",
+          "body": "هر طرف نقش یا تخصصی که ارائه می‌کند، خلأیی که می‌خواهد پر کند، مرحله شرکت و آنچه تاکنون ساخته شده است را به اشتراک می‌گذارد.",
+          "sides": [
+            "بنیان‌گذار",
+            "هم‌بنیان‌گذار احتمالی"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "تناسب تجاری",
+          "label": "استارتاپ‌ها ↔ استارتاپ‌ها",
+          "pairing": "استارتاپ × استارتاپ — توسعه کسب‌وکار",
+          "body": "هر استارتاپ آنچه را ارائه می‌دهد، بخش‌ها یا انواع شرکت‌هایی که می‌خواهد با آن‌ها ملاقات کند، و آنچه یک تناسب تجاری مفید به نظر می‌رسد را به اشتراک می‌گذارد.",
+          "sides": [
+            "پیشنهاد استارتاپ",
+            "استارتاپ جویا"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "اکنون در حال جفت‌سازی در HumanX آمستردام — ۲۲ تا ۲۴ سپتامبر ۲۰۲۶",
+        "heading": "معرفی‌های تجاری واقعی، یک نفر در هر زمان.",
+        "accentText": "معرفی‌های تجاری واقعی،",
+        "body": "بنیان‌گذاران سرمایه‌گذاران را پیدا می‌کنند—و سرمایه‌گذاران بنیان‌گذاران را. هم‌بنیان‌گذاران یکدیگر را پیدا می‌کنند. استارتاپ‌ها استارتاپ مناسب برای خرید، فروش یا همکاری را پیدا می‌کنند. لین هر بار یک جفت‌سازی پیشنهاد می‌کند. هر دو طرف بله می‌گویند.",
+        "primaryCtaLabel": "گفت‌وگو با لین",
+        "secondaryCtaLabel": "نحوه کار را ببینید",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "لین، یک اپراتور آرام و بالدار معرفی کنفرانس",
+        "chat": {
+          "statusLabel": "آنلاین · در سالن",
+          "operatorBadge": "توسط انسان اجرا می‌شود",
+          "openingMessage": "سلام، من لین هستم. هر بار فقط یک نفر را با دقت معرفی می‌کنم—هرگز یک فهرست.",
+          "inputPlaceholder": "از لین درباره معرفی بعدی‌تان بپرسید…",
+          "suggestedPrompts": [
+            "چگونه انتخاب می‌کنید؟",
+            "اگر رد کنم چه می‌شود؟",
+            "جزئیات چه زمانی به اشتراک گذاشته می‌شوند؟"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "شرح معرفی خصوصی شما",
+          "introBody": "به من بگویید کدام طرف میز هستید و یک ملاقات مفید چه شکلی است. من یک تناسب پیشنهاد می‌دهم. هر دو طرف به‌صورت خصوصی می‌پذیرند یا رد می‌کنند.",
+          "trackLabel": "مسیر معرفی",
+          "sideLabel": "سمت شما",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "سازمان",
+              "placeholder": "شرکت یا صندوق",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "نقش شما",
+              "placeholder": "بنیان‌گذار، سرمایه‌گذار، اپراتور…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "رویداد فعلی",
+              "placeholder": "HumanX آمستردام",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "هدف",
+              "placeholder": "چه چیزی این گفت‌وگو را ارزشمند می‌کند؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "آنچه ارائه می‌دهید",
+              "placeholder": "چه چیزی می‌توانید مشارکت کنید؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "آنچه نیاز دارید",
+              "placeholder": "چه نوع کمک یا طرف مقابلی؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "معیارهای تناسب",
+              "placeholder": "مرحله، تز، تخصص، سبک کاری…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "دسترسی",
+              "placeholder": "روزها و بازه‌های زمانی مفید",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "محدودیت‌های خصوصی",
+              "placeholder": "هر چیزی که لین باید خصوصی نگه دارد",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "ساخت با صدا · ۵ دقیقه",
+          "reviewLabel": "بررسی شرح",
+          "editLabel": "ویرایش",
+          "reviewHeading": "بریف خصوصی خود را بررسی کنید",
+          "reviewBody": "تا زمانی که وارد نشوید و صراحتاً تأیید نکنید، هیچ‌چیز ارسال، جستجو یا به‌اشتراک گذاشته نمی‌شود.",
+          "submitLabel": "وارد شوید و به Lane ارسال کنید",
+          "loginNotice": "برای ارسال این بریف معرفی خصوصی به Lane جهت بررسی انسانی وارد شوید.",
+          "expiryCopy": "بریف‌های ارسال‌نشده پس از یک ساعت منقضی می‌شوند.",
+          "privacyCopy": "در حالت ناشناس، هیچ جستجوی شرکت‌کننده یا افشای اطلاعات تماسی انجام نمی‌شود.",
+          "errorCopy": "Lane نتوانست این بریف را ذخیره کند. لطفاً دوباره تلاش کنید یا وارد شوید."
+        }
+      },
+      "about": {
+        "kicker": "یک خدمت عمداً محدود",
+        "heading": "ابزارهای شبکه‌سازی همه را به شما معرفی کردند. Lane شما را به یک نفر معرفی می‌کند.",
+        "body": "یک جفت‌سازی مشخص تجاری با یک دلیل در پس آن—چه آن جفت مفید سرمایه باشد، چه یک هم‌بنیان‌گذار مکمل، یا استارتاپی دیگر.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "بنیان‌گذار و سرمایه‌گذار در یک جلسه اول متمرکز در یک کنفرانس",
+            "label": "بنیان‌گذاران ↔ سرمایه‌گذاران"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "هم‌بنیان‌گذاران بالقوه در حال بحث درباره نحوه کارشان",
+            "label": "بنیان‌گذاران ↔ هم‌بنیان‌گذاران"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "اپراتورهای استارتاپ در حال بحث درباره یک همکاری تجاری",
+            "label": "استارتاپ‌ها ↔ استارتاپ‌ها"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "مشخص Beats بی‌پایان.",
+            "body": "یک نفر مرتبط، با دلیلی برای ملاقات—هرگز یک فهرست عمومی برای بررسی.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "هر دو طرف انتخاب می‌کنند.",
+            "body": "یک جفت‌سازی پیشنهادی تنها پس از دو «بله» خصوصی پیش می‌رود. رد کردن نیز خصوصی می‌ماند.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "خصوصی، همیشه.",
+            "body": "نام‌ها، اطلاعات تماس و مکان دقیق ملاقات تنها زمانی فاش می‌شوند که هر دو طرف بپذیرند.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "برای بنیان‌گذاران، سرمایه‌گذاران، هم‌بنیان‌گذاران بالقوه، و استارتاپ‌هایی با دلیل مشخص برای ملاقات. نه برای قرار ملاقات، کاریابی، پیچینگ در سالن نمایشگاه، یا شبکه‌سازی عمومی."
+      },
+      "process": {
+        "kicker": "چگونه معرفی اتفاق می‌افتد",
+        "heading": "از «بگو طرف کیستی» تا «این هم زمان ملاقات شماست.»",
+        "body": "Lane یک اپراتور انسانی است—نه یک موتور تطبیق، فید، یا بازار رزرو. فرایند یکسان می‌ماند؛ دو طرف تغییر می‌کنند.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "یک مکالمه واقعی داشته باشید",
+            "body": "بنیان‌گذاران دور جذب سرمایه، اندازه چک و دلیل ملاقات را به اشتراک می‌گذارند. سرمایه‌گذاران تز سرمایه‌گذاری، اندازه چک و بنیان‌گذارانی که می‌خواهند پیدا کنند را به اشتراک می‌گذارند."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane جستجو را انجام می‌دهد",
+            "body": "اپراتور اطلاعات خصوصی را در همان حوزه مقایسه می‌کند و تناسب را فراتر از برچسب‌های آشکار بررسی می‌کند."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "با یک امکان خوب ملاقات کنید",
+            "body": "شما یک جفت‌سازی پیشنهادی با زمینه دریافت می‌کنید. هر دو طرف قبل از به‌اشتراک‌گذاری هر اطلاعات تماسی، می‌پذیرند یا رد می‌کنند."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "زمان تأییدشده را دریافت کنید",
+            "body": "Lane یک زمان و یک مکان خلوت تعیین می‌کند. میز دقیق و دو نام تنها پس از «بله» هر دو طرف فاش می‌شوند."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "آخرین تناسب Lane",
+        "heading": "دو کسب‌وکار کامل. یک دلیل خوب برای ملاقات.",
+        "body": "معرفی مفید به‌ندرت «دو نفر در یک صنعت مشابه» است. این یک نیاز به‌موقع در یک طرف و یک پاسخ معتبر در طرف دیگر است—به‌علاوه دو «بله» خصوصی.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "دو شرکت‌کننده رویداد در حال بررسی یک معرفی سنجیده"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "اپراتورهای استارتاپ در حال بحث درباره یک همکاری بالقوه"
+          }
+        ],
+        "fitLabel": "تناسب Lane",
+        "criteria": [
+          "زمان‌بندی‌ها همپوشانی دارند",
+          "نیاز و عرضه همسو هستند",
+          "هر دو طرف به این نوع اولین ملاقات رضایت داده‌اند"
+        ],
+        "statusHeading": "کارت با ورود دو تصمیم تغییر می‌کند.",
+        "statusBody": "قالب‌های کارت نمونه—نه فهرست عمومی شرکت‌کنندگان یا برنامه زنده. وضعیت و مکان با پذیرش هر معرفی تغییر می‌کند.",
+        "cards": [
+          {
+            "track": "بنیان‌گذار × سرمایه‌گذار Seed",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "RAI، زویداس",
+            "note": "در انتظار دو تصمیم"
+          },
+          {
+            "track": "بنیان‌گذار × هم‌بنیان‌گذار",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "RAI، زویداس",
+            "note": "Lane در حال تعیین زمان است"
+          },
+          {
+            "track": "استارتاپ × استارتاپ — توسعه کسب‌وکار",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "میز دقیق یا گوشه آرام پس از پذیرش هر دو طرف به اشتراک گذاشته می‌شود",
+            "note": "جزئیات کامل به‌صورت خصوصی ارسال شد"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "سؤالات خوب",
+        "heading": "قبل از اینکه Lane معرفی را انجام دهد.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "آیا Lane فقط برای بنیان‌گذارانی است که به‌دنبال سرمایه‌گذار هستند؟",
+            "answer": "خیر. این خدمت عمداً دوطرفه است: سرمایه‌گذاران از Lane برای یافتن بنیان‌گذاران استفاده می‌کنند، بنیان‌گذاران از Lane برای یافتن سرمایه‌گذاران، هم‌بنیان‌گذاران بالقوه یکدیگر را پیدا می‌کنند، و استارتاپ‌ها استارتاپ دیگری با تناسب مشتری یا همکاری محتمل پیدا می‌کنند."
+          },
+          {
+            "question": "آیا Lane یک اپلیکیشن تطبیق است؟",
+            "answer": "خیر. یک اپراتور انسانی اطلاعات را می‌خواند و هر بار یک جفت‌سازی پیشنهاد می‌دهد. هیچ دک عمومی، فید سوایپ، دایرکتوری شرکت‌کنندگان، یا موتور تطبیق خودکار وجود ندارد."
+          },
+          {
+            "question": "آیا همه جزئیات من را خواهند دید؟",
+            "answer": "خیر. اطلاعات خصوصی می‌ماند. هر معرفی پیشنهادی فقط به دو طرف مرتبط نشان داده می‌شود، و اطلاعات تماس مستقیم تا زمان پذیرش هر دو طرف پنهان می‌ماند."
+          },
+          {
+            "question": "اگر یک جفت‌سازی پیشنهادی را رد کنم چه می‌شود؟",
+            "answer": "Lane رد را به‌صورت خصوصی ثبت می‌کند و ادامه می‌دهد. اطلاعات تماس شما به طرف دیگر داده نمی‌شود، و هیچ رد عمومی یا رتبه‌بندی وجود ندارد."
+          },
+          {
+            "question": "پس از پذیرش هر دو طرف چه اتفاقی می‌افتد؟",
+            "answer": "Lane یک زمان و یک میز یا گوشه خلوت را تأیید می‌کند. شما دو نام و مکان دقیق را تنها پس از دریافت هر دو «بله» دریافت می‌کنید."
+          },
+          {
+            "question": "ضمانت ملاقات چگونه کار می‌کند؟",
+            "answer": "ضمانت برای حوزه انتخاب‌شده در زمان ثبت‌نام اعمال می‌شود: سه ملاقات پذیرفته‌شده در تقویم رویداد جاری، یا هزینه سمت بنیان‌گذار بازگردانده می‌شود. Lane جلسه را رزرو می‌کند، نه دور، هم‌بنیان‌گذار، مشتری، یا معامله را."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "یک رویداد در هر زمان",
+        "heading": "می‌خواهید Lane در رویداد شما حضور داشته باشد؟",
+        "body": "Lane از یک کنفرانس منتخب به کنفرانس بعدی منتقل می‌شود. به فهرست انتظار رویدادهای آینده بپیوندید و به اپراتور بگویید کجا معرفی‌های سنجیده اهمیت دارند.",
+        "nameLabel": "نام",
+        "emailLabel": "ایمیل",
+        "eventLabel": "نام رویداد یا کنفرانس",
+        "cityLabel": "شهر",
+        "ctaLabel": "به فهرست انتظار رویدادهای آینده بپیوندید",
+        "loginNotice": "برای ذخیره این درخواست معرفی رویداد آینده با Lane وارد شوید."
+      },
+      "closing": {
+        "kicker": "وقتی آماده هستید",
+        "heading": "یک معرفی مفید در هر زمان.",
+        "body": "به Lane بگویید کدام طرف میز هستید. اپراتور از آنجا ادامه می‌دهد—سنجیده، خصوصی، و یک نفر واقعی در هر زمان.",
+        "ctaLabel": "گفت‌وگو با لین",
+        "note": "بدون فید سوایپ · فقط با رضایت متقابل · اجرای انسانی · خصوصی تا زمانی که هر دو «بله» بگویند",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane آرام با یک تبلت ایستاده، آماده انجام یک معرفی"
+      },
+      "footer": {
+        "tagline": "Lane توسط Gabriel Operator.",
+        "disclaimer": "Lane افراد را در کنفرانس‌ها و رویدادهای منتخب با هم تطبیق می‌دهد. HumanX آمسترام شریک نیست مگر اینکه خلاف آن اعلام شود.",
+        "copyright": "۲۰۲۶ Lane",
+        "groups": [
+          {
+            "label": "کاوش کنید",
+            "links": [
+              {
+                "label": "درباره",
+                "target": "about"
+              },
+              {
+                "label": "نحوه کار",
+                "target": "how-it-works"
+              },
+              {
+                "label": "جفت‌سازی‌ها",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Lane",
+            "links": [
+              {
+                "label": "سؤالات متداول",
+                "target": "faqs"
+              },
+              {
+                "label": "رویدادهای آینده",
+                "target": "waitlist"
+              },
+              {
+                "label": "یک بریف بسازید",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

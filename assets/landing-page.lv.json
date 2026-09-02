@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "lv",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Īsti biznesa iepazīstināšana, pa vienam cilvēkam.",
+    "subheadline": "Dibinātāji atrod investorus – un investori atrod dibinātājus. Līdzdibinātāji atrod viens otru. Startapi atrod piemērotu startupi, no kura pirkt, kam pārdot vai ar ko kopā veidot.",
+    "ctaLabel": "Sarunājieties ar Lane",
+    "secondaryCtaLabel": "Skatiet, kā tas darbojas",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane konferences iepazīstināšanas operators HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "Lane.",
+        "brandTagline": "Viena rūpīga iepazīstināšana",
+        "navItems": [
+          {
+            "label": "Par",
+            "target": "about"
+          },
+          {
+            "label": "Kā tas darbojas",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Savienojumi",
+            "target": "pairings"
+          },
+          {
+            "label": "Biežāk uzdotie jautājumi",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Iepazīstieties ar Lane"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "HumanX",
+        "city": "Amsterdam",
+        "venue": "RAI",
+        "neighborhood": "RAI, Zuidas",
+        "dateRange": "22.–24. septembris 2026",
+        "shortDateRange": "22.–24. sept. 2026",
+        "cardDate": "Otr 22.–Cet 24. sept.",
+        "availability": "unverified",
+        "availabilityLabel": "Pieejamība apstiprināta manuāli",
+        "confirmedLocation": "Precīzs galds vai kluss stūrītis tiek kopīgots pēc tam, kad abas puses piekrīt",
+        "disclaimer": "HumanX Amsterdam nav partneris, ja nav īpaši norādīts citādi."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapitāls",
+          "label": "Dibinātāji ↔ investori",
+          "pairing": "Dibinātājs × Sēklas investors",
+          "body": "Dibinātāji dala informāciju par piesaisti, čeka lielumu un iemeslu tikšanās. Investori dala tēzi, čeka lielumu un dibinātājus, kurus viņi vēlas atrast.",
+          "sides": [
+            "Dibinātājs",
+            "Investors"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Līdzdibināšana",
+          "label": "Dibinātāji ↔ līdzdibinātāji",
+          "pairing": "Dibinātājs × Līdzdibinātājs",
+          "body": "Katra puse dala lomu vai stiprumu, ko tā sniedz, trūkumu, ko vēlas aizpildīt, uzņēmuma stadiju un to, kas jau ir uzbūvēts.",
+          "sides": [
+            "Dibinātājs",
+            "Potenciāls līdzdibinātājs"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Biznesa atbilstība",
+          "label": "Startapi ↔ startapi",
+          "pairing": "Startaps × Startaps — BD",
+          "body": "Katrs startaps dala, ko tas piedāvā, sektorus vai uzņēmumu veidus, ar kuriem vēlas tikties, un kā izskatās noderīga komerciāla atbilstība.",
+          "sides": [
+            "Startapa piedāvājums",
+            "Startaps meklē"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Pašlaik savieno HumanX Amsterdam — 22.–24. sept. 2026",
+        "heading": "Īsti biznesa iepazīstināšana, pa vienam cilvēkam.",
+        "accentText": "Īsti biznesa iepazīstināšana,",
+        "body": "Dibinātāji atrod investorus – un investori atrod dibinātājus. Līdzdibinātāji atrod viens otru. Startapi atrod piemērotu startupi, no kura pirkt, kam pārdot vai ar ko kopā veidot. Lane piedāvā vienu savienojumu vienlaikus. Abas puses saka jā.",
+        "primaryCtaLabel": "Sarunājieties ar Lane",
+        "secondaryCtaLabel": "Skatiet, kā tas darbojas",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, mierīgs spārnots konferences iepazīstināšanas operators",
+        "chat": {
+          "statusLabel": "Tiešsaistē · uz vietas",
+          "operatorBadge": "Vadīts cilvēku",
+          "openingMessage": "Sveiki, es esmu Lane. Iepazīstinu vienu rūpīgi izvēlētu cilvēku vienlaikus – nekad ne sarakstu.",
+          "inputPlaceholder": "Vaicājiet Lane par nākamo iepazīstināšanu…",
+          "suggestedPrompts": [
+            "Kā jūs izvēlaties?",
+            "Kas notiek, ja es atsakos?",
+            "Kad tiek kopīgotas detaļas?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Jūsu privātais iepazīstināšanas kopsavilkums",
+          "introBody": "Jūs man pastāstāt, kurā pusē esat un kā izskatās noderīga tikšanās. Es piedāvāšu vienu atbilstību. Abas piekrīt vai atsaka privāti.",
+          "trackLabel": "Iepazīstināšanas virziens",
+          "sideLabel": "Jūsu puse",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizācija",
+              "placeholder": "Uzņēmums vai fonds",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Jūsu loma",
+              "placeholder": "Dibinātājs, investors, operators…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Pašreizējais pasākums",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Mērķis",
+              "placeholder": "Kas padarītu sarunu vērtīgu?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Ko jūs piedāvājat",
+              "placeholder": "Ko jūs varat sniegt?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Kas jums ir nepieciešams",
+              "placeholder": "Kāda veida palīdzība vai sadarbības partneris?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Atbilstības kritēriji",
+              "placeholder": "Stadija, tēze, pieredze, darba stils…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Pieejamība",
+              "placeholder": "Dienas un noderīgie laika logi",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Privāti ierobežojumi",
+              "placeholder": "Viss, kas Lanei jāpatur privāti",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Izveidot ar balsi · 5 min",
+          "reviewLabel": "Pārskatīt kopsavilkumu",
+          "editLabel": "Rediģēt",
+          "reviewHeading": "Pārskatiet savu privāto aprakstu",
+          "reviewBody": "Nekas netiek iesniegts, meklēts vai kopīgots, līdz neesat pieteicies un skaidri neapstiprinājis.",
+          "submitLabel": "Piesakieties und iesniedziet Lane",
+          "loginNotice": "Piesakieties, lai iesniegtu šo privāto iepazīšanās aprakstu Lane cilvēku pārskatīšanai.",
+          "expiryCopy": "Neiesniegti apraksti beidzas pēc vienas stundas.",
+          "privacyCopy": "Anonīmā režīmā nav dalībnieku meklēšanas vai kontaktinformācijas atklāšanas.",
+          "errorCopy": "Lane nevarēja saglabāt šo aprakstu. Lūdzu, mēģiniet vēlreiz vai piesakieties."
+        }
+      },
+      "about": {
+        "kicker": "Apzināti šaurs pakalpojums",
+        "heading": "Tīklošanas rīki deva jums visus. Lane iepazīstina jūs ar kādu vienu.",
+        "body": "Viena konkrēta biznesa savienojuma ar iemeslu aiz tā – neatkarīgi no tā, vai noderīgā atbilstība ir kapitāls, papildinošs līdzdibinātājs vai cits jaunuzņēmums.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dibinātājs un investors mērķtiecīgā pirmajā tikšanās reizē konferencē",
+            "label": "Dibinātāji ↔ investori"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potenciālie līdzdibinātāji apspriež, kā viņi strādā",
+            "label": "Dibinātāji ↔ līdzdibinātāji"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Jaunuzņēmumu operatori apspriež biznesa sadarbību",
+            "label": "Startapi ↔ startapi"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Specifisks pārspēj bezgalīgu.",
+            "body": "Viena atbilstoša persona ar iemeslu tikties – nekad publisks saraksts, ko izskatīt.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Abas puses izvēlas.",
+            "body": "Piedāvāts savienojums virzās uz priekšu tikai pēc divām privātām “jā” atbildēm. Noraidījums arī paliek privāts.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privāts, vienmēr.",
+            "body": "Vārdi, kontaktinformācija un precīza tikšanās vieta tiek atklāta tikai tad, kad abas puses piekrīt.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Dibinātājiem, investoriem, potenciālajiem līdzdibinātājiem un jaunuzņēmumiem ar konkrētu iemeslu tikties. Ne randiņiem, darba meklēšanai, izstāžu zāles prezentācijām vai vispārīgai tīklošanai."
+      },
+      "process": {
+        "kicker": "Kā notiek iepazīstināšana",
+        "heading": "No „pastāsti man savu pusi\" līdz „šeit ir jūsu tikšanās laiks\".",
+        "body": "Lane ir cilvēks operators – ne saderināšanas dzinējs, plūsma vai rezervācijas tirgus. Process paliek nemainīgs; divas puses mainās.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Pārdomājiet īstu sarunu",
+            "body": "Dibinātāji dala informāciju par piesaisti, čeka lielumu un iemeslu tikšanās. Investori dala tēzi, čeka lielumu un dibinātājus, kurus viņi vēlas atrast."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane meklē",
+            "body": "Operators salīdzina privāto informāciju vienā jomā un pārbauda atbilstību ārpus acīmredzamajām etiķetēm."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Iepazīstieties ar vienu labu iespēju",
+            "body": "Jūs saņemat vienu piedāvātu savienojumu ar kontekstu. Abas puses piekrīt vai izlaiž pirms jebkuras kontaktinformācijas kopīgošanas."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Saņemiet apstiprināto laiku",
+            "body": "Lane nosaka laiku un klusu vietu. Precīzs galds un divi vārdi tiek atklāti tikai pēc abu pušu “jā”."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane jaunākā atbilstība",
+        "heading": "Divi pilni uzņēmumi. Viens labs iemesls tikties.",
+        "body": "Noderīga iepazīstināšana reti ir “divi cilvēki vienā nozarē”. Tā ir savlaicīga vajadzība vienā pusē un ticama atbilde otrā – plus divas privātas “jā”.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Divi pasākuma dalībnieki apsver pārdomātu iepazīstināšanu"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Jaunuzņēmumu operatori apspriež iespējamu sadarbību"
+          }
+        ],
+        "fitLabel": "Lane atbilstība",
+        "criteria": [
+          "Laika grafiki pārklājas",
+          "Vajadzība un piedāvājums sakrīt",
+          "Abas puses ir piekritušas šāda veida pirmajai tikšanās reizei"
+        ],
+        "statusHeading": "Karte mainās, kad pienāk divi lēmumi.",
+        "statusBody": "Ilustratīvi karšu formāti – ne publisks dalībnieku saraksts vai tiešraides grafiks. Statuss un vieta mainās, kad katra iepazīstināšana tiek pieņemta.",
+        "cards": [
+          {
+            "track": "Dibinātājs × Sēklas investors",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "RAI, Zuidas",
+            "note": "Gaida divus lēmumus"
+          },
+          {
+            "track": "Dibinātājs × Līdzdibinātājs",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "RAI, Zuidas",
+            "note": "Lane nosaka laiku"
+          },
+          {
+            "track": "Startaps × Startaps — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Precīzs galds vai kluss stūrītis tiek kopīgots pēc tam, kad abas puses piekrīt",
+            "note": "Pilnīga informācija nosūtīta privāti"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Labi jautājumi",
+        "heading": "Pirms Lane veic iepazīstināšanu.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Vai Lane ir tikai dibinātājiem, kas meklē investorus?",
+            "answer": "Nē. Pakalpojums ir apzināti divpusējs: investori izmanto Lane, lai atrastu dibinātājus, dibinātāji izmanto Lane, lai atrastu investorus, potenciālie līdzdibinātāji atrod viens otru, un jaunuzņēmumi atrod citu jaunuzņēmumu ar ticamu klienta vai sadarbības atbilstību."
+          },
+          {
+            "question": "Vai Lane ir saderināšanas lietotne?",
+            "answer": "Nē. Cilvēks operators izlasa informāciju un piedāvā vienu savienojumu vienlaikus. Nav publiskas kāršu kavas, pārvelšanas plūsmas, dalībnieku kataloga vai automatizēta saderināšanas dzinēja."
+          },
+          {
+            "question": "Vai visi redzēs manus datus?",
+            "answer": "Nē. Informācija paliek privāta. Katra piedāvātā iepazīstināšana tiek parādīta tikai divām attiecīgajām pusēm, un tiešā kontaktinformācika paliek slēpta līdz abu pušu piekrišanai."
+          },
+          {
+            "question": "Kas notiek, ja es izlaižu piedāvāto savienojumu?",
+            "answer": "Lane reģistrē noraidījumu privāti un turpina. Jūsu kontaktinformācika netiek nodota otrai pusei, un nav publiska noraidījuma vai reitinga."
+          },
+          {
+            "question": "Kas notiek pēc abu pušu piekrišanas?",
+            "answer": "Lane apstiprina laiku un galdu vai klusu stūrīti. Jūs saņemat divus vārdus un precīzu vietu tikai pēc abu “jā” saņemšanas."
+          },
+          {
+            "question": "Kā darbojas tikšanās garantija?",
+            "answer": "Garantija attiecas uz reģistrācijas laikā izvēlēto jomu: trīs pieņemtas tikšanās pašreizējā pasākuma kalendārā, vai dibinātāja puses maksa tiek atmaksāta. Lane rezervē tikšanos, ne raundu, līdzdibinātāju, klientu vai darījumu."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Viens pasākums vienlaikus",
+        "heading": "Vai vēlaties Lane savā pasākumā?",
+        "body": "Lane pārvietojas no vienas izvēlētas konferences uz nākamo. Pievienojieties nākotnes pasākumu gaidīšanas sarakstam un pastāstiet operatoram, kur pārdomātas iepazīstināšanas būtu svarīgas.",
+        "nameLabel": "Vārds",
+        "emailLabel": "E-pasts",
+        "eventLabel": "Pasākuma vai konferences nosaukums",
+        "cityLabel": "Pilsēta",
+        "ctaLabel": "Pievienojieties nākotnes pasākumu gaidīšanas sarakstam",
+        "loginNotice": "Piesakieties, lai saglabātu šo nākotnes pasākuma iepazīstināšanas pieprasījumu ar Lane."
+      },
+      "closing": {
+        "kicker": "Kad esat gatavi",
+        "heading": "Viena noderīga iepazīstināšana vienlaikus.",
+        "body": "Pastāstiet Lane, pie kuras galda puses esat. Operators turpinās no turienes – pārdomāti, privāti un viena īsta persona vienlaikus.",
+        "ctaLabel": "Sarunājieties ar Lane",
+        "note": "Bez pārvelšanas plūsmas · Tikai ar savstarpēju piekrišanu · Cilvēka vadīts · Privāts līdz abi saka “jā”",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane mierīgi stāv ar planšetdatoru, gatavs veikt iepazīstināšanu"
+      },
+      "footer": {
+        "tagline": "Lane no Gabriel Operator.",
+        "disclaimer": "Lane savieno cilvēkus izvēlētās konferencēs un pasākumos. HumanX Amsterdam nav partneris, ja vien nav norādīts citādāk.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Izpētiet",
+            "links": [
+              {
+                "label": "Par",
+                "target": "about"
+              },
+              {
+                "label": "Kā tas darbojas",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Savienojumi",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Lane",
+            "links": [
+              {
+                "label": "Biežāk uzdotie jautājumi",
+                "target": "faqs"
+              },
+              {
+                "label": "Nākotnes pasākumi",
+                "target": "waitlist"
+              },
+              {
+                "label": "Izveidojiet aprakstu",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

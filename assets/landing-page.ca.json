@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "ca",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Presentacions empresarials reals, una persona a la vegada.",
+    "subheadline": "Els fundadors troben inversors—i els inversos troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi.",
+    "ctaLabel": "Xerra amb Lane",
+    "secondaryCtaLabel": "Mira com funciona",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane, operador de presentacions de la conferència HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "Lane.",
+        "brandTagline": "Una presentació acurada",
+        "navItems": [
+          {
+            "label": "Sobre",
+            "target": "about"
+          },
+          {
+            "label": "Com funciona",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Emparellaments",
+            "target": "pairings"
+          },
+          {
+            "label": "Preguntes freqüents",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Conegueu Lane"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "HumanX",
+        "city": "Amsterdam",
+        "venue": "RAI",
+        "neighborhood": "RAI, Zuidas",
+        "dateRange": "22–24 de setembre de 2026",
+        "shortDateRange": "22–24 de set. 2026",
+        "cardDate": "Dimarts 22–dijous 24 de set.",
+        "availability": "unverified",
+        "availabilityLabel": "Disponibilitat confirmada manualment",
+        "confirmedLocation": "La taula exacta o el racó tranquil es comparteixen després que ambdues parts acceptin",
+        "disclaimer": "HumanX Amsterdam no és un soci tret que s'indiqui el contrari."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Capital",
+          "label": "Fundadors ↔ inversors",
+          "pairing": "Fundador × inversor Seed",
+          "body": "Els fundadors comparteixen la ronda, la mida del xec i el motiu de la trobada. Els inversors comparteixen la tesi, la mida del xec i els fundadors que volen trobar.",
+          "sides": [
+            "Fundador",
+            "Inversor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Cofundador",
+          "label": "Fundadors ↔ cofundadors",
+          "pairing": "Fundador × cofundador",
+          "body": "Cada banda comparteix el rol o la fortalesa que aporta, el buit que vol cobrir, l'etapa de l'empresa i el que ja està construït.",
+          "sides": [
+            "Fundador",
+            "Possible cofundador"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Encaix empresarial",
+          "label": "Startups ↔ startups",
+          "pairing": "Startup × Startup — BD",
+          "body": "Cada startup comparteix què ofereix, els sectors o tipus d'empresa amb què vol reunir-se i com seria un encaix comercial útil.",
+          "sides": [
+            "Oferta de la startup",
+            "Startup que busca"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Ara mateix fent emparellaments a HumanX Amsterdam — 22–24 de setembre de 2026",
+        "heading": "Presentacions empresarials reals, una persona a la vegada.",
+        "accentText": "Presentacions empresarials reals,",
+        "body": "Els fundadors troben inversors—i els inversors troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi. Lane proposa un emparellament a la vegada. Ambdues parts diuen que sí.",
+        "primaryCtaLabel": "Xerra amb Lane",
+        "secondaryCtaLabel": "Mira com funciona",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, un operador de presentacions de congrés relaxat i alat",
+        "chat": {
+          "statusLabel": "En línia · a la sala",
+          "operatorBadge": "Gestionat per persones",
+          "openingMessage": "Hola, soc la Lane. Presento una persona acuradament triada a la vegada—mai una llista.",
+          "inputPlaceholder": "Pregunta a Lane sobre la teva pròxima presentació…",
+          "suggestedPrompts": [
+            "Com ho trieu?",
+            "Què passa si passo?",
+            "Quan es comparteixen els detalls?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "El vostre breu privat de presentació",
+          "introBody": "Expliqueu-me a quin costat de la taula sou i com seria una reunió útil. Proposaré un encaix. Ambdues parts accepten o passen en privat.",
+          "trackLabel": "Línia de presentació",
+          "sideLabel": "El vostre costat",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organització",
+              "placeholder": "Empresa o fons",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "El vostre rol",
+              "placeholder": "Fundador, inversor, operador…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Esdeveniment actual",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Objectiu",
+              "placeholder": "Què faria que la conversa fos valuable?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Què oferiu",
+              "placeholder": "Què hi podeu aportar?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Què necessiteu",
+              "placeholder": "Quin tipus d'ajuda o contrapart?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Criteris d'encaix",
+              "placeholder": "Etapa, tesi, expertesa, estil de treball…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Disponibilitat",
+              "placeholder": "Dies i franges horàries útils",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Restriccions privades",
+              "placeholder": "Qualsevol cosa que Lane hagi de mantenir en privat",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Construeix amb veu · 5 min",
+          "reviewLabel": "Revisa el breu",
+          "editLabel": "Edita",
+          "reviewHeading": "Revisa el teu breu privat",
+          "reviewBody": "No s'envia, cerca ni comparteix res fins que inicies sessió i ho aproves explícitament.",
+          "submitLabel": "Inicia sessió i envia a Lane",
+          "loginNotice": "Inicia sessió per enviar aquest breu d'introducció privat a Lane per a la revisió humana.",
+          "expiryCopy": "Els breus no enviats caduquen al cap d'una hora.",
+          "privacyCopy": "No es fa cap cerca de participants ni es revela cap dada de contacte mentre siguis anònim.",
+          "errorCopy": "Lane no ha pogut desar aquest breu. Torna-ho a provar o inicia sessió."
+        }
+      },
+      "about": {
+        "kicker": "Un servei deliberadament restringit",
+        "heading": "Les eines de networking t'han donat tothom. Lane et presenta algú.",
+        "body": "Una sola combinació empresarial específica amb un motiu al darrere: tant si la coincidència útil és capital, un cofundador complementari o una altra startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Fundador i inversor en una primera reunió focalitzada en una conferència",
+            "label": "Fundadors ↔ inversors"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Possibles cofundadors parlant sobre com treballen",
+            "label": "Fundadors ↔ cofundadors"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operadors de startup parlant d'una col·laboració empresarial",
+            "label": "Startups ↔ startups"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "L'específic supera l'il·limitat.",
+            "body": "Una persona rellevant, amb un motiu per reunir-se — mai una llista pública per revisar.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Les dues parts trien.",
+            "body": "Una combinació proposada avança només després de dos sí privats. Passar també es queda privat.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privat, sempre.",
+            "body": "Els noms, les dades de contacte i el punt exacte de reunió es desbloquegen només quan ambdues parts accepten.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Per a fundadors, inversors, possibles cofundadors i startups amb un motiu concret per reunir-se. No per a cites, recerca de feina, presentacions a la sala d'exposicions ni networking general."
+      },
+      "process": {
+        "kicker": "Com es produeix la presentació",
+        "heading": "De \"digues-me el teu costat\" a \"aquí tens quan us reuniu\".",
+        "body": "Lane és un operador humà — no un motor d'aparellament, un feed ni un mercat de reserves. El procés es manté igual; les dues parts canvien.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Teniu una conversa real",
+            "body": "Els fundadors comparteixen la ronda, la mida del xec i el motiu de la trobada. Els inversors comparteixen la tesi, la mida del xec i els fundadors que volen trobar."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane fa la cerca",
+            "body": "L'operador compara la informació privada dins del mateix àmbit i comprova l'adequació més enllà de les etiquetes evidents."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Conegueu una bona possibilitat",
+            "body": "Reps una combinació proposada amb context. Ambdues parts accepten o passen abans que es comparteixi cap dada de contacte."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Rep el moment confirmat",
+            "body": "Lane fixa una hora i un lloc tranquil. La taula exacta i els dos noms es desbloquegen només després que ambdues parts diguin sí."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "L'última coincidència de Lane",
+        "heading": "Dos negocis complets. Un bon motiu per reunir-se.",
+        "body": "La presentació útil rarament és \"dues persones del mateix sector\". És una necessitat oportuna en una part i una resposta creïble en l'altra — més dos sí privats.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dos assistents a un esdeveniment considerant una presentació reflexionada"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operadors de startup parlant d'una possible col·laboració"
+          }
+        ],
+        "fitLabel": "La coincidència de Lane",
+        "criteria": [
+          "Els horaris coincideixen",
+          "La necessitat i l'oferta coincideixen",
+          "Ambdues parts han optat per aquest tipus de primera reunió"
+        ],
+        "statusHeading": "La targeta canvia a mesura que arriben dues decisions.",
+        "statusBody": "Formats de targeta il·lustratius — no una llista pública d'assistents ni un horari en directe. L'estat i la ubicació canvien a mesura que s'accepta cada presentació.",
+        "cards": [
+          {
+            "track": "Fundador × inversor Seed",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "RAI, Zuidas",
+            "note": "Esperant dues decisions"
+          },
+          {
+            "track": "Fundador × cofundador",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "RAI, Zuidas",
+            "note": "Lane està establint el moment"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "La taula exacta o el racó tranquil es comparteixen després que ambdues parts acceptin",
+            "note": "Detalls complets enviats privadament"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Bones preguntes",
+        "heading": "Abans que Lane faci la presentació.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Lane és només per a fundadors que busquen inversors?",
+            "answer": "No. El servei és deliberadament de dues cares: els inversors fan servir Lane per trobar fundadors, els fundadors fan servir Lane per trobar inversors, els possibles cofundadors es troben entre ells, i les startups troben una altra startup amb un encaix plausible de client o col·laboració."
+          },
+          {
+            "question": "Lane és una aplicació d'aparellament?",
+            "answer": "No. Un operador humà llegeix la informació i proposa una combinació alhora. No hi ha cap presentació pública, feed de desplaçament, directori d'assistents ni motor d'aparellament automatitzat."
+          },
+          {
+            "question": "Tothom veurà les meves dades?",
+            "answer": "No. La informació queda privada. Cada presentació proposada es mostra només a les dues parts rellevants, i les dades de contacte directes queden ocultes fins que ambdues parts accepten."
+          },
+          {
+            "question": "Què passa si passo d'una combinació proposada?",
+            "answer": "Lane enregistra el pas privadament i continua. No es donen les teves dades de contacte a l'altra part, i no hi ha cap rebuig públic ni classificació."
+          },
+          {
+            "question": "Què passa després que ambdues parts acceptin?",
+            "answer": "Lane confirma una hora i una taula o un racó tranquil. Reps els dos noms i la ubicació exacta només després que arribin els dos sí."
+          },
+          {
+            "question": "Com funciona la garantia de la reunió?",
+            "answer": "La garantia s'aplica a l'àmbit seleccionat en registrar-se: tres reunions acceptades al calendari de l'esdeveniment actual, o es reemborsa la quota de la banda fundadora. Lane reserva la reunió, no la ronda, el cofundador, el client ni l'operació."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Un esdeveniment alhora",
+        "heading": "Vols Lane al teu esdeveniment?",
+        "body": "Lane es mou d'una conferència selecta a la següent. Uneix-te a la llista d'espera de futurs esdeveniments i digues a l'operador on importarien les presentacions acurades.",
+        "nameLabel": "Nom",
+        "emailLabel": "Correu electrònic",
+        "eventLabel": "Nom de l'esdeveniment o conferència",
+        "cityLabel": "Ciutat",
+        "ctaLabel": "Uneix-te a la llista d'espera de futurs esdeveniments",
+        "loginNotice": "Inicia sessió per desar aquesta sol·licitud de presentació de futur esdeveniment amb Lane."
+      },
+      "closing": {
+        "kicker": "Quan estigueu preparats",
+        "heading": "Una presentació útil alhora.",
+        "body": "Digues a Lane de quin costat de la taula estàs. L'operador continuarà des d'allà — amb consideració, privadament i una persona real alhora.",
+        "ctaLabel": "Xerra amb Lane",
+        "note": "Sense feed de desplaçament · Només amb consentiment mutu · Gestionat per humans · Privat fins que ambdues parts diguin sí",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane dempeus amb una tauleta, a punt per fer una presentació"
+      },
+      "footer": {
+        "tagline": "Lane per Gabriel Operator.",
+        "disclaimer": "Lane connecta persones a conferències i esdeveniments selectes. HumanX Amsterdam no és un soci tret que s'indiqui.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Exploreu",
+            "links": [
+              {
+                "label": "Sobre",
+                "target": "about"
+              },
+              {
+                "label": "Com funciona",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Emparellaments",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Lane",
+            "links": [
+              {
+                "label": "Preguntes freqüents",
+                "target": "faqs"
+              },
+              {
+                "label": "Esdeveniments futurs",
+                "target": "waitlist"
+              },
+              {
+                "label": "Construeix un breu",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

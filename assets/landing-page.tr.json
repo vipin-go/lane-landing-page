@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Gerçek iş tanıtımları, her seferinde bir kişi.",
+    "subheadline": "Kurucular yatırımcı bulur ve yatırımcılar kurucuları bulur. kurucu ortaklar birbirlerini bulurlar. Startup'lar, satın almak, satmak veya inşa etmek için doğru girişimi bulur.",
+    "ctaLabel": "Lane ile sohbet",
+    "secondaryCtaLabel": "Nasıl çalıştığını görün",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "HumanX Amsterdam 2026'da Lane Konferansı Tanıtım Operatörü"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "şerit.",
+        "brandTagline": "Bir dikkatli giriş",
+        "navItems": [
+          {
+            "label": "Hakkında",
+            "target": "about"
+          },
+          {
+            "label": "Nasıl çalışır",
+            "target": "how-it-works"
+          },
+          {
+            "label": "eşleşme",
+            "target": "pairings"
+          },
+          {
+            "label": "SSS",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "şeritle karşılaşmak"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "insan",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 Eylül 2026",
+        "shortDateRange": "22–24 Eylül 2026",
+        "cardDate": "Salı 22–Per 24 Eylül",
+        "availability": "unverified",
+        "availabilityLabel": "Kullanılabilirlik manuel olarak onaylandı",
+        "confirmedLocation": "Her iki taraf da kabul ettikten sonra paylaşılan tam masa veya sessiz köşe",
+        "disclaimer": "HumanX Amsterdam, belirtilmedikçe ortak değildir."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Sermaye",
+          "label": "Kurucular ↔ Yatırımcılar",
+          "pairing": "Kurucu × Tohum Yatırımcısı",
+          "body": "Kurucular zam, büyüklük ve buluşma nedenini paylaşır. Yatırımcılar tezi, büyüklüğü ve bulmak istedikleri kurucuları paylaşırlar.",
+          "sides": [
+            "Kurucu",
+            "Yatırımcı"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "kurucu",
+          "label": "Kurucular ↔ kurucu ortaklar",
+          "pairing": "Kurucu × Kurucu Ortak",
+          "body": "Her iki taraf da getirdikleri rolü veya gücü, doldurmak istedikleri boşluğu, şirket aşamasını ve halihazırda inşa edilmiş olanı paylaşır.",
+          "sides": [
+            "Kurucu",
+            "müstakbel kurucu"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "iş uyumu",
+          "label": "Başlangıçlar ↔ Başlangıçlar",
+          "pairing": "Başlangıç × Başlangıç — BD",
+          "body": "Her girişim, sunduğunu, karşılamak istediği sektörleri veya şirket türlerini ve yararlı bir ticari uyumun nasıl göründüğünü paylaşır.",
+          "sides": [
+            "Başlangıç Teklifi",
+            "başlangıç arayışı"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Şimdi HumanX Amsterdam'da eşleşiyor - 22–24 Eylül 2026",
+        "heading": "Gerçek iş tanıtımları, her seferinde bir kişi.",
+        "accentText": "Gerçek iş tanıtımları",
+        "body": "Kurucular yatırımcı bulur ve yatırımcılar kurucuları bulur. kurucu ortaklar birbirlerini bulurlar. Startup'lar, satın almak, satmak veya inşa etmek için doğru girişimi bulur. Lane, her seferinde bir eşleşme önerir. Her iki taraf da evet diyor.",
+        "primaryCtaLabel": "Lane ile sohbet",
+        "secondaryCtaLabel": "Nasıl çalıştığını görün",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, rahat bir kanatlı konferans tanıtım operatörü",
+        "chat": {
+          "statusLabel": "Çevrimiçi · Yerde",
+          "operatorBadge": "insan işletmesi",
+          "openingMessage": "Merhaba, ben Lane. Her seferinde özenle seçilmiş bir kişiyi tanıtıyorum - asla bir liste.",
+          "inputPlaceholder": "Lane'e bir sonraki tanıtımınızı sorun…",
+          "suggestedPrompts": [
+            "Nasıl seçersin?",
+            "Geçersem ne olur?",
+            "Ayrıntılar ne zaman paylaşılır?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Özel Tanıtım Özetiniz",
+          "introBody": "Masanın hangi tarafında olduğunuzu ve yararlı bir toplantının neye benzediğini söylersiniz. Bir uyum önereceğim. hem kabul eder hem de özel olarak geçer.",
+          "trackLabel": "tanıtım rayları",
+          "sideLabel": "Senin tarafın",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizasyon",
+              "placeholder": "şirket veya fon",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Senin rolün",
+              "placeholder": "Kurucu, yatırımcı, operatör…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Güncel Olay",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Hedef",
+              "placeholder": "Konuşmayı değerli kılan nedir?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "ne teklif ediyorsun",
+              "placeholder": "Ne katkıda bulunabilir?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Neye ihtiyacın var",
+              "placeholder": "Ne tür bir yardım veya muadili?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Uygun kriterler",
+              "placeholder": "Sahne, tez, uzmanlık, çalışma tarzı…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Hazır bulunma",
+              "placeholder": "Günler ve faydalı zaman pencereleri",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Özel kısıtlamalar",
+              "placeholder": "Lane her şey gizli tutmalı",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Sesle Yapım · 5 dk",
+          "reviewLabel": "Özetle Özet",
+          "editLabel": "Yayına hazırlamak",
+          "reviewHeading": "Özel Özetinizi İnceleyin",
+          "reviewBody": "Siz oturum açıp açıkça onaylayana kadar hiçbir şey gönderilmez, aranmaz veya paylaşılmaz.",
+          "submitLabel": "Oturum Açın ve Lane'e Gönderin",
+          "loginNotice": "İnsan İncelemesi için bu özel tanıtım özetini Lane'e göndermek için oturum açın.",
+          "expiryCopy": "Gönderilmeyen özetler bir saat sonra sona erer.",
+          "privacyCopy": "Anonim iken katılımcı arama veya iletişim ifşası yok.",
+          "errorCopy": "Lane bu özeti kaydedemedi. Lütfen yeniden deneyin veya oturum açın."
+        }
+      },
+      "about": {
+        "kicker": "kasıtlı olarak dar bir hizmet",
+        "heading": "Ağ araçları size herkese verdi. Lane sizi biriyle tanıştırır.",
+        "body": "İster faydalı eşleşme ister sermaye, tamamlayıcı bir kurucu ortak veya başka bir startup olsun, bunun arkasında bir nedenle belirli bir iş eşleşmesi.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Bir konferansta odaklanmış bir ilk toplantıda kurucu ve yatırımcı",
+            "label": "Kurucular ↔ Yatırımcılar"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Nasıl çalıştıklarını tartışan potansiyel kurucular",
+            "label": "Kurucular ↔ kurucu ortaklar"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Bir iş işbirliğini tartışan başlangıç operatörleri",
+            "label": "Başlangıçlar ↔ Başlangıçlar"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "belirli vuruşlar sonsuz.",
+            "body": "tanışmak için bir nedeni olan ilgili bir kişi - asla üzerinde çalışılacak halka açık bir liste.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Her iki taraf da seçer.",
+            "body": "Önerilen bir eşleştirme, yalnızca iki özel evetten sonra ilerler. Geçmek de özel kalır.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Özel, her zaman.",
+            "body": "İsimler, iletişim bilgileri ve tam buluşma noktası yalnızca her iki taraf da kabul ettiğinde kilidini açar.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Kurucular, yatırımcılar, potansiyel kurucu ortaklar ve buluşmak için somut bir nedeni olan girişimler için. Flört, iş arama, fuar salonu atışı veya genel ağ için değil."
+      },
+      "process": {
+        "kicker": "Giriş nasıl oluyor",
+        "heading": "\"Bana tarafını söyle\"den \"İşte buluştuğun zaman\"a kadar.",
+        "body": "Lane bir insan operatörüdür - eşleşen bir motor, besleme veya rezervasyon pazarı değil. Süreç aynı kalır; İki taraf değişir.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "gerçek bir konuşma yapmak",
+            "body": "Kurucular zam, büyüklük ve buluşma nedenini paylaşır. Yatırımcılar tezi, büyüklüğü ve bulmak istedikleri kurucuları paylaşırlar."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "şerit arıyor",
+            "body": "Operatör, aynı iz boyunca özel alımı karşılaştırır ve uygun etiketlerin ötesinde uyumu kontrol eder."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "iyi bir olasılıkla tanışın",
+            "body": "Bağlamla önerilen bir eşleşme elde edersiniz. her iki taraf da herhangi bir iletişim ayrıntısı paylaşılmadan önce kabul eder veya geçer."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Onaylanmış yuvayı alın",
+            "body": "Lane bir zaman ve sessiz bir yer ayarlar. Tam tablo ve iki isim ancak her iki taraf da evet dedikten sonra açılır."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane'in en yeni uyumu",
+        "heading": "İki tam iş. tanışmak için iyi bir sebep.",
+        "body": "Yararlı giriş nadiren “aynı sektörde iki kişi”dir. Bir tarafta zamanında bir ihtiyaç, diğer tarafta güvenilir bir cevap - artı iki özel evet.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Düşünceli bir giriş yapmayı düşünen iki etkinlik katılımcısı"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Potansiyel bir işbirliğini tartışan başlangıç operatörleri"
+          }
+        ],
+        "fitLabel": "Şerit uygun",
+        "criteria": [
+          "Zamanlama örtüşmeleri",
+          "İHTİYAÇ VE TEKLİF",
+          "İkisi de bu tür ilk toplantıya katıldı"
+        ],
+        "statusHeading": "İki karar geldikçe kart değişir.",
+        "statusBody": "Açıklayıcı kart formatları— Herkese açık bir katılımcı listesi veya canlı program değil. Her giriş kabul edildiğinde durum ve konum değişikliği.",
+        "cards": [
+          {
+            "track": "Kurucu × Tohum Yatırımcısı",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "İki Karar Beklemek"
+          },
+          {
+            "track": "Kurucu × Kurucu Ortak",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane slotu ayarlıyor"
+          },
+          {
+            "track": "Başlangıç × Başlangıç — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Her iki taraf da kabul ettikten sonra paylaşılan tam masa veya sessiz köşe",
+            "note": "Tüm ayrıntı özel olarak gönderildi"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "güzel sorular",
+        "heading": "Lane tanıtımı yapmadan önce.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Lane sadece yatırımcı arayan kurucular için mi?",
+            "answer": "Hayır. Hizmet kasıtlı olarak iki taraflıdır: yatırımcılar kurucuları bulmak için Lane'i kullanır, kurucular yatırımcı bulmak için Lane'i kullanır, potansiyel kurucu ortaklar birbirlerini bulur ve yeni başlayanlar makul bir müşteri veya işbirliğine sahip başka bir başlangıç bulur."
+          },
+          {
+            "question": "Lane eşleşen bir uygulama mı?",
+            "answer": "Hayır. Bir insan operatör girişi okur ve her seferinde bir eşleştirme önerir. Genel deste, kaydırma beslemesi, katılımcı dizini veya otomatik eşleştirme motoru yoktur."
+          },
+          {
+            "question": "Herkes ayrıntılarımı görecek mi?",
+            "answer": "Hayır. Giriş özel kalır. Önerilen her giriş yalnızca ilgili iki tarafa gösterilir ve doğrudan iletişim bilgileri her ikisi de kabul edene kadar gizli kalır."
+          },
+          {
+            "question": "Önerilen bir eşleştirmeyi iletirsem ne olur?",
+            "answer": "Lane, geçişi özel olarak kaydeder ve devam eder. Diğer tarafa iletişim bilgileriniz verilmez ve herhangi bir kamu reddi veya sıralaması yoktur."
+          },
+          {
+            "question": "Her iki taraf da kabul ettikten sonra ne olur?",
+            "answer": "Lane, bir zamanı ve bir masayı veya sessiz köşeyi onaylar. İki isim ve tam konum, ancak her iki evet de girdikten sonra alırsınız."
+          },
+          {
+            "question": "Toplantı garantisi nasıl çalışır?",
+            "answer": "Garanti, kayıt sırasında seçilen parça için geçerlidir: mevcut etkinlik takviminde kabul edilen üç toplantı veya kurucu tarafı ücreti iade edilir. Lane, toplantıyı, kurucu ortağı, müşteriyi veya anlaşmayı değil, toplantıyı rezerve eder."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Her seferinde bir etkinlik",
+        "heading": "Etkinliğinizde Lane ister misiniz?",
+        "body": "Lane, bir seçili konferanstan diğerine geçer. Gelecekteki etkinlik bekleme listesine katılın ve operatöre dikkatli tanıtımların nerede önemli olacağını söyleyin.",
+        "nameLabel": "İsim",
+        "emailLabel": "emanet",
+        "eventLabel": "Etkinlik veya Konferans Adı",
+        "cityLabel": "Şehir",
+        "ctaLabel": "Gelecekteki etkinlik bekleme listesine katılın",
+        "loginNotice": "Bu gelecekteki etkinlik tanıtım isteğini Lane ile kaydetmek için oturum açın."
+      },
+      "closing": {
+        "kicker": "sen olduğunda hazır",
+        "heading": "Her seferinde bir yararlı giriş.",
+        "body": "Lane'e masanın hangi tarafında olduğunuzu söyleyin. Operatör onu oradan alacaktır - düşünceli, özel ve her seferinde bir gerçek kişi.",
+        "ctaLabel": "Lane ile sohbet",
+        "note": "kaydırma beslemesi yok · sadece karşılıklı rıza · insan tarafından işletilen · özel",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, bir tabletle sakince ayakta, bir tanıtım yapmaya hazır"
+      },
+      "footer": {
+        "tagline": "Gabriel operatörü tarafından şerit.",
+        "disclaimer": "Lane, belirli konferanslarda ve etkinliklerde insanlarla eşleşir. HumanX Amsterdam, belirtilmedikçe ortak değildir.",
+        "copyright": "2026 şerit",
+        "groups": [
+          {
+            "label": "Keşfetmek",
+            "links": [
+              {
+                "label": "Hakkında",
+                "target": "about"
+              },
+              {
+                "label": "Nasıl çalışır",
+                "target": "how-it-works"
+              },
+              {
+                "label": "eşleşme",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Şerit",
+            "links": [
+              {
+                "label": "SSS",
+                "target": "faqs"
+              },
+              {
+                "label": "Gelecek Etkinlikler",
+                "target": "waitlist"
+              },
+              {
+                "label": "Özet Oluştur",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

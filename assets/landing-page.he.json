@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "he",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "היכרות עסקית אמיתית, אדם אחד בכל פעם.",
+    "subheadline": "מייסדים מוצאים משקיעים - ומשקיעים מוצאים מייסדים. מייסדים שותפים מוצאים זה את זה. סטארט-אפים מוצאים את הסטארט-אפ הנכון לקנות ממנו, למכור או לבנות איתו.",
+    "ctaLabel": "צ'אט עם ליין",
+    "secondaryCtaLabel": "תראה איך זה עובד",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "מפעיל מבוא לכנס ליין ב-HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "ליין.",
+        "brandTagline": "הקדמה אחת זהירה",
+        "navItems": [
+          {
+            "label": "על אודות",
+            "target": "about"
+          },
+          {
+            "label": "איך זה עובד",
+            "target": "how-it-works"
+          },
+          {
+            "label": "זיווגים",
+            "target": "pairings"
+          },
+          {
+            "label": "שאלות נפוצות",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "הכירו את ליין"
+      },
+      "event": {
+        "name": "humanx אמסטרדם",
+        "shortName": "humanx",
+        "city": "אמסטרדם",
+        "venue": "ראי",
+        "neighborhood": "ראי, זוידאס",
+        "dateRange": "22–24 בספטמבר 2026",
+        "shortDateRange": "22–24 בספטמבר 2026",
+        "cardDate": "ג' 22 עד 24 בספטמבר",
+        "availability": "unverified",
+        "availabilityLabel": "זמינות מאושרת באופן ידני",
+        "confirmedLocation": "שולחן מדויק או פינה שקטה משותפת לאחר ששני הצדדים מקבלים",
+        "disclaimer": "HumanX אמסטרדם אינה שותפה אלא אם צוין."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "הוֹן",
+          "label": "מייסדים ↔ משקיעים",
+          "pairing": "מייסד × משקיע ראשוני",
+          "body": "המייסדים חולקים את ההעלאה, גודל ההמחאות והסיבה להיפגש. משקיעים חולקים תזה, בודקים את גודלם ואת המייסדים שהם רוצים למצוא.",
+          "sides": [
+            "מייסד",
+            "משקיע"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "מייסד שותף",
+          "label": "מייסדים ↔ מייסדים שותפים",
+          "pairing": "מייסד × מייסד שותף",
+          "body": "כל צד חולק את התפקיד או החוזק שהם מביאים, את הפער שהם רוצים למלא, את שלב החברה ומה שכבר בנוי.",
+          "sides": [
+            "מייסד",
+            "מייסד שותף פוטנציאלי"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Business Fit",
+          "label": "סטארטאפים ↔ סטארטאפים",
+          "pairing": "אתחול × הפעלה — BD",
+          "body": "כל סטארטאפ חולק את מה שהוא מציע, את הסקטורים או סוגי החברה שהוא רוצה לפגוש, ואיך נראית התאמה מסחרית שימושית.",
+          "sides": [
+            "הצעת סטארט-אפ",
+            "Startup seeking"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "כעת תואם ב-HumanX אמסטרדם - 22-24 בספטמבר 2026",
+        "heading": "היכרות עסקית אמיתית, אדם אחד בכל פעם.",
+        "accentText": "היכרות עסקית אמיתית,",
+        "body": "מייסדים מוצאים משקיעים - ומשקיעים מוצאים מייסדים. מייסדים שותפים מוצאים זה את זה. סטארט-אפים מוצאים את הסטארט-אפ הנכון לקנות ממנו, למכור או לבנות איתו. ליין מציע זיווג אחד בכל פעם. שני הצדדים אומרים כן.",
+        "primaryCtaLabel": "צ'אט עם ליין",
+        "secondaryCtaLabel": "תראה איך זה עובד",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "ליין, מפעיל מבוא לכנס כנף רגוע",
+        "chat": {
+          "statusLabel": "באינטרנט · על הרצפה",
+          "operatorBadge": "מנוהל על ידי אדם",
+          "openingMessage": "היי, אני ליין. אני מציג אדם אחד שנבחר בקפידה בכל פעם - אף פעם לא רשימה.",
+          "inputPlaceholder": "שאל את ליין על ההקדמה הבאה שלך...",
+          "suggestedPrompts": [
+            "איך בוחרים?",
+            "מה יקרה אם אעבור?",
+            "מתי משותפים פרטים?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "תקציר ההקדמה הפרטי שלך",
+          "introBody": "אתה אומר לי באיזה צד של השולחן אתה נמצא ואיך נראית פגישה שימושית. אני אציע התאמה אחת. שניהם מקבלים או עוברים באופן פרטי.",
+          "trackLabel": "מסלול מבוא",
+          "sideLabel": "הצד שלך",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "אִרגוּן",
+              "placeholder": "חברה או קרן",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "התפקיד שלך",
+              "placeholder": "מייסד, משקיע, מפעיל...",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "אירוע נוכחי",
+              "placeholder": "humanx אמסטרדם",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "יַעַד",
+              "placeholder": "מה יהפוך את השיחה לבעלת ערך?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "מה שאתה מציע",
+              "placeholder": "מה אתה יכול לתרום?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "מה שאתה צריך",
+              "placeholder": "איזה סוג של עזרה או מקבילה?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "קריטריוני התאמה",
+              "placeholder": "במה, תזה, מומחיות, סגנון עבודה...",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "זְמִינוּת",
+              "placeholder": "ימים וחלונות זמן שימושיים",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "אילוצים פרטיים",
+              "placeholder": "כל דבר שליין צריך לשמור על פרטיות",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "בנייה בקול · 5 דקות",
+          "reviewLabel": "תקציר סקירה",
+          "editLabel": "לַעֲרוֹך",
+          "reviewHeading": "עיין בתקציר הפרטי שלך",
+          "reviewBody": "שום דבר לא נשלח, מחפש או משותף עד שתיכנס ותאשר במפורש.",
+          "submitLabel": "היכנס ושלח לליין",
+          "loginNotice": "היכנס כדי להגיש תקציר מבוא פרטי זה ל-Lane לסקירה אנושית.",
+          "expiryCopy": "תקצירים שלא הוגשו יפוג לאחר שעה.",
+          "privacyCopy": "אין חיפוש משתתפים או גילוי קשר בזמן אנונימי.",
+          "errorCopy": "ליין לא יכול היה לשמור את התקציר הזה. אנא נסה שוב או היכנס."
+        }
+      },
+      "about": {
+        "kicker": "שירות צר בכוונה",
+        "heading": "כלי רשת נתנו לך את כולם. ליין מציג לך מישהו.",
+        "body": "עסק ספציפי אחד מזדווג עם סיבה מאחוריו - בין אם ההתאמה השימושית היא הון, מייסד שותף משלים או סטארט-אפ אחר.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "מייסד ומשקיע בפגישה ראשונה ממוקדת בכנס",
+            "label": "מייסדים ↔ משקיעים"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "מייסדים פוטנציאליים דנים כיצד הם עובדים",
+            "label": "מייסדים ↔ מייסדים שותפים"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "מפעילי סטארט-אפ דנים בשיתוף פעולה עסקי",
+            "label": "סטארטאפים ↔ סטארטאפים"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "פעימות ספציפיות אינסופיות.",
+            "body": "אדם רלוונטי אחד, עם סיבה להיפגש - אף פעם לא רשימה ציבורית לעבוד עליה.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "שני הצדדים בוחרים.",
+            "body": "זיווג מוצע מתקדם רק לאחר שני כן פרטיים. גם המעבר נשאר פרטי.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "פרטי, תמיד.",
+            "body": "שמות, פרטי יצירת קשר ונקודת המפגש המדויקת נפתחת רק כאשר שני הצדדים מקבלים.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "עבור מייסדים, משקיעים, מייסדים פוטנציאליים וסטארטאפים עם סיבה קונקרטית להיפגש. לא עבור היכרויות, חיפוש עבודה, פיצ'ינג של אקספו-אולם או נטוורקינג כללי."
+      },
+      "process": {
+        "kicker": "איך ההקדמה מתרחשת",
+        "heading": "מ\"ספר לי את הצד שלך\" ועד \"הנה כשאתה נפגש\".",
+        "body": "ליין הוא מפעיל אנושי - לא שוק תואם מנוע, הזנה או הזמנות. התהליך נשאר זהה; שני הצדדים משתנים.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "לנהל שיחה אמיתית",
+            "body": "המייסדים חולקים את ההעלאה, גודל ההמחאות והסיבה להיפגש. משקיעים חולקים תזה, בודקים את גודלם ואת המייסדים שהם רוצים למצוא."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "ליין עושה את המראה",
+            "body": "המפעיל משווה את היניקה הפרטית על פני אותו מסלול ובודק את ההתאמה מעבר לתוויות הברורות."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "לעמוד באפשרות אחת טובה",
+            "body": "אתה מקבל זיווג אחד עם הקשר. שני הצדדים מקבלים או עוברים לפני שיתוף פרט ליצירת קשר."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "קבל את המשבצת המאושרת",
+            "body": "ליין קובע זמן ומקום שקט. הטבלה המדויקת ושני השמות נפתחים רק לאחר ששני הצדדים אומרים כן."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "ההתאמה האחרונה של ליין",
+        "heading": "שני עסקים מלאים. סיבה אחת טובה להיפגש.",
+        "body": "ההקדמה השימושית היא לעתים רחוקות \"שני אנשים באותו תעשייה\". זהו צורך בזמן בצד אחד ותשובה אמינה בצד השני - בתוספת שתי כן פרטיות.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "שני משתתפי אירוע שוקלים הקדמה מתחשבת"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "מפעילי סטארט-אפ דנים בשיתוף פעולה פוטנציאלי"
+          }
+        ],
+        "fitLabel": "ליין'ס Fit",
+        "criteria": [
+          "תזמון חופף",
+          "צריך והצעה יישור",
+          "שניהם בחרו בפגישה ראשונה מסוג זה"
+        ],
+        "statusHeading": "הכרטיס משתנה כאשר שתי החלטות נכנסות.",
+        "statusBody": "פורמטים של כרטיסים להמחשה - לא רשימת משתתפים ציבורית או לוח זמנים חי. הסטטוס והמיקום משתנים כאשר כל הקדמה מתקבלת.",
+        "cards": [
+          {
+            "track": "מייסד × משקיע ראשוני",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "ראי, זוידאס",
+            "note": "מחכה לשתי החלטות"
+          },
+          {
+            "track": "מייסד × מייסד שותף",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "ראי, זוידאס",
+            "note": "הנתיב מגדיר את המשבצת"
+          },
+          {
+            "track": "אתחול × הפעלה — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "שולחן מדויק או פינה שקטה משותפת לאחר ששני הצדדים מקבלים",
+            "note": "פירוט מלא נשלח באופן פרטי"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "שאלות טובות",
+        "heading": "לפני שליין עושה את ההקדמה.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "האם ליין מיועד רק למייסדים שמחפשים משקיעים?",
+            "answer": "לא. השירות הוא דו-צדדי בכוונה: משקיעים משתמשים ב-Lane כדי למצוא מייסדים, מייסדים משתמשים ב-Lane כדי למצוא משקיעים, מייסדים פוטנציאליים מוצאים זה את זה, וסטארט-אפים מוצאים סטארט-אפ אחר עם לקוח סביר או שיתוף פעולה מתאים."
+          },
+          {
+            "question": "האם ליין הוא אפליקציה תואמת?",
+            "answer": "לא. מפעיל אנושי קורא את הצריכה ומציע זיווג אחד בכל פעם. אין סיפון ציבורי, הזנת החלקה, ספריית משתתפים או מנוע התאמה אוטומטי."
+          },
+          {
+            "question": "האם כולם יראו את הפרטים שלי?",
+            "answer": "לא. הצריכה נשארת פרטית. כל מבוא מוצע מוצג רק לשני הצדדים הרלוונטיים, ופרטי התקשרות ישירים נשארים מוסתרים עד ששניהם מקבלים."
+          },
+          {
+            "question": "מה אם אעביר זיווג מוצע?",
+            "answer": "ליין מתעד את המעבר באופן פרטי וממשיך הלאה. הצד השני לא מקבל את פרטי ההתקשרות שלך, ואין דחייה או דירוג ציבורי."
+          },
+          {
+            "question": "מה קורה אחרי ששני הצדדים מקבלים?",
+            "answer": "ליין מאשר זמן ושולחן או פינה שקטה. אתה מקבל שני שמות ואת המיקום המדויק רק לאחר ששני כן נכנסים."
+          },
+          {
+            "question": "כיצד פועלת ערבות הפגישה?",
+            "answer": "הערבות חלה על המסלול שנבחר בעת ההרשמה: שלוש פגישות מקובלות בלוח האירועים הנוכחי, או שעמלת צד המייסד תוחזר. ליין מזמין את הפגישה, לא את הסבב, מייסד שותף, לקוח או עסקה."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "אירוע אחד בכל פעם",
+        "heading": "רוצים ליין באירוע שלכם?",
+        "body": "ליין עובר מוועידה נבחרת אחת לאחרת. הצטרף לרשימת ההמתנה לאירוע עתידי וספר למפעיל היכן חשובות היכרות זהירה.",
+        "nameLabel": "שֵׁם",
+        "emailLabel": "אימייל",
+        "eventLabel": "שם אירוע או ועידה",
+        "cityLabel": "עִיר",
+        "ctaLabel": "הצטרף לרשימת ההמתנה של אירוע עתידי",
+        "loginNotice": "היכנס כדי לשמור את בקשת ההקדמה של אירוע עתידי עם ליין."
+      },
+      "closing": {
+        "kicker": "מוכן כשאתה",
+        "heading": "מבוא שימושי אחד בכל פעם.",
+        "body": "ספר לליין באיזה צד של השולחן אתה נמצא. המפעיל ייקח את זה משם - מתוך מחשבה, פרטית ואדם אמיתי אחד בכל פעם.",
+        "ctaLabel": "צ'אט עם ליין",
+        "note": "ללא הזנה swipe · הסכמה הדדית בלבד · מנוהל על ידי אדם · פרטי עד ששניהם אומרים כן",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "ליין עומד ברוגע עם טאבלט, מוכן לערוך היכרות"
+      },
+      "footer": {
+        "tagline": "ליין מאת גבריאל מפעיל.",
+        "disclaimer": "ליין מתאים אנשים בכנסים ואירועים נבחרים. HumanX אמסטרדם אינה שותפה אלא אם צוין.",
+        "copyright": "2026 ליין",
+        "groups": [
+          {
+            "label": "לַחקוֹר",
+            "links": [
+              {
+                "label": "על אודות",
+                "target": "about"
+              },
+              {
+                "label": "איך זה עובד",
+                "target": "how-it-works"
+              },
+              {
+                "label": "זיווגים",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "נָתִיב",
+            "links": [
+              {
+                "label": "שאלות נפוצות",
+                "target": "faqs"
+              },
+              {
+                "label": "אירועים עתידיים",
+                "target": "waitlist"
+              },
+              {
+                "label": "בנה בריף",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

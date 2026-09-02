@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "pt",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Apresentações de negócios reais, uma pessoa de cada vez.",
+    "subheadline": "Fundadores encontram investidores — e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir.",
+    "ctaLabel": "Converse com Lane",
+    "secondaryCtaLabel": "Veja como funciona",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Operadora de introdução à conferência de pistas na HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "pista.",
+        "brandTagline": "Uma introdução cuidadosa",
+        "navItems": [
+          {
+            "label": "Sobre",
+            "target": "about"
+          },
+          {
+            "label": "Como funciona",
+            "target": "how-it-works"
+          },
+          {
+            "label": "emparelhamentos",
+            "target": "pairings"
+          },
+          {
+            "label": "Perguntas frequentes",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Conheça Lane"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "HumanoX",
+        "city": "Amesterdão",
+        "venue": "Rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 de setembro de 2026",
+        "shortDateRange": "22–24 de setembro de 2026",
+        "cardDate": "Terça-feira 22–Qui 24 de setembro",
+        "availability": "unverified",
+        "availabilityLabel": "Disponibilidade confirmada manualmente",
+        "confirmedLocation": "mesa exata ou canto tranquilo compartilhado depois que ambos os lados aceitam",
+        "disclaimer": "A HumanX Amsterdam não é uma parceira, a menos que seja declarado."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Capital",
+          "label": "Fundadores ↔ Investidores",
+          "pairing": "Fundador × Investidor de sementes",
+          "body": "Os fundadores compartilham o aumento, o tamanho da verificação e o motivo da reunião. Os investidores compartilham teses, verificam o tamanho e os fundadores que desejam encontrar.",
+          "sides": [
+            "Fundador",
+            "Investidor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Co-fundador",
+          "label": "Fundadores ↔ Cofundadores",
+          "pairing": "Fundador × Cofundador",
+          "body": "Cada lado compartilha o papel ou a força que eles trazem, a lacuna que desejam preencher, o estágio da empresa e o que já foi construído.",
+          "sides": [
+            "Fundador",
+            "Cofundador em potencial"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "ajuste de negócios",
+          "label": "Startups ↔ Startups",
+          "pairing": "Inicialização × Inicialização — BD",
+          "body": "Cada startup compartilha o que oferece, os setores ou tipos de empresa que deseja atender e como é um ajuste comercial útil.",
+          "sides": [
+            "Oferta de inicialização",
+            "busca de startups"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Agora igualando em HumanX Amsterdam — 22–24 de setembro de 2026",
+        "heading": "Apresentações de negócios reais, uma pessoa de cada vez.",
+        "accentText": "Apresentações de negócios reais,",
+        "body": "Fundadores encontram investidores — e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir. Lane propõe um emparelhamento de cada vez. Ambos os lados dizem que sim.",
+        "primaryCtaLabel": "Converse com Lane",
+        "secondaryCtaLabel": "Veja como funciona",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, uma operadora de introdução à conferência com asas relaxadas",
+        "chat": {
+          "statusLabel": "Online · no chão",
+          "operatorBadge": "Humano-gerido",
+          "openingMessage": "Olá, sou Lane. Apresento uma pessoa cuidadosamente escolhida de cada vez – nunca uma lista.",
+          "inputPlaceholder": "Pergunte à Lane sobre sua próxima introdução…",
+          "suggestedPrompts": [
+            "Como você escolhe?",
+            "O que acontece se eu passar?",
+            "Quando os detalhes são compartilhados?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Seu resumo de introdução privado",
+          "introBody": "Você me diz de que lado da mesa está e como é uma reunião útil. Vou propor um ajuste. Ambos aceitam ou passam em particular.",
+          "trackLabel": "Trilha de introdução",
+          "sideLabel": "Seu lado",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organização",
+              "placeholder": "empresa ou fundo",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "seu papel",
+              "placeholder": "Fundador, investidor, operador…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Evento atual",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Objetivo",
+              "placeholder": "O que tornaria a conversa valiosa?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "o que você oferece",
+              "placeholder": "O que você pode contribuir?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "O que você precisa",
+              "placeholder": "Que tipo de ajuda ou contrapartida?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Critérios de ajuste",
+              "placeholder": "Palco, tese, expertise, estilo de trabalho…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Disponibilidade",
+              "placeholder": "Dias e janelas úteis de tempo",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Restrições privadas",
+              "placeholder": "Qualquer coisa que a pista deve se manter privada",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Construir por voz · 5 min",
+          "reviewLabel": "Resumo da revisão",
+          "editLabel": "Editar",
+          "reviewHeading": "Revise seu resumo privado",
+          "reviewBody": "Nada é enviado, pesquisado ou compartilhado até que você faça login e aprove explicitamente.",
+          "submitLabel": "Faça login e envie para a Lane",
+          "loginNotice": "Faça login para enviar este resumo de introdução privado à Lane for Human Review.",
+          "expiryCopy": "Os resumos não enviados expiram após uma hora.",
+          "privacyCopy": "Nenhum participante pesquisa ou divulgação de contatos enquanto anônimos.",
+          "errorCopy": "Lane não conseguiu salvar este resumo. Por favor, tente novamente ou faça login."
+        }
+      },
+      "about": {
+        "kicker": "um serviço deliberadamente estreito",
+        "heading": "As ferramentas de networking deram a todos vocês. Lane apresenta você a alguém.",
+        "body": "Um emparelhamento de negócios específico com um motivo por trás disso - seja a correspondência útil, é o capital, um cofundador complementar ou outra startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Fundador e investidor em uma primeira reunião focada em uma conferência",
+            "label": "Fundadores ↔ Investidores"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potenciais cofundadores discutindo como eles funcionam",
+            "label": "Fundadores ↔ Cofundadores"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operadores de inicialização discutindo uma colaboração de negócios",
+            "label": "Startups ↔ Startups"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Batidas específicas sem fim.",
+            "body": "Uma pessoa relevante, com um motivo para se encontrar, nunca uma lista pública para trabalhar.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Ambos os lados escolhem.",
+            "body": "Um emparelhamento proposto avança somente após dois sims privados. Passar permanece privado também.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privado, sempre.",
+            "body": "Nomes, detalhes de contato e o ponto de encontro exato apenas desbloqueiam quando ambos os lados aceitam.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Para fundadores, investidores, potenciais cofundadores e startups com um motivo concreto para se encontrar. Não é para namoro, busca de emprego, apresentação de exposições ou networking em geral."
+      },
+      "process": {
+        "kicker": "Como acontece a introdução",
+        "heading": "De “Diga-me o seu lado” a “Aqui está quando você está se reunindo”.",
+        "body": "Lane é uma operadora humana, não um motor, feed ou mercado de reservas correspondentes. O processo permanece o mesmo; Os dois lados mudam.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "ter uma conversa real",
+            "body": "Os fundadores compartilham o aumento, o tamanho da verificação e o motivo da reunião. Os investidores compartilham teses, verificam o tamanho e os fundadores que desejam encontrar."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane faz a aparência",
+            "body": "A operadora compara a entrada privada na mesma pista e verifica o ajuste além das etiquetas óbvias."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Conheça uma boa possibilidade",
+            "body": "Você obtém um emparelhamento proposto com o contexto. Ambos os lados aceitam ou passam antes que qualquer detalhe de contato seja compartilhado."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "obter o slot confirmado",
+            "body": "Lane define um horário e um lugar tranquilo. A tabela exata e dois nomes desbloqueiam somente depois que ambos os lados disserem sim."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "O mais recente ajuste da Lane",
+        "heading": "Dois negócios completos. Um bom motivo para se encontrar.",
+        "body": "A introdução útil raramente é “duas pessoas na mesma indústria”. É uma necessidade oportuna de um lado e uma resposta confiável do outro – além de dois sim privados.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dois participantes do evento considerando uma introdução ponderada"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operadores de inicialização discutindo uma potencial colaboração"
+          }
+        ],
+        "fitLabel": "Ajuste da Lane",
+        "criteria": [
+          "Sobreposições de tempo",
+          "Necessidade e oferta Alinhar",
+          "Ambos optaram por este tipo de primeiro encontro"
+        ],
+        "statusHeading": "A carta muda à medida que duas decisões chegam.",
+        "statusBody": "Formatos de cartão ilustrativos, não uma lista pública de participantes ou uma programação ao vivo. O status e a localização mudam à medida que cada introdução é aceita.",
+        "cards": [
+          {
+            "track": "Fundador × Investidor de sementes",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Aguardando duas decisões"
+          },
+          {
+            "track": "Fundador × Cofundador",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane está definindo o slot"
+          },
+          {
+            "track": "Inicialização × Inicialização — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "mesa exata ou canto tranquilo compartilhado depois que ambos os lados aceitam",
+            "note": "Detalhes completos enviados em particular"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Boas perguntas",
+        "heading": "Antes de Lane fazer a introdução.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "A Lane é apenas para fundadores à procura de investidores?",
+            "answer": "Não. O serviço é deliberadamente bilateral: os investidores usam o Lane para encontrar fundadores, os fundadores usam a Lane para encontrar investidores, potenciais cofundadores se encontram e as startups encontram outra startup com um cliente plausível ou uma colaboração adequada."
+          },
+          {
+            "question": "Lane é um aplicativo correspondente?",
+            "answer": "Não. Um operador humano lê a entrada e propõe um emparelhamento de cada vez. Não há deck público, feed de deslizamento, diretório de participantes ou mecanismo de correspondência automatizada."
+          },
+          {
+            "question": "Todos verão meus dados?",
+            "answer": "Não. A entrada permanece privada. Cada introdução proposta é mostrada apenas para os dois lados relevantes, e os detalhes diretos de contato permanecem ocultos até que ambos aceitem."
+          },
+          {
+            "question": "E se eu passar uma proposta de emparelhamento?",
+            "answer": "Lane registra a passagem em particular e segue em frente. O outro lado não recebe seus detalhes de contato e não há rejeição ou classificação pública."
+          },
+          {
+            "question": "O que acontece depois que ambos os lados aceitam?",
+            "answer": "Lane confirma um tempo e uma mesa ou canto tranquilo. Você recebe dois nomes e a localização exata somente após os dois sims."
+          },
+          {
+            "question": "Como funciona a garantia da reunião?",
+            "answer": "A garantia se aplica à faixa selecionada na inscrição: três reuniões aceitas no calendário atual do evento ou a taxa do fundador é reembolsada. Lane registra a reunião, não a rodada, cofundador, cliente ou negócio."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Um evento de cada vez",
+        "heading": "Quer Lane no seu evento?",
+        "body": "Lane se move de uma conferência selecionada para outra. Junte-se à lista de espera de eventos futuros e diga à operadora onde as introduções cuidadosas seriam importantes.",
+        "nameLabel": "Nome",
+        "emailLabel": "O email",
+        "eventLabel": "Nome do evento ou conferência",
+        "cityLabel": "Cidade",
+        "ctaLabel": "Junte-se à lista de espera do futuro evento",
+        "loginNotice": "Faça login para salvar esta solicitação de introdução ao futuro com o Lane."
+      },
+      "closing": {
+        "kicker": "Pronto quando estiveres",
+        "heading": "Uma introdução útil de cada vez.",
+        "body": "Diga a Lane de que lado da mesa você está. A operadora a partir daí — pensativo, em particular e uma pessoa real de cada vez.",
+        "ctaLabel": "Converse com Lane",
+        "note": "Sem feed de deslizamento · Consentimento mútuo apenas · Corrida humana · Privado até que ambos digam sim",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane de pé calmamente com um tablet, pronto para fazer uma introdução"
+      },
+      "footer": {
+        "tagline": "Lane pela operadora Gabriel.",
+        "disclaimer": "Lane combina com as pessoas em conferências e eventos selecionados. A HumanX Amsterdam não é uma parceira, a menos que seja declarado.",
+        "copyright": "Pista de 2026",
+        "groups": [
+          {
+            "label": "Explorar",
+            "links": [
+              {
+                "label": "Sobre",
+                "target": "about"
+              },
+              {
+                "label": "Como funciona",
+                "target": "how-it-works"
+              },
+              {
+                "label": "emparelhamentos",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Pista",
+            "links": [
+              {
+                "label": "Perguntas frequentes",
+                "target": "faqs"
+              },
+              {
+                "label": "eventos futuros",
+                "target": "waitlist"
+              },
+              {
+                "label": "Construa um breve",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

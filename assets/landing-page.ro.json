@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "ro",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Introduceri reale în afaceri, o persoană la un moment dat.",
+    "subheadline": "Fondatorii găsesc investitori, iar investitorii găsesc fondatori. Co-fondatorii se găsesc. Startup-urile găsesc startup-ul potrivit de la care să cumpere, să vândă sau cu care să construiască.",
+    "ctaLabel": "Discutați cu Lane",
+    "secondaryCtaLabel": "Vezi cum funcționează",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Operator de introducere a conferinței de bandă la HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "alee.",
+        "brandTagline": "O introducere atentă",
+        "navItems": [
+          {
+            "label": "Despre",
+            "target": "about"
+          },
+          {
+            "label": "Cum functioneaza",
+            "target": "how-it-works"
+          },
+          {
+            "label": "perechi",
+            "target": "pairings"
+          },
+          {
+            "label": "Întrebări frecvente",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "întâlni Lane"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "humanx",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 septembrie 2026",
+        "shortDateRange": "22–24 sept 2026",
+        "cardDate": "Mar 22–joi 24 sept",
+        "availability": "unverified",
+        "availabilityLabel": "Disponibilitate confirmată manual",
+        "confirmedLocation": "masa exactă sau colțul liniștit împărțit după ce ambele părți acceptă",
+        "disclaimer": "Humanx Amsterdam nu este partener decât dacă este menționat."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Capital",
+          "label": "Fondatori ↔ Investitori",
+          "pairing": "Fondator × Investitor de semințe",
+          "body": "Fondatorii împărtășesc mărirea, dimensiunea cecului și motivul pentru a se întâlni. Investitorii împărtășesc teza, dimensiunea cecului și fondatorii pe care doresc să-i găsească.",
+          "sides": [
+            "Fondator",
+            "Investitor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "co-fondare",
+          "label": "Fondatori ↔ Co-fondatori",
+          "pairing": "Fondator × Co-fondator",
+          "body": "Fiecare parte împărtășește rolul sau puterea pe care o aduce, golul pe care doresc să-l ocupe, etapa companiei și ceea ce este deja construit.",
+          "sides": [
+            "Fondator",
+            "Potențial co-fondator"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "AFACERI FIT",
+          "label": "Startup-uri ↔ Startup-uri",
+          "pairing": "Startup × Startup — BD",
+          "body": "Fiecare startup împărtășește ceea ce oferă, sectoarele sau tipurile de companii pe care dorește să le întâlnească și cum arată o potrivire comercială utilă.",
+          "sides": [
+            "Oferta de pornire",
+            "Căutare de startup"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "acum se potrivește la Humanx Amsterdam — 22–24 septembrie 2026",
+        "heading": "Introduceri reale în afaceri, o persoană la un moment dat.",
+        "accentText": "Introduceri reale în afaceri,",
+        "body": "Fondatorii găsesc investitori, iar investitorii găsesc fondatori. Co-fondatorii se găsesc. Startup-urile găsesc startup-ul potrivit de la care să cumpere, să vândă sau cu care să construiască. Lane propune câte o pereche la un moment dat. Ambele părți spun da.",
+        "primaryCtaLabel": "Discutați cu Lane",
+        "secondaryCtaLabel": "Vezi cum funcționează",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, un operator de prezentare a conferinței cu aripi relaxate",
+        "chat": {
+          "statusLabel": "Online · Pe podea",
+          "operatorBadge": "condus de oameni",
+          "openingMessage": "Bună, sunt Lane. Vă prezint o persoană aleasă cu grijă la un moment dat – niciodată o listă.",
+          "inputPlaceholder": "Întrebați-l pe Lane despre următoarea introducere...",
+          "suggestedPrompts": [
+            "Cum alegi?",
+            "Ce se întâmplă dacă trec?",
+            "Când sunt împărtășite detaliile?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Rezumatul dvs. privat de introducere",
+          "introBody": "Spune-mi pe ce parte a mesei te afli și cum arată o întâlnire utilă. Îți propun o potrivire. ambele acceptă sau trec în privat.",
+          "trackLabel": "pistă de introducere",
+          "sideLabel": "Partea ta",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizare",
+              "placeholder": "companie sau fond",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Rolul tau",
+              "placeholder": "Fondator, investitor, operator...",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Evenimentul curent",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Poartă",
+              "placeholder": "Ce ar face conversația valoroasă?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "ceea ce oferi",
+              "placeholder": "Cu ce poți contribui?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "De ce ai nevoie",
+              "placeholder": "Ce fel de ajutor sau omologul?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Criterii de potrivire",
+              "placeholder": "Scenă, teză, expertiză, stil de lucru...",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Disponibilitate",
+              "placeholder": "Zile și ferestre de timp utile",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Constrângeri private",
+              "placeholder": "Orice Lane ar trebui să păstreze privat",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Build by Voice · 5 min",
+          "reviewLabel": "Rezumat de revizuire",
+          "editLabel": "Edita",
+          "reviewHeading": "Review your private brief",
+          "reviewBody": "Nimic nu este trimis, căutat sau partajat până când nu vă conectați și aprobați în mod explicit.",
+          "submitLabel": "Conectați-vă și trimiteți-vă la Lane",
+          "loginNotice": "Conectați-vă pentru a trimite acest rezumat privat la Lane pentru revizuire umană.",
+          "expiryCopy": "Briefurile netrimise expiră după o oră.",
+          "privacyCopy": "Nicio căutare de participanți sau Dezvăluire de contact în timp ce este anonim.",
+          "errorCopy": "Lane nu a putut salva acest brief. Vă rugăm să reîncercați sau să vă conectați."
+        }
+      },
+      "about": {
+        "kicker": "un serviciu în mod deliberat îngust",
+        "heading": "Instrumentele de rețea v-au oferit tuturor. Lane te prezintă pe cineva.",
+        "body": "O asociere specifică de afaceri cu un motiv în spatele acesteia - indiferent dacă potrivirea utilă este capitalul, un co-fondator complementar sau un alt startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "fondator și investitor într-o primă întâlnire concentrată la o conferință",
+            "label": "Fondatori ↔ Investitori"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "potențiali co-fondatori care discută despre modul în care funcționează",
+            "label": "Fondatori ↔ Co-fondatori"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operatorii startup care discută despre o colaborare în afaceri",
+            "label": "Startup-uri ↔ Startup-uri"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Bătăi specifice nesfârșite.",
+            "body": "O persoană relevantă, cu un motiv de întâlnire – niciodată o listă publică pe care să o rezolvi.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Ambele părți aleg.",
+            "body": "O pereche propusă avansează numai după două da private. Trecerea rămâne și privată.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "privat, întotdeauna.",
+            "body": "Numele, detaliile de contact și punctul de întâlnire exact se deblochează numai atunci când ambele părți acceptă.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Pentru fondatori, investitori, potențiali co-fondatori și startup-uri cu un motiv concret de întâlnit. Nu pentru întâlniri, căutarea unui loc de muncă, prezentarea în sala de expoziții sau crearea de rețele generale."
+      },
+      "process": {
+        "kicker": "Cum se întâmplă introducerea",
+        "heading": "De la „Spune-mi partea ta” la „Iată când te întâlnești.”",
+        "body": "Lane este un operator uman, nu un motor, feed sau piață de rezervări potrivite. Procesul rămâne același; Cele două părți se schimbă.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Aveți o conversație reală",
+            "body": "Fondatorii împărtășesc mărirea, dimensiunea cecului și motivul pentru a se întâlni. Investitorii împărtășesc teza, dimensiunea cecului și fondatorii pe care doresc să-i găsească."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane caută",
+            "body": "Operatorul compară aportul privat pe aceeași cale și verifică potrivirea dincolo de etichetele evidente."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "satisface o posibilitate bună",
+            "body": "Obțineți o asociere propusă cu contextul. Ambele părți acceptă sau trec înainte ca orice detaliu de contact să fie partajat."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Obțineți slotul confirmat",
+            "body": "Lane stabilește un timp și un loc liniștit. Tabelul exact și două nume se deblochează numai după ce ambele părți spun da."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Cea mai recentă potrivire a lui Lane",
+        "heading": "Două afaceri complete. Un motiv bun pentru a ne întâlni.",
+        "body": "Introducerea utilă este rareori „doi oameni din aceeași industrie”. Este o nevoie în timp util pe de o parte și un răspuns credibil pe de altă parte – plus două da private.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Doi participanți la eveniment care au în vedere o prezentare atentă"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operatorii de startup care discută despre o potențială colaborare"
+          }
+        ],
+        "fitLabel": "Lane’s Fit",
+        "criteria": [
+          "sincronizarea se suprapune",
+          "nevoie și ofertă se aliniază",
+          "Ambii au optat pentru acest tip de primă întâlnire"
+        ],
+        "statusHeading": "Cardul se schimbă pe măsură ce intră două decizii.",
+        "statusBody": "Formate ilustrative de carduri — nu o listă publică de participanți sau un program live. schimbarea stării și locației pe măsură ce fiecare introducere este acceptată.",
+        "cards": [
+          {
+            "track": "Fondator × Investitor de semințe",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "în așteptarea a două decizii"
+          },
+          {
+            "track": "Fondator × Co-fondator",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane stabilește slotul"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "masa exactă sau colțul liniștit împărțit după ce ambele părți acceptă",
+            "note": "Detalii complete trimise în mod privat"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Întrebări bune",
+        "heading": "Înainte ca Lane să facă introducerea.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Lane este doar pentru fondatorii care caută investitori?",
+            "answer": "Nu. Serviciul este în mod deliberat cu două fețe: investitorii folosesc Lane pentru a găsi fondatori, fondatorii folosesc Lane pentru a găsi investitori, potențialii co-fondatori se găsesc reciproc, iar startup-urile găsesc un alt startup cu un client plauzibil sau o colaborare."
+          },
+          {
+            "question": "Lane este o aplicație potrivită?",
+            "answer": "Nu. Un operator uman citește admisia și propune o pereche la un moment dat. Nu există o punte publică, un flux de glisare, un director pentru participanți sau un motor de potrivire automată."
+          },
+          {
+            "question": "Îmi va vedea toată lumea detaliile?",
+            "answer": "Nu. Admisia rămâne privată. Fiecare introducere propusă este afișată numai celor două părți relevante, iar detaliile de contact direct rămân ascunse până când ambele acceptă."
+          },
+          {
+            "question": "Ce se întâmplă dacă transmit o pereche propusă?",
+            "answer": "Lane înregistrează permisul în mod privat și merge mai departe. Cealaltă parte nu primește datele dvs. de contact și nu există nicio respingere sau clasare publică."
+          },
+          {
+            "question": "Ce se întâmplă după ce ambele părți acceptă?",
+            "answer": "Lane confirmă o oră și o masă sau un colț liniștit. Primiți două nume și locația exactă numai după ce sunt ambele da."
+          },
+          {
+            "question": "Cum funcționează garanția întâlnirii?",
+            "answer": "Garanția se aplică piesei selectate la înscriere: trei întâlniri acceptate în calendarul curent al evenimentului sau taxa de fondator este rambursată. Lane rezervă întâlnirea, nu runda, co-fondatorul, clientul sau afacerea."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "câte un eveniment",
+        "heading": "Vrei Lane la evenimentul tău?",
+        "body": "Lane se mută de la o conferință selectată la alta. Alăturați-vă listei de așteptare pentru evenimente viitoare și spuneți operatorului unde ar conta introduceri atente.",
+        "nameLabel": "Nume",
+        "emailLabel": "Posta electronica",
+        "eventLabel": "Numele evenimentului sau al conferinței",
+        "cityLabel": "Oraș",
+        "ctaLabel": "Alăturați-vă listei de așteptare pentru evenimente viitoare",
+        "loginNotice": "Conectați-vă pentru a salva această solicitare de introducere a evenimentului viitor cu Lane."
+      },
+      "closing": {
+        "kicker": "Sunt pregatit cand esti si tu",
+        "heading": "O introducere utilă la un moment dat.",
+        "body": "Spune-i lui Lane pe ce parte a mesei te afli. Operatorul o va lua de acolo – gânditor, privat și o persoană reală la un moment dat.",
+        "ctaLabel": "Discutați cu Lane",
+        "note": "Fără flux de glisare · Numai consimțământ reciproc · Condus de oameni · Privat până când ambii spun da",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane stând calm cu o tabletă, gata să facă o introducere"
+      },
+      "footer": {
+        "tagline": "banda de către operatorul Gabriel.",
+        "disclaimer": "Lane se potrivește cu oamenii la anumite conferințe și evenimente. Humanx Amsterdam nu este partener decât dacă este menționat.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Explora",
+            "links": [
+              {
+                "label": "Despre",
+                "target": "about"
+              },
+              {
+                "label": "Cum functioneaza",
+                "target": "how-it-works"
+              },
+              {
+                "label": "perechi",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Bandă",
+            "links": [
+              {
+                "label": "Întrebări frecvente",
+                "target": "faqs"
+              },
+              {
+                "label": "Evenimente viitoare",
+                "target": "waitlist"
+              },
+              {
+                "label": "Construiți un brief",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

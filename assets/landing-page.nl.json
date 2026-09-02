@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Echte zakelijke introducties, één persoon tegelijk.",
+    "subheadline": "Oprichters vinden investeerders - en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, te verkopen aan of mee te bouwen.",
+    "ctaLabel": "Chatten met Lane",
+    "secondaryCtaLabel": "Kijk hoe het werkt",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane Conference Introduction Operator bij HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "Laan.",
+        "brandTagline": "Een zorgvuldige introductie",
+        "navItems": [
+          {
+            "label": "Over",
+            "target": "about"
+          },
+          {
+            "label": "Hoe het werkt",
+            "target": "how-it-works"
+          },
+          {
+            "label": "paring",
+            "target": "pairings"
+          },
+          {
+            "label": "Veelgestelde vragen",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Meet Lane"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "mensheid",
+        "city": "Amsterdam",
+        "venue": "raai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 september 2026",
+        "shortDateRange": "22–24 sept 2026",
+        "cardDate": "di 22–do 24 sep",
+        "availability": "unverified",
+        "availabilityLabel": "Beschikbaarheid handmatig bevestigd",
+        "confirmedLocation": "Exacte tafel of rustige hoek gedeeld na beide kanten accepteren",
+        "disclaimer": "HumanX Amsterdam is geen partner tenzij vermeld."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapitaal",
+          "label": "Oprichters ↔ Investeerders",
+          "pairing": "Oprichter × Seed-investeerder",
+          "body": "Oprichters delen de verhoging, de grootte van de cheque en de reden om elkaar te ontmoeten. Beleggers delen scriptie, checkgrootte en de oprichters die ze willen vinden.",
+          "sides": [
+            "Oprichter",
+            "kleren"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "medeoprichter",
+          "label": "Oprichters ↔ Mede-oprichters",
+          "pairing": "Oprichter × Mede-oprichter",
+          "body": "Elke partij deelt de rol of kracht die ze brengen, de kloof die ze willen opvullen, de bedrijfsfase en wat al is gebouwd.",
+          "sides": [
+            "Oprichter",
+            "Aanstaande medeoprichter"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Zakelijke pasvorm",
+          "label": "Startups ↔ Startups",
+          "pairing": "Opstarten × Opstarten - BD",
+          "body": "Elke startup deelt wat het biedt, de sectoren of bedrijfstypes die het wil ontmoeten, en hoe een nuttige commerciële pasvorm eruitziet.",
+          "sides": [
+            "Opstartaanbod",
+            "Opstarten zoeken"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Nu matchen bij HumanX Amsterdam — 22–24 sept 2026",
+        "heading": "Echte zakelijke introducties, één persoon tegelijk.",
+        "accentText": "Echte zakelijke introducties",
+        "body": "Oprichters vinden investeerders - en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, te verkopen aan of mee te bouwen. Lane stelt één paring tegelijk voor. Beide partijen zeggen ja.",
+        "primaryCtaLabel": "Chatten met Lane",
+        "secondaryCtaLabel": "Kijk hoe het werkt",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, een ontspannen gevleugelde conferentie-introductieoperator",
+        "chat": {
+          "statusLabel": "online · op de vloer",
+          "operatorBadge": "slachtingon",
+          "openingMessage": "Hallo, ik ben Lane. Ik introduceer één zorgvuldig gekozen persoon tegelijk - nooit een lijst.",
+          "inputPlaceholder": "Vraag naar Lane naar je volgende introductie…",
+          "suggestedPrompts": [
+            "Hoe kies je?",
+            "Wat gebeurt er als ik passeer?",
+            "Wanneer worden details gedeeld?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Uw privé-introductiebrief",
+          "introBody": "Je vertelt me aan welke kant van de tafel je staat en hoe een nuttige vergadering eruitziet. Ik zal er een passen. beide accepteren of privé gaan.",
+          "trackLabel": "Inleiding Track",
+          "sideLabel": "jouw kant",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organisatie",
+              "placeholder": "bedrijf of fonds",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Jouw rol",
+              "placeholder": "Oprichter, investeerder, exploitant…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Huidig evenement",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Doel",
+              "placeholder": "Wat zou het gesprek waardevol maken?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Wat je aanbiedt",
+              "placeholder": "Wat kun je bijdragen?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Wat je nodig hebt",
+              "placeholder": "Wat voor soort hulp of tegenhanger?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Geschikte criteria",
+              "placeholder": "Stage, thesis, expertise, werkstijl…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Beschikbaarheid",
+              "placeholder": "dagen en nuttige tijdvensters",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Privé beperkingen",
+              "placeholder": "Alles wat Lane privé moet houden",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Bouw door stem · 5 min",
+          "reviewLabel": "Herziene korte",
+          "editLabel": "Bewerk",
+          "reviewHeading": "Bekijk uw privébriefing",
+          "reviewBody": "Er wordt niets ingediend, doorzocht of gedeeld totdat u zich aanmeldt en expliciet goedkeurt.",
+          "submitLabel": "Aanmelden en indienen bij Lane",
+          "loginNotice": "Meld u aan om deze privé-introductieopdracht in te dienen bij Lane for Human Review.",
+          "expiryCopy": "Niet-ingediende briefs verlopen na een uur.",
+          "privacyCopy": "Geen deelnemer zoeken of contact openbaar maken terwijl anoniem.",
+          "errorCopy": "Lane kon deze opdracht niet redden. Probeer het opnieuw of log in."
+        }
+      },
+      "about": {
+        "kicker": "een opzettelijk smalle dienst",
+        "heading": "Netwerktools gaven je iedereen. Lane stelt je voor aan iemand.",
+        "body": "Een specifieke zakelijke koppeling met een reden erachter - of de nuttige match nu kapitaal, een complementaire mede-oprichter of een andere startup is.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Oprichter en investeerder in een gerichte eerste bijeenkomst op een conferentie",
+            "label": "Oprichters ↔ Investeerders"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potentiële medeoprichters bespreken hoe ze werken",
+            "label": "Oprichters ↔ Mede-oprichters"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup-operators bespreken een zakelijke samenwerking",
+            "label": "Startups ↔ Startups"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "specifieke beats eindeloos.",
+            "body": "Eén relevante persoon, met een reden om elkaar te ontmoeten - nooit een openbare lijst om door te werken.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Beide kanten kiezen.",
+            "body": "Een voorgestelde koppeling gaat pas vooruit na twee privé-ja's. Passen blijft ook privé.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privé, altijd.",
+            "body": "Namen, contactgegevens en het exacte ontmoetingspunt ontgrendelen alleen wanneer beide partijen accepteren.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Voor oprichters, investeerders, potentiële medeoprichters en startups met een concrete reden om elkaar te ontmoeten. Niet voor daten, werkzoekenden, expo-hall pitching of algemeen netwerken."
+      },
+      "process": {
+        "kicker": "Hoe de introductie gebeurt",
+        "heading": "Van \"Vertel me je kant\" tot \"Hier is wanneer je elkaar ontmoet.\"",
+        "body": "Lane is een menselijke operator - geen bijpassende motor-, feed- of boekingsmarktplaats. Het proces blijft hetzelfde; De twee kanten veranderen.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Voer een echt gesprek",
+            "body": "Oprichters delen de verhoging, de grootte van de cheque en de reden om elkaar te ontmoeten. Beleggers delen scriptie, checkgrootte en de oprichters die ze willen vinden."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane doet het kijken",
+            "body": "De operator vergelijkt de particuliere inname over hetzelfde spoor en controleert de pasvorm buiten de voor de hand liggende labels."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "ontmoet een goede mogelijkheid",
+            "body": "Je krijgt een voorgestelde koppeling met context. Beide partijen accepteren of passeren voordat enig contactdetails worden gedeeld."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Ontvang het bevestigde slot",
+            "body": "Lane bepaalt een tijd en een rustige plek. De exacte tabel en twee namen worden pas ontgrendeld nadat beide kanten ja zeggen."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane's nieuwste pasvorm",
+        "heading": "Twee volle bedrijven. Een goede reden om elkaar te ontmoeten.",
+        "body": "De nuttige introductie is zelden \"twee mensen in dezelfde branche.\" Het is een tijdige behoefte aan de ene kant en een geloofwaardig antwoord aan de andere kant - plus twee privé ja.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Twee deelnemers aan het evenement overwegen een doordachte introductie"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup-operators die een mogelijke samenwerking bespreken"
+          }
+        ],
+        "fitLabel": "Lane's pasvorm",
+        "criteria": [
+          "Timing overlapt",
+          "Noodzaak en aanbieding afstemmen",
+          "Beiden hebben zich aangemeld voor dit soort eerste vergadering"
+        ],
+        "statusHeading": "De kaart verandert als er twee beslissingen binnenkomen.",
+        "statusBody": "Illustratieve kaartformaten - geen openbare deelnemerslijst of live schema. Status en locatie veranderen als elke introductie wordt geaccepteerd.",
+        "cards": [
+          {
+            "track": "Oprichter × Seed-investeerder",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Wachten op twee beslissingen"
+          },
+          {
+            "track": "Oprichter × Mede-oprichter",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "rijstrook zet de sleuf"
+          },
+          {
+            "track": "Opstarten × Opstarten - BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Exacte tafel of rustige hoek gedeeld na beide kanten accepteren",
+            "note": "Volledige details privé verzonden"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Goede vragen",
+        "heading": "Voordat Lane de introductie maakt.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Is Lane alleen voor oprichters op zoek naar investeerders?",
+            "answer": "Nee. De service is opzettelijk tweezijdig: investeerders gebruiken Lane om oprichters te vinden, oprichters gebruiken Lane om investeerders te vinden, potentiële medeoprichters vinden elkaar en startups vinden een andere startup met een plausibele klant of samenwerkingsvorm."
+          },
+          {
+            "question": "Is Lane een bijpassende app?",
+            "answer": "Nee. Een menselijke operator leest de inname en stelt één koppeling tegelijk voor. Er is geen openbaar deck, veegfeed, deelnemersdirectory of geautomatiseerde matching-engine."
+          },
+          {
+            "question": "Zal iedereen mijn gegevens zien?",
+            "answer": "Nee. Intake blijft privé. Elke voorgestelde introductie wordt alleen aan de twee relevante partijen getoond, en directe contactgegevens blijven verborgen totdat beide accepteren."
+          },
+          {
+            "question": "Wat als ik een voorgestelde koppeling doorgeef?",
+            "answer": "Lane registreert de pas privé en gaat verder. De andere kant krijgt uw contactgegevens niet en er is geen openbare afwijzing of ranking."
+          },
+          {
+            "question": "Wat gebeurt er nadat beide partijen hebben geaccepteerd?",
+            "answer": "Lane bevestigt een tijd en een tafel of rustige hoek. U ontvangt twee namen en de exacte locatie pas nadat beide YESE's binnen zijn."
+          },
+          {
+            "question": "Hoe werkt de vergadergarantie?",
+            "answer": "De garantie is van toepassing op de track die bij het aanmelden is geselecteerd: drie geaccepteerde vergaderingen op de huidige evenementenkalender, of de vergoeding voor de oprichterszijde wordt terugbetaald. Lane boekt de vergadering, niet de ronde, mede-oprichter, klant of deal."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Eén evenement tegelijk",
+        "heading": "Wilt u rijstrook op uw evenement?",
+        "body": "Lane gaat van de ene selecte conferentie naar de volgende. Sluit je aan bij de wachtlijst van de toekomst en vertel de operator waar zorgvuldige introducties ertoe zouden doen.",
+        "nameLabel": "Naam",
+        "emailLabel": "email",
+        "eventLabel": "Naam evenement of conferentie",
+        "cityLabel": "Stad",
+        "ctaLabel": "Word lid van de wachtlijst voor toekomstig evenement",
+        "loginNotice": "Meld u aan om dit introductieverzoek voor de toekomst met Lane op te slaan."
+      },
+      "closing": {
+        "kicker": "Klaar wanneer jij het bent",
+        "heading": "één nuttige introductie tegelijk.",
+        "body": "Vertel Lane aan welke kant van de tafel je staat. De operator zal het vanaf daar overnemen - bedachtzaam, privé en één echte persoon tegelijk.",
+        "ctaLabel": "Chatten met Lane",
+        "note": "Geen veegfeed · Alleen wederzijdse toestemming · Door mensen gerunde · Privé totdat beide ja zeggen",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane rustig staan met een tablet, klaar om een introductie te maken"
+      },
+      "footer": {
+        "tagline": "Lane door Gabriël-operator.",
+        "disclaimer": "Lane matcht mensen op geselecteerde conferenties en evenementen. HumanX Amsterdam is geen partner tenzij vermeld.",
+        "copyright": "2026 rijstrook",
+        "groups": [
+          {
+            "label": "Onderzoeken",
+            "links": [
+              {
+                "label": "Over",
+                "target": "about"
+              },
+              {
+                "label": "Hoe het werkt",
+                "target": "how-it-works"
+              },
+              {
+                "label": "paring",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Steeg",
+            "links": [
+              {
+                "label": "Veelgestelde vragen",
+                "target": "faqs"
+              },
+              {
+                "label": "Toekomstige evenementen",
+                "target": "waitlist"
+              },
+              {
+                "label": "Bouw een korte",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

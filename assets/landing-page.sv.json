@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "sv",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Riktiga affärsintroduktioner, en person i taget.",
+    "subheadline": "Grundare hittar investerare – och investerare hittar grundare. Medgrundare hittar varandra. Nystartade företag hittar rätt startup att köpa från, sälja till eller bygga med.",
+    "ctaLabel": "Chatta med Lane",
+    "secondaryCtaLabel": "Se hur det fungerar",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane Conference Introduktion Operator på Humanx Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "fil.",
+        "brandTagline": "En noggrann introduktion",
+        "navItems": [
+          {
+            "label": "Om",
+            "target": "about"
+          },
+          {
+            "label": "Hur det fungerar",
+            "target": "how-it-works"
+          },
+          {
+            "label": "parningar",
+            "target": "pairings"
+          },
+          {
+            "label": "vanliga frågor",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Möt Lane"
+      },
+      "event": {
+        "name": "humanx amsterdam",
+        "shortName": "mänsklighet",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 september 2026",
+        "shortDateRange": "22–24 sept 2026",
+        "cardDate": "Tis 22–Thu 24 sep",
+        "availability": "unverified",
+        "availabilityLabel": "Tillgänglighet bekräftad manuellt",
+        "confirmedLocation": "exakt bord eller tyst hörn delat efter att båda sidor accepterat",
+        "disclaimer": "Humanx Amsterdam är inte en partner om det inte anges."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapital-",
+          "label": "Grundare ↔ Investerare",
+          "pairing": "Founder × Seed Investor",
+          "body": "Grundare delar på höjningen, checkstorleken och anledningen att träffas. Investerare delar avhandling, checkstorlek och de grundare de vill hitta.",
+          "sides": [
+            "Grundare",
+            "Investerare"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "medgrundande",
+          "label": "Grundare ↔ Medgrundare",
+          "pairing": "Grundare × Medgrundare",
+          "body": "Varje sida delar rollen eller styrkan de ger, luckan de vill fylla, företagets skede och vad som redan är byggt.",
+          "sides": [
+            "Grundare",
+            "blivande medgrundare"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "affärspassning",
+          "label": "Startups ↔ Startups",
+          "pairing": "Startup × Startup — BD",
+          "body": "Varje startup delar med sig av vad den erbjuder, vilka sektorer eller företagstyper den vill möta och hur en användbar kommersiell passform ser ut.",
+          "sides": [
+            "startup-erbjudande",
+            "Start Seeking"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Matchar nu på Humanx Amsterdam — 22–24 september 2026",
+        "heading": "Riktiga affärsintroduktioner, en person i taget.",
+        "accentText": "Riktiga affärsintroduktioner",
+        "body": "Grundare hittar investerare – och investerare hittar grundare. Medgrundare hittar varandra. Nystartade företag hittar rätt startup att köpa från, sälja till eller bygga med. Lane föreslår ett par i taget. Båda sidor säger ja.",
+        "primaryCtaLabel": "Chatta med Lane",
+        "secondaryCtaLabel": "Se hur det fungerar",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, en avslappnad bevingad konferensintroduktionsoperatör",
+        "chat": {
+          "statusLabel": "Online · På golvet",
+          "operatorBadge": "människolik",
+          "openingMessage": "Hej, jag heter Lane. Jag presenterar en noggrant utvald person i taget – aldrig en lista.",
+          "inputPlaceholder": "Fråga Lane om din nästa introduktion...",
+          "suggestedPrompts": [
+            "Hur väljer du?",
+            "Vad händer om jag klarar mig?",
+            "När delas detaljerna?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Din privata introduktionsbrief",
+          "introBody": "Du berättar för mig vilken sida av bordet du är på och hur ett användbart möte ser ut. Jag föreslår en passform. både acceptera eller passera privat.",
+          "trackLabel": "introduktionsspår",
+          "sideLabel": "Din sida",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organisation",
+              "placeholder": "Företag eller fond",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Din roll",
+              "placeholder": "Grundare, investerare, operatör...",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Aktuell händelse",
+              "placeholder": "humanx amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Mål",
+              "placeholder": "Vad skulle göra samtalet värdefullt?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Vad du erbjuder",
+              "placeholder": "Vad kan du bidra med?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Vad du behöver",
+              "placeholder": "Vilken typ av hjälp eller motsvarighet?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "passformskriterier",
+              "placeholder": "Scen, avhandling, expertis, arbetsstil...",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Tillgänglighet",
+              "placeholder": "Dagar och användbara tidsfönster",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Privata begränsningar",
+              "placeholder": "Anything Lane bör hålla sig privat",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Bygg efter röst · 5 min",
+          "reviewLabel": "recensionskort",
+          "editLabel": "Redigera",
+          "reviewHeading": "Granska din privata brief",
+          "reviewBody": "Inget skickas, söks eller delas förrän du loggar in och uttryckligen godkänner.",
+          "submitLabel": "Logga in och skicka till Lane",
+          "loginNotice": "Logga in för att skicka in denna privata introduktionsbrief till Lane för mänsklig granskning.",
+          "expiryCopy": "Oinlämnade trosor löper ut efter en timme.",
+          "privacyCopy": "Ingen deltagarsökning eller kontaktavslöjande när du är anonym.",
+          "errorCopy": "Lane kunde inte rädda denna brief. Försök igen eller logga in."
+        }
+      },
+      "about": {
+        "kicker": "en medvetet snäv tjänst",
+        "heading": "Nätverksverktyg gav dig alla. Lane presenterar dig för någon.",
+        "body": "En specifik affärsparning med en anledning bakom det – om den användbara matchningen är kapital, en kompletterande medgrundare eller en annan startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Grundare och investerare i ett fokuserat första möte på en konferens",
+            "label": "Grundare ↔ Investerare"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "potentiella medgrundare som diskuterar hur de fungerar",
+            "label": "Grundare ↔ Medgrundare"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Nystartade operatörer som diskuterar ett affärssamarbete",
+            "label": "Startups ↔ Startups"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "specifika beats oändliga.",
+            "body": "En relevant person, med anledning att träffas – aldrig en offentlig lista att arbeta igenom.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Båda sidor väljer.",
+            "body": "En föreslagen parning går framåt först efter två privata ja. Passering förblir privat också.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privat, alltid.",
+            "body": "Namn, kontaktuppgifter och den exakta mötespunkten låses upp endast när båda sidor accepterar.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "För grundare, investerare, potentiella medgrundare och startups med en konkret anledning att träffas. Inte för dejting, jobbsökande, expo-hall pitching eller allmänt nätverkande."
+      },
+      "process": {
+        "kicker": "Hur introduktionen går till",
+        "heading": "Från \"Berätta för mig din sida\" till \"Här är när du träffas.\"",
+        "body": "Lane är en mänsklig operatör – inte en matchande motor-, flödes- eller bokningsmarknad. Processen förblir densamma; De två sidorna förändras.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Ha en riktig konversation",
+            "body": "Grundare delar på höjningen, checkstorleken och anledningen att träffas. Investerare delar avhandling, checkstorlek och de grundare de vill hitta."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane ser ut",
+            "body": "Operatören jämför privat intag över samma spår och kontrollerar passformen bortom de uppenbara etiketterna."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Möt en god möjlighet",
+            "body": "Du får en föreslagen parning med sammanhang. Båda sidor accepterar eller godkänner innan någon kontaktinformation delas."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Få den bekräftade sloten",
+            "body": "Lane sätter en tid och en lugn plats. Det exakta bordet och två namn låses upp först efter att båda sidor säger ja."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lanes senaste passform",
+        "heading": "Två fulla företag. En bra anledning att träffas.",
+        "body": "Den användbara introduktionen är sällan \"två personer i samma bransch.\" Det är ett lägligt behov på ena sidan och ett trovärdigt svar på den andra – plus två privata ja.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Två evenemangsdeltagare som överväger en genomtänkt introduktion"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Nystartade operatörer som diskuterar ett potentiellt samarbete"
+          }
+        ],
+        "fitLabel": "Lane's Fit",
+        "criteria": [
+          "Tidsöverlappningar",
+          "behöver och erbjuda anpassa",
+          "Båda valde den här typen av första möte"
+        ],
+        "statusHeading": "Kortet ändras när två beslut kommer in.",
+        "statusBody": "Illustrativa kortformat – inte en offentlig deltagarelista eller liveschema. status och platsändring när varje introduktion accepteras.",
+        "cards": [
+          {
+            "track": "Founder × Seed Investor",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Väntar på två beslut"
+          },
+          {
+            "track": "Grundare × Medgrundare",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane sätter luckan"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "exakt bord eller tyst hörn delat efter att båda sidor accepterat",
+            "note": "Fullständig information skickad privat"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Bra frågor",
+        "heading": "Innan Lane gör introduktionen.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Är Lane endast för grundare som letar efter investerare?",
+            "answer": "Nej. Tjänsten är medvetet tvåsidig: Investerare använder Lane för att hitta grundare, grundare använder Lane för att hitta investerare, potentiella medgrundare hittar varandra och nystartade företag hittar en annan startup med en rimlig kund eller samverkan."
+          },
+          {
+            "question": "Är Lane en matchande app?",
+            "answer": "Nej. En mänsklig operatör läser intaget och föreslår en parning i taget. Det finns inget offentligt däck, svepflöde, deltagarkatalog eller automatiserad matchningsmotor."
+          },
+          {
+            "question": "Kommer alla att se mina uppgifter?",
+            "answer": "Nej. Intaget förblir privat. Varje föreslagen introduktion visas endast på de två relevanta sidorna, och direkta kontaktuppgifter förblir dolda tills båda accepteras."
+          },
+          {
+            "question": "Vad händer om jag förmedlar en föreslagen parning?",
+            "answer": "Lane registrerar passet privat och går vidare. Den andra sidan får inte dina kontaktuppgifter, och det finns inget offentligt avslag eller rankning."
+          },
+          {
+            "question": "Vad händer efter att båda sidor accepterat?",
+            "answer": "Lane bekräftar en tid och ett bord eller ett tyst hörn. Du får två namn och den exakta platsen först efter att båda jan är inne."
+          },
+          {
+            "question": "Hur fungerar mötesgarantin?",
+            "answer": "Garantin gäller för det spår som valts vid registrering: Tre accepterade möten i den aktuella evenemangskalendern, eller så återbetalas avgiften på grundaren. Lane bokar mötet, inte omgången, medgrundare, kund eller affär."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "En händelse i taget",
+        "heading": "Vill du ha Lane på ditt event?",
+        "body": "Lane går från en utvald konferens till nästa. Gå med i väntelistan för framtida evenemang och berätta för operatören var noggranna introduktioner skulle vara viktiga.",
+        "nameLabel": "Namn",
+        "emailLabel": "e-post",
+        "eventLabel": "Event eller konferensnamn",
+        "cityLabel": "Stad",
+        "ctaLabel": "Gå med i väntelistan för framtida evenemang",
+        "loginNotice": "Logga in för att spara denna begäran om framtida händelseintroduktion med Lane."
+      },
+      "closing": {
+        "kicker": "redo när du är",
+        "heading": "En användbar introduktion i taget.",
+        "body": "Berätta för Lane vilken sida av bordet du står på. Operatören kommer att ta det därifrån – eftertänksamt, privat och en riktig person i taget.",
+        "ctaLabel": "Chatta med Lane",
+        "note": "Nej Svepflöde · Endast ömsesidigt samtycke · Human-run · Privat tills båda säger ja",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane står lugnt med en surfplatta, redo att göra en introduktion"
+      },
+      "footer": {
+        "tagline": "Lane av Gabriel Operator.",
+        "disclaimer": "Lane matchar människor på utvalda konferenser och evenemang. Humanx Amsterdam är inte en partner om det inte anges.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Utforska",
+            "links": [
+              {
+                "label": "Om",
+                "target": "about"
+              },
+              {
+                "label": "Hur det fungerar",
+                "target": "how-it-works"
+              },
+              {
+                "label": "parningar",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Körfält",
+            "links": [
+              {
+                "label": "vanliga frågor",
+                "target": "faqs"
+              },
+              {
+                "label": "Framtida händelser",
+                "target": "waitlist"
+              },
+              {
+                "label": "Bygg en kort",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

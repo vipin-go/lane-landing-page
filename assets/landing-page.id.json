@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "id",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Perkenalan bisnis nyata, satu orang pada satu waktu.",
+    "subheadline": "Pendiri menemukan investor—dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun.",
+    "ctaLabel": "mengobrol dengan Lane",
+    "secondaryCtaLabel": "Lihat Cara Kerjanya",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Operator Pengenalan Konferensi Lane di HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "jalur.",
+        "brandTagline": "Satu pengenalan yang cermat",
+        "navItems": [
+          {
+            "label": "Tentang",
+            "target": "about"
+          },
+          {
+            "label": "Bagaimana itu bekerja",
+            "target": "how-it-works"
+          },
+          {
+            "label": "pasangan",
+            "target": "pairings"
+          },
+          {
+            "label": "FAQ",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "bertemu jalur"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "manusiax",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuida",
+        "dateRange": "22–24 September 2026",
+        "shortDateRange": "22–24 September 2026",
+        "cardDate": "Sel 22–Kamis 24 Sep",
+        "availability": "unverified",
+        "availabilityLabel": "Ketersediaan dikonfirmasi secara manual",
+        "confirmedLocation": "meja yang tepat atau sudut tenang yang dibagikan setelah kedua belah pihak menerima",
+        "disclaimer": "HumanX Amsterdam bukan mitra kecuali dinyatakan."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Modal",
+          "label": "Pendiri Investor",
+          "pairing": "Pendiri × Investor Benih",
+          "body": "Pendiri berbagi kenaikan gaji, ukuran cek, dan alasan untuk bertemu. Investor berbagi tesis, memeriksa ukuran, dan pendiri yang ingin mereka temukan.",
+          "sides": [
+            "Pendiri",
+            "Investor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Pendirian bersama",
+          "label": "Pendiri Co-founder",
+          "pairing": "Pendiri × Co-founder",
+          "body": "Masing-masing pihak berbagi peran atau kekuatan yang mereka bawa, kesenjangan yang ingin mereka isi, panggung perusahaan, dan apa yang sudah dibangun.",
+          "sides": [
+            "Pendiri",
+            "Calon co-founder"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "kesesuaian bisnis",
+          "label": "Startup Startup",
+          "pairing": "Startup × Startup — BD",
+          "body": "Setiap startup membagikan apa yang ditawarkannya, sektor atau jenis perusahaan yang ingin ditemuinya, dan seperti apa kecocokan komersial yang berguna.",
+          "sides": [
+            "Penawaran Startup",
+            "Pencarian Startup"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Sekarang cocok di HumanX Amsterdam — 22–24 Sep 2026",
+        "heading": "Perkenalan bisnis nyata, satu orang pada satu waktu.",
+        "accentText": "Perkenalan bisnis nyata",
+        "body": "Pendiri menemukan investor—dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun. Lane mengusulkan satu pasangan pada satu waktu. Kedua belah pihak mengatakan ya.",
+        "primaryCtaLabel": "mengobrol dengan Lane",
+        "secondaryCtaLabel": "Lihat Cara Kerjanya",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, operator pengenalan konferensi bersayap yang santai",
+        "chat": {
+          "statusLabel": "online · di lantai",
+          "operatorBadge": "Dijalankan oleh manusia",
+          "openingMessage": "Hai, saya Lane. Saya memperkenalkan satu orang yang dipilih dengan cermat pada satu waktu—tidak pernah ada daftar.",
+          "inputPlaceholder": "Tanyakan kepada Lane tentang perkenalan Anda selanjutnya…",
+          "suggestedPrompts": [
+            "Bagaimana Anda memilih?",
+            "Apa yang terjadi jika saya lulus?",
+            "Kapan detail dibagikan?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Brief perkenalan pribadi Anda",
+          "introBody": "Anda memberi tahu saya di sisi meja mana Anda berada dan seperti apa pertemuan yang bermanfaat itu. Saya akan mengusulkan satu kecocokan. keduanya menerima atau lulus secara pribadi.",
+          "trackLabel": "Jalur Pengenalan",
+          "sideLabel": "Sisi Anda",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organisasi",
+              "placeholder": "perusahaan atau dana",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Peranmu",
+              "placeholder": "Pendiri, Investor, Operator…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Peristiwa saat ini",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Tujuan",
+              "placeholder": "Apa yang akan membuat percakapan itu berharga?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Apa yang kamu tawarkan",
+              "placeholder": "Apa yang bisa Anda sumbangkan?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Apa yang kau butuhkan",
+              "placeholder": "Bantuan atau rekan seperti apa?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Kriteria yang sesuai",
+              "placeholder": "Tahap, tesis, keahlian, gaya kerja…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Tersedianya",
+              "placeholder": "Jendela Hari dan Waktu yang Berguna",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Kendala pribadi",
+              "placeholder": "Jalur apa pun yang harus dirahasiakan",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Bangun dengan suara · 5 menit",
+          "reviewLabel": "Tinjau singkat",
+          "editLabel": "Memimpin redaksi",
+          "reviewHeading": "Tinjau brief pribadi Anda",
+          "reviewBody": "Tidak ada yang dikirimkan, ditelusuri, atau dibagikan sampai Anda masuk dan secara eksplisit menyetujuinya.",
+          "submitLabel": "Masuk dan Kirim ke Lane",
+          "loginNotice": "Masuk untuk mengirimkan ringkasan pengantar pribadi ini ke Lane untuk peninjauan manusia.",
+          "expiryCopy": "Celana dalam yang tidak terkirim kedaluwarsa setelah satu jam.",
+          "privacyCopy": "Tidak ada pencarian peserta atau pengungkapan kontak saat anonim.",
+          "errorCopy": "Lane tidak bisa menyimpan brief ini. Silakan coba lagi atau masuk."
+        }
+      },
+      "about": {
+        "kicker": "layanan yang sengaja sempit",
+        "heading": "Alat jaringan memberi Anda semua orang. Lane memperkenalkan Anda kepada seseorang.",
+        "body": "Satu pasangan bisnis tertentu dengan alasan di baliknya—apakah kecocokan yang berguna adalah modal, co-founder yang saling melengkapi, atau startup lain.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Pendiri dan investor dalam pertemuan pertama yang terfokus di sebuah konferensi",
+            "label": "Pendiri Investor"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Calon co-founder yang membahas cara kerjanya",
+            "label": "Pendiri Co-founder"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operator startup membahas kolaborasi bisnis",
+            "label": "Startup Startup"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Ketukan khusus tak berujung.",
+            "body": "satu orang yang relevan, dengan alasan untuk bertemu—tidak pernah ada daftar publik yang harus diselesaikan.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "kedua belah pihak memilih.",
+            "body": "Pasangan yang diusulkan bergerak maju hanya setelah dua ya pribadi. Passing tetap pribadi juga.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Pribadi, selalu.",
+            "body": "Nama, detail kontak, dan titik pertemuan yang tepat hanya terbuka jika kedua belah pihak menerima.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Untuk pendiri, investor, calon pendiri, dan startup dengan alasan konkret untuk bertemu. Bukan untuk kencan, pencarian pekerjaan, pitching expo-hall, atau jaringan umum."
+      },
+      "process": {
+        "kicker": "Bagaimana Pengenalan Terjadi",
+        "heading": "Dari \"Katakan padaku sisimu\" hingga \"Inilah saat kau bertemu.\"",
+        "body": "Lane adalah operator manusia—bukan mesin yang cocok, pakan, atau pasar pemesanan. Prosesnya tetap sama; Kedua belah pihak berubah.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Lakukan percakapan nyata",
+            "body": "Pendiri berbagi kenaikan gaji, ukuran cek, dan alasan untuk bertemu. Investor berbagi tesis, memeriksa ukuran, dan pendiri yang ingin mereka temukan."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane melakukan pencarian",
+            "body": "Operator membandingkan asupan pribadi di trek yang sama dan memeriksa kecocokan di luar label yang jelas."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Temui satu kemungkinan bagus",
+            "body": "Anda mendapatkan satu pasangan yang diusulkan dengan konteks. Kedua belah pihak menerima atau lulus sebelum detail kontak dibagikan."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Dapatkan slot yang dikonfirmasi",
+            "body": "Lane menetapkan waktu dan tempat yang tenang. Tabel yang tepat dan dua nama hanya terbuka setelah kedua belah pihak mengatakan ya."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Fit terbaru Lane",
+        "heading": "Dua bisnis penuh. Satu alasan bagus untuk bertemu.",
+        "body": "Pengenalan yang berguna jarang “dua orang di industri yang sama.” Ini adalah kebutuhan tepat waktu di satu sisi dan jawaban yang kredibel di sisi lain—ditambah dua ya pribadi.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Dua peserta acara mempertimbangkan perkenalan yang bijaksana"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Operator Startup Membahas Kolaborasi Potensial"
+          }
+        ],
+        "fitLabel": "Lane's Fit",
+        "criteria": [
+          "Tumpang tindih waktu",
+          "Kebutuhan dan penawaran selaras",
+          "Keduanya memilih pertemuan pertama semacam ini"
+        ],
+        "statusHeading": "Kartu berubah saat dua keputusan masuk.",
+        "statusBody": "Format kartu ilustrasi—bukan daftar peserta publik atau jadwal langsung. Status dan lokasi berubah karena setiap pengenalan diterima.",
+        "cards": [
+          {
+            "track": "Pendiri × Investor Benih",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuida",
+            "note": "Menunggu dua keputusan"
+          },
+          {
+            "track": "Pendiri × Co-founder",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuida",
+            "note": "Lane sedang mengatur slot"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "meja yang tepat atau sudut tenang yang dibagikan setelah kedua belah pihak menerima",
+            "note": "Detail lengkap dikirim secara pribadi"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "pertanyaan yang bagus",
+        "heading": "Sebelum Lane membuat pengenalan.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Apakah Lane hanya untuk pendiri yang mencari investor?",
+            "answer": "Tidak. Layanan ini sengaja dua sisi: investor menggunakan jalur untuk menemukan pendiri, pendiri menggunakan jalur untuk menemukan investor, calon co-founder menemukan satu sama lain, dan startup menemukan startup lain dengan pelanggan yang masuk akal atau kolaborasi yang sesuai."
+          },
+          {
+            "question": "Apakah Lane merupakan aplikasi yang cocok?",
+            "answer": "Tidak. Seorang operator manusia membaca asupan dan mengusulkan satu pasangan pada satu waktu. Tidak ada dek publik, swipe feed, direktori peserta, atau mesin pencocokan otomatis."
+          },
+          {
+            "question": "Apakah semua orang akan melihat detail saya?",
+            "answer": "Tidak. Asupan tetap pribadi. Setiap pengenalan yang diusulkan hanya ditunjukkan kepada dua sisi yang relevan, dan detail kontak langsung tetap tersembunyi sampai keduanya menerima."
+          },
+          {
+            "question": "Bagaimana jika saya meneruskan pasangan yang diusulkan?",
+            "answer": "Lane merekam pass secara pribadi dan melanjutkan. Sisi lain tidak diberikan rincian kontak Anda, dan tidak ada penolakan atau peringkat publik."
+          },
+          {
+            "question": "Apa yang terjadi setelah kedua belah pihak menerima?",
+            "answer": "Lane mengkonfirmasi waktu dan meja atau sudut yang tenang. Anda menerima dua nama dan lokasi yang tepat hanya setelah kedua ya masuk."
+          },
+          {
+            "question": "Bagaimana cara kerja jaminan rapat?",
+            "answer": "Jaminan berlaku untuk trek yang dipilih saat mendaftar: tiga pertemuan yang diterima pada kalender acara saat ini, atau biaya sisi pendiri dikembalikan. Lane memesan pertemuan, bukan putaran, co-founder, pelanggan, atau kesepakatan."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "satu peristiwa pada suatu waktu",
+        "heading": "Ingin Lane di acara Anda?",
+        "body": "Lane bergerak dari satu konferensi pilih ke konferensi berikutnya. Bergabunglah dengan daftar tunggu acara masa depan dan beri tahu operator di mana perkenalan yang cermat akan penting.",
+        "nameLabel": "Nama",
+        "emailLabel": "Email",
+        "eventLabel": "Nama acara atau konferensi",
+        "cityLabel": "Kota",
+        "ctaLabel": "Bergabunglah dengan daftar tunggu acara mendatang",
+        "loginNotice": "Masuk untuk menyimpan permintaan pengenalan acara mendatang dengan Lane."
+      },
+      "closing": {
+        "kicker": "siap ketika Anda",
+        "heading": "satu perkenalan yang berguna pada satu waktu.",
+        "body": "Beri tahu Lane di sisi meja mana Anda berada. Operator akan mengambilnya dari sana—dengan penuh pertimbangan, secara pribadi, dan satu orang pada satu waktu.",
+        "ctaLabel": "mengobrol dengan Lane",
+        "note": "Tidak Ada Umpan Gesek · Saling Persetujuan · Lari Manusia · Pribadi Sampai Keduanya Mengatakan Ya",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane berdiri dengan tenang dengan tablet, siap untuk membuat perkenalan"
+      },
+      "footer": {
+        "tagline": "Jalur oleh operator Gabriel.",
+        "disclaimer": "Lane mencocokkan orang-orang di konferensi dan acara tertentu. HumanX Amsterdam bukan mitra kecuali dinyatakan.",
+        "copyright": "Jalur 2026",
+        "groups": [
+          {
+            "label": "Menjelajah",
+            "links": [
+              {
+                "label": "Tentang",
+                "target": "about"
+              },
+              {
+                "label": "Bagaimana itu bekerja",
+                "target": "how-it-works"
+              },
+              {
+                "label": "pasangan",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Jalur",
+            "links": [
+              {
+                "label": "FAQ",
+                "target": "faqs"
+              },
+              {
+                "label": "acara mendatang",
+                "target": "waitlist"
+              },
+              {
+                "label": "Membangun Singkat",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

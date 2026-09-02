@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "et",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Päris äri tutvustused, üks inimene korraga.",
+    "subheadline": "Asutajad leiavad investoreid – ja investorid leiavad asutajaid. Kaasasutajad leiavad üksteist. Startup'id leiavad õige startup'i, kellelt osta, kellele müüa või kellega koos ehitada.",
+    "ctaLabel": "Vestle Lanega",
+    "secondaryCtaLabel": "Vaadake, kuidas see toimib",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane konverentsi tutvustuste operaator HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "Lane.",
+        "brandTagline": "Üks hoolikas tutvustus",
+        "navItems": [
+          {
+            "label": "Teave",
+            "target": "about"
+          },
+          {
+            "label": "Kuidas see toimib",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Paarid",
+            "target": "pairings"
+          },
+          {
+            "label": "KKK",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Kohtuge Lanega"
+      },
+      "event": {
+        "name": "HumanX Amsterdam",
+        "shortName": "HumanX",
+        "city": "Amsterdam",
+        "venue": "RAI",
+        "neighborhood": "RAI, Zuidas",
+        "dateRange": "22.–24. september 2026",
+        "shortDateRange": "22.–24. sept 2026",
+        "cardDate": "T 22.–N 24. sept",
+        "availability": "unverified",
+        "availabilityLabel": "Saadavus kinnitatud käsitsi",
+        "confirmedLocation": "Täpne laud või vaikne nurgake jagatakse pärast mõlema poole nõusolekut",
+        "disclaimer": "HumanX Amsterdam ei ole partner, kui pole teisiti öeldud."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapital",
+          "label": "Asutajad ↔ investorid",
+          "pairing": "Asutaja × Seemneinvestor",
+          "body": "Asutajad jagavad rahastust, tšeki suurust ja kohtumise põhjust. Investorid jagavad teesit, tšeki suurust ja asutajaid, keda nad soovivad leida.",
+          "sides": [
+            "Asutaja",
+            "Investor"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Kaasasutamine",
+          "label": "Asutajad ↔ kaasasutajad",
+          "pairing": "Asutaja × Kaasasutaja",
+          "body": "Kumbki pool jagab rolli või tugevust, mida nad toovad, tühimikku, mida soovitakse täita, ettevõtte staadiumi ja seda, mis on juba ehitatud.",
+          "sides": [
+            "Asutaja",
+            "Potentsiaalne kaasasutaja"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Ärisobivus",
+          "label": "Startup'id ↔ startup'id",
+          "pairing": "Startup × Startup – BD",
+          "body": "Iga startup jagab, mida pakub, sektoreid või ettevõtte tüüpe, kellega soovib kohtuda, ja milline näeb välja kasulik ärisobivus.",
+          "sides": [
+            "Startup'i pakkumine",
+            "Startup'i otsing"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Hetkel sobitatakse HumanX Amsterdamis – 22.–24. sept 2026",
+        "heading": "Päris äri tutvustused, üks inimene korraga.",
+        "accentText": "Päris äri tutvustused,",
+        "body": "Asutajad leiavad investoreid – ja investorid leiavad asutajaid. Kaasasutajad leiavad üksteist. Startup'id leiavad õige startup'i, kellelt osta, kellele müüa või kellega koos ehitada. Lane pakub korraga ühe paari. Mõlemad pooled ütlevad jah.",
+        "primaryCtaLabel": "Vestle Lanega",
+        "secondaryCtaLabel": "Vaadake, kuidas see toimib",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, rahulik tiibuline konverentsi tutvustuste operaator",
+        "chat": {
+          "statusLabel": "Võrgus · kohapeal",
+          "operatorBadge": "Inimjuhitud",
+          "openingMessage": "Tere, mina olen Lane. Tutvustan korraga üht hoolikalt valitud inimest – mitte kunagi nimekirja.",
+          "inputPlaceholder": "Küsi Lanelt oma järgmise tutvustuse kohta…",
+          "suggestedPrompts": [
+            "Kuidas te valite?",
+            "Mis juhtub, kui ma keeldun?",
+            "Millal detaile jagatakse?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Teie privaatne tutvustuse kokkuvõte",
+          "introBody": "Ütlete mulle, millisel pool lauda te olete ja milline näeb välja kasulik kohtumine. Pakun ühe sobivuse. Mõlemad nõustuvad või keelduvad privaatselt.",
+          "trackLabel": "Tutvustuse rada",
+          "sideLabel": "Teie pool",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organisatsioon",
+              "placeholder": "Ettevõte või fond",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Teie roll",
+              "placeholder": "Asutaja, investor, operaator…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Praegune üritus",
+              "placeholder": "HumanX Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Eesmärk",
+              "placeholder": "Mis muudaks vestluse väärtuslikuks?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Mida te pakute",
+              "placeholder": "Mida te saate panustada?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Mida te vajate",
+              "placeholder": "Millist abi või partnerit?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Sobivuskriteeriumid",
+              "placeholder": "Staadium, tees, ekspertiis, tööstiil…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Saadavus",
+              "placeholder": "Päevad ja sobivad ajavahemikud",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Privaatsed piirangud",
+              "placeholder": "Midagi, mida Lane peaks privaatseks pidama",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Koosta hääle abil · 5 min",
+          "reviewLabel": "Vaata kokkuvõtet üle",
+          "editLabel": "Muuda",
+          "reviewHeading": "Vaadake oma privaatset lühiülevaadet",
+          "reviewBody": "Midagi ei edastata, otsita ega jagata enne, kui olete sisse loginud ja selgesõnaliselt heaks kiitnud.",
+          "submitLabel": "Logige sisse ja saatke Lane'ile",
+          "loginNotice": "Logige sisse, et esitada see privaatne tutvustuslühiülevaade Lane'ile inimkontrolliks.",
+          "expiryCopy": "Esitamata lühiülevaated aeguvad ühe tunni pärast.",
+          "privacyCopy": "Anonüümsena ei toimu osalejate otsingut ega kontaktandmete avaldamist.",
+          "errorCopy": "Lane ei suutnud seda lühiülevaadet salvestada. Palun proovige uuesti või logige sisse."
+        }
+      },
+      "about": {
+        "kicker": "Siihipäraselt kitsas teenus",
+        "heading": "Võrgustikutööriistad andsid teile kõiki. Lane tutvustab teile kedagi.",
+        "body": "Üks konkreetne äriline sobivus koos põhjusega – olgu kasulik vasteks kapital, täiendav kaasasutaja või teine iduettevõte.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Asutaja ja investor fookustatud esimesel kohtumisel konverentsil",
+            "label": "Asutajad ↔ investorid"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potentsiaalsed kaasasutajad arutavad, kuidas nad töötavad",
+            "label": "Asutajad ↔ kaasasutajad"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Iduettevõtete operaatorid arutavad ärikoostööd",
+            "label": "Startup'id ↔ startup'id"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Spetsiifiline võidab lõputu.",
+            "body": "Üks asjakohane inimene, kellel on põhjus kohtuda – mitte kunagi avalik nimekiri, mida läbi töötada.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Mõlemad pooled valivad.",
+            "body": "Pakutav sobivus liigub edasi alles pärast kahte privaatset jaatust. Ka mööda minek jääb privaatseks.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privaatne, alati.",
+            "body": "Nimed, kontaktandmed ja täpne kohtumiskoht avanevad alles siis, kui mõlemad pooled nõustuvad.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Asutajatele, investoritele, potentsiaalsetele kaasasutajatele ja iduettevõtetele, kellel on konkreetne põhjus kohtuda. Mitte kohtingute, tööotsingu, messi pitching'u ega üldise võrgustikutöö jaoks."
+      },
+      "process": {
+        "kicker": "Kuidas tutvustus toimub",
+        "heading": "Alates „räägi mulle oma poolt\" kuni „siin on teie kohtumise aeg\".",
+        "body": "Lane on inimoperaator – mitte sobitusmootor, voog ega broneerimisturg. Protsess jääb samaks; kaks poolt muutuvad.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Pea tõeline vestlus",
+            "body": "Asutajad jagavad rahastust, tšeki suurust ja kohtumise põhjust. Investorid jagavad teesit, tšeki suurust ja asutajaid, keda nad soovivad leida."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane otsib",
+            "body": "Operaator võrdleb privaatseid sissekandeid samal rajal ja kontrollib sobivust kahtom ilmseid silte."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Kohtu ühe hea võimalusega",
+            "body": "Saate ühe pakutava sobivuse koos kontekstiga. Mõlemad pooled nõustuvad või mööduvad enne, kui mingeid kontaktandmeid jagatakse."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Hankige kinnitatud aeg",
+            "body": "Lane määrab aja ja vaikse koha. Täpne laud ja kaks nime avanevad alles pärast mõlema poole jaatust."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane-i viimane sobivus",
+        "heading": "Kaks täielikku ettevõtet. Üks hea põhjus kohtumiseks.",
+        "body": "Kasulik tutvustus on harva „kaks inimest samas tööstusharus\". See on õigeaegne vajadus ühel poolel ja usaldusväärne vastus teisel – pluss kaks privaatset jaatust.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Kaks ürituse osalejat kaaluvad läbimõeldud tutvustust"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Iduettevõtete operaatorid arutavad võimalikku koostööd"
+          }
+        ],
+        "fitLabel": "Lane-i sobivus",
+        "criteria": [
+          "Ajastused kattuvad",
+          "Vajadus ja pakkumine on kooskõlas",
+          "Mõlemad pooled on selleks esimeseks kohtumise liigiks nõusoleku andnud"
+        ],
+        "statusHeading": "Kaart muutub kahe otsuse saabumisel.",
+        "statusBody": "Näitlikud kaardivormingud – mitte avalik osalejate nimekiri ega reaalajas ajakava. Olek ja asukoht muutuvad iga tutvustuse vastuvõtmisel.",
+        "cards": [
+          {
+            "track": "Asutaja × Seemneinvestor",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "RAI, Zuidas",
+            "note": "Ootan kahte otsust"
+          },
+          {
+            "track": "Asutaja × Kaasasutaja",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "RAI, Zuidas",
+            "note": "Lane seab aega"
+          },
+          {
+            "track": "Startup × Startup – BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Täpne laud või vaikne nurgake jagatakse pärast mõlema poole nõusolekut",
+            "note": "Täielikud üksikasjad saadeti privaatselt"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Head küsimused",
+        "heading": "Enne kui Lane tutvustuse teeb.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Kas Lane on ainult asutajatele, kes otsivad investoreid?",
+            "answer": "Ei. Teenus on sihipäraselt kahepoolne: investorid kasutavad Lane'i asutajate leidmiseks, asutajad kasutavad Lane'i investorite leidmiseks, potentsiaalsed kaasasutajad leiavad üksteist ja iduettevõtted leiavad teise iduettevõtte usutava kliendi- või koostöösobivusega."
+          },
+          {
+            "question": "Kas Lane on sobitusrakendus?",
+            "answer": "Ei. Inimoperaator loeb sissekandeid ja pakub korraga ühe sobivuse. Puudub avalik kaardipakk, swipi-voog, osalejate kataloog või automatiseeritud sobitusmootor."
+          },
+          {
+            "question": "Kas kõik näevad minu andmeid?",
+            "answer": "Ei. Sissekanne jääb privaatseks. Iga pakutav tutvustus kuvatakse ainult kahele asjakohasele poolele ning otsesed kontaktandmed jäävad peidetuks kuni mõlemad pooled nõustuvad."
+          },
+          {
+            "question": "Mida juhtub, kui ma pakutavast sobivusest mööda lähen?",
+            "answer": "Lane salvestab möödumise privaatselt ja liigub edasi. Teisele poolele ei anta teie kontaktandmeid, avalikku tagasilükkamist ega edetabelit ei ole."
+          },
+          {
+            "question": "Mis juhtub pärast seda, kui mõlemad pooled on nõustunud?",
+            "answer": "Lane kinnitab aja ning laua või vaikse nurga. Saate kaks nime ja täpse asukoha alles pärast mõlema jaatuse saabumist."
+          },
+          {
+            "question": "Kuidas kohtumise garantii toimib?",
+            "answer": "Garantii kehtib registreerimisel valitud rajale: kolm vastuvõetud kohtumist praeguse ürituse kalendris või asutajapoolne tasu tagastatakse. Lane broneerib kohtumise, mitte ringi, kaasasutaja, kliendi ega tehingu."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Üks üritus korraga",
+        "heading": "Kas soovite Lane'i oma üritusele?",
+        "body": "Lane liigub ühelt valitud konverentsilt järgmisele. Liituge tulevaste ürituste ootenimekirjaga ja öelge operaatorile, kus läbimõeldud tutvustused oleksid olulised.",
+        "nameLabel": "Nimi",
+        "emailLabel": "E-post",
+        "eventLabel": "Ürituse või konverentsi nimi",
+        "cityLabel": "Linn",
+        "ctaLabel": "Liituge tulevaste ürituste ootenimekirjaga",
+        "loginNotice": "Logige sisse, et salvestada see tulevase ürituse tutvustustaotlus Lane'iga."
+      },
+      "closing": {
+        "kicker": "Kui olete valmis",
+        "heading": "Üks kasulik tutvustus korraga.",
+        "body": "Öelge Lane'ile, millisel laua poolel te olete. Operaator jätkab sealt edasi – läbimõeldult, privaatselt ja üks päris inimene korraga.",
+        "ctaLabel": "Vestle Lanega",
+        "note": "Ilma pärisemisvoota · Ainult vastastikuse nõusolekuga · Inimjuhitud · Privaatne kuni mõlemad ütlevad jaat",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane seisab rahulikult tahvelarvutiga, valmis tutvustust tegema"
+      },
+      "footer": {
+        "tagline": "Lane poolt Gabriel Operator.",
+        "disclaimer": "Lane sobitab inimesi valitud konverentsidel ja üritustel. HumanX Amsterdam ei ole partner, välja arvatud juhul, kui öeldud teisiti.",
+        "copyright": "2026 Lane",
+        "groups": [
+          {
+            "label": "Uurige",
+            "links": [
+              {
+                "label": "Teave",
+                "target": "about"
+              },
+              {
+                "label": "Kuidas see toimib",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Paarid",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Lane",
+            "links": [
+              {
+                "label": "KKK",
+                "target": "faqs"
+              },
+              {
+                "label": "Tulevased üritused",
+                "target": "waitlist"
+              },
+              {
+                "label": "Koostage lühiülevaade",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "el",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Πραγματικές επιχειρηματικές εισαγωγές, ένα άτομο τη φορά.",
+    "subheadline": "Οι ιδρυτές βρίσκουν επενδυτές και οι επενδυτές βρίσκουν ιδρυτές. Οι συνιδρυτές βρίσκουν ο ένας τον άλλον. Οι νεοφυείς επιχειρήσεις βρίσκουν την κατάλληλη startup για να αγοράσουν, να πουλήσουν ή να δημιουργήσουν μαζί τους.",
+    "ctaLabel": "Συζήτηση με τη λωρίδα",
+    "secondaryCtaLabel": "Δείτε πώς λειτουργεί",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane Conference Introduction Operator στο HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "λωρίδα.",
+        "brandTagline": "Μια προσεκτική εισαγωγή",
+        "navItems": [
+          {
+            "label": "Για",
+            "target": "about"
+          },
+          {
+            "label": "Πως δουλεύει",
+            "target": "how-it-works"
+          },
+          {
+            "label": "ζευγάρια",
+            "target": "pairings"
+          },
+          {
+            "label": "σύνοψη",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Συναντήστε τη λωρίδα"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "άνθρωπος",
+        "city": "Άμστερνταμ",
+        "venue": "ρέμα",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 Σεπτεμβρίου 2026",
+        "shortDateRange": "22–24 Σεπτεμβρίου 2026",
+        "cardDate": "Τρ. 22 – Πεμ 24 Σεπ",
+        "availability": "unverified",
+        "availabilityLabel": "Availability confirmed manually",
+        "confirmedLocation": "Exact table or quiet corner shared after both sides accept",
+        "disclaimer": "Η HumanX Amsterdam δεν είναι συνεργάτης εκτός και αν δηλωθεί."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Κεφάλαιο",
+          "label": "Ιδρυτές ↔ Επενδυτές",
+          "pairing": "Ιδρυτής × Επενδυτής",
+          "body": "Οι ιδρυτές μοιράζονται την αύξηση, το μέγεθος των ελέγχων και τον λόγο για να συναντηθούν. Οι επενδυτές μοιράζονται τη διατριβή, το μέγεθος των ελέγχων και τους ιδρυτές που θέλουν να βρουν.",
+          "sides": [
+            "Ιδρυτής",
+            "Επενδυτής"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "συνίδρυση",
+          "label": "Ιδρυτές ↔ Συνιδρυτές",
+          "pairing": "Ιδρυτής × Συνιδρυτής",
+          "body": "Κάθε πλευρά μοιράζεται τον ρόλο ή τη δύναμη που φέρνει, το κενό που θέλει να καλύψει, το στάδιο της εταιρείας και αυτό που έχει ήδη χτιστεί.",
+          "sides": [
+            "Ιδρυτής",
+            "υποψήφιος συνιδρυτής"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Business Fit",
+          "label": "νεοφυείς επιχειρήσεις ↔ νεοφυείς επιχειρήσεις",
+          "pairing": "Startup × Startup — BD",
+          "body": "Κάθε startup μοιράζεται αυτό που προσφέρει, τους τομείς ή τους τύπους εταιρειών που θέλει να συναντήσει και πώς φαίνεται μια χρήσιμη εμπορική προσαρμογή.",
+          "sides": [
+            "Προσφορά εκκίνησης",
+            "Αναζήτηση εκκίνησης"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Τώρα ταιριάζει στο HumanX Amsterdam — 22–24 Σεπτεμβρίου 2026",
+        "heading": "Πραγματικές επιχειρηματικές εισαγωγές, ένα άτομο τη φορά.",
+        "accentText": "Πραγματικές επιχειρηματικές εισαγωγές",
+        "body": "Οι ιδρυτές βρίσκουν επενδυτές και οι επενδυτές βρίσκουν ιδρυτές. Οι συνιδρυτές βρίσκουν ο ένας τον άλλον. Οι νεοφυείς επιχειρήσεις βρίσκουν την κατάλληλη startup για να αγοράσουν, να πουλήσουν ή να δημιουργήσουν μαζί τους. Ο Lane προτείνει ένα ζεύγος τη φορά. Και οι δύο πλευρές λένε ναι.",
+        "primaryCtaLabel": "Συζήτηση με τη λωρίδα",
+        "secondaryCtaLabel": "Δείτε πώς λειτουργεί",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, ένας χαλαρός χειριστής εισαγωγής συνεδρίων με φτερά",
+        "chat": {
+          "statusLabel": "Online · Στο πάτωμα",
+          "operatorBadge": "ανθρωπιστής",
+          "openingMessage": "Γεια, είμαι ο Lane. Παρουσιάζω ένα προσεκτικά επιλεγμένο άτομο κάθε φορά - ποτέ μια λίστα.",
+          "inputPlaceholder": "Ρωτήστε τη Lane για την επόμενη εισαγωγή σας…",
+          "suggestedPrompts": [
+            "Πώς επιλέγετε;",
+            "Τι θα συμβεί αν περάσω;",
+            "Πότε κοινοποιούνται οι λεπτομέρειες;"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Η ιδιωτική σας σύνοψη εισαγωγής",
+          "introBody": "Θα μου πείτε σε ποια πλευρά του τραπεζιού βρίσκεστε και πώς φαίνεται μια χρήσιμη συνάντηση. Θα προτείνω ένα fit. Και οι δύο δέχονται ή περνούν ιδιωτικά.",
+          "trackLabel": "τροχιά εισαγωγής",
+          "sideLabel": "Η πλευρά σου",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Οργανισμός",
+              "placeholder": "εταιρεία ή ταμείο",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Ο ρόλος σας",
+              "placeholder": "Ιδρυτής, επενδυτής, χειριστής…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Τρέχον γεγονός, τρέχουσα εκδήλωση",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Στόχος",
+              "placeholder": "Τι θα έκανε τη συζήτηση πολύτιμη;",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Αυτό που προσφέρεις",
+              "placeholder": "Τι μπορείτε να συνεισφέρετε;",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Ό,τι χρειάζεσαι",
+              "placeholder": "Τι είδους βοήθεια ή αντίστοιχη;",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "κατάλληλα κριτήρια",
+              "placeholder": "Στάδιο, διατριβή, τεχνογνωσία, στυλ εργασίας…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Διαθεσιμότητα",
+              "placeholder": "Ημέρες και χρήσιμα χρονικά παράθυρα",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Ιδιωτικοί περιορισμοί",
+              "placeholder": "Anything Lane should keep private",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Δημιουργία με φωνή · 5 λεπτά",
+          "reviewLabel": "Σύντομη ενημέρωση",
+          "editLabel": "Επεξεργασία",
+          "reviewHeading": "Ελέγξτε την ιδιωτική σας ενημέρωση",
+          "reviewBody": "Τίποτα δεν υποβάλλεται, αναζητείται ή κοινοποιείται μέχρι να συνδεθείτε και να εγκρίνετε ρητά.",
+          "submitLabel": "Συνδεθείτε και υποβάλετε στη λωρίδα",
+          "loginNotice": "Συνδεθείτε για να υποβάλετε αυτήν την ιδιωτική εισαγωγική σύνοψη στο Lane για ανθρώπινη αναθεώρηση.",
+          "expiryCopy": "Τα μη υποβληθέντα σλιπ λήγουν μετά από μία ώρα.",
+          "privacyCopy": "Δεν υπάρχει αναζήτηση συμμετεχόντων ή αποκάλυψη επικοινωνίας ενώ είναι ανώνυμος.",
+          "errorCopy": "Ο Lane δεν μπόρεσε να σώσει αυτό το σλιπ. Δοκιμάστε ξανά ή συνδεθείτε."
+        }
+      },
+      "about": {
+        "kicker": "μια εσκεμμένα στενή υπηρεσία",
+        "heading": "Τα εργαλεία δικτύωσης σας έδωσαν όλους. Ο Lane σας συστήνει σε κάποιον.",
+        "body": "Μια συγκεκριμένη επιχείρηση που συνδυάζεται με έναν λόγο πίσω από αυτό—είτε η χρήσιμη αντιστοίχιση είναι η Capital, ένας συμπληρωματικός συνιδρυτής ή μια άλλη startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Ιδρυτής και επενδυτής σε μια εστιασμένη πρώτη συνάντηση σε ένα συνέδριο",
+            "label": "Ιδρυτές ↔ Επενδυτές"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "πιθανοί συνιδρυτές που συζητούν πώς λειτουργούν",
+            "label": "Ιδρυτές ↔ Συνιδρυτές"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "χειριστές startup που συζητούν μια επιχειρηματική συνεργασία",
+            "label": "νεοφυείς επιχειρήσεις ↔ νεοφυείς επιχειρήσεις"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Συγκεκριμένα beats ατελείωτα.",
+            "body": "Ένα σχετικό πρόσωπο, με λόγο συνάντησης—ποτέ μια δημόσια λίστα για να επεξεργαστείτε.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Και οι δύο πλευρές επιλέγουν.",
+            "body": "Μια προτεινόμενη σύζευξη προχωρά μόνο μετά από δύο ιδιωτικά ναι. Το πέρασμα παραμένει επίσης ιδιωτικό.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Ιδιωτικό, πάντα.",
+            "body": "Τα ονόματα, τα στοιχεία επικοινωνίας και το ακριβές σημείο συνάντησης ξεκλειδώνουν μόνο όταν αποδεχτούν και οι δύο πλευρές.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Για ιδρυτές, επενδυτές, πιθανούς συνιδρυτές και νεοφυείς επιχειρήσεις με συγκεκριμένο λόγο να συναντηθούν. Όχι για ραντεβού, αναζήτηση εργασίας, εκθεσιακή αίθουσα ή γενική δικτύωση."
+      },
+      "process": {
+        "kicker": "Πώς γίνεται η εισαγωγή",
+        "heading": "Από το \"πες μου το πλευρό σου\" στο \"εδώ είναι όταν συναντιέσαι\".",
+        "body": "Η Lane είναι ένας ανθρώπινος χειριστής—δεν είναι μια αντίστοιχη αγορά μηχανών, ζωοτροφών ή κρατήσεων. Η διαδικασία παραμένει η ίδια. Οι δύο πλευρές αλλάζουν.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Κάντε μια πραγματική συζήτηση",
+            "body": "Οι ιδρυτές μοιράζονται την αύξηση, το μέγεθος των ελέγχων και τον λόγο για να συναντηθούν. Οι επενδυτές μοιράζονται τη διατριβή, το μέγεθος των ελέγχων και τους ιδρυτές που θέλουν να βρουν."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Η λωρίδα κάνει την εμφάνιση",
+            "body": "Ο χειριστής συγκρίνει την ιδιωτική πρόσληψη στο ίδιο κομμάτι και ελέγχει την προσαρμογή πέρα από τις προφανείς ετικέτες."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "συναντήστε μια καλή πιθανότητα",
+            "body": "Λαμβάνετε έναν προτεινόμενο συνδυασμό με το πλαίσιο. Και οι δύο πλευρές δέχονται ή περνούν πριν κοινοποιηθούν οποιαδήποτε στοιχεία επικοινωνίας."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Λάβετε την επιβεβαιωμένη υποδοχή",
+            "body": "Η λωρίδα ορίζει μια ώρα και ένα ήσυχο μέρος. Ο ακριβής πίνακας και τα δύο ονόματα ξεκλειδώνουν μόνο αφού και οι δύο πλευρές πουν ναι."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Η τελευταία εφαρμογή της Lane",
+        "heading": "Δύο πλήρεις επιχειρήσεις. Ένας καλός λόγος για να συναντηθούμε.",
+        "body": "Η χρήσιμη εισαγωγή είναι σπάνια «δύο άτομα στον ίδιο κλάδο». Είναι μια έγκαιρη ανάγκη από τη μια πλευρά και μια αξιόπιστη απάντηση από την άλλη — συν δύο ιδιωτικά ναι.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Δύο συμμετέχοντες στην εκδήλωση σκέφτονται μια στοχαστική εισαγωγή"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "φορείς εκμετάλλευσης startup που συζητούν μια πιθανή συνεργασία"
+          }
+        ],
+        "fitLabel": "Lane’s Fit",
+        "criteria": [
+          "Ο χρόνος επικαλύπτει",
+          "ανάγκη και προσφορά ευθυγράμμισης",
+          "Και οι δύο επέλεξαν αυτό το είδος της πρώτης συνάντησης"
+        ],
+        "statusHeading": "Η κάρτα αλλάζει καθώς έρχονται δύο αποφάσεις.",
+        "statusBody": "Ενδεικτικές μορφές καρτών—όχι δημόσια λίστα συμμετεχόντων ή ζωντανό πρόγραμμα. Αλλαγή κατάστασης και τοποθεσίας Καθώς κάθε εισαγωγή γίνεται αποδεκτή.",
+        "cards": [
+          {
+            "track": "Ιδρυτής × Επενδυτής",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Αναμονή για δύο αποφάσεις"
+          },
+          {
+            "track": "Ιδρυτής × Συνιδρυτής",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Η λωρίδα ρυθμίζει την υποδοχή"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Exact table or quiet corner shared after both sides accept",
+            "note": "Full detail sent privately"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Καλές ερωτήσεις",
+        "heading": "Πριν ο Lane κάνει την εισαγωγή.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Το Lane είναι μόνο για ιδρυτές που αναζητούν επενδυτές;",
+            "answer": "Όχι. Η υπηρεσία είναι σκόπιμα διπλής όψης: οι επενδυτές χρησιμοποιούν το Lane για να βρουν ιδρυτές, οι ιδρυτές χρησιμοποιούν το Lane για να βρουν επενδυτές, οι πιθανοί συνιδρυτές βρίσκουν ο ένας τον άλλον και οι νεοφυείς επιχειρήσεις βρίσκουν μια άλλη startup με εύλογο πελάτη ή συνεργασία."
+          },
+          {
+            "question": "Είναι το Lane μια εφαρμογή που ταιριάζει;",
+            "answer": "Όχι. Ένας ανθρώπινος χειριστής διαβάζει την πρόσληψη και προτείνει ένα ζεύγος τη φορά. Δεν υπάρχει δημόσιο κατάστρωμα, τροφοδοσία ολίσθησης, κατάλογος παρευρισκομένων ή αυτοματοποιημένη μηχανή αντιστοίχισης."
+          },
+          {
+            "question": "Θα δουν όλοι τα στοιχεία μου;",
+            "answer": "Όχι. Η πρόσληψη παραμένει ιδιωτική. Κάθε προτεινόμενη εισαγωγή εμφανίζεται μόνο στις δύο σχετικές πλευρές και τα στοιχεία άμεσης επαφής παραμένουν κρυφά μέχρι να αποδεχθούν και οι δύο."
+          },
+          {
+            "question": "Τι γίνεται αν περάσω σε ένα προτεινόμενο ζεύγος;",
+            "answer": "Η λωρίδα καταγράφει το πάσο ιδιωτικά και προχωρά. Στην άλλη πλευρά δεν δίνονται τα στοιχεία επικοινωνίας σας και δεν υπάρχει δημόσια απόρριψη ή κατάταξη."
+          },
+          {
+            "question": "Τι συμβαίνει αφού αποδεχτούν και οι δύο πλευρές;",
+            "answer": "Η λωρίδα επιβεβαιώνει μια ώρα και ένα τραπέζι ή μια ήσυχη γωνιά. Λαμβάνετε δύο ονόματα και την ακριβή τοποθεσία μόνο αφού εισέλθουν και τα δύο ναι."
+          },
+          {
+            "question": "Πώς λειτουργεί η εγγύηση της συνάντησης;",
+            "answer": "Η εγγύηση ισχύει για το κομμάτι που επιλέχθηκε κατά την εγγραφή: τρεις αποδεκτές συναντήσεις στο τρέχον ημερολόγιο εκδηλώσεων ή επιστρέφεται η αμοιβή του ιδρυτή. Η Lane κάνει κράτηση για τη συνάντηση, όχι για τον γύρο, τον συνιδρυτή, τον πελάτη ή τη συμφωνία."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "ένα γεγονός τη φορά",
+        "heading": "Θέλετε Lane στην εκδήλωσή σας;",
+        "body": "Η λωρίδα μετακινείται από τη μια επιλεγμένη διάσκεψη στην άλλη. Εγγραφείτε στη λίστα αναμονής του Future-Event και πείτε στον χειριστή πού θα έχουν σημασία οι προσεκτικές εισαγωγές.",
+        "nameLabel": "Όνομα",
+        "emailLabel": "Email",
+        "eventLabel": "Όνομα εκδήλωσης ή συνεδρίου",
+        "cityLabel": "Πόλη",
+        "ctaLabel": "Εγγραφείτε στη λίστα αναμονής Future-Event",
+        "loginNotice": "Συνδεθείτε για να αποθηκεύσετε αυτό το αίτημα εισαγωγής μελλοντικής εκδήλωσης με τη Lane."
+      },
+      "closing": {
+        "kicker": "έτοιμος όταν είσαι",
+        "heading": "Μια χρήσιμη εισαγωγή κάθε φορά.",
+        "body": "Πείτε στη λωρίδα σε ποια πλευρά του τραπεζιού βρίσκεστε. Ο χειριστής θα το πάρει από εκεί — στοχαστικά, ιδιωτικά και ένα πραγματικό άτομο τη φορά.",
+        "ctaLabel": "Συζήτηση με τη λωρίδα",
+        "note": "Όχι Swipe Feed · Αμοιβαία συναίνεση μόνο · Human-Run · Ιδιωτικό μέχρι να πουν και οι δύο ναι",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Η λωρίδα στέκεται ήρεμα με ένα tablet, έτοιμη να κάνει μια εισαγωγή"
+      },
+      "footer": {
+        "tagline": "λωρίδα από τον χειριστή Gabriel.",
+        "disclaimer": "Το Lane ταιριάζει με άτομα σε επιλεγμένα συνέδρια και εκδηλώσεις. Η HumanX Amsterdam δεν είναι συνεργάτης εκτός και αν δηλωθεί.",
+        "copyright": "Λωρίδα 2026",
+        "groups": [
+          {
+            "label": "Εξερευνώ",
+            "links": [
+              {
+                "label": "Για",
+                "target": "about"
+              },
+              {
+                "label": "Πως δουλεύει",
+                "target": "how-it-works"
+              },
+              {
+                "label": "ζευγάρια",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Λωρίδα",
+            "links": [
+              {
+                "label": "σύνοψη",
+                "target": "faqs"
+              },
+              {
+                "label": "μελλοντικές εκδηλώσεις",
+                "target": "waitlist"
+              },
+              {
+                "label": "Φτιάξτε μια σύντομη",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

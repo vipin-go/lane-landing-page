@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "vi",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Giới thiệu kinh doanh thực sự, một người tại một thời điểm.",
+    "subheadline": "Những người sáng lập tìm thấy các nhà đầu tư — và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với.",
+    "ctaLabel": "trò chuyện với Lane",
+    "secondaryCtaLabel": "Xem nó hoạt động như thế nào",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Nhà điều hành hội nghị Lane tại HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "làn đường.",
+        "brandTagline": "Một lời giới thiệu cẩn thận",
+        "navItems": [
+          {
+            "label": "Đây đó",
+            "target": "about"
+          },
+          {
+            "label": "Làm thế nào nó hoạt động",
+            "target": "how-it-works"
+          },
+          {
+            "label": "ghép nối",
+            "target": "pairings"
+          },
+          {
+            "label": "Câu hỏi thường gặp",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Gặp Lane"
+      },
+      "event": {
+        "name": "Humanx Amsterdam",
+        "shortName": "Humanx",
+        "city": "Amsterdam",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22–24 tháng 9 năm 2026",
+        "shortDateRange": "22–24 tháng 9 năm 2026",
+        "cardDate": "Tuệ 22–Thứ 24 tháng 9",
+        "availability": "unverified",
+        "availabilityLabel": "Tính khả dụng được xác nhận theo cách thủ công",
+        "confirmedLocation": "bảng chính xác hoặc góc yên tĩnh được chia sẻ sau khi cả hai bên chấp nhận",
+        "disclaimer": "HumanX Amsterdam không phải là đối tác trừ khi được nêu rõ."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Vốn",
+          "label": "Người sáng lập Nhà đầu tư",
+          "pairing": "Người sáng lập × Nhà đầu tư hạt giống",
+          "body": "Những người sáng lập chia sẻ việc tăng lương, kiểm tra kích thước và lý do để đáp ứng. Các nhà đầu tư chia sẻ luận án, kiểm tra quy mô và những người sáng lập mà họ muốn tìm.",
+          "sides": [
+            "người sáng lập",
+            "chủ đầu tư"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "đồng sáng lập",
+          "label": "Người sáng lập Đồng sáng lập",
+          "pairing": "Người sáng lập × Đồng sáng lập",
+          "body": "Mỗi bên chia sẻ vai trò hoặc sức mạnh mà họ mang lại, khoảng cách mà họ muốn lấp đầy, giai đoạn công ty và những gì đã được xây dựng.",
+          "sides": [
+            "người sáng lập",
+            "Người đồng sáng lập tiềm năng"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Kinh doanh phù hợp",
+          "label": "Khởi nghiệp Khởi nghiệp",
+          "pairing": "Khởi động × Khởi động - BD",
+          "body": "Mỗi công ty khởi nghiệp chia sẻ những gì nó cung cấp, các lĩnh vực hoặc loại công ty mà nó muốn đáp ứng và một sự phù hợp thương mại hữu ích trông như thế nào.",
+          "sides": [
+            "Khởi động cung cấp",
+            "khởi nghiệp tìm kiếm"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Hiện đang phù hợp tại HumanX Amsterdam - 22–24 tháng 9 năm 2026",
+        "heading": "Giới thiệu kinh doanh thực sự, một người tại một thời điểm.",
+        "accentText": "Giới thiệu kinh doanh thực sự",
+        "body": "Những người sáng lập tìm thấy các nhà đầu tư — và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với. Lane đề xuất từng cặp một. Cả hai bên đều nói có.",
+        "primaryCtaLabel": "trò chuyện với Lane",
+        "secondaryCtaLabel": "Xem nó hoạt động như thế nào",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, một nhà điều hành giới thiệu hội nghị có cánh thoải mái",
+        "chat": {
+          "statusLabel": "trực tuyến · trên sàn",
+          "operatorBadge": "chạy bằng con người",
+          "openingMessage": "Xin chào, tôi là Lane. Tôi giới thiệu một người được chọn cẩn thận tại một thời điểm — không bao giờ là danh sách.",
+          "inputPlaceholder": "Hỏi Lane về phần giới thiệu tiếp theo của bạn…",
+          "suggestedPrompts": [
+            "Bạn chọn như thế nào?",
+            "Điều gì xảy ra nếu tôi vượt qua?",
+            "Chi tiết được chia sẻ khi nào?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Bản tóm tắt giới thiệu riêng tư của bạn",
+          "introBody": "Bạn cho tôi biết bạn đang ở phía nào của bàn và một cuộc họp hữu ích trông như thế nào. Tôi sẽ đề xuất một sự phù hợp. cả hai đều chấp nhận hoặc chuyển một cách riêng tư.",
+          "trackLabel": "Bản nhạc giới thiệu",
+          "sideLabel": "Bên bạn",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Cách cấu tạo",
+              "placeholder": "công ty hoặc quỹ",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Vai trò của bạn",
+              "placeholder": "Người sáng lập, chủ đầu tư, nhà điều hành…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Sự kiện hiện tại",
+              "placeholder": "Humanx Amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Mục tiêu",
+              "placeholder": "Điều gì sẽ làm cho cuộc trò chuyện có giá trị?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "những gì bạn cung cấp",
+              "placeholder": "Bạn có thể đóng góp gì?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "những gì bạn cần",
+              "placeholder": "Loại trợ giúp hoặc đối tác nào?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Tiêu chí phù hợp",
+              "placeholder": "giai đoạn, luận văn, chuyên môn, tác phong làm việc…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Sẵn có",
+              "placeholder": "ngày và thời gian hữu ích",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Ràng buộc riêng tư",
+              "placeholder": "Bất cứ điều gì làn đường nên giữ kín",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Xây dựng bằng giọng nói · 5 phút",
+          "reviewLabel": "Đánh giá ngắn gọn",
+          "editLabel": "Chỉnh sửa",
+          "reviewHeading": "Xem lại bản tóm tắt riêng tư của bạn",
+          "reviewBody": "Không có gì được gửi, tìm kiếm hoặc chia sẻ cho đến khi bạn đăng nhập và phê duyệt rõ ràng.",
+          "submitLabel": "Đăng nhập và gửi đến Lane",
+          "loginNotice": "Đăng nhập để gửi bản tóm tắt giới thiệu riêng này tới Lane để xem xét.",
+          "expiryCopy": "Tóm tắt chưa gửi hết hạn sau một giờ.",
+          "privacyCopy": "Không tìm kiếm người tham gia hoặc tiết lộ liên hệ khi ẩn danh.",
+          "errorCopy": "Lane không thể lưu bản tóm tắt này. Vui lòng thử lại hoặc đăng nhập."
+        }
+      },
+      "about": {
+        "kicker": "một dịch vụ cố tình thu hẹp",
+        "heading": "Các công cụ mạng đã cung cấp cho bạn tất cả mọi người. Lane giới thiệu bạn với ai đó.",
+        "body": "Một doanh nghiệp cụ thể kết hợp với một lý do đằng sau nó — cho dù sự phù hợp hữu ích là vốn, một người đồng sáng lập bổ sung hay một công ty khởi nghiệp khác.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Người sáng lập và nhà đầu tư trong cuộc họp đầu tiên tập trung tại một hội nghị",
+            "label": "Người sáng lập Nhà đầu tư"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "những người đồng sáng lập tiềm năng thảo luận về cách họ làm việc",
+            "label": "Người sáng lập Đồng sáng lập"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Các nhà điều hành khởi nghiệp thảo luận về sự hợp tác kinh doanh",
+            "label": "Khởi nghiệp Khởi nghiệp"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "nhịp đập cụ thể vô tận.",
+            "body": "một người có liên quan, có lý do để gặp gỡ — không bao giờ có danh sách công khai để làm việc.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "cả hai bên chọn.",
+            "body": "Một cặp đôi được đề xuất chỉ tiến lên sau hai lần đồng ý riêng tư. Đi qua vẫn riêng tư quá.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Riêng tư, luôn luôn.",
+            "body": "Tên, chi tiết liên hệ và điểm hẹn chính xác chỉ mở khóa khi cả hai bên chấp nhận.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Đối với những người sáng lập, nhà đầu tư, những người đồng sáng lập tiềm năng và các công ty khởi nghiệp có lý do cụ thể để gặp gỡ. Không phải để hẹn hò, tìm kiếm việc làm, quảng cáo chiêu hàng hội trường, hoặc mạng chung."
+      },
+      "process": {
+        "kicker": "Giới thiệu diễn ra như thế nào",
+        "heading": "Từ “Hãy nói cho tôi biết bên cạnh bạn” đến “Đây là khi bạn đang gặp mặt.”",
+        "body": "Lane là một nhà điều hành con người — không phải là một động cơ, nguồn cấp dữ liệu hoặc thị trường đặt chỗ phù hợp. Quá trình vẫn giữ nguyên; Hai bên thay đổi.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "có một cuộc trò chuyện thực sự",
+            "body": "Những người sáng lập chia sẻ việc tăng lương, kiểm tra kích thước và lý do để đáp ứng. Các nhà đầu tư chia sẻ luận án, kiểm tra quy mô và những người sáng lập mà họ muốn tìm."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane không tìm kiếm",
+            "body": "Nhà điều hành so sánh lượng riêng tư trên cùng một đường đua và kiểm tra sự phù hợp ngoài các nhãn rõ ràng."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Gặp một khả năng tốt",
+            "body": "Bạn nhận được một cặp được đề xuất với ngữ cảnh. Cả hai bên chấp nhận hoặc vượt qua trước khi bất kỳ chi tiết liên hệ nào được chia sẻ."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Nhận vị trí đã xác nhận",
+            "body": "Lane đặt thời gian và một nơi yên tĩnh. Bảng chính xác và hai tên chỉ mở khóa sau khi cả hai bên đều nói có."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Sự phù hợp mới nhất của Lane",
+        "heading": "Hai doanh nghiệp đầy đủ. Một lý do chính đáng để gặp gỡ.",
+        "body": "Lời giới thiệu hữu ích hiếm khi là “hai người trong cùng một ngành”. Đó là nhu cầu kịp thời ở một bên và một bên là câu trả lời đáng tin cậy — cộng với hai câu trả lời riêng tư.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Hai người tham dự sự kiện đang cân nhắc giới thiệu chu đáo"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Các nhà khai thác khởi nghiệp thảo luận về sự hợp tác tiềm năng"
+          }
+        ],
+        "fitLabel": "Lane’s Fit",
+        "criteria": [
+          "thời gian chồng chéo",
+          "cần và cung cấp căn chỉnh",
+          "Cả hai đều chọn tham gia cuộc gặp gỡ đầu tiên này"
+        ],
+        "statusHeading": "Thẻ thay đổi khi có hai quyết định.",
+        "statusBody": "Định dạng thẻ minh họa — không phải danh sách người tham dự công khai hoặc lịch trình trực tiếp. trạng thái và thay đổi vị trí khi mỗi phần giới thiệu được chấp nhận.",
+        "cards": [
+          {
+            "track": "Người sáng lập × Nhà đầu tư hạt giống",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "chờ đợi hai quyết định"
+          },
+          {
+            "track": "Người sáng lập × Đồng sáng lập",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "làn đang thiết lập vị trí"
+          },
+          {
+            "track": "Khởi động × Khởi động - BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "bảng chính xác hoặc góc yên tĩnh được chia sẻ sau khi cả hai bên chấp nhận",
+            "note": "Chi tiết đầy đủ được gửi riêng tư"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "câu hỏi hay",
+        "heading": "Trước khi Lane thực hiện phần giới thiệu.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Là Lane chỉ dành cho những người sáng lập đang tìm kiếm nhà đầu tư?",
+            "answer": "Không. Dịch vụ này có chủ ý hai mặt: các nhà đầu tư sử dụng Lane để tìm người sáng lập, người sáng lập sử dụng Lane để tìm nhà đầu tư, những người đồng sáng lập tiềm năng tìm thấy nhau và các công ty khởi nghiệp tìm một công ty khởi nghiệp khác có khách hàng hợp lý hoặc sự hợp tác."
+          },
+          {
+            "question": "Lane có phải là một ứng dụng phù hợp không?",
+            "answer": "Không. Một người điều hành người đọc số lượng và đề xuất một cặp tại một thời điểm. Không có bộ bài công cộng, nguồn cấp dữ liệu vuốt, thư mục người tham dự hoặc công cụ đối sánh tự động."
+          },
+          {
+            "question": "Mọi người sẽ xem chi tiết của tôi chứ?",
+            "answer": "Không. Việc tiếp nhận vẫn ở chế độ riêng tư. Mỗi phần giới thiệu được đề xuất chỉ được hiển thị cho hai bên có liên quan và chi tiết liên hệ trực tiếp được ẩn cho đến khi cả hai đều chấp nhận."
+          },
+          {
+            "question": "Điều gì sẽ xảy ra nếu tôi chuyển một cặp được đề xuất?",
+            "answer": "Lane ghi lại đường chuyền một cách riêng tư và tiếp tục. Mặt khác không được cung cấp chi tiết liên hệ của bạn và không có sự từ chối hoặc xếp hạng công khai."
+          },
+          {
+            "question": "Điều gì xảy ra sau khi cả hai bên chấp nhận?",
+            "answer": "Làn đường xác nhận thời gian và bàn hoặc góc yên tĩnh. Bạn chỉ nhận được hai tên và vị trí chính xác sau khi cả hai có."
+          },
+          {
+            "question": "Cuộc họp đảm bảo hoạt động như thế nào?",
+            "answer": "Bảo đảm áp dụng cho bài hát được chọn khi đăng ký: Ba cuộc họp được chấp nhận trên lịch sự kiện hiện tại hoặc phí phía người sáng lập được hoàn lại. Lane đặt lịch cho cuộc họp, không phải vòng, đồng sáng lập, khách hàng hoặc giao dịch."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Một sự kiện tại một thời điểm",
+        "heading": "Muốn làn đường tại sự kiện của bạn?",
+        "body": "làn chuyển từ hội nghị chọn này sang hội nghị chọn tiếp theo. Tham gia danh sách chờ sự kiện trong tương lai và cho nhà điều hành biết nơi giới thiệu cẩn thận sẽ quan trọng.",
+        "nameLabel": "Tên",
+        "emailLabel": "Email",
+        "eventLabel": "Tên sự kiện hoặc hội nghị",
+        "cityLabel": "TP",
+        "ctaLabel": "Tham gia danh sách chờ sự kiện trong tương lai",
+        "loginNotice": "Đăng nhập để lưu yêu cầu giới thiệu sự kiện trong tương lai này với Lane."
+      },
+      "closing": {
+        "kicker": "sẵn sàng khi bạn",
+        "heading": "Một lời giới thiệu hữu ích tại một thời điểm.",
+        "body": "Cho Lane biết bạn đang ở phía nào của bảng. Người điều hành sẽ lấy nó từ đó — một cách chu đáo, riêng tư và một người thực tại một thời điểm.",
+        "ctaLabel": "trò chuyện với Lane",
+        "note": "Không có nguồn cấp dữ liệu vuốt · Chỉ sự đồng ý lẫn nhau · Người điều hành · riêng tư cho đến khi cả hai đều nói có",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane đứng bình tĩnh với máy tính bảng, sẵn sàng giới thiệu"
+      },
+      "footer": {
+        "tagline": "Lane của nhà điều hành Gabriel.",
+        "disclaimer": "Lane phù hợp với mọi người tại các hội nghị và sự kiện được chọn. HumanX Amsterdam không phải là đối tác trừ khi được nêu rõ.",
+        "copyright": "làn 2026",
+        "groups": [
+          {
+            "label": "Khám phá",
+            "links": [
+              {
+                "label": "Đây đó",
+                "target": "about"
+              },
+              {
+                "label": "Làm thế nào nó hoạt động",
+                "target": "how-it-works"
+              },
+              {
+                "label": "ghép nối",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "làn đường",
+            "links": [
+              {
+                "label": "Câu hỏi thường gặp",
+                "target": "faqs"
+              },
+              {
+                "label": "các sự kiện trong tương lai",
+                "target": "waitlist"
+              },
+              {
+                "label": "xây dựng một bản tóm tắt",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

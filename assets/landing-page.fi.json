@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "fi",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Todelliset yritysesittelyt, yksi henkilö kerrallaan.",
+    "subheadline": "Perustajat löytävät sijoittajia – ja sijoittajat löytävät perustajia. Perustajat löytävät toisensa. Startupit löytävät oikean startup-yrityksen ostaa, myydä tai rakentaa.",
+    "ctaLabel": "Keskustele Lanen kanssa",
+    "secondaryCtaLabel": "Katso kuinka se toimii",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane-konferenssin esittelyoperaattori HumanX Amsterdamissa 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "kaista.",
+        "brandTagline": "Yksi huolellinen esittely",
+        "navItems": [
+          {
+            "label": "Noin",
+            "target": "about"
+          },
+          {
+            "label": "Kuinka se toimii",
+            "target": "how-it-works"
+          },
+          {
+            "label": "pari",
+            "target": "pairings"
+          },
+          {
+            "label": "usein kysytyt kysymykset",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "kohdata"
+      },
+      "event": {
+        "name": "humanx amsterdam",
+        "shortName": "ihmisx",
+        "city": "amsterdami",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "22.–24.9.2026",
+        "shortDateRange": "22.–24.9.2026",
+        "cardDate": "ti 22.–to 24.9",
+        "availability": "unverified",
+        "availabilityLabel": "Saatavuus vahvistettu manuaalisesti",
+        "confirmedLocation": "tarkka pöytä tai hiljainen kulma jaettu sen jälkeen, kun molemmat osapuolet hyväksyvät",
+        "disclaimer": "HumanX Amsterdam ei ole kumppani, ellei toisin mainita."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Pääoma-",
+          "label": "Perustajat ↔ Sijoittajat",
+          "pairing": "Perustaja × siemensijoittaja",
+          "body": "Perustajat kertovat korotuksen, shekin koon ja tapaamisen syyn. Sijoittajat jakavat opinnäytetyön, shekin koon ja perustajat, jotka he haluavat löytää.",
+          "sides": [
+            "Perustaja",
+            "Sijoittaja"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "yhdessä toimiva",
+          "label": "Perustajat ↔ Perustajat",
+          "pairing": "Perustaja × Perustaja",
+          "body": "Kumpikin osapuoli jakaa tuomansa roolin tai vahvuuden, aukon, jonka he haluavat täyttää, yritysvaiheen ja sen, mikä on jo rakennettu.",
+          "sides": [
+            "Perustaja",
+            "mahdollinen perustaja"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Liiketoimintaan sopiva",
+          "label": "Startupit ↔ Startupit",
+          "pairing": "Startup × Startup — BD",
+          "body": "Jokainen startup jakaa, mitä se tarjoaa, mitä sektoreita tai yritystyyppejä se haluaa tavata ja miltä hyödyllinen kaupallinen istuvuus näyttää.",
+          "sides": [
+            "käynnistystarjous",
+            "Startup seeking"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Nyt ottelu HumanX Amsterdamissa – 22.–24.9.2026",
+        "heading": "Todelliset yritysesittelyt, yksi henkilö kerrallaan.",
+        "accentText": "Todelliset yritysesittelyt",
+        "body": "Perustajat löytävät sijoittajia – ja sijoittajat löytävät perustajia. Perustajat löytävät toisensa. Startupit löytävät oikean startup-yrityksen ostaa, myydä tai rakentaa. Lane ehdottaa yhtä pariliitosta kerrallaan. Molemmat osapuolet sanovat kyllä.",
+        "primaryCtaLabel": "Keskustele Lanen kanssa",
+        "secondaryCtaLabel": "Katso kuinka se toimii",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, rento siivekäs konferenssin esittelyoperaattori",
+        "chat": {
+          "statusLabel": "verkossa · lattialla",
+          "operatorBadge": "ihmisjohtuma",
+          "openingMessage": "Hei, olen Lane. Esittelen yhden huolellisesti valitun henkilön kerrallaan – en koskaan luetteloa.",
+          "inputPlaceholder": "Kysy Lanelta seuraavasta esittelystäsi…",
+          "suggestedPrompts": [
+            "Miten valitset?",
+            "Mitä tapahtuu, jos ohitan?",
+            "Milloin tiedot jaetaan?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Yksityinen esittelyesittelysi",
+          "introBody": "Kerrot minulle, millä puolella pöytää olet ja miltä hyödyllinen tapaaminen näyttää. Ehdotan yhtä sopivaa. molemmat hyväksyvät tai ohittavat yksityisesti.",
+          "trackLabel": "johdantoraita",
+          "sideLabel": "Sinun puolesi",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organisaatio",
+              "placeholder": "Yritys tai rahasto",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Sinun roolisi",
+              "placeholder": "Perustaja, sijoittaja, operaattori…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "ajankohtaistapahtuma",
+              "placeholder": "humanx amsterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Tavoite",
+              "placeholder": "Mikä tekisi keskustelusta arvokkaan?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Mitä tarjoat",
+              "placeholder": "Mitä voit antaa?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Mitä tarvitset",
+              "placeholder": "Millainen apu tai vastine?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "kelpoisuus",
+              "placeholder": "Lava, opinnäytetyö, asiantuntemus, työtyyli…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Saatavuus",
+              "placeholder": "Päivät ja hyödylliset aikaikkunat",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "yksityiset rajoitukset",
+              "placeholder": "Kaiken kaistan pitäisi pitää yksityisenä",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Rakenna äänellä · 5 min",
+          "reviewLabel": "Tarkista tiedote",
+          "editLabel": "Muokata",
+          "reviewHeading": "Tarkista yksityinen ohjeesi",
+          "reviewBody": "Mitään ei lähetetä, etsitä tai jaeta ennen kuin kirjaudut sisään ja hyväksyt sen.",
+          "submitLabel": "Kirjaudu sisään ja lähetä Lane",
+          "loginNotice": "Kirjaudu sisään lähettääksesi tämän yksityisen esittelyn Lane for Human Review -julkaisuun.",
+          "expiryCopy": "Lähettämättömät tiedotteet vanhenevat tunnin kuluttua.",
+          "privacyCopy": "ei osallistujien hakua tai yhteydenottoa anonyyminä.",
+          "errorCopy": "Lane ei voinut tallentaa tätä ohjetta. Yritä uudelleen tai kirjaudu sisään."
+        }
+      },
+      "about": {
+        "kicker": "tarkoituksella kapea palvelu",
+        "heading": "Verkostoitumistyökalut antoivat sinulle kaikki. Lane esittelee sinut jollekin.",
+        "body": "Yksi erityinen yrityspari, jonka takana on syy – onko hyödyllinen vastine pääoma, toisiaan täydentävä perustaja tai toinen startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "perustaja ja sijoittaja keskittyneessä ensimmäisessä kokouksessa konferenssissa",
+            "label": "Perustajat ↔ Sijoittajat"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "mahdolliset perustajat keskustelevat siitä, miten he toimivat",
+            "label": "Perustajat ↔ Perustajat"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup-operaattorit keskustelevat yritysyhteistyöstä",
+            "label": "Startupit ↔ Startupit"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "erityisiä biittejä loputtomasti.",
+            "body": "Yksi asiaankuuluva henkilö, jolla on syy tavata – ei koskaan julkista luetteloa.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "molemmat osapuolet valitsevat.",
+            "body": "Ehdotettu pariliitos etenee vasta kahden yksityisen kyllä. Myös ohittaminen pysyy yksityisenä.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "yksityinen, aina.",
+            "body": "Nimet, yhteystiedot ja tarkka kohtaamispisteen lukituksen avaaminen vain, kun molemmat osapuolet hyväksyvät.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Perustajille, sijoittajille, mahdollisille perustajille ja startup-yrityksille, joilla on konkreettinen syy tavata. Ei treffeille, työnhakuun, Expo-Hall Pitchingiin tai yleiseen verkostoitumiseen."
+      },
+      "process": {
+        "kicker": "Miten esittely tapahtuu",
+        "heading": "\"Kerro minulle puoleltasi\" - \"Tässä on, kun tapaat\".",
+        "body": "Lane on ihmisoperaattori – ei vastaava moottori, rehu tai varausmarkkinapaikka. Prosessi pysyy samana; Osapuolet muuttuvat.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "käydä todellista keskustelua",
+            "body": "Perustajat kertovat korotuksen, shekin koon ja tapaamisen syyn. Sijoittajat jakavat opinnäytetyön, shekin koon ja perustajat, jotka he haluavat löytää."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane näyttää",
+            "body": "Operaattori vertailee yksityistä saantia samalla radalla ja tarkistaa sopivuuden ilmeisten tarrojen lisäksi."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "täyttää yksi hyvä mahdollisuus",
+            "body": "Saat yhden ehdotetun pariliitoksen kontekstin kanssa. Molemmat osapuolet hyväksyvät tai hyväksyvät ennen kuin yhteystiedot jaetaan."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Hanki vahvistettu paikka",
+            "body": "Lane asettaa ajan ja hiljaisen paikan. Tarkka taulukko ja kaksi nimeä avautuvat vasta sen jälkeen, kun molemmat osapuolet sanovat kyllä."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lanen uusin istuvuus",
+        "heading": "kaksi täyttä yritystä. Yksi hyvä syy tavata.",
+        "body": "Hyödyllinen esittely on harvoin \"kaksi henkilöä samalla alalla\". Se on ajankohtainen tarve toiselta puolelta ja uskottava vastaus toisaalta – plus kaksi yksityistä kyllä.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Kaksi tapahtuman osallistujaa harkitsee harkittua esittelyä"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup-operaattorit keskustelevat mahdollisesta yhteistyöstä"
+          }
+        ],
+        "fitLabel": "Lane's Fit",
+        "criteria": [
+          "Ajoitus päällekkäisyydet",
+          "Tarve ja tarjous tasaa",
+          "Molemmat valitsivat tällaisen ensimmäisen tapaamisen"
+        ],
+        "statusHeading": "Kortti muuttuu, kun kaksi päätöstä tulee.",
+        "statusBody": "Havainnollistavat korttimuodot – ei julkinen osallistujaluettelo tai live-aikataulu. Tilan ja sijainnin muutos, kun jokainen esittely hyväksytään.",
+        "cards": [
+          {
+            "track": "Perustaja × siemensijoittaja",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "odottaa kahta päätöstä"
+          },
+          {
+            "track": "Perustaja × Perustaja",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane asettaa paikan"
+          },
+          {
+            "track": "Startup × Startup — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "tarkka pöytä tai hiljainen kulma jaettu sen jälkeen, kun molemmat osapuolet hyväksyvät",
+            "note": "Koko tieto yksityisesti lähetetty"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "hyviä kysymyksiä",
+        "heading": "ennen kuin Lane tekee esittelyn.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Onko Lane vain perustajille, jotka etsivät sijoittajia?",
+            "answer": "Ei. Palvelu on tarkoituksella kaksipuolinen: sijoittajat käyttävät Lanea löytääkseen perustajia, perustajat käyttävät Lanea löytääkseen sijoittajia, mahdolliset perustajat löytävät toisensa ja startupit löytävät toisen startup-yrityksen, jolla on uskottava asiakas tai yhteistyö."
+          },
+          {
+            "question": "Onko Lane vastaava sovellus?",
+            "answer": "Ei. Ihmisoperaattori lukee imuaukon ja ehdottaa yhtä pariliitosta kerrallaan. Ei ole julkista kantta, pyyhkäisysyötettä, osallistujahakemistoa tai automaattista sovitusmoottoria."
+          },
+          {
+            "question": "Näkevätkö kaikki tietoni?",
+            "answer": "Ei. Imu pysyy yksityisenä. Jokainen ehdotettu esittely näytetään vain kahdelle asiaankuuluvalle puolelle, ja suorat yhteystiedot pysyvät piilossa, kunnes molemmat hyväksyvät."
+          },
+          {
+            "question": "Entä jos välitän ehdotetun pariliitoksen?",
+            "answer": "Lane tallentaa solan yksityisesti ja jatkaa eteenpäin. Toiselle puolelle ei anneta yhteystietojasi, eikä siellä ole julkista hylkäämistä tai sijoitusta."
+          },
+          {
+            "question": "Mitä tapahtuu sen jälkeen, kun molemmat osapuolet hyväksyvät?",
+            "answer": "Lane vahvistaa ajan ja pöydän tai hiljaisen kulman. Saat kaksi nimeä ja tarkan sijainnin vasta, kun molemmat kyllä ovat olleet."
+          },
+          {
+            "question": "Miten kokouksen takuu toimii?",
+            "answer": "Takuu koskee ilmoittautumisen yhteydessä valittua raitaa: kolme hyväksyttyä tapaamista nykyisessä tapahtumakalenterissa tai perustajapuolen maksu palautetaan. Lane varaa kokouksen, ei kierroksen, perustajan, asiakkaan tai sopimuksen."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Yksi tapahtuma kerrallaan",
+        "heading": "Haluatko Lanen tapahtumaasi?",
+        "body": "kaista siirtyy valitusta konferenssista toiseen. Liity tulevaisuuden jonotuslistalle ja kerro operaattorille, missä huolellisilla esittelyillä olisi merkitystä.",
+        "nameLabel": "Nimi",
+        "emailLabel": "sähköposti",
+        "eventLabel": "tapahtuman tai konferenssin nimi",
+        "cityLabel": "Kaupunki",
+        "ctaLabel": "Liity tulevaisuuden jonotuslistalle",
+        "loginNotice": "Kirjaudu sisään tallentaaksesi tämän tulevan tapahtuman esittelypyynnön Lanella."
+      },
+      "closing": {
+        "kicker": "Valmis kun olet",
+        "heading": "yksi hyödyllinen esittely kerrallaan.",
+        "body": "Kerro Lanelle, kummalla puolella pöytää olet. Operaattori ottaa sen sieltä – harkiten, yksityisesti ja yksi oikea henkilö kerrallaan.",
+        "ctaLabel": "Keskustele Lanen kanssa",
+        "note": "Ei pyyhkäisysyötettä · Vain yhteinen suostumus · Ihmisen ylläpitämä · Yksityinen, kunnes molemmat sanovat kyllä",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane seisoo rauhallisesti tabletin kanssa valmiina esittelyyn"
+      },
+      "footer": {
+        "tagline": "Gabriel-operaattorin kaista.",
+        "disclaimer": "Lane vastaa ihmisiä valituissa konferensseissa ja tapahtumissa. HumanX Amsterdam ei ole kumppani, ellei toisin mainita.",
+        "copyright": "2026 kaista",
+        "groups": [
+          {
+            "label": "Tutkia",
+            "links": [
+              {
+                "label": "Noin",
+                "target": "about"
+              },
+              {
+                "label": "Kuinka se toimii",
+                "target": "how-it-works"
+              },
+              {
+                "label": "pari",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Kaista",
+            "links": [
+              {
+                "label": "usein kysytyt kysymykset",
+                "target": "faqs"
+              },
+              {
+                "label": "tulevaisuuden tapahtumat",
+                "target": "waitlist"
+              },
+              {
+                "label": "rakentaa lyhyt",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

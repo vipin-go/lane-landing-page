@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "lt",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Tikras verslo pristatymas, vienas asmuo vienu metu.",
+    "subheadline": "Steigėjai randa investuotojų, o investuotojai – steigėjus. Įkūrėjai randa vienas kitą. Startuoliai randa tinkamą startuolį, iš kurio galima pirkti, parduoti arba kurti.",
+    "ctaLabel": "Kalbėkitės su Lane",
+    "secondaryCtaLabel": "Pažiūrėkite, kaip tai veikia",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane Conference pristatymo operatorius Humanx Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "juosta.",
+        "brandTagline": "Viena atsargi įžanga",
+        "navItems": [
+          {
+            "label": "Apie",
+            "target": "about"
+          },
+          {
+            "label": "Kaip tai veikia",
+            "target": "how-it-works"
+          },
+          {
+            "label": "Poros",
+            "target": "pairings"
+          },
+          {
+            "label": "DUK",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "Susipažinkite su Lane"
+      },
+      "event": {
+        "name": "HumanX Amsterdamas",
+        "shortName": "HumanX",
+        "city": "Amsterdamas",
+        "venue": "rai",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "2026 m. rugsėjo 22–24 d",
+        "shortDateRange": "2026 m. rugsėjo 22–24 d",
+        "cardDate": "Antradienis 22–ketvirtadienis rugsėjo 24 d",
+        "availability": "unverified",
+        "availabilityLabel": "Prieinamumas patvirtintas rankiniu būdu",
+        "confirmedLocation": "Exact table or quiet corner shared after both sides accept",
+        "disclaimer": "„HumanX Amsterdam“ nėra partneris, jei nenurodyta."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Kapitalas",
+          "label": "Steigėjai ↔ Investuotojai",
+          "pairing": "Steigėjas × pradinis investuotojas",
+          "body": "Steigėjai dalijasi pakėlimu, čekio dydžiu ir priežastimi susitikti. Investuotojai dalijasi disertacija, čekio dydžiu ir steigėjais, kuriuos nori rasti.",
+          "sides": [
+            "Steigėjas",
+            "Investuotojas"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "Bendras įkūrimas",
+          "label": "Steigėjai ↔ Įkūrėjai",
+          "pairing": "Įkūrėjas × vienas iš įkūrėjų",
+          "body": "Kiekviena pusė dalijasi savo vaidmeniu ar stiprybe, spragą, kurią nori užpildyti, įmonės etapą ir tai, kas jau sukurta.",
+          "sides": [
+            "Steigėjas",
+            "Būsimas vienas iš įkūrėjų"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "Verslo tinkamumas",
+          "label": "Startups ↔ Startups",
+          "pairing": "Startup × Startup – BD",
+          "body": "Kiekvienas startuolis dalijasi tuo, ką siūlo, sektorius ar įmonių tipus, su kuriais nori susitikti, ir kaip atrodo naudingas komercinis pritaikymas.",
+          "sides": [
+            "Paleidimo pasiūlymas",
+            "Startuolio ieškojimas"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "Dabar atitinka HumanX Amsterdamą – 2026 m. rugsėjo 22–24 d.",
+        "heading": "Tikras verslo pristatymas, vienas asmuo vienu metu.",
+        "accentText": "Tikras verslo pristatymas,",
+        "body": "Steigėjai randa investuotojų, o investuotojai – steigėjus. Įkūrėjai randa vienas kitą. Startuoliai randa tinkamą startuolį, iš kurio galima pirkti, parduoti arba kurti. Lane'as siūlo po vieną porą. Abi pusės sako „taip“.",
+        "primaryCtaLabel": "Kalbėkitės su Lane",
+        "secondaryCtaLabel": "Pažiūrėkite, kaip tai veikia",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, atsipalaidavęs sparnuotas konferencijos įvado operatorius",
+        "chat": {
+          "statusLabel": "Prisijungę · Ant grindų",
+          "operatorBadge": "Žmogaus valdomas",
+          "openingMessage": "Sveiki, aš esu Lane. Vienu metu pristatau vieną kruopščiai atrinktą asmenį – niekada sąrašo.",
+          "inputPlaceholder": "Paklauskite Lane'o apie kitą jūsų įžangą…",
+          "suggestedPrompts": [
+            "Kaip renkatės?",
+            "Kas atsitiks, jei praeisiu?",
+            "Kada bendrinama informacija?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Jūsų privatus įžanginis trumpas",
+          "introBody": "Pasakykite man, kurioje stalo pusėje esate ir kaip atrodo naudingas susitikimas. Pasiūlysiu vieną tinkamą. Abu priima arba išlaiko privačiai.",
+          "trackLabel": "Įvadas Takelis",
+          "sideLabel": "tavo pusė",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Organizacija",
+              "placeholder": "Įmonė ar fondas",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Jūsų vaidmuo",
+              "placeholder": "Įkūrėjas, investuotojas, operatorius…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Dabartinis įvykis",
+              "placeholder": "HumanX Amsterdamas",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Tikslas",
+              "placeholder": "Kas padarytų pokalbį vertingą?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Ką siūlote",
+              "placeholder": "Kuo galite prisidėti?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Ko tau reikia",
+              "placeholder": "Kokia pagalba ar atitikmuo?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "Tinkamumo kriterijai",
+              "placeholder": "Scena, baigiamasis darbas, kompetencija, darbo stilius…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Prieinamumas",
+              "placeholder": "Dienos ir naudingi laiko langai",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "Privatūs apribojimai",
+              "placeholder": "Viskas, kas juosta, turėtų būti privati",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Sukurkite balsu · 5 min",
+          "reviewLabel": "Apžvalgos trumpas",
+          "editLabel": "Redaguoti",
+          "reviewHeading": "Peržiūrėkite savo privačią trumpą informaciją",
+          "reviewBody": "Nieko nepateikiama, ieškoma ar bendrinama, kol neprisijungiate ir aiškiai nepatvirtinate.",
+          "submitLabel": "Prisijunkite ir pateikite į Lane",
+          "loginNotice": "Prisijunkite, kad pateiktumėte šią privačią įžanginę trumpąją informaciją Lane for Human Review.",
+          "expiryCopy": "Nepateiktos trumpikės baigiasi po vienos valandos.",
+          "privacyCopy": "Jokia dalyvio paieška ar kontaktų atskleidimas anonimiškas.",
+          "errorCopy": "Lane negalėjo išsaugoti šio trumpo. Bandykite dar kartą arba prisijunkite."
+        }
+      },
+      "about": {
+        "kicker": "Sąmoningai siaura paslauga",
+        "heading": "Tinklo įrankiai suteikė jums visus. Lane supažindina jus su kuo nors.",
+        "body": "Vienas konkretus verslo derinimas su priežastimi – nesvarbu, ar tai naudinga, yra „Capital“, papildomas įkūrėjas, ar kitas startuolis.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Įkūrėjas ir investuotojas į pirmąjį susitikimą konferencijoje",
+            "label": "Steigėjai ↔ Investuotojai"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "Potencialūs įkūrėjai diskutuoja, kaip jie veikia",
+            "label": "Steigėjai ↔ Įkūrėjai"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup operatoriai diskutuoja apie verslo bendradarbiavimą",
+            "label": "Startups ↔ Startups"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Konkretūs ritmai begaliniai.",
+            "body": "Vienas atitinkamas asmuo, turintis priežastį susitikti – niekada nėra viešas sąrašas, kurį reikia išspręsti.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "Abi pusės pasirenka.",
+            "body": "Siūloma pora juda į priekį tik po dviejų privačių „taip“. Praėjimas taip pat lieka privatus.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privatus, visada.",
+            "body": "Vardai, kontaktiniai duomenys ir tikslus susitikimo taškas atrakinamas tik tada, kai abi pusės sutinka.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Steigėjams, investuotojams, potencialiems įkūrėjams ir startuoliams, turintiems konkrečią priežastį susitikti. Neskirta pasimatymams, darbo paieškai, parodų salės pristatymui ar bendram tinklų kūrimui."
+      },
+      "process": {
+        "kicker": "Kaip vyksta įžanga",
+        "heading": "Nuo „Pasakyk man savo pusę“ iki „Štai kada susitinki“.",
+        "body": "Lane yra žmogaus operatorius, o ne atitinkantis variklis, tiekimas ar užsakymų prekyvietė. Procesas išlieka toks pat; Keičiasi abi pusės.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "Turėkite tikrą pokalbį",
+            "body": "Steigėjai dalijasi pakėlimu, čekio dydžiu ir priežastimi susitikti. Investuotojai dalijasi disertacija, čekio dydžiu ir steigėjais, kuriuos nori rasti."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "Lane žiūri",
+            "body": "Operatorius lygina privačią priėmimą tame pačiame takelyje ir patikrina tinkamumą už akivaizdžių etikečių."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "patenkinti vieną gerą galimybę",
+            "body": "Gaunate vieną siūlomą porą su kontekstu. Abi pusės sutinka arba praeina prieš bendrinant bet kokius kontaktinius duomenis."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Gaukite patvirtintą lizdą",
+            "body": "Lane nustato laiką ir ramią vietą. Tiksli lentelė ir du pavadinimai atrakinami tik abiem pusėms pasakius „taip“."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Naujausias Lane'o pritaikymas",
+        "heading": "Dvi pilnos įmonės. Viena gera priežastis susitikti.",
+        "body": "Naudinga įžanga retai yra „du žmonės toje pačioje pramonėje“. Vienoje pusėje tai yra savalaikis poreikis, o kitoje – patikimas atsakymas – plius du privatūs „taip“.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Du renginio dalyviai svarsto apie apgalvotą įžangą"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Startup operatoriai diskutuoja apie galimą bendradarbiavimą"
+          }
+        ],
+        "fitLabel": "Lane's Fit",
+        "criteria": [
+          "Laiko sutapimai",
+          "Reikia ir pasiūlyti suderinti",
+          "Abu pasirinko tokį pirmąjį susitikimą"
+        ],
+        "statusHeading": "Korta keičiasi, kai priimami du sprendimai.",
+        "statusBody": "Iliustraciniai kortelių formatai, o ne viešas dalyvių sąrašas ar tiesioginis tvarkaraštis. Būsenos ir vietos pasikeitimas, kai priimama kiekviena įžanga.",
+        "cards": [
+          {
+            "track": "Steigėjas × pradinis investuotojas",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Laukiama dviejų sprendimų"
+          },
+          {
+            "track": "Įkūrėjas × vienas iš įkūrėjų",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane nustato lizdą"
+          },
+          {
+            "track": "Startup × Startup – BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Exact table or quiet corner shared after both sides accept",
+            "note": "Visa informacija išsiųsta privačiai"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "Geri klausimai",
+        "heading": "Prieš Lane'ui įžangą.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "Ar Lane tik steigėjams, ieškantiems investuotojų?",
+            "answer": "Ne. Paslauga yra sąmoningai dvipusė: investuotojai naudoja juostą, kad surastų steigėjus, steigėjai naudojasi juosta, kad surastų investuotojus, potencialūs įkūrėjai suranda vienas kitą, o startuoliai randa kitą startuolį, turintį tikėtiną klientą ar bendradarbiavimą."
+          },
+          {
+            "question": "Ar Lane yra atitinkanti programa?",
+            "answer": "Ne. Žmogaus operatorius nuskaito įsiurbimo angą ir siūlo po vieną porą. Nėra viešojo denio, braukimo kanalo, dalyvių katalogo ar automatinio atitikimo variklio."
+          },
+          {
+            "question": "Ar visi pamatys mano duomenis?",
+            "answer": "Ne. Priėmimas lieka privatus. Kiekvienas siūlomas įvadas rodomas tik dviem atitinkamoms pusėms, o tiesioginiai kontaktiniai duomenys lieka paslėpti tol, kol abu sutinka."
+          },
+          {
+            "question": "Ką daryti, jei perduosiu siūlomą porą?",
+            "answer": "Lane įrašo leidimą privačiai ir juda toliau. Kitai pusei nepateikiami jūsų kontaktiniai duomenys ir nėra viešo atmetimo ar reitingo."
+          },
+          {
+            "question": "Kas atsitiks po to, kai abi pusės sutiks?",
+            "answer": "Lane patvirtina laiką ir stalą arba tylų kampą. Jūs gaunate du vardus ir tikslią vietą tik po to, kai yra abu Yeses."
+          },
+          {
+            "question": "Kaip veikia susitikimo garantija?",
+            "answer": "Garantija taikoma registracijos metu pasirinktam takeliui: trys priimtini susitikimai dabartinio renginio kalendoriuje arba grąžinamas steigėjo mokestis. Lane užrašo susitikimą, o ne raundą, įkūrėją, klientą ar sandorį."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Vienas įvykis vienu metu",
+        "heading": "Norite Lane savo renginyje?",
+        "body": "Lane pereina iš vienos pasirinktos konferencijos į kitą. Prisijunkite prie būsimų įvykių laukiančiųjų sąrašo ir pasakykite operatoriui, kur būtų svarbu kruopščiai pristatyti.",
+        "nameLabel": "Vardas",
+        "emailLabel": "El. paštas",
+        "eventLabel": "Renginio arba konferencijos pavadinimas",
+        "cityLabel": "Miestas",
+        "ctaLabel": "Prisijunkite prie ateities įvykių laukiančiųjų sąrašo",
+        "loginNotice": "Prisijunkite, kad išsaugotumėte šią būsimos įvykio įvedimo užklausą su Lane."
+      },
+      "closing": {
+        "kicker": "pasiruošęs, kai būsi",
+        "heading": "Vienas naudingas įvadas vienu metu.",
+        "body": "Pasakykite Lane'ui, kurioje stalo pusėje esate. Operatorius paims jį iš ten – apgalvotai, privačiai ir vienu metu.",
+        "ctaLabel": "Kalbėkitės su Lane",
+        "note": "Jokio perbraukimo kanalo · Tik abipusis sutikimas · Žmogaus valdomas · Privatus, kol abu pasakys „taip“.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane ramiai stovi su planšetiniu kompiuteriu, pasiruošęs prisistatyti"
+      },
+      "footer": {
+        "tagline": "Gabrielio operatoriaus juosta.",
+        "disclaimer": "Lane atitinka žmones pasirinktose konferencijose ir renginiuose. „HumanX Amsterdam“ nėra partneris, jei nenurodyta.",
+        "copyright": "2026 m. juosta",
+        "groups": [
+          {
+            "label": "Ištirti",
+            "links": [
+              {
+                "label": "Apie",
+                "target": "about"
+              },
+              {
+                "label": "Kaip tai veikia",
+                "target": "how-it-works"
+              },
+              {
+                "label": "Poros",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Juosta",
+            "links": [
+              {
+                "label": "DUK",
+                "target": "faqs"
+              },
+              {
+                "label": "Ateities įvykiai",
+                "target": "waitlist"
+              },
+              {
+                "label": "Sukurkite trumpą",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

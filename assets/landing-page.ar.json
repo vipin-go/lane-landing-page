@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "ar",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "مقدمات تجارية حقيقية ، شخص واحد في كل مرة.",
+    "subheadline": "يجد المؤسسون مستثمرين - ويجد المستثمرون مؤسسين. يجد المؤسسون المشاركون بعضهم البعض. تجد الشركات الناشئة الشركة الناشئة المناسبة للشراء منها أو البيع إليها أو البناء بها.",
+    "ctaLabel": "الدردشة مع لين",
+    "secondaryCtaLabel": "انظر كيف يعمل",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "مشغل مقدمة مؤتمر لين في HumanX Amsterdam 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "لين.",
+        "brandTagline": "مقدمة دقيقة واحدة",
+        "navItems": [
+          {
+            "label": "عن",
+            "target": "about"
+          },
+          {
+            "label": "كيف يعمل",
+            "target": "how-it-works"
+          },
+          {
+            "label": "أزواج",
+            "target": "pairings"
+          },
+          {
+            "label": "الأسئلة الشائعة",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "قابل لين"
+      },
+      "event": {
+        "name": "HumanX أمستردام",
+        "shortName": "HumanX",
+        "city": "أمستردام",
+        "venue": "راي",
+        "neighborhood": "راي ، زويداس",
+        "dateRange": "22-24 سبتمبر 2026",
+        "shortDateRange": "22-24 سبتمبر 2026",
+        "cardDate": "الثلاثاء 22 - الخميس 24 سبتمبر",
+        "availability": "unverified",
+        "availabilityLabel": "تم تأكيد التوفر يدويًا",
+        "confirmedLocation": "الجدول الدقيق أو الزاوية الهادئة مشتركة بعد قبول كلا الجانبين",
+        "disclaimer": "HumanX Amsterdam ليست شريكًا ما لم يُذكر."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "عاصمة",
+          "label": "المؤسسون ↔ المستثمرون",
+          "pairing": "مؤسس × بذور المستثمر",
+          "body": "يتشارك المؤسسون في الزيادة والتحقق من الحجم وسبب الاجتماع. يشارك المستثمرون الأطروحة والتحقق من الحجم والمؤسسين الذين يريدون العثور عليهم.",
+          "sides": [
+            "مؤسس",
+            "الموظف للاموال"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "تأسيس مشترك",
+          "label": "المؤسسون المؤسسون المشاركون",
+          "pairing": "المؤسس × المؤسس المشارك",
+          "body": "يشترك كل جانب في الدور أو القوة التي يجلبونها ، والفجوة التي يريدون سدها ، ومرحلة الشركة ، وما تم بناؤه بالفعل.",
+          "sides": [
+            "مؤسس",
+            "الشريك المؤسس المحتمل"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "تناسب الأعمال",
+          "label": "الشركات الناشئة ↔ الشركات الناشئة",
+          "pairing": "بدء التشغيل × بدء التشغيل - BD",
+          "body": "تشارك كل شركة ناشئة ما تقدمه ، والقطاعات أو أنواع الشركات التي تريد مقابلتها ، وما هو الشكل التجاري المفيد.",
+          "sides": [
+            "عرض بدء التشغيل",
+            "البحث عن بدء التشغيل"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "مطابقة الآن في HumanX Amsterdam - 22-24 سبتمبر 2026",
+        "heading": "مقدمات تجارية حقيقية ، شخص واحد في كل مرة.",
+        "accentText": "مقدمات تجارية حقيقية",
+        "body": "يجد المؤسسون مستثمرين - ويجد المستثمرون مؤسسين. يجد المؤسسون المشاركون بعضهم البعض. تجد الشركات الناشئة الشركة الناشئة المناسبة للشراء منها أو البيع إليها أو البناء بها. يقترح لين اقترانًا واحدًا في كل مرة. كلا الجانبين يقول نعم.",
+        "primaryCtaLabel": "الدردشة مع لين",
+        "secondaryCtaLabel": "انظر كيف يعمل",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "لين ، مشغل مقدمة مؤتمر مجنح مريح",
+        "chat": {
+          "statusLabel": "اونلاين · على الأرض",
+          "operatorBadge": "يديره الإنسان",
+          "openingMessage": "مرحبًا ، أنا لين. أقدم شخصًا واحدًا تم اختياره بعناية في كل مرة - وليس قائمة أبدًا.",
+          "inputPlaceholder": "اسأل لين عن مقدمتك التالية ...",
+          "suggestedPrompts": [
+            "كيف تختار؟",
+            "ماذا يحدث إذا مررت؟",
+            "متى يتم مشاركة التفاصيل؟"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "موجز التعريف الخاص بك",
+          "introBody": "أخبرني في أي جانب من الجدول أنت وكيف يبدو الاجتماع المفيد. سأقترح ملاءمة واحدة. كلاهما يقبل أو يمر على انفراد.",
+          "trackLabel": "مسار مقدمة",
+          "sideLabel": "جانبك",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "منظمة",
+              "placeholder": "شركة أو صندوق",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "دورك",
+              "placeholder": "مؤسس، مستثمر، مشغل…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "الحدث الحالي",
+              "placeholder": "HumanX أمستردام",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "هدف",
+              "placeholder": "ما الذي يجعل المحادثة ذات قيمة؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "ما تقدمه",
+              "placeholder": "ماذا يمكنك أن تساهم؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "ماذا تحتاج",
+              "placeholder": "أي نوع من المساعدة أو النظير؟",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "معايير تناسب",
+              "placeholder": "المرحلة ، الأطروحة ، الخبرة ، أسلوب العمل ...",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "توفر",
+              "placeholder": "أيام ووقت مفيد",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "القيود الخاصة",
+              "placeholder": "أي شيء يجب أن يحتفظ به الممر الخاص",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "بناء بالصوت · 5 دقائق",
+          "reviewLabel": "استعراض موجز",
+          "editLabel": "عد للطبع",
+          "reviewHeading": "راجع موجزك الخاص",
+          "reviewBody": "لا يتم تقديم أي شيء أو البحث عنه أو مشاركته حتى تقوم بتسجيل الدخول والموافقة بشكل صريح.",
+          "submitLabel": "قم بتسجيل الدخول والتقديم إلى Lane",
+          "loginNotice": "قم بتسجيل الدخول لإرسال موجز المقدمة الخاص هذا إلى Lane for Human Review.",
+          "expiryCopy": "تنتهي صلاحية الملخصات التي لم يتم تقديمها بعد ساعة واحدة.",
+          "privacyCopy": "لا يوجد بحث مشارك أو إفصاح عن جهة اتصال بينما مجهول.",
+          "errorCopy": "لم يستطع لين حفظ هذا الموجز. الرجاء إعادة المحاولة أو تسجيل الدخول."
+        }
+      },
+      "about": {
+        "kicker": "خدمة ضيقة عمدا",
+        "heading": "أعطتك أدوات الشبكات الجميع. يعرّفك لين على شخص ما.",
+        "body": "أحد الأعمال التجارية المحددة مع سبب وراء ذلك - سواء كانت المطابقة المفيدة هي رأس المال أو المؤسس المشارك التكميلي أو شركة ناشئة أخرى.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "مؤسس ومستثمر في اجتماع أول مركز في مؤتمر",
+            "label": "المؤسسون ↔ المستثمرون"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "المؤسسون المحتملون الذين يناقشون كيفية عملهم",
+            "label": "المؤسسون المؤسسون المشاركون"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "مشغلو بدء التشغيل يناقشون تعاونًا تجاريًا",
+            "label": "الشركات الناشئة ↔ الشركات الناشئة"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "دقات محددة لا نهاية لها.",
+            "body": "شخص واحد ذو صلة ، وله سبب للقاء - ليس قائمة عامة للعمل من خلالها.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "يختار كلا الجانبين.",
+            "body": "يتحرك الاقتران المقترح للأمام فقط بعد years خاصتين. التمرير يبقى خاصًا أيضًا.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "خاص دائما.",
+            "body": "الأسماء وتفاصيل الاتصال ونقطة الالتقاء الدقيقة تفتح فقط عندما يقبل كلا الجانبين.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "للمؤسسين والمستثمرين والمؤسسين المحتملين والشركات الناشئة التي لديها سبب ملموس لللقاء. ليس من أجل المواعدة أو البحث عن عمل أو عرض قاعة المعرض أو الشبكات العامة."
+      },
+      "process": {
+        "kicker": "كيف تحدث المقدمة",
+        "heading": "من \"أخبرني بجانبك\" إلى \"هنا عندما تجتمع\".",
+        "body": "لين هو مشغل بشري - ليس محركًا مطابقًا أو علفًا أو سوقًا للحجز. تبقى العملية كما هي ؛ يتغير الجانبان.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "إجراء محادثة حقيقية",
+            "body": "يتشارك المؤسسون في الزيادة والتحقق من الحجم وسبب الاجتماع. يشارك المستثمرون الأطروحة والتحقق من الحجم والمؤسسين الذين يريدون العثور عليهم."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "لين يفعل المظهر",
+            "body": "يقارن المشغل المدخول الخاص عبر نفس المسار ويتحقق من الملاءمة بخلاف الملصقات الواضحة."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "تلبية احتمال واحد جيد",
+            "body": "تحصل على اقتران واحد مقترح مع السياق. يقبل كلا الجانبين أو يمرر قبل مشاركة أي تفاصيل اتصال."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "احصل على الفتحة المؤكدة",
+            "body": "يحدد لين وقتًا ومكانًا هادئًا. يفتح الجدول الدقيق والاسمان فقط بعد أن يقول كلا الجانبين نعم."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "أحدث ملاءمة لين",
+        "heading": "شركتين كاملتين. سبب واحد وجيه للقاء.",
+        "body": "نادرًا ما تكون المقدمة المفيدة هي \"شخصان في نفس الصناعة\". إنها حاجة في الوقت المناسب من جانب وإجابة موثوقة من جهة أخرى - بالإضافة إلى نعمتين خاصتين.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "اثنان من الحاضرين في الحدث يفكرون في مقدمة مدروسة"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "مشغلو بدء التشغيل يناقشون تعاونًا محتملاً"
+          }
+        ],
+        "fitLabel": "لين صالح",
+        "criteria": [
+          "يتداخل التوقيت",
+          "الحاجة والعرض محاذاة",
+          "كلاهما اختار هذا النوع من الاجتماعات الأولى"
+        ],
+        "statusHeading": "تتغير البطاقة عندما يأتي قراران.",
+        "statusBody": "تنسيقات البطاقات التوضيحية - ليست قائمة حاضرين أو جدول مباشر. تغيير الحالة والموقع حيث يتم قبول كل مقدمة.",
+        "cards": [
+          {
+            "track": "مؤسس × بذور المستثمر",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "راي ، زويداس",
+            "note": "في انتظار قرارين"
+          },
+          {
+            "track": "المؤسس × المؤسس المشارك",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "راي ، زويداس",
+            "note": "حارة تضبط الفتحة"
+          },
+          {
+            "track": "بدء التشغيل × بدء التشغيل - BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "الجدول الدقيق أو الزاوية الهادئة مشتركة بعد قبول كلا الجانبين",
+            "note": "التفاصيل الكاملة المرسلة بشكل خاص"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "أسئلة جيدة",
+        "heading": "قبل أن يقدم لين المقدمة.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "هل لين فقط للمؤسسين يبحثون عن مستثمرين؟",
+            "answer": "لا. الخدمة ذات وجهين عمدًا: يستخدم المستثمرون LANE للعثور على المؤسسين ، ويستخدم المؤسسون حارة للعثور على المستثمرين ، والمؤسسين المحتملين الذين يجدون بعضهم البعض ، وتجد الشركات الناشئة شركة ناشئة أخرى مع عميل معقول أو مناسب للتعاون."
+          },
+          {
+            "question": "هل لين تطبيق مطابقة؟",
+            "answer": "لا. يقرأ المشغل البشري المدخول ويقترح اقترانًا واحدًا في كل مرة. لا يوجد سطح عام أو موجز سريع أو دليل الحضور أو محرك مطابقة آلي."
+          },
+          {
+            "question": "هل سيرى الجميع تفاصيلي؟",
+            "answer": "لا. يبقى المدخول خاصًا. يتم عرض كل مقدمة مقترحة فقط على الجانبين المعنيين ، وتظل تفاصيل الاتصال المباشر مخفية حتى يقبل كليهما."
+          },
+          {
+            "question": "ماذا لو مررت على الاقتران المقترح؟",
+            "answer": "يسجل لين التمريرة بشكل خاص ويتحرك. لا يتم إعطاء الجانب الآخر تفاصيل الاتصال الخاصة بك ، ولا يوجد رفض عام أو ترتيب."
+          },
+          {
+            "question": "ماذا يحدث بعد قبول الطرفين؟",
+            "answer": "يؤكد لين الوقت والطاولة أو الزاوية الهادئة. تتلقى اسمين والموقع الدقيق فقط بعد أن تكون كلتا النعمتين."
+          },
+          {
+            "question": "كيف يضمن الاجتماع؟",
+            "answer": "ينطبق الضمان على المسار المختار عند الاشتراك: يتم استرداد ثلاثة اجتماعات مقبولة في تقويم الحدث الحالي ، أو يتم استرداد رسوم من جانب المؤسس. يحجز لين الاجتماع ، وليس الجولة أو المؤسس المشارك أو العميل أو الصفقة."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "حدث واحد في كل مرة",
+        "heading": "هل تريد حارة في هذا الحدث الخاص بك؟",
+        "body": "ينتقل الممر من مؤتمر محدد إلى آخر. انضم إلى قائمة انتظار الأحداث المستقبلية وأخبر المشغل عن أهمية المقدمات الدقيقة.",
+        "nameLabel": "اسم",
+        "emailLabel": "بريد الكترونى",
+        "eventLabel": "اسم الحدث أو المؤتمر",
+        "cityLabel": "مدينة",
+        "ctaLabel": "انضم إلى قائمة انتظار الأحداث المستقبلية",
+        "loginNotice": "قم بتسجيل الدخول لحفظ طلب مقدمة الحدث المستقبلي هذا مع LANE."
+      },
+      "closing": {
+        "kicker": "جاهز عندما تكون",
+        "heading": "مقدمة مفيدة واحدة في كل مرة.",
+        "body": "أخبر لين بأي جانب من الطاولة أنت عليه. سيأخذها المشغل من هناك - بشكل خاص ، بشكل خاص ، وشخص حقيقي واحد في كل مرة.",
+        "ctaLabel": "الدردشة مع لين",
+        "note": "لا يوجد تغذية سريعة · موافقة متبادلة فقط · يديرها الإنسان · خاص حتى يقول كلاهما نعم",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "لين يقف بهدوء مع جهاز لوحي ، جاهز لتقديم مقدمة"
+      },
+      "footer": {
+        "tagline": "حارة من قبل مشغل غابرييل.",
+        "disclaimer": "يطابق Lane الأشخاص في مؤتمرات وفعاليات مختارة. HumanX Amsterdam ليست شريكًا ما لم يُذكر.",
+        "copyright": "2026 لين",
+        "groups": [
+          {
+            "label": "استكشف",
+            "links": [
+              {
+                "label": "عن",
+                "target": "about"
+              },
+              {
+                "label": "كيف يعمل",
+                "target": "how-it-works"
+              },
+              {
+                "label": "أزواج",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "ممر",
+            "links": [
+              {
+                "label": "الأسئلة الشائعة",
+                "target": "faqs"
+              },
+              {
+                "label": "الأحداث المستقبلية",
+                "target": "waitlist"
+              },
+              {
+                "label": "بناء موجز",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}

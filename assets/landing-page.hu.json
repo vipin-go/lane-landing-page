@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "language": "hu",
+  "regionKey": null,
+  "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
+  "landingPage": {
+    "headline": "Valódi üzleti bemutatkozás, egyszerre egy ember.",
+    "subheadline": "Az alapítók befektetőket találnak – a befektetők pedig az alapítókat. A társalapítók egymásra találnak. A startupok megtalálják a megfelelő startupot, ahol vásárolhatnak, eladhatnak vagy építhetnek velük.",
+    "ctaLabel": "Csevegés Lane",
+    "secondaryCtaLabel": "Hogyan működik",
+    "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+    "seoImage": {
+      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "alt": "Lane Conference Bevezető operátor a Humanx Amsterdamban 2026"
+    },
+    "design": {
+      "variant": "event-introductions",
+      "defaultThemeMode": "light",
+      "theme": {
+        "palette": "purple",
+        "primaryColor": "indigo",
+        "secondaryColor": "slate",
+        "accentColor": "green",
+        "fontFamily": "inter"
+      },
+      "brand": {
+        "presetRevision": 1,
+        "colors": {
+          "light": {
+            "canvas": "#f8f6f0",
+            "surface": "#fffefa",
+            "sidebar": "#24213e",
+            "text": "#24213e",
+            "accent": "#7768e8",
+            "userBubble": "#7768e8"
+          },
+          "dark": {
+            "canvas": "#1d1a34",
+            "surface": "#2a264c",
+            "sidebar": "#24213e",
+            "text": "#fffefa",
+            "accent": "#9a8cf4",
+            "userBubble": "#7768e8"
+          }
+        },
+        "typography": {
+          "body": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "display": {
+            "source": "google",
+            "family": "DM Sans"
+          },
+          "label": {
+            "source": "google",
+            "family": "DM Sans"
+          }
+        }
+      }
+    },
+    "eventIntroductions": {
+      "header": {
+        "brandLabel": "sáv.",
+        "brandTagline": "Egy gondos bevezetés",
+        "navItems": [
+          {
+            "label": "Ról ről",
+            "target": "about"
+          },
+          {
+            "label": "Hogyan működik",
+            "target": "how-it-works"
+          },
+          {
+            "label": "párosítás",
+            "target": "pairings"
+          },
+          {
+            "label": "GYIK",
+            "target": "faqs"
+          }
+        ],
+        "ctaLabel": "találkozni sávval"
+      },
+      "event": {
+        "name": "Humanx Amszterdam",
+        "shortName": "humanx",
+        "city": "Amszterdam",
+        "venue": "RAI",
+        "neighborhood": "Rai, Zuidas",
+        "dateRange": "2026. szeptember 22–24.",
+        "shortDateRange": "2026. szeptember 22–24.",
+        "cardDate": "Szeptember 22. kedd – csütörtök 24",
+        "availability": "unverified",
+        "availabilityLabel": "A rendelkezésre állást manuálisan megerősítették",
+        "confirmedLocation": "Pontos asztal vagy csendes sarok megosztott, miután mindkét fél elfogadta",
+        "disclaimer": "A Humanx Amsterdam nem partner, hacsak nincs feltüntetve."
+      },
+      "tracks": [
+        {
+          "id": "founder-investor",
+          "kicker": "Tőke",
+          "label": "Alapítók ↔ Befektetők",
+          "pairing": "Alapító × Seed Investor",
+          "body": "Az alapítók osztoznak az emelésben, az ellenőrzés méretében és a találkozás okában. A befektetők megosztják a szakdolgozatot, a csekkméretet és a megtalálni kívánt alapítókat.",
+          "sides": [
+            "Alapító",
+            "Részvényes"
+          ]
+        },
+        {
+          "id": "founder-cofounder",
+          "kicker": "társalapító",
+          "label": "Alapítók ↔ Társalapítók",
+          "pairing": "Alapító × társalapító",
+          "body": "Mindegyik oldal osztozik az általuk hozott szerepben vagy erőben, a résben, amit betölteni szeretnének, a vállalati szakaszban és a már felépítettben.",
+          "sides": [
+            "Alapító",
+            "leendő társalapító"
+          ]
+        },
+        {
+          "id": "startup-startup",
+          "kicker": "üzleti illeszkedés",
+          "label": "Indítások ↔ Indítások",
+          "pairing": "Indítás × Indítás — BD",
+          "body": "Minden startup megosztja, hogy mit kínál, milyen szektorokat vagy vállalattípusokat szeretne találkozni, és hogyan néz ki egy hasznos kereskedelmi illeszkedés.",
+          "sides": [
+            "induló ajánlat",
+            "Indítás Keresés"
+          ]
+        }
+      ],
+      "hero": {
+        "eyebrow": "most egyezés a Humanx Amsterdamban – 2026. szeptember 22–24.",
+        "heading": "Valódi üzleti bemutatkozás, egyszerre egy ember.",
+        "accentText": "Valódi üzleti bemutatkozás",
+        "body": "Az alapítók befektetőket találnak – a befektetők pedig az alapítókat. A társalapítók egymásra találnak. A startupok megtalálják a megfelelő startupot, ahol vásárolhatnak, eladhatnak vagy építhetnek velük. Lane egy-egy párosítást javasol. Mindkét fél igent mond.",
+        "primaryCtaLabel": "Csevegés Lane",
+        "secondaryCtaLabel": "Hogyan működik",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "Lane, egy laza szárnyas konferencia operátor",
+        "chat": {
+          "statusLabel": "Online · A padlón",
+          "operatorBadge": "ember által irányított",
+          "openingMessage": "Szia, Lane vagyok. Egyszerre egy gondosan kiválasztott személyt mutatok be – soha egy listát.",
+          "inputPlaceholder": "Kérdezze meg Lane-t a következő bemutatkozásáról…",
+          "suggestedPrompts": [
+            "Hogyan választasz?",
+            "Mi történik, ha átmegyek?",
+            "Mikor osztják meg a részleteket?"
+          ]
+        },
+        "briefDemo": {
+          "enabled": true,
+          "commandTrigger": "request-introduction",
+          "introHeading": "Az Ön privát bemutatkozó tájékoztatója",
+          "introBody": "Megmondod, hogy az asztal melyik oldalán állsz, és hogyan néz ki egy hasznos találkozó. Javasolok egy megfelelőt. Mindketten elfogadják vagy átadják privátban.",
+          "trackLabel": "bevezető út",
+          "sideLabel": "Te oldalad",
+          "fields": [
+            {
+              "key": "organization",
+              "label": "Szervezet",
+              "placeholder": "cég vagy alap",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "role",
+              "label": "Te szereped",
+              "placeholder": "Alapító, befektető, üzemeltető…",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "currentEvent",
+              "label": "Aktuális esemény",
+              "placeholder": "Humanx Amszterdam",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "goal",
+              "label": "Cél",
+              "placeholder": "Mitől lenne értékes a beszélgetés?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "offer",
+              "label": "Amit kínálsz",
+              "placeholder": "Mivel tud hozzájárulni?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "need",
+              "label": "Amire szükséged van",
+              "placeholder": "Milyen segítség vagy megfelelő?",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "fitCriteria",
+              "label": "megfelelési kritériumok",
+              "placeholder": "Színpad, szakdolgozat, szakértelem, munkastílus…",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "key": "availability",
+              "label": "Rendelkezésre állás",
+              "placeholder": "napok és hasznos időablakok",
+              "type": "text",
+              "required": true
+            },
+            {
+              "key": "privateConstraints",
+              "label": "sajátos korlátok",
+              "placeholder": "Bármi sávnak privátnak kell lennie",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "voiceLabel": "Build by Voice · 5 perc",
+          "reviewLabel": "áttekintő tájékoztató",
+          "editLabel": "Szerkeszt",
+          "reviewHeading": "Tekintse át privát tájékoztatóját",
+          "reviewBody": "Semmit sem küldenek be, keresnek vagy osztanak meg addig, amíg be nem jelentkezik és kifejezetten jóváhagyja.",
+          "submitLabel": "Jelentkezzen be és adja alá magát a Lane",
+          "loginNotice": "Jelentkezzen be, hogy benyújtsa ezt a privát bevezetőt a Lane-nek az emberi felülvizsgálathoz.",
+          "expiryCopy": "A be nem nyújtott tájékoztatók egy óra múlva lejárnak.",
+          "privacyCopy": "Nincs résztvevő keresés vagy kapcsolatfelvétel a névtelenül.",
+          "errorCopy": "Lane nem tudta megmenteni ezt a tájékoztatót. Kérjük, próbálkozzon újra, vagy jelentkezzen be."
+        }
+      },
+      "about": {
+        "kicker": "szándékosan szűk szolgáltatás",
+        "heading": "A hálózati eszközök mindenkit megadtak. Lane bemutat valakit.",
+        "body": "Egy konkrét vállalkozás párosul a mögötte álló okkal – legyen az a hasznos egyezés, a tőke, egy kiegészítő társalapító vagy egy másik startup.",
+        "images": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "alapító és befektető egy fókuszált első találkozón egy konferencián",
+            "label": "Alapítók ↔ Befektetők"
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
+            "alt": "potenciális társalapítók, akik megvitatják, hogyan működnek",
+            "label": "Alapítók ↔ Társalapítók"
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "Az induló üzemeltetők üzleti együttműködésről tárgyalnak",
+            "label": "Indítások ↔ Indítások"
+          }
+        ],
+        "principles": [
+          {
+            "icon": "check",
+            "title": "Konkrét ütemek végtelenek.",
+            "body": "Egy releváns személy, akinek oka van találkozni – soha nem nyilvános listát kell dolgozni.",
+            "tone": "signal"
+          },
+          {
+            "icon": "users",
+            "title": "mindkét fél választ.",
+            "body": "A javasolt párosítás csak két privát igen után lép előre. Az elhaladás is privát marad.",
+            "tone": "iris"
+          },
+          {
+            "icon": "shield-check",
+            "title": "Privát, mindig.",
+            "body": "A nevek, elérhetőségek és a pontos találkozási pont csak akkor oldódik fel, ha mindkét fél elfogadja.",
+            "tone": "mint"
+          }
+        ],
+        "scopeNote": "Alapítóknak, befektetőknek, potenciális társalapítóknak és startupoknak, akiknek konkrét okuk van a találkozásra. Nem randevúzásra, álláskeresésre, Expo-Hall-bemutatóra vagy általános hálózatépítésre."
+      },
+      "process": {
+        "kicker": "Hogyan történik a bevezetés",
+        "heading": "A „Tell Me Your Side”-től a „Itt van, amikor találkozol”-ig.",
+        "body": "Lane emberi üzemeltető – nem egyező motor, takarmány vagy foglalási piac. A folyamat ugyanaz marad; A két oldal megváltozik.",
+        "steps": [
+          {
+            "number": "01",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
+            "alt": "",
+            "title": "valódi beszélgetést folytatni",
+            "body": "Az alapítók osztoznak az emelésben, az ellenőrzés méretében és a találkozás okában. A befektetők megosztják a szakdolgozatot, a csekkméretet és a megtalálni kívánt alapítókat."
+          },
+          {
+            "number": "02",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
+            "alt": "",
+            "title": "sáv nézi",
+            "body": "A kezelő összehasonlítja a saját bevitelt ugyanazon a pályán, és a nyilvánvaló címkéken túl ellenőrzi az illeszkedést."
+          },
+          {
+            "number": "03",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
+            "alt": "",
+            "title": "Találkozz egy jó lehetőséggel",
+            "body": "Kapsz egy javasolt párosítást a kontextussal. Mindkét fél elfogadja vagy átadja, mielőtt bármilyen elérhetőséget megosztana."
+          },
+          {
+            "number": "04",
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
+            "alt": "",
+            "title": "Szerezze be a megerősített helyet",
+            "body": "Lane beállít egy időt és egy csendes helyet. A pontos táblázat és két név csak akkor oldódik fel, ha mindkét oldal igent mond."
+          }
+        ]
+      },
+      "pairing": {
+        "kicker": "Lane legújabb illeszkedése",
+        "heading": "Két teljes vállalkozás. Egy jó ok a találkozásra.",
+        "body": "A hasznos bevezető ritkán „két ember ugyanabban az iparágban”. Ez egy időszerű igény az egyik oldalon, a másik oldalon pedig hiteles válasz – plusz két privát igen.",
+        "images": [
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
+            "alt": "Két rendezvény résztvevője, aki átgondolt bemutatkozást fontolgat"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
+            "alt": "A startup üzemeltetői egy lehetséges együttműködésről tárgyalnak"
+          }
+        ],
+        "fitLabel": "Lane’s Fit",
+        "criteria": [
+          "Időzítés átfedések",
+          "Szükséges és ajánlati összehangolás",
+          "Mindketten részt vettek egy ilyen első találkozón"
+        ],
+        "statusHeading": "A kártya megváltozik, ahogy két döntés érkezik.",
+        "statusBody": "Szemléltető kártyaformátumok – nem nyilvános részvételi lista vagy élő ütemterv. Állapot és hely megváltozik, ahogy minden bevezetés elfogadásra kerül.",
+        "cards": [
+          {
+            "track": "Alapító × Seed Investor",
+            "time": "Tue · 10:20",
+            "status": "proposed",
+            "location": "Rai, Zuidas",
+            "note": "Két döntésre vár"
+          },
+          {
+            "track": "Alapító × társalapító",
+            "time": "Wed · 13:40",
+            "status": "accepted",
+            "location": "Rai, Zuidas",
+            "note": "Lane beállítja a nyílást"
+          },
+          {
+            "track": "Indítás × Indítás — BD",
+            "time": "Thu · 15:10",
+            "status": "confirmed",
+            "location": "Pontos asztal vagy csendes sarok megosztott, miután mindkét fél elfogadta",
+            "note": "A teljes részlet privátban elküldve"
+          }
+        ]
+      },
+      "faq": {
+        "kicker": "jó kérdések",
+        "heading": "Mielőtt Lane bemutatkozna.",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
+        "items": [
+          {
+            "question": "A Lane csak az alapítóknak keres befektetőket?",
+            "answer": "Nem. A szolgáltatás szándékosan kétoldalú: a befektetők a Lane-t használják az alapítók felkutatására, az alapítók a Lane-t használják a befektetők megtalálására, a potenciális társalapítók egymásra találnak, a startupok pedig egy másik startupot találnak, amely elfogadható ügyféllel vagy együttműködéssel rendelkezik."
+          },
+          {
+            "question": "A Lane egy megfelelő alkalmazás?",
+            "answer": "Nem. Egy emberi operátor beolvassa a bevitelt, és egy-egy párosítást javasol. Nincs nyilvános pakli, csúsztatási hírcsatorna, résztvevői könyvtár vagy automatizált illesztőmotor."
+          },
+          {
+            "question": "Mindenki látni fogja az adataimat?",
+            "answer": "Nem. A bevitel privát marad. Minden javasolt bevezetés csak a két releváns oldalon jelenik meg, és a közvetlen elérhetőségek rejtve maradnak, amíg mindkettő elfogadja."
+          },
+          {
+            "question": "Mi van, ha továbbadom a javasolt párosítást?",
+            "answer": "Lane privátban rögzíti a hágót, és továbbmegy. A másik oldal nem kapja meg az Ön elérhetőségeit, és nincs nyilvános elutasítás vagy rangsor."
+          },
+          {
+            "question": "Mi történik, miután mindkét fél elfogadja?",
+            "answer": "A sáv megerősít egy időpontot és egy asztalt vagy egy csendes sarkot. Két nevet kap, és a pontos helyet csak azután kapja meg, hogy mindkét igen."
+          },
+          {
+            "question": "Hogyan működik a találkozó garanciája?",
+            "answer": "A garancia a regisztrációkor kiválasztott pályára vonatkozik: az aktuális eseménynaptárban három elfogadott találkozó, vagy az alapítói oldali díjat visszatérítjük. Lane lefoglalja a találkozót, nem a kört, társalapítót, ügyfelet vagy üzletet."
+          }
+        ]
+      },
+      "waitlist": {
+        "kicker": "Egyszerre egy esemény",
+        "heading": "Szeretnél Lane-t a rendezvényeden?",
+        "body": "A sáv egyik kiválasztott konferenciáról a másikra lép. Csatlakozzon a Future-Event várólistához, és mondja el az operátornak, hogy hol számítanak a gondos bemutatkozás.",
+        "nameLabel": "Név",
+        "emailLabel": "email",
+        "eventLabel": "Esemény vagy konferencia neve",
+        "cityLabel": "Város",
+        "ctaLabel": "Csatlakozzon a Future-Event várólistához",
+        "loginNotice": "Jelentkezzen be, hogy elmentse ezt a Future-Event bevezetési kérelmet a Lane segítségével."
+      },
+      "closing": {
+        "kicker": "készen állsz, amikor vagy",
+        "heading": "Egyszerre egy hasznos bevezetés.",
+        "body": "Mondja meg Lane-nek, hogy az asztal melyik oldalán áll. Az operátor elviszi onnan – átgondoltan, privátban, és egyszerre egy valós személy.",
+        "ctaLabel": "Csevegés Lane",
+        "note": "nincs csúsztatási feed · csak kölcsönös megegyezés · ember által vezetett · privát, amíg mindketten igent nem mondanak",
+        "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
+        "characterAlt": "sáv nyugodtan áll egy tablettel, készen áll a bemutatkozásra"
+      },
+      "footer": {
+        "tagline": "sáv Gabriel kezelő által.",
+        "disclaimer": "A sáv egyes konferenciákon és rendezvényeken párosítja az embereket. A Humanx Amsterdam nem partner, hacsak nincs feltüntetve.",
+        "copyright": "2026-os sáv",
+        "groups": [
+          {
+            "label": "Felderít",
+            "links": [
+              {
+                "label": "Ról ről",
+                "target": "about"
+              },
+              {
+                "label": "Hogyan működik",
+                "target": "how-it-works"
+              },
+              {
+                "label": "párosítás",
+                "target": "pairings"
+              }
+            ]
+          },
+          {
+            "label": "Sáv",
+            "links": [
+              {
+                "label": "GYIK",
+                "target": "faqs"
+              },
+              {
+                "label": "jövőbeli események",
+                "target": "waitlist"
+              },
+              {
+                "label": "Készíts egy rövidet",
+                "target": "hero-chat"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "generatedAt": "2026-09-01T15:39:42.184Z"
+}
