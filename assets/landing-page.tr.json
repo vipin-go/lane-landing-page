@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "iş uyumu",
           "label": "Başlangıçlar ↔ Başlangıçlar",
-          "pairing": "Başlangıç × Başlangıç — BD",
+          "pairing": "Başlangıç × Başlangıç: BD",
           "body": "Her girişim, sunduğunu, karşılamak istediği sektörleri veya şirket türlerini ve yararlı bir ticari uyumun nasıl göründüğünü paylaşır.",
           "sides": [
             "Başlangıç Teklifi",
@@ -338,7 +338,7 @@
           "İkisi de bu tür ilk toplantıya katıldı"
         ],
         "statusHeading": "İki karar geldikçe kart değişir.",
-        "statusBody": "Açıklayıcı kart formatları— Herkese açık bir katılımcı listesi veya canlı program değil. Her giriş kabul edildiğinde durum ve konum değişikliği.",
+        "statusBody": "Açıklayıcı kart formatları. Herkese açık bir katılımcı listesi veya canlı program değil. Her giriş kabul edildiğinde durum ve konum değişikliği.",
         "cards": [
           {
             "track": "Kurucu × Tohum Yatırımcısı",
@@ -355,7 +355,7 @@
             "note": "Lane slotu ayarlıyor"
           },
           {
-            "track": "Başlangıç × Başlangıç — BD",
+            "track": "Başlangıç × Başlangıç: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Her iki taraf da kabul ettikten sonra paylaşılan tam masa veya sessiz köşe",

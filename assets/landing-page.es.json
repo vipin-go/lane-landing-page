@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "ajuste de negocios",
           "label": "Startups ↔ Startups",
-          "pairing": "Inicio × Inicio — BD",
+          "pairing": "Inicio × Inicio: BD",
           "body": "Cada startup comparte lo que ofrece, los sectores o tipos de empresas que quiere cumplir y cómo se ve un útil comercial.",
           "sides": [
             "Oferta de inicio",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "Ahora coincide en HumanX Amsterdam — 22–24 de septiembre de 2026",
+        "eyebrow": "Ahora coincide en HumanX Amsterdam: 22–24 de septiembre de 2026",
         "heading": "Presentaciones de negocios reales, una persona a la vez.",
         "accentText": "Presentaciones de negocios reales",
         "body": "Los fundadores encuentran inversionistas, y los inversionistas encuentran a los fundadores. Los cofundadores se encuentran. Las startups encuentran la startup adecuada para comprar, vender o construir. Lane propone un emparejamiento a la vez. Ambos lados dicen que sí.",
@@ -355,7 +355,7 @@
             "note": "carril está configurando la ranura"
           },
           {
-            "track": "Inicio × Inicio — BD",
+            "track": "Inicio × Inicio: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Mesa exacta o rincón tranquilo compartido después de que ambas partes aceptan",

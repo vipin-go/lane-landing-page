@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Apresentações de negócios reais, uma pessoa de cada vez.",
-    "subheadline": "Fundadores encontram investidores — e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir.",
+    "subheadline": "Fundadores encontram investidores, e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir.",
     "ctaLabel": "Converse com Lane",
     "secondaryCtaLabel": "Veja como funciona",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "ajuste de negócios",
           "label": "Startups ↔ Startups",
-          "pairing": "Inicialização × Inicialização — BD",
+          "pairing": "Inicialização × Inicialização: BD",
           "body": "Cada startup compartilha o que oferece, os setores ou tipos de empresa que deseja atender e como é um ajuste comercial útil.",
           "sides": [
             "Oferta de inicialização",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Agora igualando em HumanX Amsterdam — 22–24 de setembro de 2026",
+        "eyebrow": "Agora igualando em HumanX Amsterdam: 22–24 de setembro de 2026",
         "heading": "Apresentações de negócios reais, uma pessoa de cada vez.",
         "accentText": "Apresentações de negócios reais,",
-        "body": "Fundadores encontram investidores — e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir. Lane propõe um emparelhamento de cada vez. Ambos os lados dizem que sim.",
+        "body": "Fundadores encontram investidores, e investidores encontram fundadores. Os cofundadores se encontram. As startups encontram a startup certa para comprar, vender ou construir. Lane propõe um emparelhamento de cada vez. Ambos os lados dizem que sim.",
         "primaryCtaLabel": "Converse com Lane",
         "secondaryCtaLabel": "Veja como funciona",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -355,7 +355,7 @@
             "note": "Lane está definindo o slot"
           },
           {
-            "track": "Inicialização × Inicialização — BD",
+            "track": "Inicialização × Inicialização: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "mesa exata ou canto tranquilo compartilhado depois que ambos os lados aceitam",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "Pronto quando estiveres",
         "heading": "Uma introdução útil de cada vez.",
-        "body": "Diga a Lane de que lado da mesa você está. A operadora a partir daí — pensativo, em particular e uma pessoa real de cada vez.",
+        "body": "Diga a Lane de que lado da mesa você está. A operadora a partir daí, pensativo, em particular e uma pessoa real de cada vez.",
         "ctaLabel": "Converse com Lane",
         "note": "Sem feed de deslizamento · Consentimento mútuo apenas · Corrida humana · Privado até que ambos digam sim",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",

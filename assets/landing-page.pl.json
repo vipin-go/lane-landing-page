@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Prawdziwe wprowadzenie do biznesu, jedna osoba na raz.",
-    "subheadline": "Założyciele znajdują inwestorów — a inwestorzy znajdują założycieli. Współzałożyciele odnajdują się nawzajem. Startupy znajdują właściwy startup, od którego możesz kupować, sprzedawać lub budować.",
+    "subheadline": "Założyciele znajdują inwestorów, a inwestorzy znajdują założycieli. Współzałożyciele odnajdują się nawzajem. Startupy znajdują właściwy startup, od którego możesz kupować, sprzedawać lub budować.",
     "ctaLabel": "Porozmawiaj z Lanem",
     "secondaryCtaLabel": "Zobacz jak to działa",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Dopasowanie biznesowe",
           "label": "Startupy ↔ Startupy",
-          "pairing": "Uruchamianie × Uruchamianie — BD",
+          "pairing": "Uruchamianie × Uruchamianie: BD",
           "body": "Każdy startup dzieli się tym, co oferuje, sektory lub typy firm, z którymi chce się spotkać, i jak wygląda użyteczne dopasowanie komercyjne.",
           "sides": [
             "Oferta startowa",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Teraz dopasowanie w HumanX Amsterdam — 22–24 września 2026",
+        "eyebrow": "Teraz dopasowanie w HumanX Amsterdam: 22–24 września 2026",
         "heading": "Prawdziwe wprowadzenie do biznesu, jedna osoba na raz.",
         "accentText": "Prawdziwe wprowadzenie do biznesu",
-        "body": "Założyciele znajdują inwestorów — a inwestorzy znajdują założycieli. Współzałożyciele odnajdują się nawzajem. Startupy znajdują właściwy startup, od którego możesz kupować, sprzedawać lub budować. Lane proponuje jedno parowanie na raz. Obie strony mówią tak.",
+        "body": "Założyciele znajdują inwestorów, a inwestorzy znajdują założycieli. Współzałożyciele odnajdują się nawzajem. Startupy znajdują właściwy startup, od którego możesz kupować, sprzedawać lub budować. Lane proponuje jedno parowanie na raz. Obie strony mówią tak.",
         "primaryCtaLabel": "Porozmawiaj z Lanem",
         "secondaryCtaLabel": "Zobacz jak to działa",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "online · na podłodze",
           "operatorBadge": "prowadzony przez człowieka",
-          "openingMessage": "Cześć, jestem Lane. Przedstawiam jedną starannie dobraną osobę na raz — nigdy listę.",
+          "openingMessage": "Cześć, jestem Lane. Przedstawiam jedną starannie dobraną osobę na raz, nigdy listę.",
           "inputPlaceholder": "Zapytaj Lane'a o kolejne wprowadzenie…",
           "suggestedPrompts": [
             "Jak wybierasz?",
@@ -239,7 +239,7 @@
       "about": {
         "kicker": "celowo wąska usługa",
         "heading": "Narzędzia sieciowe dały Ci wszystkich. Lane przedstawia cię komuś.",
-        "body": "Jedno konkretne połączenie biznesowe z powodem, dla którego za tym stoi — czy to użytecznym dopasowaniem jest Capital, komplementarny współzałożyciel, czy inny start-up.",
+        "body": "Jedno konkretne połączenie biznesowe z powodem, dla którego za tym stoi, czy to użytecznym dopasowaniem jest Capital, komplementarny współzałożyciel, czy inny start-up.",
         "images": [
           {
             "number": "01",
@@ -264,7 +264,7 @@
           {
             "icon": "check",
             "title": "Specyficzne bije bez końca.",
-            "body": "Jedna istotna osoba, z powodem do spotkania — nigdy publiczna lista do przepracowania.",
+            "body": "Jedna istotna osoba, z powodem do spotkania, nigdy publiczna lista do przepracowania.",
             "tone": "signal"
           },
           {
@@ -285,7 +285,7 @@
       "process": {
         "kicker": "Jak wygląda wprowadzenie",
         "heading": "Od „Powiedz mi swoją stronę” do „Oto, kiedy się spotykasz”.",
-        "body": "Lane jest ludzkim operatorem — nie pasującym silnikiem, kanałem ani rynkiem rezerwacji. Proces pozostaje ten sam; Zmieniają się obie strony.",
+        "body": "Lane jest ludzkim operatorem, nie pasującym silnikiem, kanałem ani rynkiem rezerwacji. Proces pozostaje ten sam; Zmieniają się obie strony.",
         "steps": [
           {
             "number": "01",
@@ -338,7 +338,7 @@
           "Obaj zdecydowali się na tego rodzaju pierwsze spotkanie"
         ],
         "statusHeading": "Karta zmienia się, gdy zachodzą dwie decyzje.",
-        "statusBody": "Przykładowe formaty kart — a nie publiczna lista uczestników ani harmonogram na żywo. Status i zmiana lokalizacji w miarę akceptowania każdego wstępu.",
+        "statusBody": "Przykładowe formaty kart, a nie publiczna lista uczestników ani harmonogram na żywo. Status i zmiana lokalizacji w miarę akceptowania każdego wstępu.",
         "cards": [
           {
             "track": "Założyciel × Inwestor nasion",
@@ -355,7 +355,7 @@
             "note": "Lane ustawia slot"
           },
           {
-            "track": "Uruchamianie × Uruchamianie — BD",
+            "track": "Uruchamianie × Uruchamianie: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Dokładny stół lub cichy kącik udostępniony po zaakceptowaniu przez obie strony",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "Gotowy, kiedy jesteś",
         "heading": "Jedno przydatne wprowadzenie na raz.",
-        "body": "Powiedz Lane'owi, po której stronie stołu jesteś. Operator zabierze go stamtąd — z zamyśleniem, prywatnie i jedną prawdziwą osobą na raz.",
+        "body": "Powiedz Lane'owi, po której stronie stołu jesteś. Operator zabierze go stamtąd, z zamyśleniem, prywatnie i jedną prawdziwą osobą na raz.",
         "ctaLabel": "Porozmawiaj z Lanem",
         "note": "Brak kanału przesuwania · Tylko wzajemna zgoda · prowadzony przez człowieka · prywatny, dopóki obaj nie powiedzą tak",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",

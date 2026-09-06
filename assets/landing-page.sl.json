@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Poslovno prileganje",
           "label": "Startupi ↔ Startupi",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Vsak startup deli, kaj ponuja, sektorje ali vrste podjetij, ki jih želi srečati, in kako izgleda uporabno komercialno prileganje.",
           "sides": [
             "Ponudba startupa",
@@ -355,7 +355,7 @@
             "note": "Lane nastavlja režo"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Exact table or quiet corner shared after both sides accept",

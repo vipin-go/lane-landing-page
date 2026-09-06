@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Perkenalan bisnis nyata, satu orang pada satu waktu.",
-    "subheadline": "Pendiri menemukan investor—dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun.",
+    "subheadline": "Pendiri menemukan investor, dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun.",
     "ctaLabel": "mengobrol dengan Lane",
     "secondaryCtaLabel": "Lihat Cara Kerjanya",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "kesesuaian bisnis",
           "label": "Startup Startup",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Setiap startup membagikan apa yang ditawarkannya, sektor atau jenis perusahaan yang ingin ditemuinya, dan seperti apa kecocokan komersial yang berguna.",
           "sides": [
             "Penawaran Startup",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Sekarang cocok di HumanX Amsterdam — 22–24 Sep 2026",
+        "eyebrow": "Sekarang cocok di HumanX Amsterdam: 22–24 Sep 2026",
         "heading": "Perkenalan bisnis nyata, satu orang pada satu waktu.",
         "accentText": "Perkenalan bisnis nyata",
-        "body": "Pendiri menemukan investor—dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun. Lane mengusulkan satu pasangan pada satu waktu. Kedua belah pihak mengatakan ya.",
+        "body": "Pendiri menemukan investor, dan investor menemukan pendiri. Co-founder menemukan satu sama lain. Startup menemukan startup yang tepat untuk membeli, menjual, atau membangun. Lane mengusulkan satu pasangan pada satu waktu. Kedua belah pihak mengatakan ya.",
         "primaryCtaLabel": "mengobrol dengan Lane",
         "secondaryCtaLabel": "Lihat Cara Kerjanya",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "online · di lantai",
           "operatorBadge": "Dijalankan oleh manusia",
-          "openingMessage": "Hai, saya Lane. Saya memperkenalkan satu orang yang dipilih dengan cermat pada satu waktu—tidak pernah ada daftar.",
+          "openingMessage": "Hai, saya Lane. Saya memperkenalkan satu orang yang dipilih dengan cermat pada satu waktu, tidak pernah ada daftar.",
           "inputPlaceholder": "Tanyakan kepada Lane tentang perkenalan Anda selanjutnya…",
           "suggestedPrompts": [
             "Bagaimana Anda memilih?",
@@ -239,7 +239,7 @@
       "about": {
         "kicker": "layanan yang sengaja sempit",
         "heading": "Alat jaringan memberi Anda semua orang. Lane memperkenalkan Anda kepada seseorang.",
-        "body": "Satu pasangan bisnis tertentu dengan alasan di baliknya—apakah kecocokan yang berguna adalah modal, co-founder yang saling melengkapi, atau startup lain.",
+        "body": "Satu pasangan bisnis tertentu dengan alasan di baliknya, apakah kecocokan yang berguna adalah modal, co-founder yang saling melengkapi, atau startup lain.",
         "images": [
           {
             "number": "01",
@@ -264,7 +264,7 @@
           {
             "icon": "check",
             "title": "Ketukan khusus tak berujung.",
-            "body": "satu orang yang relevan, dengan alasan untuk bertemu—tidak pernah ada daftar publik yang harus diselesaikan.",
+            "body": "satu orang yang relevan, dengan alasan untuk bertemu, tidak pernah ada daftar publik yang harus diselesaikan.",
             "tone": "signal"
           },
           {
@@ -285,7 +285,7 @@
       "process": {
         "kicker": "Bagaimana Pengenalan Terjadi",
         "heading": "Dari \"Katakan padaku sisimu\" hingga \"Inilah saat kau bertemu.\"",
-        "body": "Lane adalah operator manusia—bukan mesin yang cocok, pakan, atau pasar pemesanan. Prosesnya tetap sama; Kedua belah pihak berubah.",
+        "body": "Lane adalah operator manusia, bukan mesin yang cocok, pakan, atau pasar pemesanan. Prosesnya tetap sama; Kedua belah pihak berubah.",
         "steps": [
           {
             "number": "01",
@@ -320,7 +320,7 @@
       "pairing": {
         "kicker": "Fit terbaru Lane",
         "heading": "Dua bisnis penuh. Satu alasan bagus untuk bertemu.",
-        "body": "Pengenalan yang berguna jarang “dua orang di industri yang sama.” Ini adalah kebutuhan tepat waktu di satu sisi dan jawaban yang kredibel di sisi lain—ditambah dua ya pribadi.",
+        "body": "Pengenalan yang berguna jarang “dua orang di industri yang sama.” Ini adalah kebutuhan tepat waktu di satu sisi dan jawaban yang kredibel di sisi lain, ditambah dua ya pribadi.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -338,7 +338,7 @@
           "Keduanya memilih pertemuan pertama semacam ini"
         ],
         "statusHeading": "Kartu berubah saat dua keputusan masuk.",
-        "statusBody": "Format kartu ilustrasi—bukan daftar peserta publik atau jadwal langsung. Status dan lokasi berubah karena setiap pengenalan diterima.",
+        "statusBody": "Format kartu ilustrasi, bukan daftar peserta publik atau jadwal langsung. Status dan lokasi berubah karena setiap pengenalan diterima.",
         "cards": [
           {
             "track": "Pendiri × Investor Benih",
@@ -355,7 +355,7 @@
             "note": "Lane sedang mengatur slot"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "meja yang tepat atau sudut tenang yang dibagikan setelah kedua belah pihak menerima",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "siap ketika Anda",
         "heading": "satu perkenalan yang berguna pada satu waktu.",
-        "body": "Beri tahu Lane di sisi meja mana Anda berada. Operator akan mengambilnya dari sana—dengan penuh pertimbangan, secara pribadi, dan satu orang pada satu waktu.",
+        "body": "Beri tahu Lane di sisi meja mana Anda berada. Operator akan mengambilnya dari sana, dengan penuh pertimbangan, secara pribadi, dan satu orang pada satu waktu.",
         "ctaLabel": "mengobrol dengan Lane",
         "note": "Tidak Ada Umpan Gesek · Saling Persetujuan · Lari Manusia · Pribadi Sampai Keduanya Mengatakan Ya",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",

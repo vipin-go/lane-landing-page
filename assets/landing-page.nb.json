@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Business Fit",
           "label": "Startups ↔ Startups",
-          "pairing": "Oppstart × oppstart — BD",
+          "pairing": "Oppstart × oppstart: BD",
           "body": "Hver oppstart deler hva den tilbyr, sektorene eller selskapstypene den ønsker å møte, og hvordan en nyttig kommersiell passform ser ut.",
           "sides": [
             "Oppstartstilbud",
@@ -355,7 +355,7 @@
             "note": "Lane setter sporet"
           },
           {
-            "track": "Oppstart × oppstart — BD",
+            "track": "Oppstart × oppstart: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "nøyaktig bord eller stille hjørne delt etter at begge sider har akseptert",

@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Business Fit",
           "label": "startupy ↔ startupy",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Každý startup zdieľa to, čo ponúka, sektory alebo typy spoločností, s ktorými sa chce stretávať, a ako vyzerá užitočná komercia.",
           "sides": [
             "Startup offering",
@@ -355,7 +355,7 @@
             "note": "Lane nastavuje slot"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "presný stôl alebo tichý kút zdieľaný po prijatí oboch strán",

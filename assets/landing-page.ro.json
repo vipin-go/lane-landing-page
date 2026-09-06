@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "AFACERI FIT",
           "label": "Startup-uri ↔ Startup-uri",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Fiecare startup împărtășește ceea ce oferă, sectoarele sau tipurile de companii pe care dorește să le întâlnească și cum arată o potrivire comercială utilă.",
           "sides": [
             "Oferta de pornire",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "acum se potrivește la Humanx Amsterdam — 22–24 septembrie 2026",
+        "eyebrow": "acum se potrivește la Humanx Amsterdam: 22–24 septembrie 2026",
         "heading": "Introduceri reale în afaceri, o persoană la un moment dat.",
         "accentText": "Introduceri reale în afaceri,",
         "body": "Fondatorii găsesc investitori, iar investitorii găsesc fondatori. Co-fondatorii se găsesc. Startup-urile găsesc startup-ul potrivit de la care să cumpere, să vândă sau cu care să construiască. Lane propune câte o pereche la un moment dat. Ambele părți spun da.",
@@ -338,7 +338,7 @@
           "Ambii au optat pentru acest tip de primă întâlnire"
         ],
         "statusHeading": "Cardul se schimbă pe măsură ce intră două decizii.",
-        "statusBody": "Formate ilustrative de carduri — nu o listă publică de participanți sau un program live. schimbarea stării și locației pe măsură ce fiecare introducere este acceptată.",
+        "statusBody": "Formate ilustrative de carduri, nu o listă publică de participanți sau un program live. schimbarea stării și locației pe măsură ce fiecare introducere este acceptată.",
         "cards": [
           {
             "track": "Fondator × Investitor de semințe",
@@ -355,7 +355,7 @@
             "note": "Lane stabilește slotul"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "masa exactă sau colțul liniștit împărțit după ce ambele părți acceptă",

@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "üzleti illeszkedés",
           "label": "Indítások ↔ Indítások",
-          "pairing": "Indítás × Indítás — BD",
+          "pairing": "Indítás × Indítás: BD",
           "body": "Minden startup megosztja, hogy mit kínál, milyen szektorokat vagy vállalattípusokat szeretne találkozni, és hogyan néz ki egy hasznos kereskedelmi illeszkedés.",
           "sides": [
             "induló ajánlat",
@@ -355,7 +355,7 @@
             "note": "Lane beállítja a nyílást"
           },
           {
-            "track": "Indítás × Indítás — BD",
+            "track": "Indítás × Indítás: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Pontos asztal vagy csendes sarok megosztott, miután mindkét fél elfogadta",

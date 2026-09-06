@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Ajustement commercial",
           "label": "Démarrages ↔ Démarrages",
-          "pairing": "Démarrage × Démarrage — BD",
+          "pairing": "Démarrage × Démarrage: BD",
           "body": "Chaque startup partage ce qu'elle propose, les secteurs ou les types d'entreprises qu'elle souhaite rencontrer et à quoi ressemble un ajustement commercial utile.",
           "sides": [
             "Offre de démarrage",
@@ -338,7 +338,7 @@
           "Les deux ont opté pour ce genre de première réunion"
         ],
         "statusHeading": "La carte change au fur et à mesure que deux décisions entrent en jeu.",
-        "statusBody": "Formats de cartes illustratives—pas une liste de participants ou un horaire en direct. Le changement de statut et de localisation à chaque introduction est accepté.",
+        "statusBody": "Formats de cartes illustratives, pas une liste de participants ou un horaire en direct. Le changement de statut et de localisation à chaque introduction est accepté.",
         "cards": [
           {
             "track": "Fondateur × investisseur de semences",
@@ -355,7 +355,7 @@
             "note": "Lane est en train de régler la fente"
           },
           {
-            "track": "Démarrage × Démarrage — BD",
+            "track": "Démarrage × Démarrage: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Table exacte ou coin calme partagé après que les deux côtés ont accepté",

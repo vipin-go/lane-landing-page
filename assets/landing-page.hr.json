@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Pravo poslovno predstavljanje, jedna po jedna osoba.",
-    "subheadline": "Osnivači pronalaze investitore—a investitori pronalaze osnivače. Suosnivači se pronalaze. Startupi pronalaze pravi startup za kupnju, prodaju ili gradnju.",
+    "subheadline": "Osnivači pronalaze investitore, a investitori pronalaze osnivače. Suosnivači se pronalaze. Startupi pronalaze pravi startup za kupnju, prodaju ili gradnju.",
     "ctaLabel": "razgovarati s Laneom",
     "secondaryCtaLabel": "Pogledajte kako radi",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "posao",
           "label": "Startupi ↔ Startupi",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Svaki startup dijeli ono što nudi, sektore ili tipove tvrtki koje želi upoznati i kako izgleda korisno komercijalno uklapanje.",
           "sides": [
             "startup ponuda",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Sada se podudara na HumanX Amsterdamu — 22. – 24. rujna 2026",
+        "eyebrow": "Sada se podudara na HumanX Amsterdamu: 22. – 24. rujna 2026",
         "heading": "Pravo poslovno predstavljanje, jedna po jedna osoba.",
         "accentText": "Pravo poslovno predstavljanje",
-        "body": "Osnivači pronalaze investitore—a investitori pronalaze osnivače. Suosnivači se pronalaze. Startupi pronalaze pravi startup za kupnju, prodaju ili gradnju. Lane predlaže jedno po jedno uparivanje. Obje strane kažu da.",
+        "body": "Osnivači pronalaze investitore, a investitori pronalaze osnivače. Suosnivači se pronalaze. Startupi pronalaze pravi startup za kupnju, prodaju ili gradnju. Lane predlaže jedno po jedno uparivanje. Obje strane kažu da.",
         "primaryCtaLabel": "razgovarati s Laneom",
         "secondaryCtaLabel": "Pogledajte kako radi",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "Online · na podu",
           "operatorBadge": "čovječan",
-          "openingMessage": "Bok, ja sam Lane. Predstavljam jednu po jednu pažljivo odabranu osobu — nikad popis.",
+          "openingMessage": "Bok, ja sam Lane. Predstavljam jednu po jednu pažljivo odabranu osobu, nikad popis.",
           "inputPlaceholder": "Pitajte Lanea o svom sljedećem uvodu…",
           "suggestedPrompts": [
             "Kako birate?",
@@ -320,7 +320,7 @@
       "pairing": {
         "kicker": "Lane's Latest Fit",
         "heading": "Dvije pune tvrtke. Jedan dobar razlog za upoznavanje.",
-        "body": "Koristan uvod rijetko je “dvije osobe u istoj industriji”. To je pravovremena potreba s jedne strane i vjerodostojan odgovor s druge — plus dva privatna da.",
+        "body": "Koristan uvod rijetko je “dvije osobe u istoj industriji”. To je pravovremena potreba s jedne strane i vjerodostojan odgovor s druge, plus dva privatna da.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -338,7 +338,7 @@
           "Obojica su se odlučila za ovakav prvi susret"
         ],
         "statusHeading": "Kartica se mijenja kako dolaze dvije odluke.",
-        "statusBody": "Ilustrativni formati kartica—ne javni popis sudionika ili raspored uživo. Status i mjesto mijenjaju kako se svaki uvod prihvaća.",
+        "statusBody": "Ilustrativni formati kartica, ne javni popis sudionika ili raspored uživo. Status i mjesto mijenjaju kako se svaki uvod prihvaća.",
         "cards": [
           {
             "track": "Osnivač × Investitor sjemena",
@@ -355,7 +355,7 @@
             "note": "Lane postavlja utor"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "točan stol ili tihi kut koji se dijeli nakon što obje strane prihvate",

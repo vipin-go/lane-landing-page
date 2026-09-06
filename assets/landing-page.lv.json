@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Biznesa atbilstība",
           "label": "Startapi ↔ startapi",
-          "pairing": "Startaps × Startaps — BD",
+          "pairing": "Startaps × Startaps: BD",
           "body": "Katrs startaps dala, ko tas piedāvā, sektorus vai uzņēmumu veidus, ar kuriem vēlas tikties, un kā izskatās noderīga komerciāla atbilstība.",
           "sides": [
             "Startapa piedāvājums",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "Pašlaik savieno HumanX Amsterdam — 22.–24. sept. 2026",
+        "eyebrow": "Pašlaik savieno HumanX Amsterdam: 22.–24. sept. 2026",
         "heading": "Īsti biznesa iepazīstināšana, pa vienam cilvēkam.",
         "accentText": "Īsti biznesa iepazīstināšana,",
         "body": "Dibinātāji atrod investorus – un investori atrod dibinātājus. Līdzdibinātāji atrod viens otru. Startapi atrod piemērotu startupi, no kura pirkt, kam pārdot vai ar ko kopā veidot. Lane piedāvā vienu savienojumu vienlaikus. Abas puses saka jā.",
@@ -355,7 +355,7 @@
             "note": "Lane nosaka laiku"
           },
           {
-            "track": "Startaps × Startaps — BD",
+            "track": "Startaps × Startaps: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Precīzs galds vai kluss stūrītis tiek kopīgots pēc tam, kad abas puses piekrīt",

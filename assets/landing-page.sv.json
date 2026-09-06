@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "affärspassning",
           "label": "Startups ↔ Startups",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Varje startup delar med sig av vad den erbjuder, vilka sektorer eller företagstyper den vill möta och hur en användbar kommersiell passform ser ut.",
           "sides": [
             "startup-erbjudande",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "Matchar nu på Humanx Amsterdam — 22–24 september 2026",
+        "eyebrow": "Matchar nu på Humanx Amsterdam: 22–24 september 2026",
         "heading": "Riktiga affärsintroduktioner, en person i taget.",
         "accentText": "Riktiga affärsintroduktioner",
         "body": "Grundare hittar investerare – och investerare hittar grundare. Medgrundare hittar varandra. Nystartade företag hittar rätt startup att köpa från, sälja till eller bygga med. Lane föreslår ett par i taget. Båda sidor säger ja.",
@@ -355,7 +355,7 @@
             "note": "Lane sätter luckan"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "exakt bord eller tyst hörn delat efter att båda sidor accepterat",

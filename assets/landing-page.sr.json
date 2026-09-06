@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Stvarni poslovni uvodi, jedna osoba u isto vreme.",
-    "subheadline": "Osnivači pronalaze investitore — a investitori osnivače. Sauosnivači pronalaze jedni druge. Startapi pronalaze pravi startup za kupovinu, prodaju ili zajedničku izgradnju.",
+    "subheadline": "Osnivači pronalaze investitore, a investitori osnivače. Sauosnivači pronalaze jedni druge. Startapi pronalaze pravi startup za kupovinu, prodaju ili zajedničku izgradnju.",
     "ctaLabel": "Razgovarajte sa Laneom",
     "secondaryCtaLabel": "Pogledajte kako funkcioniše",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Poslovno poklapanje",
           "label": "Startapi ↔ startapi",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Svaki startup deli šta nudi, sektore ili tipove kompanija sa kojima želi da se sastane i kako izgleda korisno poslovno poklapanje.",
           "sides": [
             "Startup ponuda",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Upravo se sparivamo na HumanX Amsterdam — 22–24. septembar 2026.",
+        "eyebrow": "Upravo se sparivamo na HumanX Amsterdam: 22–24. septembar 2026.",
         "heading": "Stvarni poslovni uvodi, jedna osoba u isto vreme.",
         "accentText": "Stvarni poslovni uvodi,",
-        "body": "Osnivači pronalaze investitore — a investitori osnivače. Sauosnivači pronalaze jedni druge. Startapi pronalaze pravi startup za kupovinu, prodaju ili zajedničku izgradnju. Lane predlaže jedan po jedan par. Obe strane kažu da.",
+        "body": "Osnivači pronalaze investitore, a investitori osnivače. Sauosnivači pronalaze jedni druge. Startapi pronalaze pravi startup za kupovinu, prodaju ili zajedničku izgradnju. Lane predlaže jedan po jedan par. Obe strane kažu da.",
         "primaryCtaLabel": "Razgovarajte sa Laneom",
         "secondaryCtaLabel": "Pogledajte kako funkcioniše",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "Na mreži · na licu mesta",
           "operatorBadge": "Vodi ljudi",
-          "openingMessage": "Zdravo, ja sam Lane. Upoznajem jednu pažljivo odabranu osobu u isto vreme — nikada listu.",
+          "openingMessage": "Zdravo, ja sam Lane. Upoznajem jednu pažljivo odabranu osobu u isto vreme, nikada listu.",
           "inputPlaceholder": "Pitajte Lanea o vašem sledećem uvodu…",
           "suggestedPrompts": [
             "Kako birate?",
@@ -239,7 +239,7 @@
       "about": {
         "kicker": "Namerno uzak servis",
         "heading": "Alati za umrežavanje dali su vam sve. Lane vas upoznaje s nekim.",
-        "body": "Jedno konkretno poslovno uparivanje sa razlogom iza toga — bilo da je korisno poklapanje kapital, komplementarni suosnivač ili drugi startap.",
+        "body": "Jedno konkretno poslovno uparivanje sa razlogom iza toga, bilo da je korisno poklapanje kapital, komplementarni suosnivač ili drugi startap.",
         "images": [
           {
             "number": "01",
@@ -264,7 +264,7 @@
           {
             "icon": "check",
             "title": "Specifično pobeđuje beskonačno.",
-            "body": "Jedna relevantna osoba, sa razlogom za susret — nikada javna lista za obradu.",
+            "body": "Jedna relevantna osoba, sa razlogom za susret, nikada javna lista za obradu.",
             "tone": "signal"
           },
           {
@@ -285,7 +285,7 @@
       "process": {
         "kicker": "Kako se upoznavanje dešava",
         "heading": "Od „reci mi svoju stranu” do „evo kad se sastajete”.",
-        "body": "Lane je ljudski operater — nije mehanizam za uparivanje, fid ni tržište za rezervacije. Proces ostaje isti; dve strane se menjaju.",
+        "body": "Lane je ljudski operater, nije mehanizam za uparivanje, fid ni tržište za rezervacije. Proces ostaje isti; dve strane se menjaju.",
         "steps": [
           {
             "number": "01",
@@ -320,7 +320,7 @@
       "pairing": {
         "kicker": "Lane-ovo najnovije podudaranje",
         "heading": "Dva puna biznisa. Jedan dobar razlog za susret.",
-        "body": "Korisno upoznavanje retko je „dve osobe u istoj industriji”. To je pravovremena potreba na jednoj strani i uverljiv odgovor na drugoj — plus dva privatna „da”.",
+        "body": "Korisno upoznavanje retko je „dve osobe u istoj industriji”. To je pravovremena potreba na jednoj strani i uverljiv odgovor na drugoj, plus dva privatna „da”.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -338,7 +338,7 @@
           "Obe strane su pristale na ovakvu vrstu prvog susreta"
         ],
         "statusHeading": "Kartica se menja kada stignu dve odluke.",
-        "statusBody": "Ilustrativni formati kartica — ne javna lista učesnika niti raspored uživo. Status i lokacija se menjaju kako se svako upoznavanje prihvati.",
+        "statusBody": "Ilustrativni formati kartica, ne javna lista učesnika niti raspored uživo. Status i lokacija se menjaju kako se svako upoznavanje prihvati.",
         "cards": [
           {
             "track": "Osnivač × investitor u Seed rundi",
@@ -355,7 +355,7 @@
             "note": "Lane postavlja termin"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Tačan sto ili miran ugao dele se nakon što obe strane prihvate",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "Kada ste spremni",
         "heading": "Jedno korisno upoznavanje odjednom.",
-        "body": "Recite Lane-u kojoj strani stola pripadate. Operater će nastaviti odatle — promišljeno, privatno i jedna stvarna osoba odjednom.",
+        "body": "Recite Lane-u kojoj strani stola pripadate. Operater će nastaviti odatle, promišljeno, privatno i jedna stvarna osoba odjednom.",
         "ctaLabel": "Razgovarajte sa Laneom",
         "note": "Bez fidova za prevlačenje · Samo uz obostranu saglasnost · Vodi čovek · Privatno dok obe strane ne kažu „da”",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",

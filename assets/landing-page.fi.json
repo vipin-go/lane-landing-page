@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Liiketoimintaan sopiva",
           "label": "Startupit ↔ Startupit",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Jokainen startup jakaa, mitä se tarjoaa, mitä sektoreita tai yritystyyppejä se haluaa tavata ja miltä hyödyllinen kaupallinen istuvuus näyttää.",
           "sides": [
             "käynnistystarjous",
@@ -355,7 +355,7 @@
             "note": "Lane asettaa paikan"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "tarkka pöytä tai hiljainen kulma jaettu sen jälkeen, kun molemmat osapuolet hyväksyvät",

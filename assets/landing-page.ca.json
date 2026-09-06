@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Presentacions empresarials reals, una persona a la vegada.",
-    "subheadline": "Els fundadors troben inversors—i els inversos troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi.",
+    "subheadline": "Els fundadors troben inversors, i els inversos troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi.",
     "ctaLabel": "Xerra amb Lane",
     "secondaryCtaLabel": "Mira com funciona",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Encaix empresarial",
           "label": "Startups ↔ startups",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Cada startup comparteix què ofereix, els sectors o tipus d'empresa amb què vol reunir-se i com seria un encaix comercial útil.",
           "sides": [
             "Oferta de la startup",
@@ -133,10 +133,10 @@
         }
       ],
       "hero": {
-        "eyebrow": "Ara mateix fent emparellaments a HumanX Amsterdam — 22–24 de setembre de 2026",
+        "eyebrow": "Ara mateix fent emparellaments a HumanX Amsterdam, 22–24 de setembre de 2026",
         "heading": "Presentacions empresarials reals, una persona a la vegada.",
         "accentText": "Presentacions empresarials reals,",
-        "body": "Els fundadors troben inversors—i els inversors troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi. Lane proposa un emparellament a la vegada. Ambdues parts diuen que sí.",
+        "body": "Els fundadors troben inversors, i els inversors troben fundadors. Els cofundadors es troben entre ells. Les startups troben la startup adequada per comprar, vendre o construir-hi. Lane proposa un emparellament a la vegada. Ambdues parts diuen que sí.",
         "primaryCtaLabel": "Xerra amb Lane",
         "secondaryCtaLabel": "Mira com funciona",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "En línia · a la sala",
           "operatorBadge": "Gestionat per persones",
-          "openingMessage": "Hola, soc la Lane. Presento una persona acuradament triada a la vegada—mai una llista.",
+          "openingMessage": "Hola, soc la Lane. Presento una persona acuradament triada a la vegada, mai una llista.",
           "inputPlaceholder": "Pregunta a Lane sobre la teva pròxima presentació…",
           "suggestedPrompts": [
             "Com ho trieu?",
@@ -264,7 +264,7 @@
           {
             "icon": "check",
             "title": "L'específic supera l'il·limitat.",
-            "body": "Una persona rellevant, amb un motiu per reunir-se — mai una llista pública per revisar.",
+            "body": "Una persona rellevant, amb un motiu per reunir-se, mai una llista pública per revisar.",
             "tone": "signal"
           },
           {
@@ -285,7 +285,7 @@
       "process": {
         "kicker": "Com es produeix la presentació",
         "heading": "De \"digues-me el teu costat\" a \"aquí tens quan us reuniu\".",
-        "body": "Lane és un operador humà — no un motor d'aparellament, un feed ni un mercat de reserves. El procés es manté igual; les dues parts canvien.",
+        "body": "Lane és un operador humà, no un motor d'aparellament, un feed ni un mercat de reserves. El procés es manté igual; les dues parts canvien.",
         "steps": [
           {
             "number": "01",
@@ -320,7 +320,7 @@
       "pairing": {
         "kicker": "L'última coincidència de Lane",
         "heading": "Dos negocis complets. Un bon motiu per reunir-se.",
-        "body": "La presentació útil rarament és \"dues persones del mateix sector\". És una necessitat oportuna en una part i una resposta creïble en l'altra — més dos sí privats.",
+        "body": "La presentació útil rarament és \"dues persones del mateix sector\". És una necessitat oportuna en una part i una resposta creïble en l'altra, més dos sí privats.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -338,7 +338,7 @@
           "Ambdues parts han optat per aquest tipus de primera reunió"
         ],
         "statusHeading": "La targeta canvia a mesura que arriben dues decisions.",
-        "statusBody": "Formats de targeta il·lustratius — no una llista pública d'assistents ni un horari en directe. L'estat i la ubicació canvien a mesura que s'accepta cada presentació.",
+        "statusBody": "Formats de targeta il·lustratius, no una llista pública d'assistents ni un horari en directe. L'estat i la ubicació canvien a mesura que s'accepta cada presentació.",
         "cards": [
           {
             "track": "Fundador × inversor Seed",
@@ -355,7 +355,7 @@
             "note": "Lane està establint el moment"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "La taula exacta o el racó tranquil es comparteixen després que ambdues parts acceptin",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "Quan estigueu preparats",
         "heading": "Una presentació útil alhora.",
-        "body": "Digues a Lane de quin costat de la taula estàs. L'operador continuarà des d'allà — amb consideració, privadament i una persona real alhora.",
+        "body": "Digues a Lane de quin costat de la taula estàs. L'operador continuarà des d'allà, amb consideració, privadament i una persona real alhora.",
         "ctaLabel": "Xerra amb Lane",
         "note": "Sense feed de desplaçament · Només amb consentiment mutu · Gestionat per humans · Privat fins que ambdues parts diguin sí",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",

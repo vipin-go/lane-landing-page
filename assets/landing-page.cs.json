@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Obchodní fit",
           "label": "Startupy ↔ Startupy",
-          "pairing": "Startup × Startup — BD",
+          "pairing": "Startup × Startup BD",
           "body": "Každý startup sdílí to, co nabízí, sektory nebo typy společností, se kterými se chce setkat, a jak vypadá užitečná reklama.",
           "sides": [
             "Startupová nabídka",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "nyní párování v Humanx Amsterdam — 22.–24. září 2026",
+        "eyebrow": "nyní párování v Humanx Amsterdam: 22.–24. září 2026",
         "heading": "Skutečné obchodní představení, jedna osoba po druhé.",
         "accentText": "Skutečné obchodní představení,",
         "body": "Zakladatelé nacházejí investory – a investoři nacházejí zakladatele. spoluzakladatelé se nacházejí. Startupy najdou ten správný startup, od kterého nakupovat, prodávat nebo s ním stavět. Lane navrhuje jedno párování najednou. Obě strany říkají ano.",
@@ -355,7 +355,7 @@
             "note": "Lane nastavuje slot"
           },
           {
-            "track": "Startup × Startup — BD",
+            "track": "Startup × Startup BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "Přesný stůl nebo tichý kout sdílený po přijetí obou stran",

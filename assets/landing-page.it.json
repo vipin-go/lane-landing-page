@@ -124,7 +124,7 @@
           "id": "startup-startup",
           "kicker": "Adattamento commerciale",
           "label": "Startup ↔ Startup",
-          "pairing": "Avvio × Avvio — BD",
+          "pairing": "Avvio × Avvio: BD",
           "body": "Ogni startup condivide ciò che offre, i settori o i tipi di azienda che vuole soddisfare e che aspetto ha un utile adattamento commerciale.",
           "sides": [
             "Offerta di avvio",
@@ -133,7 +133,7 @@
         }
       ],
       "hero": {
-        "eyebrow": "Ora abbinato a HumanX Amsterdam — 22–24 settembre 2026",
+        "eyebrow": "Ora abbinato a HumanX Amsterdam: 22–24 settembre 2026",
         "heading": "Introduzioni di affari reali, una persona alla volta.",
         "accentText": "Introduzioni di affari reali,",
         "body": "I fondatori trovano investitori e gli investitori trovano i fondatori. I co-fondatori si ritrovano. Le startup trovano la startup giusta da cui acquistare, vendere o costruire. Lane propone un abbinamento alla volta. Entrambe le parti dicono di sì.",
@@ -355,7 +355,7 @@
             "note": "Lane sta impostando lo slot"
           },
           {
-            "track": "Avvio × Avvio — BD",
+            "track": "Avvio × Avvio: BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
             "location": "tavolo esatto o angolo tranquillo condiviso dopo che entrambi i lati accettano",

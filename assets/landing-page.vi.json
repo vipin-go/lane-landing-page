@@ -5,7 +5,7 @@
   "sourceRevision": "1eaa24250a82204a298b5d4a13929e9f30d3539bc8b3f059a368e2de6cd52df3",
   "landingPage": {
     "headline": "Giới thiệu kinh doanh thực sự, một người tại một thời điểm.",
-    "subheadline": "Những người sáng lập tìm thấy các nhà đầu tư — và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với.",
+    "subheadline": "Những người sáng lập tìm thấy các nhà đầu tư, và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với.",
     "ctaLabel": "trò chuyện với Lane",
     "secondaryCtaLabel": "Xem nó hoạt động như thế nào",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -136,7 +136,7 @@
         "eyebrow": "Hiện đang phù hợp tại HumanX Amsterdam - 22–24 tháng 9 năm 2026",
         "heading": "Giới thiệu kinh doanh thực sự, một người tại một thời điểm.",
         "accentText": "Giới thiệu kinh doanh thực sự",
-        "body": "Những người sáng lập tìm thấy các nhà đầu tư — và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với. Lane đề xuất từng cặp một. Cả hai bên đều nói có.",
+        "body": "Những người sáng lập tìm thấy các nhà đầu tư, và các nhà đầu tư tìm thấy những người sáng lập. những người đồng sáng lập tìm thấy nhau. Các công ty khởi nghiệp tìm thấy công ty khởi nghiệp phù hợp để mua, bán hoặc xây dựng với. Lane đề xuất từng cặp một. Cả hai bên đều nói có.",
         "primaryCtaLabel": "trò chuyện với Lane",
         "secondaryCtaLabel": "Xem nó hoạt động như thế nào",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -144,7 +144,7 @@
         "chat": {
           "statusLabel": "trực tuyến · trên sàn",
           "operatorBadge": "chạy bằng con người",
-          "openingMessage": "Xin chào, tôi là Lane. Tôi giới thiệu một người được chọn cẩn thận tại một thời điểm — không bao giờ là danh sách.",
+          "openingMessage": "Xin chào, tôi là Lane. Tôi giới thiệu một người được chọn cẩn thận tại một thời điểm, không bao giờ là danh sách.",
           "inputPlaceholder": "Hỏi Lane về phần giới thiệu tiếp theo của bạn…",
           "suggestedPrompts": [
             "Bạn chọn như thế nào?",
@@ -239,7 +239,7 @@
       "about": {
         "kicker": "một dịch vụ cố tình thu hẹp",
         "heading": "Các công cụ mạng đã cung cấp cho bạn tất cả mọi người. Lane giới thiệu bạn với ai đó.",
-        "body": "Một doanh nghiệp cụ thể kết hợp với một lý do đằng sau nó — cho dù sự phù hợp hữu ích là vốn, một người đồng sáng lập bổ sung hay một công ty khởi nghiệp khác.",
+        "body": "Một doanh nghiệp cụ thể kết hợp với một lý do đằng sau nó, cho dù sự phù hợp hữu ích là vốn, một người đồng sáng lập bổ sung hay một công ty khởi nghiệp khác.",
         "images": [
           {
             "number": "01",
@@ -264,7 +264,7 @@
           {
             "icon": "check",
             "title": "nhịp đập cụ thể vô tận.",
-            "body": "một người có liên quan, có lý do để gặp gỡ — không bao giờ có danh sách công khai để làm việc.",
+            "body": "một người có liên quan, có lý do để gặp gỡ, không bao giờ có danh sách công khai để làm việc.",
             "tone": "signal"
           },
           {
@@ -285,7 +285,7 @@
       "process": {
         "kicker": "Giới thiệu diễn ra như thế nào",
         "heading": "Từ “Hãy nói cho tôi biết bên cạnh bạn” đến “Đây là khi bạn đang gặp mặt.”",
-        "body": "Lane là một nhà điều hành con người — không phải là một động cơ, nguồn cấp dữ liệu hoặc thị trường đặt chỗ phù hợp. Quá trình vẫn giữ nguyên; Hai bên thay đổi.",
+        "body": "Lane là một nhà điều hành con người, không phải là một động cơ, nguồn cấp dữ liệu hoặc thị trường đặt chỗ phù hợp. Quá trình vẫn giữ nguyên; Hai bên thay đổi.",
         "steps": [
           {
             "number": "01",
@@ -320,7 +320,7 @@
       "pairing": {
         "kicker": "Sự phù hợp mới nhất của Lane",
         "heading": "Hai doanh nghiệp đầy đủ. Một lý do chính đáng để gặp gỡ.",
-        "body": "Lời giới thiệu hữu ích hiếm khi là “hai người trong cùng một ngành”. Đó là nhu cầu kịp thời ở một bên và một bên là câu trả lời đáng tin cậy — cộng với hai câu trả lời riêng tư.",
+        "body": "Lời giới thiệu hữu ích hiếm khi là “hai người trong cùng một ngành”. Đó là nhu cầu kịp thời ở một bên và một bên là câu trả lời đáng tin cậy, cộng với hai câu trả lời riêng tư.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -338,7 +338,7 @@
           "Cả hai đều chọn tham gia cuộc gặp gỡ đầu tiên này"
         ],
         "statusHeading": "Thẻ thay đổi khi có hai quyết định.",
-        "statusBody": "Định dạng thẻ minh họa — không phải danh sách người tham dự công khai hoặc lịch trình trực tiếp. trạng thái và thay đổi vị trí khi mỗi phần giới thiệu được chấp nhận.",
+        "statusBody": "Định dạng thẻ minh họa, không phải danh sách người tham dự công khai hoặc lịch trình trực tiếp. trạng thái và thay đổi vị trí khi mỗi phần giới thiệu được chấp nhận.",
         "cards": [
           {
             "track": "Người sáng lập × Nhà đầu tư hạt giống",
@@ -408,7 +408,7 @@
       "closing": {
         "kicker": "sẵn sàng khi bạn",
         "heading": "Một lời giới thiệu hữu ích tại một thời điểm.",
-        "body": "Cho Lane biết bạn đang ở phía nào của bảng. Người điều hành sẽ lấy nó từ đó — một cách chu đáo, riêng tư và một người thực tại một thời điểm.",
+        "body": "Cho Lane biết bạn đang ở phía nào của bảng. Người điều hành sẽ lấy nó từ đó, một cách chu đáo, riêng tư và một người thực tại một thời điểm.",
         "ctaLabel": "trò chuyện với Lane",
         "note": "Không có nguồn cấp dữ liệu vuốt · Chỉ sự đồng ý lẫn nhau · Người điều hành · riêng tư cho đến khi cả hai đều nói có",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
