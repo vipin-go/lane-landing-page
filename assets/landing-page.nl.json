@@ -2,16 +2,16 @@
   "schemaVersion": 2,
   "language": "nl",
   "regionKey": null,
-  "sourceRevision": "a7b4183b5697f2c19c8a9cfb3a491650e0ca8b39449074bf3d38b046da5cf9bd",
+  "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
   "landingPage": {
     "headline": "Echte zakelijke introducties, één persoon tegelijk.",
-    "subheadline": "Oprichters vinden investeerders - en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, te verkopen aan of mee te bouwen.",
-    "ctaLabel": "Chatten met Lane",
-    "secondaryCtaLabel": "Kijk hoe het werkt",
+    "subheadline": "Oprichters vinden investeerders, en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, aan te verkopen of mee te bouwen.",
+    "ctaLabel": "Chat met Lane",
+    "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Lane Conference Introduction Operator bij HumanX Amsterdam 2026"
+      "alt": "Lane conference introductie operator bij HumanX Amsterdam 2026"
     },
     "design": {
       "variant": "event-introductions",
@@ -62,7 +62,9 @@
     "eventIntroductions": {
       "header": {
         "brandLabel": "Laan.",
-        "brandTagline": "Een zorgvuldige introductie",
+        "brandTagline": "Eén voorzichtige introductie",
+        "editionLabel": "Startups",
+        "secondaryEditionLabel": "Investeerders",
         "navItems": [
           {
             "label": "Over",
@@ -81,89 +83,100 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "Meet Lane"
+        "ctaLabel": "Maak kennis met Lane"
       },
       "event": {
-        "name": "Humanx Amsterdam",
-        "shortName": "mensheid",
+        "name": "HumanX Amsterdam",
+        "shortName": "MensX",
         "city": "Amsterdam",
-        "venue": "raai",
-        "neighborhood": "Rai, Zuidas",
+        "venue": "RAI",
+        "neighborhood": "RAI, Zuidas",
         "dateRange": "22–24 september 2026",
-        "shortDateRange": "22–24 sept 2026",
+        "shortDateRange": "22–24 september 2026",
         "cardDate": "di 22–do 24 sep",
         "availability": "unverified",
         "availabilityLabel": "Beschikbaarheid handmatig bevestigd",
-        "confirmedLocation": "Exacte tafel of rustige hoek gedeeld na beide kanten accepteren",
-        "disclaimer": "HumanX Amsterdam is geen partner tenzij vermeld."
+        "confirmedLocation": "Exacte tafel of rustige hoek gedeeld nadat beide partijen dit hebben geaccepteerd",
+        "disclaimer": "HumanX Amsterdam is geen partner tenzij anders vermeld."
       },
       "tracks": [
         {
           "id": "founder-investor",
           "kicker": "Kapitaal",
-          "label": "Oprichters ↔ Investeerders",
-          "pairing": "Oprichter × Seed-investeerder",
-          "body": "Oprichters delen de verhoging, de grootte van de cheque en de reden om elkaar te ontmoeten. Beleggers delen scriptie, checkgrootte en de oprichters die ze willen vinden.",
+          "label": "Oprichters ↔ investeerders",
+          "pairing": "Oprichter × Zaadinvesteerder",
+          "body": "Oprichters delen de loonsverhoging, controleren de omvang en de reden om elkaar te ontmoeten. Investeerders delen hun stellingen, controleren de omvang en de oprichters die ze willen vinden.",
           "sides": [
             "Oprichter",
-            "kleren"
+            "Investeerder"
           ]
         },
         {
           "id": "founder-cofounder",
-          "kicker": "medeoprichter",
-          "label": "Oprichters ↔ Mede-oprichters",
+          "kicker": "Mede-oprichter",
+          "label": "Oprichters ↔ medeoprichters",
           "pairing": "Oprichter × Mede-oprichter",
-          "body": "Elke partij deelt de rol of kracht die ze brengen, de kloof die ze willen opvullen, de bedrijfsfase en wat al is gebouwd.",
+          "body": "Elke partij deelt de rol of kracht die ze met zich meebrengen, de leemte die ze willen opvullen, de bedrijfsfase en wat er al is opgebouwd.",
           "sides": [
             "Oprichter",
-            "Aanstaande medeoprichter"
+            "Toekomstige mede-oprichter"
           ]
         },
         {
           "id": "startup-startup",
           "kicker": "Zakelijke pasvorm",
-          "label": "Startups ↔ Startups",
-          "pairing": "Opstarten × Opstarten - BD",
-          "body": "Elke startup deelt wat het biedt, de sectoren of bedrijfstypes die het wil ontmoeten, en hoe een nuttige commerciële pasvorm eruitziet.",
+          "label": "Startups ↔ startups",
+          "pairing": "Opstarten × Opstarten BD",
+          "body": "Elke startup deelt wat ze te bieden heeft, de sectoren of bedrijfstypes die ze wil ontmoeten en hoe een nuttige commerciële match eruit ziet.",
           "sides": [
-            "Opstartaanbod",
-            "Opstarten zoeken"
+            "Startup aanbod",
+            "Startup zoeken"
           ]
         }
       ],
+      "investorEdition": {
+        "hero": {
+          "eyebrow": "Nu matchende investeerders bij HumanX Amsterdam: 22–24 september 2026",
+          "heading": "Ontmoet oprichters die de moeite waard zijn, één voor één.",
+          "accentText": "Ontmoet oprichters die de moeite waard zijn",
+          "body": "Deel je scriptie, controleer de omvang en de grondleggers die je wilt vinden. Lane stelt één gekwalificeerde oprichter tegelijk voor, nooit een stapel pitchdecks. U ziet de privébriefing, u beslist, en de contactgegevens worden pas ontgrendeld nadat u allebei ja hebt gezegd.",
+          "primaryCtaLabel": "Chat met Lane als investeerder",
+          "secondaryCtaLabel": "See how it works",
+          "suggestedPrompt": "Ik ben een investeerder die op dit moment oprichters wil ontmoeten die geld willen inzamelen."
+        }
+      },
       "hero": {
-        "eyebrow": "Nu matchen bij HumanX Amsterdam: 22–24 sept 2026",
+        "eyebrow": "Nu matchend bij HumanX Amsterdam: 22 t/m 24 september 2026",
         "heading": "Echte zakelijke introducties, één persoon tegelijk.",
-        "accentText": "Echte zakelijke introducties",
-        "body": "Oprichters vinden investeerders - en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, te verkopen aan of mee te bouwen. Lane stelt één paring tegelijk voor. Beide partijen zeggen ja.",
-        "primaryCtaLabel": "Chatten met Lane",
-        "secondaryCtaLabel": "Kijk hoe het werkt",
+        "accentText": "Echte zakelijke introducties,",
+        "body": "Oprichters vinden investeerders, en investeerders vinden oprichters. Mede-oprichters vinden elkaar. Startups vinden de juiste startup om van te kopen, aan te verkopen of mee te bouwen. Lane stelt één koppeling tegelijk voor. Beide partijen zeggen ja.",
+        "primaryCtaLabel": "Chat met Lane",
+        "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Lane, een ontspannen gevleugelde conferentie-introductieoperator",
+        "characterAlt": "Lane, een ontspannen, gevleugelde conferentie-introductie-operator",
         "chat": {
-          "statusLabel": "online · op de vloer",
-          "operatorBadge": "slachtingon",
-          "openingMessage": "Hallo, ik ben Lane. Ik introduceer één zorgvuldig gekozen persoon tegelijk - nooit een lijst.",
-          "inputPlaceholder": "Vraag naar Lane naar je volgende introductie…",
+          "statusLabel": "Online · op de vloer",
+          "operatorBadge": "Door mensen gerund",
+          "openingMessage": "Hallo, ik ben Lane. Ik introduceer één zorgvuldig gekozen persoon tegelijk, nooit een lijst.",
+          "inputPlaceholder": "Vraag Lane naar je volgende introductie…",
           "suggestedPrompts": [
             "Hoe kies je?",
-            "Wat gebeurt er als ik passeer?",
-            "Wanneer worden details gedeeld?"
+            "Wat gebeurt er als ik slaag?",
+            "Wanneer worden gegevens gedeeld?"
           ]
         },
         "briefDemo": {
           "enabled": true,
           "commandTrigger": "request-introduction",
-          "introHeading": "Uw privé-introductiebrief",
-          "introBody": "Je vertelt me aan welke kant van de tafel je staat en hoe een nuttige vergadering eruitziet. Ik zal er een passen. beide accepteren of privé gaan.",
-          "trackLabel": "Inleiding Track",
-          "sideLabel": "jouw kant",
+          "introHeading": "Uw persoonlijke introductiebrief",
+          "introBody": "Je vertelt aan welke kant van de tafel je zit en hoe een nuttige vergadering eruit ziet. Ik zal één pasvorm voorstellen. Beiden accepteren of gaan privé over.",
+          "trackLabel": "Introductietraject",
+          "sideLabel": "Jouw kant",
           "fields": [
             {
               "key": "organization",
               "label": "Organisatie",
-              "placeholder": "bedrijf of fonds",
+              "placeholder": "Bedrijf of fonds",
               "type": "text",
               "required": true
             },
@@ -176,8 +189,8 @@
             },
             {
               "key": "currentEvent",
-              "label": "Huidig evenement",
-              "placeholder": "Humanx Amsterdam",
+              "label": "Actueel evenement",
+              "placeholder": "HumanX Amsterdam",
               "type": "text",
               "required": true
             },
@@ -191,28 +204,28 @@
             {
               "key": "offer",
               "label": "Wat je aanbiedt",
-              "placeholder": "Wat kun je bijdragen?",
+              "placeholder": "Wat kun jij bijdragen?",
               "type": "textarea",
               "required": true
             },
             {
               "key": "need",
               "label": "Wat je nodig hebt",
-              "placeholder": "Wat voor soort hulp of tegenhanger?",
+              "placeholder": "Welke hulp of tegenhanger?",
               "type": "textarea",
               "required": true
             },
             {
               "key": "fitCriteria",
-              "label": "Geschikte criteria",
-              "placeholder": "Stage, thesis, expertise, werkstijl…",
+              "label": "Geschiktheidscriteria",
+              "placeholder": "Fase, scriptie, expertise, werkstijl…",
               "type": "textarea",
               "required": true
             },
             {
               "key": "availability",
               "label": "Beschikbaarheid",
-              "placeholder": "dagen en nuttige tijdvensters",
+              "placeholder": "Dagen en nuttige tijdvensters",
               "type": "text",
               "required": true
             },
@@ -224,103 +237,103 @@
               "required": false
             }
           ],
-          "voiceLabel": "Bouw door stem · 5 min",
-          "reviewLabel": "Herziene korte",
-          "editLabel": "Bewerk",
-          "reviewHeading": "Bekijk uw privébriefing",
-          "reviewBody": "Er wordt niets ingediend, doorzocht of gedeeld totdat u zich aanmeldt en expliciet goedkeurt.",
-          "submitLabel": "Aanmelden en indienen bij Lane",
-          "loginNotice": "Meld u aan om deze privé-introductieopdracht in te dienen bij Lane for Human Review.",
-          "expiryCopy": "Niet-ingediende briefs verlopen na een uur.",
-          "privacyCopy": "Geen deelnemer zoeken of contact openbaar maken terwijl anoniem.",
+          "voiceLabel": "Met uw stem bouwen · 5 min",
+          "reviewLabel": "Beoordeling kort",
+          "editLabel": "Bewerken",
+          "reviewHeading": "Controleer uw privébriefing",
+          "reviewBody": "Er wordt niets verzonden, doorzocht of gedeeld totdat u zich aanmeldt en dit expliciet goedkeurt.",
+          "submitLabel": "Log in en verzend het naar Lane",
+          "loginNotice": "Meld u aan om deze privé-introductiebrief naar Lane te sturen voor menselijke beoordeling.",
+          "expiryCopy": "Niet-ingeleverde briefings vervallen na één uur.",
+          "privacyCopy": "Geen zoeken naar deelnemers of openbaarmaking van contacten terwijl u anoniem bent.",
           "errorCopy": "Lane kon deze opdracht niet redden. Probeer het opnieuw of log in."
         }
       },
       "about": {
-        "kicker": "een opzettelijk smalle dienst",
+        "kicker": "Een bewust beperkte service",
         "heading": "Netwerktools gaven je iedereen. Lane stelt je voor aan iemand.",
-        "body": "Een specifieke zakelijke koppeling met een reden erachter - of de nuttige match nu kapitaal, een complementaire mede-oprichter of een andere startup is.",
+        "body": "Eén specifieke bedrijfskoppeling met een reden erachter, of de nuttige match kapitaal, een complementaire mede-oprichter of een andere startup is.",
         "images": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
             "alt": "Oprichter en investeerder in een gerichte eerste bijeenkomst op een conferentie",
-            "label": "Oprichters ↔ Investeerders"
+            "label": "Oprichters ↔ investeerders"
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
-            "alt": "Potentiële medeoprichters bespreken hoe ze werken",
-            "label": "Oprichters ↔ Mede-oprichters"
+            "alt": "Potentiële mede-oprichters bespreken hoe ze werken",
+            "label": "Oprichters ↔ medeoprichters"
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
-            "alt": "Startup-operators bespreken een zakelijke samenwerking",
-            "label": "Startups ↔ Startups"
+            "alt": "Startende exploitanten die een zakelijke samenwerking bespreken",
+            "label": "Startups ↔ startups"
           }
         ],
         "principles": [
           {
             "icon": "check",
-            "title": "specifieke beats eindeloos.",
-            "body": "Eén relevante persoon, met een reden om elkaar te ontmoeten - nooit een openbare lijst om door te werken.",
+            "title": "Specifieke beats eindeloos.",
+            "body": "Eén relevante persoon, met een reden om elkaar te ontmoeten, nooit een openbare lijst om doorheen te werken.",
             "tone": "signal"
           },
           {
             "icon": "users",
-            "title": "Beide kanten kiezen.",
-            "body": "Een voorgestelde koppeling gaat pas vooruit na twee privé-ja's. Passen blijft ook privé.",
+            "title": "Beide partijen kiezen.",
+            "body": "Een voorgestelde koppeling gaat pas verder na twee privé-ja's. Passeren blijft ook privé.",
             "tone": "iris"
           },
           {
             "icon": "shield-check",
             "title": "Privé, altijd.",
-            "body": "Namen, contactgegevens en het exacte ontmoetingspunt ontgrendelen alleen wanneer beide partijen accepteren.",
+            "body": "Namen, contactgegevens en het exacte ontmoetingspunt worden alleen ontgrendeld als beide partijen dit accepteren.",
             "tone": "mint"
           }
         ],
-        "scopeNote": "Voor oprichters, investeerders, potentiële medeoprichters en startups met een concrete reden om elkaar te ontmoeten. Niet voor daten, werkzoekenden, expo-hall pitching of algemeen netwerken."
+        "scopeNote": "Voor oprichters, investeerders, potentiële medeoprichters en startups met een concrete reden om elkaar te ontmoeten. Niet voor daten, zoeken naar werk, pitchen in een expohal of algemeen netwerken."
       },
       "process": {
         "kicker": "Hoe de introductie gebeurt",
-        "heading": "Van \"Vertel me je kant\" tot \"Hier is wanneer je elkaar ontmoet.\"",
-        "body": "Lane is een menselijke operator - geen bijpassende motor-, feed- of boekingsmarktplaats. Het proces blijft hetzelfde; De twee kanten veranderen.",
+        "heading": "Van ‘vertel me jouw kant’ tot ‘hier ontmoeten jullie elkaar’.",
+        "body": "Lane is een menselijke operator en geen matching-engine, feed of boekingsmarktplaats. Het proces blijft hetzelfde; de twee kanten veranderen.",
         "steps": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
             "alt": "",
             "title": "Voer een echt gesprek",
-            "body": "Oprichters delen de verhoging, de grootte van de cheque en de reden om elkaar te ontmoeten. Beleggers delen scriptie, checkgrootte en de oprichters die ze willen vinden."
+            "body": "Oprichters delen de loonsverhoging, controleren de omvang en de reden om elkaar te ontmoeten. Investeerders delen hun stellingen, controleren de omvang en de oprichters die ze willen vinden."
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
-            "title": "Lane doet het kijken",
-            "body": "De operator vergelijkt de particuliere inname over hetzelfde spoor en controleert de pasvorm buiten de voor de hand liggende labels."
+            "title": "Lane doet het zoeken",
+            "body": "De operator vergelijkt de privé-inname over hetzelfde traject en controleert de pasvorm buiten de voor de hand liggende labels."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
-            "title": "ontmoet een goede mogelijkheid",
-            "body": "Je krijgt een voorgestelde koppeling met context. Beide partijen accepteren of passeren voordat enig contactdetails worden gedeeld."
+            "title": "Maak kennis met één goede mogelijkheid",
+            "body": "U krijgt één voorgestelde koppeling met context. Beide partijen accepteren of slagen voordat er contactgegevens worden gedeeld."
           },
           {
             "number": "04",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
             "alt": "",
             "title": "Ontvang het bevestigde slot",
-            "body": "Lane bepaalt een tijd en een rustige plek. De exacte tabel en twee namen worden pas ontgrendeld nadat beide kanten ja zeggen."
+            "body": "Lane stelt een tijd en een rustige plek vast. De exacte tabel en twee namen worden pas ontgrendeld nadat beide partijen ja hebben gezegd."
           }
         ]
       },
       "pairing": {
         "kicker": "Lane's nieuwste pasvorm",
         "heading": "Twee volle bedrijven. Een goede reden om elkaar te ontmoeten.",
-        "body": "De nuttige introductie is zelden \"twee mensen in dezelfde branche.\" Het is een tijdige behoefte aan de ene kant en een geloofwaardig antwoord aan de andere kant - plus twee privé ja.",
+        "body": "De nuttige introductie is zelden ‘twee mensen in dezelfde branche’. Het is een tijdige behoefte aan de ene kant en een geloofwaardig antwoord aan de andere kant, plus twee persoonlijke ja-antwoorden.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -328,99 +341,99 @@
           },
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
-            "alt": "Startup-operators die een mogelijke samenwerking bespreken"
+            "alt": "Startup-exploitanten die een mogelijke samenwerking bespreken"
           }
         ],
         "fitLabel": "Lane's pasvorm",
         "criteria": [
-          "Timing overlapt",
-          "Noodzaak en aanbieding afstemmen",
-          "Beiden hebben zich aangemeld voor dit soort eerste vergadering"
+          "De timing overlapt",
+          "Behoefte en aanbod op elkaar afgestemd",
+          "Beiden kozen voor dit soort eerste ontmoeting"
         ],
         "statusHeading": "De kaart verandert als er twee beslissingen binnenkomen.",
-        "statusBody": "Illustratieve kaartformaten - geen openbare deelnemerslijst of live schema. Status en locatie veranderen als elke introductie wordt geaccepteerd.",
+        "statusBody": "Illustratieve kaartformaten, geen openbare deelnemerslijst of live schema. Status- en locatieverandering naarmate elke introductie wordt geaccepteerd.",
         "cards": [
           {
-            "track": "Oprichter × Seed-investeerder",
+            "track": "Oprichter × Zaadinvesteerder",
             "time": "Tue · 10:20",
             "status": "proposed",
-            "location": "Rai, Zuidas",
-            "note": "Wachten op twee beslissingen"
+            "location": "RAI, Zuidas",
+            "note": "Het wachten is op twee beslissingen"
           },
           {
             "track": "Oprichter × Mede-oprichter",
             "time": "Wed · 13:40",
             "status": "accepted",
-            "location": "Rai, Zuidas",
-            "note": "rijstrook zet de sleuf"
+            "location": "RAI, Zuidas",
+            "note": "Lane stelt de slot in"
           },
           {
-            "track": "Opstarten × Opstarten - BD",
+            "track": "Opstarten × Opstarten BD",
             "time": "Thu · 15:10",
             "status": "confirmed",
-            "location": "Exacte tafel of rustige hoek gedeeld na beide kanten accepteren",
+            "location": "Exacte tafel of rustige hoek gedeeld nadat beide partijen dit hebben geaccepteerd",
             "note": "Volledige details privé verzonden"
           }
         ]
       },
       "faq": {
         "kicker": "Goede vragen",
-        "heading": "Voordat Lane de introductie maakt.",
+        "heading": "Voordat Lane de introductie doet.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
-            "question": "Is Lane alleen voor oprichters op zoek naar investeerders?",
-            "answer": "Nee. De service is opzettelijk tweezijdig: investeerders gebruiken Lane om oprichters te vinden, oprichters gebruiken Lane om investeerders te vinden, potentiële medeoprichters vinden elkaar en startups vinden een andere startup met een plausibele klant of samenwerkingsvorm."
+            "question": "Is Lane alleen voor oprichters die op zoek zijn naar investeerders?",
+            "answer": "Nee. De service is bewust tweezijdig: investeerders gebruiken Lane om oprichters te vinden, oprichters gebruiken Lane om investeerders te vinden, potentiële medeoprichters vinden elkaar en startups vinden een andere startup met een plausibele klant of samenwerkingspartner."
           },
           {
             "question": "Is Lane een bijpassende app?",
-            "answer": "Nee. Een menselijke operator leest de inname en stelt één koppeling tegelijk voor. Er is geen openbaar deck, veegfeed, deelnemersdirectory of geautomatiseerde matching-engine."
+            "answer": "Nee. Een menselijke operator leest de intake en stelt één koppeling tegelijk voor. Er is geen openbaar kaartspel, swipe-feed, bezoekerslijst of geautomatiseerde matching-engine."
           },
           {
-            "question": "Zal iedereen mijn gegevens zien?",
-            "answer": "Nee. Intake blijft privé. Elke voorgestelde introductie wordt alleen aan de twee relevante partijen getoond, en directe contactgegevens blijven verborgen totdat beide accepteren."
+            "question": "Ziet iedereen mijn gegevens?",
+            "answer": "Nee. Het intakegesprek blijft privé. Elke voorgestelde introductie wordt alleen aan de twee relevante partijen getoond en directe contactgegevens blijven verborgen totdat beide partijen akkoord gaan."
           },
           {
-            "question": "Wat als ik een voorgestelde koppeling doorgeef?",
-            "answer": "Lane registreert de pas privé en gaat verder. De andere kant krijgt uw contactgegevens niet en er is geen openbare afwijzing of ranking."
+            "question": "Wat moet ik doen als ik een voorgestelde koppeling doorgeef?",
+            "answer": "Lane neemt de pas privé op en gaat verder. De andere kant krijgt uw contactgegevens niet en er is geen publieke afwijzing of rangschikking."
           },
           {
-            "question": "Wat gebeurt er nadat beide partijen hebben geaccepteerd?",
-            "answer": "Lane bevestigt een tijd en een tafel of rustige hoek. U ontvangt twee namen en de exacte locatie pas nadat beide YESE's binnen zijn."
+            "question": "Wat gebeurt er nadat beide partijen akkoord gaan?",
+            "answer": "Lane bevestigt een tijdstip en een tafel of rustig hoekje. Je ontvangt pas twee namen en de exacte locatie nadat beide ja's binnen zijn."
           },
           {
             "question": "Hoe werkt de vergadergarantie?",
-            "answer": "De garantie is van toepassing op de track die bij het aanmelden is geselecteerd: drie geaccepteerde vergaderingen op de huidige evenementenkalender, of de vergoeding voor de oprichterszijde wordt terugbetaald. Lane boekt de vergadering, niet de ronde, mede-oprichter, klant of deal."
+            "answer": "De garantie is van toepassing op het circuit dat bij aanmelding is geselecteerd: drie geaccepteerde bijeenkomsten op de huidige evenementenkalender, of het honorarium van de oprichter wordt terugbetaald. Lane boekt de vergadering, niet de ronde, mede-oprichter, klant of deal."
           }
         ]
       },
       "waitlist": {
-        "kicker": "Eén evenement tegelijk",
-        "heading": "Wilt u rijstrook op uw evenement?",
-        "body": "Lane gaat van de ene selecte conferentie naar de volgende. Sluit je aan bij de wachtlijst van de toekomst en vertel de operator waar zorgvuldige introducties ertoe zouden doen.",
+        "kicker": "Eén gebeurtenis tegelijk",
+        "heading": "Wil jij Lane op jouw evenement?",
+        "body": "Lane gaat van de ene geselecteerde conferentie naar de volgende. Sluit u aan op de wachtlijst voor toekomstige evenementen en vertel de telefoniste waar zorgvuldige introducties van belang zijn.",
         "nameLabel": "Naam",
-        "emailLabel": "email",
-        "eventLabel": "Naam evenement of conferentie",
+        "emailLabel": "E-mail",
+        "eventLabel": "Naam van evenement of conferentie",
         "cityLabel": "Stad",
-        "ctaLabel": "Word lid van de wachtlijst voor toekomstig evenement",
-        "loginNotice": "Meld u aan om dit introductieverzoek voor de toekomst met Lane op te slaan."
+        "ctaLabel": "Schrijf u in op de wachtlijst voor toekomstige evenementen",
+        "loginNotice": "Meld u aan om dit introductieverzoek voor een toekomstig evenement op te slaan bij Lane."
       },
       "closing": {
-        "kicker": "Klaar wanneer jij het bent",
-        "heading": "één nuttige introductie tegelijk.",
-        "body": "Vertel Lane aan welke kant van de tafel je staat. De operator zal het vanaf daar overnemen - bedachtzaam, privé en één echte persoon tegelijk.",
-        "ctaLabel": "Chatten met Lane",
-        "note": "Geen veegfeed · Alleen wederzijdse toestemming · Door mensen gerunde · Privé totdat beide ja zeggen",
+        "kicker": "Klaar wanneer jij dat bent",
+        "heading": "Eén nuttige introductie tegelijk.",
+        "body": "Vertel Lane aan welke kant van de tafel je zit. De telefoniste zal het vanaf daar overnemen, bedachtzaam, privé en één echte persoon tegelijk.",
+        "ctaLabel": "Chat met Lane",
+        "note": "Geen swipe-feed · Alleen wederzijdse toestemming · Door mensen beheerd · Privé totdat beiden ja zeggen",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Lane rustig staan met een tablet, klaar om een introductie te maken"
+        "characterAlt": "Lane staat rustig met een tablet, klaar om een introductie te doen"
       },
       "footer": {
-        "tagline": "Lane door Gabriël-operator.",
-        "disclaimer": "Lane matcht mensen op geselecteerde conferenties en evenementen. HumanX Amsterdam is geen partner tenzij vermeld.",
-        "copyright": "2026 rijstrook",
+        "tagline": "Lane van Gabriel Operator.",
+        "disclaimer": "Lane matcht mensen op geselecteerde conferenties en evenementen. HumanX Amsterdam is geen partner tenzij anders vermeld.",
+        "copyright": "2026 Laan",
         "groups": [
           {
-            "label": "Onderzoeken",
+            "label": "Ontdek",
             "links": [
               {
                 "label": "Over",
@@ -437,7 +450,7 @@
             ]
           },
           {
-            "label": "Steeg",
+            "label": "Laan",
             "links": [
               {
                 "label": "Veelgestelde vragen",
@@ -448,7 +461,7 @@
                 "target": "waitlist"
               },
               {
-                "label": "Bouw een korte",
+                "label": "Bouw een korte opdracht",
                 "target": "hero-chat"
               }
             ]
@@ -497,7 +510,7 @@
           "contribution_rate": 400
         },
         "copy": {
-          "navLabel": "ROI",
+          "navLabel": "Prijzen",
           "workloadStep": "Introduction briefs",
           "costStep": "Token usage",
           "valueStep": "Host time",
@@ -568,7 +581,22 @@
           "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
           "boundsError": "Use values within the displayed limits.",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions."
+          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "currentPreparation": "Actuele voorbereidingstijden",
+          "reviewHours": "Menselijke beoordelingsuren",
+          "reworkHours": "Vermeden of toegevoegde herwerkuren",
+          "capacityValue": "Gemodelleerde capaciteitswaarde",
+          "acceptedUnits": "Geaccepteerde eenheden",
+          "attendedUnits": "Bezochte eenheden",
+          "costPerAttended": "Kosten per bezochte eenheid",
+          "benefitCost": "Voordeel-kosten veelvoud",
+          "firstYearCost": "Kosten eerste jaar",
+          "firstYearRoi": "ROI in het eerste jaar",
+          "paybackOutsideTerm": "Niet hersteld binnen de gemodelleerde termijn",
+          "months": "months",
+          "customerBenefit": "Gemodelleerd klantvoordeel",
+          "customerRoi": "Klant-ROI",
+          "payback": "Terugbetaling van de installatiekosten"
         },
         "fields": {
           "volume": {
@@ -803,6 +831,78 @@
     {
       "path": [
         "landingPage",
+        "headline"
+      ],
+      "sourceHash": "10b436e05b821f2571250f75df8e2123d41822ddd5436f6df96767a2a265f71e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "subheadline"
+      ],
+      "sourceHash": "07863261fefc57b459afb392d99583e041b17b792df958fd55346cc6e54bb99e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "ctaLabel"
+      ],
+      "sourceHash": "95f4ffdfd6c14c8fdfbac06eb9c47c3b10b5b8e661ee4f64e069080a3870b9ec"
+    },
+    {
+      "path": [
+        "landingPage",
+        "secondaryCtaLabel"
+      ],
+      "sourceHash": "a105ad29235aa71ee321d02ba00ee1cf7e9273406367343fdf9a721daa38419e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "seoImage",
+        "alt"
+      ],
+      "sourceHash": "2d7f304c8df53f7c02dc609b210bd5e5c3b5c55e6ba1cc40029e1cfcc857b6a3"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "header",
+        "brandLabel"
+      ],
+      "sourceHash": "7dfd755cc82015d50f38c270e252fe88e5cd532296adf04f1c5f7ded1649763b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "header",
+        "brandTagline"
+      ],
+      "sourceHash": "d81ec46dfe7b387a3f2d3506579859ac2f89c41e6d78e8afef4a5832c5526090"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "header",
+        "editionLabel"
+      ],
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "header",
+        "secondaryEditionLabel"
+      ],
+      "sourceHash": "7e6d382937e111bf627707992627231c430e52ad0c6c2150b2e17631824806c3"
+    },
+    {
+      "path": [
+        "landingPage",
         "eventIntroductions",
         "header",
         "navItems",
@@ -843,6 +943,1762 @@
         "label"
       ],
       "sourceHash": "9856b7433f842da2093b956811286d51860e05ae3904dc40b36dc709ea298884"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "header",
+        "ctaLabel"
+      ],
+      "sourceHash": "426a4e1d17cbd655b39fa11d906bfd9f70e9e1ebc9e752e773643498e7901af8"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "name"
+      ],
+      "sourceHash": "dd18247ebc3db5d433e48d0f9dace4b5a49377252faa35fa072b30e9d1e532ce"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "shortName"
+      ],
+      "sourceHash": "556011f0356e5e439a86bfaf2a4da151b31a09dd424a295bf6be465b18fe2df2"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "city"
+      ],
+      "sourceHash": "0013c01fe0d094209b8bd3d23b8f96dbabcd01ddd2a039eeba82d1891acf0d61"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "venue"
+      ],
+      "sourceHash": "b087027f3cb7c4b483ff248fc78e2517cbf3c3252eefd3a111454e74aa047d2b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "neighborhood"
+      ],
+      "sourceHash": "4a73a26339fa31f56f91961cdfa9e46dc545b0b20223ebf297c05af2791cd665"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "dateRange"
+      ],
+      "sourceHash": "b5a1dc0b63cd444f538942b47cd5ebcde561a816aaa803b8cdc423320ba758b1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "shortDateRange"
+      ],
+      "sourceHash": "7d5c47f629dca8478526ada0701e9fe3b4de6fe9b156d787693582733d1ec8e5"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "cardDate"
+      ],
+      "sourceHash": "03325408b8f878d769271728da7f585a5b4a5bf9cca4af96c20684025d7e6075"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "availabilityLabel"
+      ],
+      "sourceHash": "c6fe64803134772353a684b5bf0ea487ed63921d122f689c128b286252e2c279"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "confirmedLocation"
+      ],
+      "sourceHash": "ae3dd8ba9f4eb5ca16354633c44fdd84c76a3bbd053d4438bb2291053c3d4ff6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "event",
+        "disclaimer"
+      ],
+      "sourceHash": "70a21d7c08c5ef4b114afc0ab660dcdb0acd09161278ace27e9dd5781af718f8"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "kicker"
+      ],
+      "sourceHash": "1a1cf792579989ad4b56922351cf24bc54f15f45fd04e92347394e73a66d0bd7"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "label"
+      ],
+      "sourceHash": "f2e16a05a2bacb07256e27ac04cba38efba569ea9deefd7d4d2b9f3f86a9936d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "pairing"
+      ],
+      "sourceHash": "cc77e6bcdd9fee32c3153a788f8930fbe7087f6482620e1ad83690965df45aeb"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "body"
+      ],
+      "sourceHash": "c334e3c4d23660751c4b640e922b37e012695d2875836674be3030ebc753fc85"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "sides",
+        0
+      ],
+      "sourceHash": "23ae45f425f70190f749315697c51cea6da1e32d0d4da8ae9fd079aa25edbf19"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        0,
+        "sides",
+        1
+      ],
+      "sourceHash": "5e9eb35e44545b214748145d296ccc3ee25222e4744fcff272a157cb34da235d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "kicker"
+      ],
+      "sourceHash": "bf6ea3edba06c882baa3ef53b2cf85d3b3aad26e4f15c3364a361ad99bc90219"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "label"
+      ],
+      "sourceHash": "980d7075c2e1ea1d560745bbd3e6e6689af4c692221e2c2f4d9508fbfb730261"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "pairing"
+      ],
+      "sourceHash": "8aac67af55ad1e56188bf3c02cfad6d1a8420b1ac0380396d26bef2f72451d50"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "body"
+      ],
+      "sourceHash": "924ea57c3fa9eab766488b1e1a2c6e5df7cc865a3753571380db53c580f723a2"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "sides",
+        0
+      ],
+      "sourceHash": "23ae45f425f70190f749315697c51cea6da1e32d0d4da8ae9fd079aa25edbf19"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        1,
+        "sides",
+        1
+      ],
+      "sourceHash": "b84953cb89e1725e450d9fd3bccd90d377e60f6c4773a2626e8190f9a219cdff"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "kicker"
+      ],
+      "sourceHash": "bc96a86f219ef04909339188def3e5d676f14cd09c1dd902cd7a4f69d8cd2e7d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "label"
+      ],
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "pairing"
+      ],
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "body"
+      ],
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "sides",
+        0
+      ],
+      "sourceHash": "481de19b8189a2275c83c49e6b73124c4f307a0195c3dc7dbfdba1f85b68ad13"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "tracks",
+        2,
+        "sides",
+        1
+      ],
+      "sourceHash": "37a9368977563a5e6c349a7520a02c1299734a08faa9903c52de205aa1d81a13"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "eyebrow"
+      ],
+      "sourceHash": "e2d7b626f5ce788cf63d6e06ef0ed0b631945d5a64bab39dab0bd54a52916b9f"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "heading"
+      ],
+      "sourceHash": "0a3546e76b94290b9265f08147a44484567db26e312b550157c4f1084e23a2f7"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "accentText"
+      ],
+      "sourceHash": "8c1cad64963c26558b2d0fd9f41c0b173f4b43f315d67b0f9d60610164fa72d8"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "body"
+      ],
+      "sourceHash": "38d34773786859bf7ef232ad8d091fd6b3f6f48276837c0500c132f77c6cfb1f"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "primaryCtaLabel"
+      ],
+      "sourceHash": "2936c706727a4af959f3a31b4086fb35a1f6673ce3cd7233d0ab8915a7eeffa4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "secondaryCtaLabel"
+      ],
+      "sourceHash": "a105ad29235aa71ee321d02ba00ee1cf7e9273406367343fdf9a721daa38419e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "investorEdition",
+        "hero",
+        "suggestedPrompt"
+      ],
+      "sourceHash": "49af3ef27e527dde4cd8650a5b4aa84b60518dad51baf5d5040842bc0de7b842"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "eyebrow"
+      ],
+      "sourceHash": "587cfdad5f794cd0809586d25c813e54fddc3bc59eb99575c948e7dd53686c1b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "heading"
+      ],
+      "sourceHash": "10b436e05b821f2571250f75df8e2123d41822ddd5436f6df96767a2a265f71e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "accentText"
+      ],
+      "sourceHash": "449ebf79ed6ff67eabfbf5385823d36a266f5e12c478295df47de53a946abe5b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "body"
+      ],
+      "sourceHash": "37b2327995e6edce6d32694c3492d2ec784664503793626292abdc57bd4ceef6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "primaryCtaLabel"
+      ],
+      "sourceHash": "95f4ffdfd6c14c8fdfbac06eb9c47c3b10b5b8e661ee4f64e069080a3870b9ec"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "secondaryCtaLabel"
+      ],
+      "sourceHash": "a105ad29235aa71ee321d02ba00ee1cf7e9273406367343fdf9a721daa38419e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "characterAlt"
+      ],
+      "sourceHash": "20d4f29421f4dfec99b74f725ddaf22c4b4f6842c78ae8f930c6b89c939422c4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "statusLabel"
+      ],
+      "sourceHash": "c75d388ff284a195c488b5216827cbf5aeb5a7aca6ce0218813ab3234abbb399"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "operatorBadge"
+      ],
+      "sourceHash": "d1ed1a7ddcb069d5aab82036b1fdc4c8fa33f0dd59f6577530c3507a243fe9c1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "openingMessage"
+      ],
+      "sourceHash": "375c7b09811972b06032e2d6ce5eff922e2d467329c869517d9960ee1d29acd2"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "inputPlaceholder"
+      ],
+      "sourceHash": "2ebdc20cd445d7b6b1120a255b202e6af0eb1d6e546b26b0f58709b2e0d3a25d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "suggestedPrompts",
+        0
+      ],
+      "sourceHash": "26ca45f9ea19023f7334da85224465bdbe43da23fb4ca02aa2727542149f7357"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "suggestedPrompts",
+        1
+      ],
+      "sourceHash": "1d5ed26d7a55bc27adb7ca11a6f7ded383f0e6f68da76b896ea4ff9664ba1fc4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "chat",
+        "suggestedPrompts",
+        2
+      ],
+      "sourceHash": "1713984e90f76e7cb75953bd408f19f372724abcfc8b69122b9c560edb7f15dd"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "introHeading"
+      ],
+      "sourceHash": "70b15c5ceda858d8cc64d119ea743f5c6661c4f54f1b602e7194ff9f96022393"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "introBody"
+      ],
+      "sourceHash": "0d67fb2940e40a7c954ea4442448660ea4a4550d8a34e9944a0b460f216c9a85"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "trackLabel"
+      ],
+      "sourceHash": "02e18b46651b2e05f15ae1115e7925e2ff639c0fdf3a49dc5d1d47e135b6425a"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "sideLabel"
+      ],
+      "sourceHash": "858436f37858108b5c7bcd706b8b9c8bc4e3625f0f7041e7bb79e0322f3e33be"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        0,
+        "label"
+      ],
+      "sourceHash": "d764d42592fc968709b4c6c25c6e6b77919295dfce2c57ead02bedac5ddb3218"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        0,
+        "placeholder"
+      ],
+      "sourceHash": "1cde20b6189eb09f8f59a9abc3b36a605554963aa02f76d49b8f3f0d46edd323"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        1,
+        "label"
+      ],
+      "sourceHash": "09bdccc5fb698cfb834074203526a8d90f950b3378cfb2df20fab3e77c3cef6b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        1,
+        "placeholder"
+      ],
+      "sourceHash": "c3d5449f32d4fcdd21f7a4f0f66fab8afa2641f13e8e96cb25247e6a8e346f02"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        2,
+        "label"
+      ],
+      "sourceHash": "92b6c3b761b6992d7fbd33b2a6d81e60f5c23ac2fb8bcc87708689f4f6cf182c"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        2,
+        "placeholder"
+      ],
+      "sourceHash": "dd18247ebc3db5d433e48d0f9dace4b5a49377252faa35fa072b30e9d1e532ce"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        3,
+        "label"
+      ],
+      "sourceHash": "cdbf6975e8a35b0d03558be6822dfae166482c24fb86b0433f60e8167f5c91e4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        3,
+        "placeholder"
+      ],
+      "sourceHash": "adf7b06ee07855f90ae26464e339912dfb829dbc90fd6a661502d2745767eb10"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        4,
+        "label"
+      ],
+      "sourceHash": "d5aa5499e23cd12b2237a61951f1198ae6dcba39243f7c627509ca2fe48955b7"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        4,
+        "placeholder"
+      ],
+      "sourceHash": "22ede17ba60f779453bfc8e559b76ac7b67468852041f3e6e641ceeb88fbc172"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        5,
+        "label"
+      ],
+      "sourceHash": "e17c85cc990b6b6f768f967bacb1c385afe6ef8880f2056b7cc3c622f7f10abd"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        5,
+        "placeholder"
+      ],
+      "sourceHash": "166367725ea2eba04d5d42e9b049b1686adbcb1f40c6e0865742ffa968b69017"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        6,
+        "label"
+      ],
+      "sourceHash": "3b1020b927876f504b87021237595139380b18a97cbf8127ed1250612d5e4075"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        6,
+        "placeholder"
+      ],
+      "sourceHash": "48fad832035c9d1f4f82c704cc0f2d68eedbd2eadebac5cd1edf21b3ac5c97bf"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        7,
+        "label"
+      ],
+      "sourceHash": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        7,
+        "placeholder"
+      ],
+      "sourceHash": "8aba17564c02a1e6b95c1f59558cb1af61fd6f1ad85b4e681dd0907b4a2850df"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        8,
+        "label"
+      ],
+      "sourceHash": "9824079a75198d3d2d36df5c0e01422befde47ed0e13e601cc2c9553071c0f11"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "fields",
+        8,
+        "placeholder"
+      ],
+      "sourceHash": "597829769bc64003318d8532c7d833f4aec77a3cc0447c2e9faf9734b0de7be8"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "voiceLabel"
+      ],
+      "sourceHash": "92258c1365a3341e7b877823b4d7244bdab49367f85d09ac23390a507c3112b9"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "reviewLabel"
+      ],
+      "sourceHash": "4cdaf3a84781cf0f58a1fc61f7d47113f0b957d426bd656d43358c5ce90d0fc4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "editLabel"
+      ],
+      "sourceHash": "464c4ffd019e1e9691dcf0537c797353ef2b1c1d4833d3d463e5b74ae4547344"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "reviewHeading"
+      ],
+      "sourceHash": "d3c50c87c5e0a2f89ab56b9e52f22c124b00c4c874a464087396d71f61cf8430"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "reviewBody"
+      ],
+      "sourceHash": "45621a8af84ebdda9a79fa5f68b0a9cda3a421f101c373545f2e0248c93ed437"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "submitLabel"
+      ],
+      "sourceHash": "16b55b34b33612993be41e21ebf03e3908859a3ff4a59bca6f4c0afdc88286dd"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "loginNotice"
+      ],
+      "sourceHash": "768c76a452b83c1e9dd5ce6d3d63207f58af659210d5263b1390351407b3afc5"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "expiryCopy"
+      ],
+      "sourceHash": "3d03122c39d971c0d36227f29829b5b46241b26d7e73f49c38233d53d326cb41"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "privacyCopy"
+      ],
+      "sourceHash": "7eff8be0b55947655b7f459c365c7915e589a46ceac71fa12ed7a66c4c33bb75"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "hero",
+        "briefDemo",
+        "errorCopy"
+      ],
+      "sourceHash": "fe9d214e17a837eca04cc85acff4b37bbde1186806a98b3860b74b05ecea70b6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "kicker"
+      ],
+      "sourceHash": "4b8e481ab1d8d43322d33969e1f955718018c56e614dce639cf9efe926f50abe"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "heading"
+      ],
+      "sourceHash": "a3ea452fa7212eddfbf490fc50df25a5bf3204f05c31c72b18022a2c238f6788"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "body"
+      ],
+      "sourceHash": "73225178f28f1cd773997e280e15af78ff6718bcccdccf0c361a85580b5b7d8b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        0,
+        "alt"
+      ],
+      "sourceHash": "51bacd32b29df15ab8648af41fa514f93cd36506c6280bb2401a20d16715f764"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        0,
+        "label"
+      ],
+      "sourceHash": "f2e16a05a2bacb07256e27ac04cba38efba569ea9deefd7d4d2b9f3f86a9936d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        1,
+        "alt"
+      ],
+      "sourceHash": "9454f05643f84839445bd42413b4061ae1b0ae2220ba5f46c7f93746b3d1cff0"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        1,
+        "label"
+      ],
+      "sourceHash": "980d7075c2e1ea1d560745bbd3e6e6689af4c692221e2c2f4d9508fbfb730261"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        2,
+        "alt"
+      ],
+      "sourceHash": "129da58ce2600ab406a66f041b1c6b1b7ca8d48a018f14a8094d3eecee61ce58"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "images",
+        2,
+        "label"
+      ],
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        0,
+        "title"
+      ],
+      "sourceHash": "64d0b3f4d2245403e428a088bea36257051b377c2a834e6a487ca9b6868c879e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        0,
+        "body"
+      ],
+      "sourceHash": "1e762ba22a6b57f8a311de18f419023613bdc43821b75fbcc45f8ecbb82cb1b5"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        1,
+        "title"
+      ],
+      "sourceHash": "ab97eb3187f030f25c311c0210af861ee2f73452b78dede8df75796207214b07"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        1,
+        "body"
+      ],
+      "sourceHash": "ee24fad859c9306c233ec4819da693b365923ec537b944f84b464fac81e9b679"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        2,
+        "title"
+      ],
+      "sourceHash": "dac03e92abae8587b42b169d4b068265b654893fcd440c217d44185502a74893"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "principles",
+        2,
+        "body"
+      ],
+      "sourceHash": "67a666e5bdaa6ecb0431db245bb8ed30c4ecdd8c483af9bfb4cae03091d84a44"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "about",
+        "scopeNote"
+      ],
+      "sourceHash": "f954fe4e0fc9334e1f589c29d48e28a12bdfe5b2c3b5c3e91caf7a895e5a3000"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "kicker"
+      ],
+      "sourceHash": "3b054d1282a1e70550e4d43046d15062031faaf8f5f541d3d612dc49b479b08e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "heading"
+      ],
+      "sourceHash": "7cd9c587bc8caae41e9813069240b6f51c079acad04c2b3ed31f04d76b91481d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "body"
+      ],
+      "sourceHash": "4e7ac0397a55663c04aab384fdd76a6e4c6e81cc800eb2c3b0335e614a39fd04"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        0,
+        "title"
+      ],
+      "sourceHash": "717df15b37447af15cbcc04e2be3d81b39c0226c68a10b27d4f6db1f155c46a2"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        0,
+        "body"
+      ],
+      "sourceHash": "c334e3c4d23660751c4b640e922b37e012695d2875836674be3030ebc753fc85"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        1,
+        "title"
+      ],
+      "sourceHash": "0f1a0bf088f27379aee8fc5205119a63d8c2650bbab27971207ce58d519e481a"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        1,
+        "body"
+      ],
+      "sourceHash": "7437342f937f890408609f8a237c75d56e419213dca1ed1819f8f8fb89d99b6e"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        2,
+        "title"
+      ],
+      "sourceHash": "a2e88372f98cb14321eb372ba3d1f342f054bb569a28ca1e50fc0625af640c3f"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        2,
+        "body"
+      ],
+      "sourceHash": "cdbd910208728b07c0f11d513d6e15e00b44a9d6c9502e109f9534274b3eae4d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        3,
+        "title"
+      ],
+      "sourceHash": "b8a93bb76e6f665a335c4a9bb4339b9d32f7f1395896cffbc5fb93acf9b70cf1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "process",
+        "steps",
+        3,
+        "body"
+      ],
+      "sourceHash": "d2b208427dff91f560e31600ec65668324fcd0d0a278e2ca6821bb7a9eb48d6a"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "kicker"
+      ],
+      "sourceHash": "88fff25471ced6882e5efc88e04c965f57d2f8e3f4698bc5b1c4ba8c898d387b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "heading"
+      ],
+      "sourceHash": "12bd696ee4ad1199b2b1ff9040a002b3de062e675162c51f170a73f7f5eec9ee"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "body"
+      ],
+      "sourceHash": "e6f3fa0798ad758d1ab92c2cf75bec15d762e9df6b0375af6773615452f5b0fa"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "images",
+        0,
+        "alt"
+      ],
+      "sourceHash": "35652b275055dedd5e0075e17322e6539e86dc24d83c4cddac416f906d80a356"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "images",
+        1,
+        "alt"
+      ],
+      "sourceHash": "8a0327ab4d07d2cb66b6617e4039080233b421c696998036cfb2c848540e5bc6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "fitLabel"
+      ],
+      "sourceHash": "e2986a55ef50ee441afcd195edd02e10b44cb8000cd63bae06312dd35e54304d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "criteria",
+        0
+      ],
+      "sourceHash": "cce6ff7bee23795905013fef9f927a2d161dccd499b082a3d3088e0cb04fe489"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "criteria",
+        1
+      ],
+      "sourceHash": "b959ab3ebc742c157d5ceb88e29e94a813a8eb9d5caefb630e89d538760ddd85"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "criteria",
+        2
+      ],
+      "sourceHash": "78ca515d50d325ddd5956e1f8f2c6e413db0d33e88ddf6958c5322ffdbf24602"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "statusHeading"
+      ],
+      "sourceHash": "faeac1a90668493ee490bf6d765833ba39a8ee61ba09f40d0a4101d2eed4dce3"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "statusBody"
+      ],
+      "sourceHash": "9115787dbc4d0f434f4aaa30160109e8236b12537d2472889c779de3344a2522"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        0,
+        "track"
+      ],
+      "sourceHash": "cc77e6bcdd9fee32c3153a788f8930fbe7087f6482620e1ad83690965df45aeb"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        0,
+        "location"
+      ],
+      "sourceHash": "4a73a26339fa31f56f91961cdfa9e46dc545b0b20223ebf297c05af2791cd665"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        0,
+        "note"
+      ],
+      "sourceHash": "3d9ec0f9fca2b47d0d427d7fd270bc6dec32a6fc12f13c8107b5709dc73e4bde"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        1,
+        "track"
+      ],
+      "sourceHash": "8aac67af55ad1e56188bf3c02cfad6d1a8420b1ac0380396d26bef2f72451d50"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        1,
+        "location"
+      ],
+      "sourceHash": "4a73a26339fa31f56f91961cdfa9e46dc545b0b20223ebf297c05af2791cd665"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        1,
+        "note"
+      ],
+      "sourceHash": "269f288d4e641b2b36c066262ef70d2078ad7081282779342f651006bb71ab7d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        2,
+        "track"
+      ],
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        2,
+        "location"
+      ],
+      "sourceHash": "ae3dd8ba9f4eb5ca16354633c44fdd84c76a3bbd053d4438bb2291053c3d4ff6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "pairing",
+        "cards",
+        2,
+        "note"
+      ],
+      "sourceHash": "851f5c57c453b01e925ce4ce41979813c5157dd1215b1248920bc7a763caa36c"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "kicker"
+      ],
+      "sourceHash": "5ca0413b1d7481b37f894e91d094a9826082d5ef4ee352e7e749748019dd1ba1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "heading"
+      ],
+      "sourceHash": "f97636fecfa0da289459a1973fc32b23ed93f7d2d028d05a2740183b95b2bf07"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        0,
+        "question"
+      ],
+      "sourceHash": "28f6f71ada84f6b32474cca2d572f8425ce24f3c017536656f0f188c5382c2fb"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        0,
+        "answer"
+      ],
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        1,
+        "question"
+      ],
+      "sourceHash": "7b0449a1ee9ad1124a6d0ea1c8d02eac3db185b36335ea48813713d3d813cdc8"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        1,
+        "answer"
+      ],
+      "sourceHash": "67e885ace79999cb27ef0e340fccd0d5acea76c7eeff1ae58ffe0a46593b9ce4"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        2,
+        "question"
+      ],
+      "sourceHash": "cd4c7d08891f61738d16c565075ad73d7b39f50dbde3048aafc613e8cab7245b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        2,
+        "answer"
+      ],
+      "sourceHash": "36cb10425d3572745261c1540d7e396aaad4d29171276ed935343101351fc718"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        3,
+        "question"
+      ],
+      "sourceHash": "8d65d8f0c0ea86a55cd5f520465462b878493120ff5c9d20199a3f154b6aea63"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        3,
+        "answer"
+      ],
+      "sourceHash": "f856930f12bee6feeac906490f29e4ae9f66c6637daf4f515d33200a46b615a0"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        4,
+        "question"
+      ],
+      "sourceHash": "b8ba5a361af8959412180a14a578e48d80ef18504a593b7103e6b571d24e5ecc"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        4,
+        "answer"
+      ],
+      "sourceHash": "581aa9c41ba31542d4ab1aed4fd424916ddef5d016af592451b417075d109e38"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        5,
+        "question"
+      ],
+      "sourceHash": "cc6df61ccfe3c76d15c5f5fd89d873a3fa6d6e30511612c987d9e89c3c56c23d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "faq",
+        "items",
+        5,
+        "answer"
+      ],
+      "sourceHash": "cfa62e3b4c329b017fcd535f846028d94224dc3d18050a5deba3ff7c9ea4c391"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "kicker"
+      ],
+      "sourceHash": "446d43bcec9a3b93303ba2ef0dc2b00f00e4240fbbbcdd01b2801bf6a084067b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "heading"
+      ],
+      "sourceHash": "34a90a26b5f4a1aff5c0af451aa9419c448fdbba8580e2d604a5065b17cda2d1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "body"
+      ],
+      "sourceHash": "59a314bd5a3d4ea4db2887f3b930b8707785eae27d2f1b082767de67269bc2fd"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "nameLabel"
+      ],
+      "sourceHash": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "emailLabel"
+      ],
+      "sourceHash": "969ccbd3cf6300ecd5c880459d81ae9027df7517563184a1b8b15282db230621"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "eventLabel"
+      ],
+      "sourceHash": "ad4e6802a3bc2aa51bf51cbe1e66dbdca6738c175939024c90f76e5215a7ac7f"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "cityLabel"
+      ],
+      "sourceHash": "fc33f73246f48295702f404001e74d56f14d2f82689b2816422dc1a4c2ec4fb2"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "ctaLabel"
+      ],
+      "sourceHash": "60592550d4ee560ae9f06aedfe367718fb2172cc50e711b39cc00c23606b67d6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "waitlist",
+        "loginNotice"
+      ],
+      "sourceHash": "a4f75591fe5d02c3d7d49e08431129b13e5bcfed4479f4ce741c9d1350180267"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "kicker"
+      ],
+      "sourceHash": "34ef570432852cd659e15beafbe7651f0bb47a68a03a9c8e0448c9ff93cf476c"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "heading"
+      ],
+      "sourceHash": "970fec56e77eca4517c13bac5269b864c3936912f9ed05c68cf41a61a51fa345"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "body"
+      ],
+      "sourceHash": "b0fa41496e8cbba3228b396dd94c9a4fb19975e2e3e8fccbdbb8df33b3764e32"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "ctaLabel"
+      ],
+      "sourceHash": "95f4ffdfd6c14c8fdfbac06eb9c47c3b10b5b8e661ee4f64e069080a3870b9ec"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "note"
+      ],
+      "sourceHash": "f9f34731811411aea7a4fee2553d680ae8966434fd63aacf3c19c11824e5b348"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "closing",
+        "characterAlt"
+      ],
+      "sourceHash": "1c7f862dd58c3b3b811bf25ab04eb0cffd4a4d5e6fadebe1dfb7f1fe5d521a2b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "tagline"
+      ],
+      "sourceHash": "51bb474c2b709d5bfc97dc682b3612f2a2653a12a1596959ecfb16f2bbc8fc88"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "disclaimer"
+      ],
+      "sourceHash": "24a24e431346a8f9e858bc5d4c95789a2892becdace3095003259d8f839aec88"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "copyright"
+      ],
+      "sourceHash": "a5ccc71045d8944e1ea3feb7ea6ac642c425a2a4681c8ae0e2bf27510d4fb595"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        0,
+        "label"
+      ],
+      "sourceHash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        0,
+        "links",
+        0,
+        "label"
+      ],
+      "sourceHash": "4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        0,
+        "links",
+        1,
+        "label"
+      ],
+      "sourceHash": "9c870aa6e5e93270170d5a81277ad3e623afe8d4efd186d3e28f3d2b646d52e6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        0,
+        "links",
+        2,
+        "label"
+      ],
+      "sourceHash": "22faf314db80884e71bd5e603bfb8c0e3fd387c5693343745fec9c63d3944390"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        1,
+        "label"
+      ],
+      "sourceHash": "559263857b40b5a9bfe31255fdd369afa4226581ea9f5140fdf8baf18645f8e6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        1,
+        "links",
+        0,
+        "label"
+      ],
+      "sourceHash": "9856b7433f842da2093b956811286d51860e05ae3904dc40b36dc709ea298884"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        1,
+        "links",
+        1,
+        "label"
+      ],
+      "sourceHash": "f30218a2d46f6f6663163221eba70a7a37a30424e586089d6b074528194412de"
+    },
+    {
+      "path": [
+        "landingPage",
+        "eventIntroductions",
+        "footer",
+        "groups",
+        1,
+        "links",
+        2,
+        "label"
+      ],
+      "sourceHash": "d0f51515037b99b277c1bcebcc2783f3d71dcc1ae2bd3bde6642752046aeaa93"
     },
     {
       "path": [
@@ -938,7 +2794,7 @@
         "copy",
         "navLabel"
       ],
-      "sourceHash": "5bb1092e45d12cf344ec810103fd96adc18943f70e30d02a092a40f74fe906b0"
+      "sourceHash": "dfe95783edfef7918760312f94edd764f4ce3ffd38b90c2c955a0cc3b250f040"
     },
     {
       "path": [
@@ -1649,6 +3505,146 @@
         "noCurrencyChange"
       ],
       "sourceHash": "718220721cfbe482039fc6bb6d52481ed1384fad16ff119ca5d0dc4c3ae718d0"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "currentPreparation"
+      ],
+      "sourceHash": "928d958c583b780cba9c5fad46428b528902459f6f74faae75a72a2b21f7cabc"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "reviewHours"
+      ],
+      "sourceHash": "3394ced95b267c4fd710961fbf5b99c081da26926fc35a65b3ba1b62c9a12fd6"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "reworkHours"
+      ],
+      "sourceHash": "21523a67898e293abd0be47cf292c5b483391500d60950dda9865c3ca628df4b"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "capacityValue"
+      ],
+      "sourceHash": "4dcc485471faab34162bd8d16b862cd837b4b64dd86e84401842e28d920376ba"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "acceptedUnits"
+      ],
+      "sourceHash": "3ed61fbb99811ea11ce35cb68185047f0446a13ecc082f4edb06d75e88460873"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "attendedUnits"
+      ],
+      "sourceHash": "0db82f1fd2dc4654d446d2314dc0e121be49032b71f161c5bb319e1ea6acb2fc"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "costPerAttended"
+      ],
+      "sourceHash": "986006eea01980a34bac981d6fdcd579b24644b9c0b38d2656019c7ef20af10d"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "benefitCost"
+      ],
+      "sourceHash": "2a39db7e18bf9bef2886f35046487c9173020534025bd58500a83605a6c0b542"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "firstYearCost"
+      ],
+      "sourceHash": "bf73c12619d3fc77c3953ebb2c6f63bcdf2db74bcd39c27076a7950099712780"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "firstYearRoi"
+      ],
+      "sourceHash": "086f8fc44b4ee68fbee0be574928d80c02020715a2957269229f5c6016a0322a"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "paybackOutsideTerm"
+      ],
+      "sourceHash": "2fa8b02a70b6cbedb48d8b8168d94fb34cc4616141582ee666347452f2ab28d7"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "customerBenefit"
+      ],
+      "sourceHash": "88b980d1ee33248c44f3a7158fce65c110c5c64101a08058d78b4cad4104faa9"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "customerRoi"
+      ],
+      "sourceHash": "a420556d962cbcc1bae82fe6eba87a854de6f4211884db490e529f6ba7b43722"
+    },
+    {
+      "path": [
+        "landingPage",
+        "roiCalculator",
+        "businessImpact",
+        "copy",
+        "payback"
+      ],
+      "sourceHash": "7d832a8c539f304a271b1b4c75e639f8f55a39aac3bbf584cca820237d36a524"
     },
     {
       "path": [
@@ -2619,5 +4615,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-01T15:39:42.184Z"
+  "generatedAt": "2026-09-11T04:24:57.463Z"
 }
