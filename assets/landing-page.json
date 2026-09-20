@@ -3,6 +3,10 @@
   "resourceKey": "landing_page.lane",
   "runtimeDataPolicy": "definitions_only",
   "landingPage": {
+    "capabilityPreview": {
+      "enabled": true,
+      "commandId": "request-introduction"
+    },
     "headline": "Real business introductions, one person at a time.",
     "subheadline": "Founders find investors, and investors find founders. Co-founders find each other. Startups find the right startup to buy from, sell to, or build with.",
     "ctaLabel": "Chat with Lane",
