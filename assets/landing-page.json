@@ -5,16 +5,16 @@
   "landingPage": {
     "capabilityPreview": {
       "enabled": true,
-      "commandId": "request-introduction"
+      "commandId": "find-connections"
     },
-    "headline": "Real business introductions, one person at a time.",
-    "subheadline": "Founders find investors, and investors find founders. Co-founders find each other. Startups find the right startup to buy from, sell to, or build with.",
+    "headline": "Find proven connection patterns, then people and companies that fit them.",
+    "subheadline": "Lane analyzes one public source, finds comparable entities, verifies their relationships, and helps founders and investors discover evidence-backed connections.",
     "ctaLabel": "Chat with Lane",
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Lane conference introduction operator at HumanX Amsterdam 2026"
+      "alt": "Lane competitor-led connection research for founders and investors"
     },
     "design": {
       "variant": "event-introductions",
@@ -65,7 +65,7 @@
     "eventIntroductions": {
       "header": {
         "brandLabel": "Lane.",
-        "brandTagline": "One careful introduction",
+        "brandTagline": "Evidence-backed discovery",
         "editionLabel": "Startups",
         "secondaryEditionLabel": "Investors",
         "navItems": [
@@ -78,7 +78,7 @@
             "target": "how-it-works"
           },
           {
-            "label": "Pairings",
+            "label": "Evidence",
             "target": "pairings"
           },
           {
@@ -139,38 +139,38 @@
       ],
       "investorEdition": {
         "hero": {
-          "eyebrow": "Now matching investors at HumanX Amsterdam: 22–24 Sept 2026",
-          "heading": "Meet founders worth your time, one at a time.",
-          "accentText": "Meet founders worth your time,",
-          "body": "Share your thesis, cheque size, and the founders you want to find. Lane proposes one qualified founder at a time, never a pitch deck pile. You see the private brief, you decide, and contact details unlock only after you both say yes.",
-          "primaryCtaLabel": "Chat with Lane as an investor",
+          "eyebrow": "Competitor-led research for investors",
+          "heading": "Start from a fund or investor you know. Discover the network around the evidence.",
+          "accentText": "Start from a fund or investor you know.",
+          "body": "Choose whether you need LPs and family offices, thesis-aligned startups, round co-investors, or peer investors. Lane analyzes one public source, shows cited comparable entities, and researches only the competitors you select.",
+          "primaryCtaLabel": "Research as an investor",
           "secondaryCtaLabel": "See how it works",
-          "suggestedPrompt": "I'm an investor looking to meet founders raising right now."
+          "suggestedPrompt": "I want to find thesis-aligned startups."
         }
       },
       "hero": {
-        "eyebrow": "Now matching at HumanX Amsterdam: 22–24 Sept 2026",
-        "heading": "Real business introductions, one person at a time.",
-        "accentText": "Real business introductions,",
-        "body": "Founders find investors, and investors find founders. Co-founders find each other. Startups find the right startup to buy from, sell to, or build with. Lane proposes one pairing at a time. Both sides say yes.",
-        "primaryCtaLabel": "Chat with Lane",
+        "eyebrow": "Competitor-led research for founders",
+        "heading": "Turn one company URL into evidence-backed connections.",
+        "accentText": "evidence-backed connections.",
+        "body": "Choose whether you need a co-founder, investors, or startup clients. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
+        "primaryCtaLabel": "Find connections",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Lane, a relaxed winged conference introduction operator",
+        "characterAlt": "Lane, a connection-research guide",
         "chat": {
-          "statusLabel": "Online · on the floor",
-          "operatorBadge": "Human-run",
-          "openingMessage": "Hi, I’m Lane. I introduce one carefully chosen person at a time, never a list.",
-          "inputPlaceholder": "Ask Lane about your next introduction…",
+          "statusLabel": "Online · research ready",
+          "operatorBadge": "Public evidence",
+          "openingMessage": "Hi, I’m Lane. Give me one public source and I’ll trace comparable entities, proven relationships, and lookalike connections.",
+          "inputPlaceholder": "Start evidence-backed research…",
           "suggestedPrompts": [
-            "How do you choose?",
-            "What happens if I pass?",
-            "When are details shared?"
+            "How does competitor-led research work?",
+            "What evidence is shown?",
+            "What gets saved?"
           ]
         },
         "briefDemo": {
           "enabled": true,
-          "commandTrigger": "request-introduction",
+          "commandTrigger": "find-connections",
           "introHeading": "Your private introduction brief",
           "introBody": "You tell me which side of the table you’re on and what a useful meeting looks like. I’ll propose one fit. Both accept or pass privately.",
           "trackLabel": "Introduction track",
@@ -253,9 +253,9 @@
         }
       },
       "about": {
-        "kicker": "A deliberately narrow service",
-        "heading": "Networking tools gave you everyone. Lane introduces you to someone.",
-        "body": "One specific business pairing with a reason behind it, whether the useful match is capital, a complementary co-founder, or another startup.",
+        "kicker": "A traceable research method",
+        "heading": "Start with what is proven, then discover what is analogous.",
+        "body": "Lane grounds discovery in a public source, cited comparable entities, and verified relationship evidence before suggesting a candidate.",
         "images": [
           {
             "number": "01",
@@ -279,64 +279,64 @@
         "principles": [
           {
             "icon": "check",
-            "title": "Specific beats endless.",
-            "body": "One relevant person, with a reason to meet, never a public list to work through.",
+            "title": "Evidence before candidates.",
+            "body": "Every suggestion traces back to a public source, a selected competitor, and a verified relationship pattern.",
             "tone": "signal"
           },
           {
             "icon": "users",
-            "title": "Both sides choose.",
-            "body": "A proposed pairing moves forward only after two private yeses. Passing stays private too.",
+            "title": "You choose the comparables.",
+            "body": "Lane researches only the one to five cited competitors you explicitly select.",
             "tone": "iris"
           },
           {
             "icon": "shield-check",
-            "title": "Private, always.",
-            "body": "Names, contact details, and the exact meeting point unlock only when both sides accept.",
+            "title": "Research, never outreach.",
+            "body": "The journey saves only selected public candidates. It never contacts anyone or exposes private contact data.",
             "tone": "mint"
           }
         ],
-        "scopeNote": "For founders, investors, potential co-founders, and startups with a concrete reason to meet. Not for dating, job seeking, expo-hall pitching, or general networking."
+        "scopeNote": "For founders and investors researching co-founders, capital, clients, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
       },
       "process": {
-        "kicker": "How the introduction happens",
-        "heading": "From “tell me your side” to “here’s when you’re meeting.”",
-        "body": "Lane is a human operator, not a matching engine, feed, or booking marketplace. The process stays the same; the two sides change.",
+        "kicker": "How the research works",
+        "heading": "From one public URL to cited connection candidates.",
+        "body": "The same sequence powers the landing preview, signed-in web experience, iOS, and Android.",
         "steps": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
             "alt": "",
-            "title": "Have a real conversation",
-            "body": "Founders share the raise, cheque size, and reason to meet. Investors share thesis, cheque size, and the founders they want to find."
+            "title": "Choose a goal and source",
+            "body": "Select a Founder or Investor goal and provide one public company, fund, or professional-profile URL."
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
-            "title": "Lane does the looking",
-            "body": "The operator compares private intake across the same track and checks the fit beyond the obvious labels."
+            "title": "Review cited competitors",
+            "body": "Lane analyzes the source, finds similar entities through Exa, and asks you to select one to five."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
-            "title": "Meet one good possibility",
-            "body": "You get one proposed pairing with context. Both sides accept or pass before any contact detail is shared."
+            "title": "Verify proven relationships",
+            "body": "Lane researches the founders, investors, customers, portfolios, rounds, backers, or partnerships relevant to your goal."
           },
           {
             "number": "04",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
             "alt": "",
-            "title": "Get the confirmed slot",
-            "body": "Lane sets a time and a quiet place. The exact table and two names unlock only after both sides say yes."
+            "title": "Select what to save",
+            "body": "Filter and inspect lookalike candidates, then save only the public connections you explicitly choose."
           }
         ]
       },
       "pairing": {
-        "kicker": "Lane’s latest fit",
-        "heading": "Two full businesses. One good reason to meet.",
-        "body": "The useful introduction is rarely “two people in the same industry.” It is a timely need on one side and a credible answer on the other, plus two private yeses.",
+        "kicker": "Evidence chain",
+        "heading": "A candidate is useful only when the path to it is visible.",
+        "body": "Lane keeps the source profile, selected competitors, verified relationship patterns, citations, provider IDs, and confidence together for review.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -349,39 +349,39 @@
         ],
         "fitLabel": "Lane’s fit",
         "criteria": [
-          "Timing overlaps",
-          "Need and offer align",
-          "Both opted into this kind of first meeting"
+          "Public source is reviewable",
+          "Competitor evidence is cited",
+          "Relationship pattern supports the candidate"
         ],
-        "statusHeading": "The card changes as two decisions come in.",
-        "statusBody": "Illustrative card formats, not a public attendee list or live schedule. Status and location change as each introduction is accepted.",
+        "statusHeading": "Research stays under your control.",
+        "statusBody": "Illustrative cards show the saved, reviewed, and archived states. No state change sends outreach.",
         "cards": [
           {
-            "track": "Founder × Seed investor",
-            "time": "Tue · 10:20",
+            "track": "Selected competitor",
+            "time": "Source analyzed",
             "status": "proposed",
-            "location": "RAI, Zuidas",
-            "note": "Waiting for two decisions"
+            "location": "Public evidence attached",
+            "note": "Ready for relationship research"
           },
           {
-            "track": "Founder × Co-founder",
-            "time": "Wed · 13:40",
+            "track": "Verified relationship",
+            "time": "Evidence reviewed",
             "status": "accepted",
-            "location": "RAI, Zuidas",
-            "note": "Lane is setting the slot"
+            "location": "Citations preserved",
+            "note": "Pattern supports lookalike discovery"
           },
           {
-            "track": "Startup × Startup BD",
-            "time": "Thu · 15:10",
+            "track": "Saved connection",
+            "time": "User selected",
             "status": "confirmed",
-            "location": "Exact table or quiet corner shared after both sides accept",
-            "note": "Full detail sent privately"
+            "location": "Private workspace only",
+            "note": "No outreach was sent"
           }
         ]
       },
       "faq": {
         "kicker": "Good questions",
-        "heading": "Before Lane makes the introduction.",
+        "heading": "Before Lane starts the research.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
@@ -389,24 +389,24 @@
             "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and startups find another startup with a plausible customer or collaboration fit."
           },
           {
-            "question": "Is Lane a matching app?",
-            "answer": "No. A human operator reads the intake and proposes one pairing at a time. There is no public deck, swipe feed, attendee directory, or automated matching engine."
+            "question": "Does Lane search its private participant pool?",
+            "answer": "No. This journey uses public source analysis, cited comparable entities, verified relationship evidence, and lookalike discovery. It does not search Lane’s participant pool."
           },
           {
-            "question": "Will everyone see my details?",
-            "answer": "No. Intake stays private. Each proposed introduction is shown only to the two relevant sides, and direct contact details stay hidden until both accept."
+            "question": "Does Lane expose private contact details?",
+            "answer": "No. Lane stores public identity and evidence only. Private contact data and unsupported relationships are never inferred or displayed."
           },
           {
-            "question": "What if I pass on a proposed pairing?",
-            "answer": "Lane records the pass privately and moves on. The other side is not given your contact details, and there is no public rejection or ranking."
+            "question": "What happens before I sign in?",
+            "answer": "Anonymous visitors can analyze one source, review up to five cited competitors, and select one to five. Relationship and lookalike research resumes only after sign-in."
           },
           {
-            "question": "What happens after both sides accept?",
-            "answer": "Lane confirms a time and a table or quiet corner. You receive two names and the exact location only after both yeses are in."
+            "question": "What happens when evidence is unavailable?",
+            "answer": "Lane returns unknown or no result. It does not guess relationships, availability, or private information."
           },
           {
-            "question": "How does the meeting guarantee work?",
-            "answer": "The guarantee applies to the track selected at signup: three accepted meetings on the current event calendar, or the founder-side fee is refunded. Lane books the meeting, not the round, co-founder, customer, or deal."
+            "question": "Does saving a connection contact anyone?",
+            "answer": "No. Saving adds the selected public candidate and its research provenance to your private Founder or Investor workspace. Outreach and introductions are separate actions."
           }
         ]
       },
@@ -423,16 +423,16 @@
       },
       "closing": {
         "kicker": "Ready when you are",
-        "heading": "One useful introduction at a time.",
-        "body": "Tell Lane which side of the table you’re on. The operator will take it from there, thoughtfully, privately, and one real person at a time.",
-        "ctaLabel": "Chat with Lane",
-        "note": "No swipe feed · Mutual consent only · Human-run · Private until both say yes",
+        "heading": "Start with one source. Follow the evidence.",
+        "body": "Choose a Founder or Investor goal, provide one public URL, and decide which comparable entities Lane should research.",
+        "ctaLabel": "Find connections",
+        "note": "Public evidence only · No participant-pool search · No outreach · Save only what you select",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Lane standing calmly with a tablet, ready to make an introduction"
+        "characterAlt": "Lane standing calmly with a tablet, ready to research connections"
       },
       "footer": {
         "tagline": "Lane by Gabriel Operator.",
-        "disclaimer": "Lane matches people at select conferences and events. HumanX Amsterdam is not a partner unless stated.",
+        "disclaimer": "Lane is an AI and can make mistakes. Please double-check responses and cited public evidence.",
         "copyright": "2026 Lane",
         "groups": [
           {
@@ -839,298 +839,298 @@
           {
             "language": "es",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.es.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "de",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.de.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ja",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ja.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "fr",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.fr.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "pt",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.pt.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ru",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ru.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "it",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.it.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "nl",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.nl.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "pl",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.pl.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "tr",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.tr.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "zh",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.zh.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "fa",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.fa.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "vi",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.vi.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "cs",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.cs.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "id",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.id.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ko",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ko.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "uk",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.uk.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "hu",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.hu.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ar",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ar.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "sv",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.sv.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ro",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ro.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "el",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.el.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "da",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.da.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "fi",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.fi.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "he",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.he.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "sk",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.sk.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "th",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.th.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "bg",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.bg.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "hr",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.hr.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "nb",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.nb.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "lt",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.lt.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "sr",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.sr.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "sl",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.sl.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "ca",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ca.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "et",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.et.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "no",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.no.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           },
           {
             "language": "lv",
             "regionKey": null,
-            "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.lv.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-09-11T04:24:57.463Z"
+            "generatedAt": "2026-09-23T00:47:16.277Z"
           }
         ]
       },

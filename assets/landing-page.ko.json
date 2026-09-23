@@ -2,16 +2,16 @@
   "schemaVersion": 2,
   "language": "ko",
   "regionKey": null,
-  "sourceRevision": "349470c6feeb7c0159df308dcdf385e09f84010f3f73bd89da43abebd41b66dd",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
-    "headline": "실제 비즈니스 소개, 한 번에 한 사람.",
-    "subheadline": "설립자는 투자자를 찾고 투자자는 설립자를 찾습니다. 공동 창립자는 서로를 찾습니다. 스타트업은 구매, 판매 또는 함께 구축할 적절한 스타트업을 찾습니다.",
+    "headline": "검증된 연결 패턴을 찾은 다음 이에 적합한 사람과 회사를 찾으세요.",
+    "subheadline": "Lane은 하나의 공개 소스를 분석하고, 비교 가능한 엔터티를 찾고, 관계를 확인하고, 창립자와 투자자가 증거로 뒷받침되는 연결을 발견하도록 돕습니다.",
     "ctaLabel": "레인과 채팅",
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Humanx Amsterdam 2026의 차선 회의 소개 운영자"
+      "alt": "창업자와 투자자를 위한 차선 경쟁사 주도 연계 연구"
     },
     "design": {
       "variant": "event-introductions",
@@ -62,7 +62,7 @@
     "eventIntroductions": {
       "header": {
         "brandLabel": "레인.",
-        "brandTagline": "하나의 신중한 소개",
+        "brandTagline": "증거 기반 발견",
         "editionLabel": "스타트업",
         "secondaryEditionLabel": "투자자",
         "navItems": [
@@ -75,7 +75,7 @@
             "target": "how-it-works"
           },
           {
-            "label": "페어링",
+            "label": "증거",
             "target": "pairings"
           },
           {
@@ -136,38 +136,38 @@
       ],
       "investorEdition": {
         "hero": {
-          "eyebrow": "현재 Humanx Amsterdam에서 투자자를 매칭: 2026년 9월 22–24일",
-          "heading": "한 번에 하나씩 시간을 할애할 가치가 있는 설립자를 만나십시오.",
-          "accentText": "시간을 할애할 가치가 있는 설립자를 만나십시오.",
-          "body": "논문을 공유하고 크기를 확인하고 찾고자 하는 창립자를 확인하십시오. Lane은 한 번에 한 명의 자격을 갖춘 설립자를 제안하며 결코 피치 덱 더미가 아닙니다. 비공개 브리핑을 보고, 결정하고, 연락처 정보가 둘 다 예라고 말한 후에만 잠금 해제됩니다.",
-          "primaryCtaLabel": "투자자로서 Lane과 채팅하십시오",
+          "eyebrow": "투자자를 위한 경쟁사 주도 연구",
+          "heading": "당신이 알고 있는 펀드나 투자자로부터 시작해보세요. 증거 주변의 네트워크를 찾아보세요.",
+          "accentText": "당신이 알고 있는 펀드나 투자자로부터 시작해보세요.",
+          "body": "LP와 패밀리오피스, 논문 연계 스타트업, 라운드 공동 투자자, 동료 투자자가 필요한지 선택하세요. Lane은 하나의 공개 소스를 분석하고, 인용된 비교 항목을 표시하며, 귀하가 선택한 경쟁사만 조사합니다.",
+          "primaryCtaLabel": "투자자로서의 연구",
           "secondaryCtaLabel": "See how it works",
-          "suggestedPrompt": "저는 지금 당장 모으는 창업자를 만나고자 하는 투자자입니다."
+          "suggestedPrompt": "논문에 맞는 스타트업을 찾고 싶습니다."
         }
       },
       "hero": {
-        "eyebrow": "현재 HumanX Amsterdam에서 매칭: 2026년 9월 22–24일",
-        "heading": "실제 비즈니스 소개, 한 번에 한 사람.",
-        "accentText": "실제 비즈니스 소개",
-        "body": "설립자는 투자자를 찾고 투자자는 설립자를 찾습니다. 공동 창립자는 서로를 찾습니다. 스타트업은 구매, 판매 또는 함께 구축할 적절한 스타트업을 찾습니다. Lane은 한 번에 하나의 페어링을 제안합니다. 양측 모두 예라고 말합니다.",
-        "primaryCtaLabel": "레인과 채팅",
+        "eyebrow": "창업자를 위한 경쟁사 주도 연구",
+        "heading": "하나의 회사 URL을 증거 기반 연결로 전환하세요.",
+        "accentText": "하나의 회사 URL을 증거 기반 연결로 전환하세요.",
+        "body": "공동 창업자, 투자자 또는 스타트업 고객이 필요한지 선택하세요. Lane은 공개 소스를 분석하고, 인용된 비교 가능한 회사를 표시하며, 선택한 경쟁업체만 사용하여 관련 후보자를 찾습니다.",
+        "primaryCtaLabel": "연결 찾기",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "레인, 편안한 날개 달린 회의 소개 운영자",
+        "characterAlt": "레인(Lane), 연계연구 가이드",
         "chat": {
-          "statusLabel": "온라인 · 바닥에서",
-          "operatorBadge": "인간이 운영하는",
-          "openingMessage": "안녕하세요 레인입니다. 나는 한 번에 신중하게 선택한 사람을 소개합니다. 목록이 아닙니다.",
-          "inputPlaceholder": "다음 소개에 대해 Lane에게 문의하십시오…",
+          "statusLabel": "온라인 · 연구 준비",
+          "operatorBadge": "공개 증거",
+          "openingMessage": "안녕하세요, 레인이에요. 하나의 공개 소스를 주시면 비교 가능한 엔터티, 입증된 관계 및 유사한 연결을 추적하겠습니다.",
+          "inputPlaceholder": "증거 기반 연구 시작…",
           "suggestedPrompts": [
-            "어떻게 선택합니까?",
-            "합격하면 어떻게 되나요?",
-            "세부 정보는 언제 공유됩니까?"
+            "경쟁업체 주도 연구는 어떻게 진행되나요?",
+            "어떤 증거가 나타나나요?",
+            "무엇이 저장되나요?"
           ]
         },
         "briefDemo": {
           "enabled": true,
-          "commandTrigger": "request-introduction",
+          "commandTrigger": "find-connections",
           "introHeading": "귀하의 개인 소개 개요",
           "introBody": "당신은 당신이 테이블의 어느 쪽에 있고 유용한 회의가 어떤 것인지 알려줍니다. 한 가지를 제안하겠습니다. 둘 다 개인적으로 수락하거나 통과합니다.",
           "trackLabel": "소개 트랙",
@@ -250,9 +250,9 @@
         }
       },
       "about": {
-        "kicker": "의도적으로 좁은 서비스",
-        "heading": "네트워킹 도구는 모든 사람을 제공했습니다. 레인이 누군가를 소개합니다.",
-        "body": "유용한 매치가 자본이든, 보완적인 공동 창립자이든, 아니면 다른 신생 기업이든 그 이면의 이유와 짝을 이루는 특정 비즈니스.",
+        "kicker": "추적 가능한 연구 방법",
+        "heading": "입증된 것부터 시작한 다음 유사한 것을 찾으십시오.",
+        "body": "Lane은 후보를 제안하기 전에 공개 소스에서 근거를 발견하고 비교 대상을 인용하고 관계 증거를 확인했습니다.",
         "images": [
           {
             "number": "01",
@@ -276,64 +276,64 @@
         "principles": [
           {
             "icon": "check",
-            "title": "특정 비트는 끝이 없습니다.",
-            "body": "만날 이유가 있는 한 관련 사람은 작업할 공개 목록을 작성하지 않습니다.",
+            "title": "후보자 앞의 증거.",
+            "body": "모든 제안은 공개 소스, 선택된 경쟁사 및 검증된 관계 패턴으로 추적됩니다.",
             "tone": "signal"
           },
           {
             "icon": "users",
-            "title": "양측 모두 선택합니다.",
-            "body": "제안된 페어링은 2개의 비공개 예 후에만 진행됩니다. 패스도 비공개로 유지됩니다.",
+            "title": "당신은 비교 대상을 선택합니다.",
+            "body": "Lane은 귀하가 명시적으로 선택한 1~5개의 인용 경쟁사만 조사합니다.",
             "tone": "iris"
           },
           {
             "icon": "shield-check",
-            "title": "사적인, 항상.",
-            "body": "이름, 연락처 세부 정보 및 정확한 회의 지점은 양측이 수락할 때만 잠금을 해제합니다.",
+            "title": "연구만 하고 절대 연락하지 마세요.",
+            "body": "여정은 선택된 공개 후보자들만 저장합니다. 누구에게도 연락하지 않으며 개인 연락처 데이터를 노출하지 않습니다.",
             "tone": "mint"
           }
         ],
-        "scopeNote": "설립자, 투자자, 잠재적인 공동 설립자 및 스타트업을 위한 구체적인 이유가 있습니다. 데이트, 구직, 엑스포 홀 피칭 또는 일반 네트워킹을 위한 것이 아닙니다."
+        "scopeNote": "공동 창업자, 자본가, 고객, LP, 스타트업, 공동 투자자 또는 동료를 연구하는 창업자 및 투자자를 위한 것입니다. 지원되지 않는 관계는 아직 알려지지 않았습니다."
       },
       "process": {
-        "kicker": "소개가 어떻게 일어나는지",
-        "heading": "\"Tell me your side\"에서 \"여기 당신이 만나는 시간\"으로.",
-        "body": "Lane은 일치하는 엔진, 피드 또는 예약 마켓플레이스가 아닌 인간 운영자입니다. 프로세스는 동일하게 유지됩니다. 양측이 변합니다.",
+        "kicker": "연구 진행 방식",
+        "heading": "하나의 공개 URL에서 인용된 연결 후보까지.",
+        "body": "동일한 시퀀스가 랜딩 미리보기, 로그인된 웹 환경, iOS 및 Android를 지원합니다.",
         "steps": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
             "alt": "",
-            "title": "진정한 대화를 나누세요",
-            "body": "설립자는 인상, 확인 규모 및 만날 이유를 공유합니다. 투자자는 논문, 수표 규모 및 그들이 찾고자 하는 설립자를 공유합니다."
+            "title": "목표와 소스를 선택하세요",
+            "body": "설립자 또는 투자자 목표를 선택하고 공개 회사, 펀드 또는 전문가 프로필 URL을 제공하세요."
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
-            "title": "레인은 찾고 있습니다",
-            "body": "운영자는 동일한 트랙에서 개인 섭취량을 비교하고 명백한 레이블 너머로 적합성을 확인합니다."
+            "title": "인용된 경쟁사 검토",
+            "body": "레인은 소스를 분석해 엑사를 통해 비슷한 개체를 찾아낸 뒤 1~5개를 선택하라고 한다."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
-            "title": "하나의 좋은 가능성을 만나십시오",
-            "body": "컨텍스트와 함께 제안된 페어링이 하나 있습니다. 연락처 세부 정보를 공유하기 전에 양측이 수락하거나 통과합니다."
+            "title": "검증된 관계 확인",
+            "body": "Lane은 귀하의 목표와 관련된 창립자, 투자자, 고객, 포트폴리오, 라운드, 후원자 또는 파트너십을 조사합니다."
           },
           {
             "number": "04",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
             "alt": "",
-            "title": "확인된 슬롯을 가져옵니다",
-            "body": "차선은 시간과 조용한 장소를 설정합니다. 정확한 표와 두 개의 이름은 양측이 예라고 말한 후에만 잠금을 해제합니다."
+            "title": "저장할 항목 선택",
+            "body": "유사한 후보를 필터링하고 검사한 다음 명시적으로 선택한 공개 연결만 저장하세요."
           }
         ]
       },
       "pairing": {
-        "kicker": "레인의 최신 핏",
-        "heading": "두 개의 완전한 사업. 만나야 하는 좋은 이유 중 하나.",
-        "body": "유용한 소개는 \"동일한 산업의 두 사람\"인 경우가 거의 없습니다. 한쪽에는 시기적절한 필요가 있고 다른 한편으로는 신뢰할 수 있는 답변과 두 개의 개인 예가 있습니다.",
+        "kicker": "증거 체인",
+        "heading": "후보는 경로가 표시될 때만 유용합니다.",
+        "body": "Lane은 검토를 위해 소스 프로필, 선택된 경쟁사, 확인된 관계 패턴, 인용, 제공자 ID 및 신뢰도를 함께 유지합니다.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -346,39 +346,39 @@
         ],
         "fitLabel": "레인의 핏",
         "criteria": [
-          "타이밍이 겹칩니다",
-          "필요 및 제안 정렬",
-          "둘 다 이런 종류의 첫 만남을 선택했습니다"
+          "공개 소스를 검토할 수 있습니다.",
+          "경쟁사 증거가 인용됨",
+          "관계 패턴은 후보자를 지원합니다"
         ],
-        "statusHeading": "두 가지 결정이 내려지면 카드가 바뀝니다.",
-        "statusBody": "공개 참석자 목록이나 라이브 일정이 아닌 예시 카드 형식. 각 소개가 수락됨에 따라 상태 및 위치 변경.",
+        "statusHeading": "연구는 귀하의 통제하에 있습니다.",
+        "statusBody": "예시 카드에는 저장됨, 검토됨, 보관됨 상태가 표시됩니다. 어떤 상태 변경도 지원 활동을 보내지 않습니다.",
         "cards": [
           {
-            "track": "설립자 × 시드 투자자",
-            "time": "Tue · 10:20",
+            "track": "선택된 경쟁사",
+            "time": "Source analyzed",
             "status": "proposed",
-            "location": "라이, 주이다스",
-            "note": "두 가지 결정을 기다리고 있습니다"
+            "location": "공개 증거 첨부",
+            "note": "관계 연구 준비"
           },
           {
-            "track": "설립자 × 공동 설립자",
-            "time": "Wed · 13:40",
+            "track": "확인된 관계",
+            "time": "Evidence reviewed",
             "status": "accepted",
-            "location": "라이, 주이다스",
-            "note": "레인이 슬롯을 설정합니다"
+            "location": "인용 보존됨",
+            "note": "패턴은 유사 검색을 지원합니다."
           },
           {
-            "track": "시작 × 시작 BD",
-            "time": "Thu · 15:10",
+            "track": "저장된 연결",
+            "time": "User selected",
             "status": "confirmed",
-            "location": "양측이 수락한 후 공유된 정확한 테이블 또는 조용한 코너",
-            "note": "전체 세부 정보를 비공개로 보냈습니다"
+            "location": "개인 작업공간만",
+            "note": "연락이 전송되지 않았습니다."
           }
         ]
       },
       "faq": {
         "kicker": "좋은 질문",
-        "heading": "Lane이 소개하기 전에.",
+        "heading": "Lane이 연구를 시작하기 전.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
@@ -386,24 +386,24 @@
             "answer": "아니요. 이 서비스는 의도적으로 양면적입니다. 투자자는 Lane을 사용하여 설립자를 찾고, 설립자는 Lane을 사용하여 투자자를 찾고, 잠재적인 공동 창립자가 서로를 찾고, 스타트업은 그럴듯한 고객 또는 협업에 적합한 다른 스타트업을 찾습니다."
           },
           {
-            "question": "레인은 일치하는 앱입니까?",
-            "answer": "아니요. 인간 운영자는 섭취량을 읽고 한 번에 한 쌍을 제안합니다. 공용 덱, 스와이프 피드, 참석자 디렉토리 또는 자동 매칭 엔진이 없습니다."
+            "question": "Lane은 개인 참가자 풀을 검색합니까?",
+            "answer": "아니요. 이 여정에서는 공개 소스 분석, 인용된 비교 엔터티, 확인된 관계 증거 및 유사 검색을 사용합니다. Lane의 참가자 풀은 검색하지 않습니다."
           },
           {
-            "question": "모두가 내 세부 정보를 볼 수 있습니까?",
-            "answer": "아니요. 접수는 비공개로 유지됩니다. 제안된 각 소개는 두 가지 관련 측면에만 표시되며 직접 연락처 세부 정보는 양쪽 모두 수락할 때까지 숨겨져 있습니다."
+            "question": "Lane은 개인 연락처 정보를 노출하나요?",
+            "answer": "아니요. Lane은 공개 신원과 증거만 저장합니다. 비공개 연락처 데이터 및 지원되지 않는 관계는 절대 추론되거나 표시되지 않습니다."
           },
           {
-            "question": "제안된 페어링을 전달하면 어떻게 됩니까?",
-            "answer": "레인은 패스를 개인적으로 기록하고 계속 진행합니다. 상대방에게는 귀하의 연락처 정보가 제공되지 않으며 공개 거부 또는 순위가 없습니다."
+            "question": "로그인하기 전에는 어떻게 되나요?",
+            "answer": "익명의 방문자는 하나의 소스를 분석하고, 인용된 경쟁사를 최대 5개까지 검토하고, 1~5개를 선택할 수 있습니다. 관계 및 유사 조사는 로그인 후에만 재개됩니다."
           },
           {
-            "question": "양측이 수락하면 어떻게 됩니까?",
-            "answer": "차선 시간과 테이블 또는 조용한 코너를 확인합니다. 두 개의 이름이 있는 후에만 두 개의 이름과 정확한 위치를 받습니다."
+            "question": "증거가 없으면 어떻게 되나요?",
+            "answer": "Lane은 알 수 없거나 결과를 반환하지 않습니다. 관계, 가용성 또는 개인 정보를 추측하지 않습니다."
           },
           {
-            "question": "회의 보장은 어떻게 작동합니까?",
-            "answer": "이 보증은 가입 시 선택한 트랙에 적용됩니다. 현재 이벤트 캘린더에서 수락된 3개의 회의 또는 창립자 측 수수료가 환불됩니다. Lane은 라운드, 공동 설립자, 고객 또는 거래가 아닌 회의를 예약합니다."
+            "question": "연결을 저장하면 누구에게도 연락이 됩니까?",
+            "answer": "아니요. 저장하면 선택한 공개 후보자와 해당 연구 출처가 개인 창립자 또는 투자자 작업 공간에 추가됩니다. 봉사활동과 소개는 별개의 활동입니다."
           }
         ]
       },
@@ -420,16 +420,16 @@
       },
       "closing": {
         "kicker": "당신이있을 때 준비",
-        "heading": "한 번에 하나의 유용한 소개.",
-        "body": "당신이 테이블의 어느 쪽에 있는지 Lane에게 말하십시오. 운영자는 한 번에 한 명의 실제 사람과 사려 깊게, 개인적으로 그것을 가져갈 것입니다.",
-        "ctaLabel": "레인과 채팅",
-        "note": "스와이프 피드 없음 · 상호 동의 전용 · 인간이 운영 · 둘 다 예라고 말할 때까지 비공개",
+        "heading": "하나의 소스로 시작하세요. 증거를 따르십시오.",
+        "body": "설립자 또는 투자자 목표를 선택하고, 하나의 공개 URL을 제공하고, Lane이 조사해야 할 비교 대상을 결정하십시오.",
+        "ctaLabel": "연결 찾기",
+        "note": "공개 증거만 · 참가자 풀 검색 없음 · 지원 없음 · 선택한 항목만 저장",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "서론을 할 준비가 된 태블릿으로 침착하게 서 있는 차선"
+        "characterAlt": "태블릿을 들고 침착하게 서서 연결을 조사할 준비가 된 차선"
       },
       "footer": {
         "tagline": "가브리엘 오퍼레이터별 차선.",
-        "disclaimer": "차선은 일부 회의 및 이벤트에서 사람과 일치합니다. Humanx Amsterdam은 명시되지 않는 한 파트너가 아닙니다.",
+        "disclaimer": "레인은 AI이므로 실수를 할 수 있습니다. 답변과 인용된 공개 증거를 다시 확인하세요.",
         "copyright": "2026 레인",
         "groups": [
           {
@@ -833,14 +833,14 @@
         "landingPage",
         "headline"
       ],
-      "sourceHash": "10b436e05b821f2571250f75df8e2123d41822ddd5436f6df96767a2a265f71e"
+      "sourceHash": "143b87fbffa90c47661fadfa03db7e5f1b50ec2fefc7d0cee2667413556452c3"
     },
     {
       "path": [
         "landingPage",
         "subheadline"
       ],
-      "sourceHash": "07863261fefc57b459afb392d99583e041b17b792df958fd55346cc6e54bb99e"
+      "sourceHash": "c39b4dfe26dd0eb974e8bbc727596a0b55e97f28713778ea667156f513ad9244"
     },
     {
       "path": [
@@ -862,7 +862,7 @@
         "seoImage",
         "alt"
       ],
-      "sourceHash": "2d7f304c8df53f7c02dc609b210bd5e5c3b5c55e6ba1cc40029e1cfcc857b6a3"
+      "sourceHash": "533bc6d29b9bb1ef2b87663cbe801402c12586454ac4aa565b46d553cae042a2"
     },
     {
       "path": [
@@ -880,7 +880,7 @@
         "header",
         "brandTagline"
       ],
-      "sourceHash": "d81ec46dfe7b387a3f2d3506579859ac2f89c41e6d78e8afef4a5832c5526090"
+      "sourceHash": "8feb745ebe4cf8b9be6b2ede898d17eae6d48133b3765c2d935287f07e41abc9"
     },
     {
       "path": [
@@ -931,7 +931,7 @@
         2,
         "label"
       ],
-      "sourceHash": "22faf314db80884e71bd5e603bfb8c0e3fd387c5693343745fec9c63d3944390"
+      "sourceHash": "03867aea70acaf4c5dce37a76cf5a04dab1716d6ff70bf03761c439daa8be984"
     },
     {
       "path": [
@@ -1246,7 +1246,7 @@
         "hero",
         "eyebrow"
       ],
-      "sourceHash": "e2d7b626f5ce788cf63d6e06ef0ed0b631945d5a64bab39dab0bd54a52916b9f"
+      "sourceHash": "9ea64ab0fa9a8650cad9605e0b8263d9df2e008ce1ae69019c5ef252ef6f3abf"
     },
     {
       "path": [
@@ -1256,7 +1256,7 @@
         "hero",
         "heading"
       ],
-      "sourceHash": "0a3546e76b94290b9265f08147a44484567db26e312b550157c4f1084e23a2f7"
+      "sourceHash": "c425957a161aae729f91b253f7bd11ff6067f03880349f2ca5b0a059a62a7b90"
     },
     {
       "path": [
@@ -1266,7 +1266,7 @@
         "hero",
         "accentText"
       ],
-      "sourceHash": "8c1cad64963c26558b2d0fd9f41c0b173f4b43f315d67b0f9d60610164fa72d8"
+      "sourceHash": "44fb9b1960ab82a2b07ea15a0f863afddcb240e94cd01b95b72f8edffb218a90"
     },
     {
       "path": [
@@ -1276,7 +1276,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "38d34773786859bf7ef232ad8d091fd6b3f6f48276837c0500c132f77c6cfb1f"
+      "sourceHash": "f0723f1bf34881f3baaf845f96d32c3b1147bfffd6fbc570a95a9e44dc1ebf09"
     },
     {
       "path": [
@@ -1286,7 +1286,7 @@
         "hero",
         "primaryCtaLabel"
       ],
-      "sourceHash": "2936c706727a4af959f3a31b4086fb35a1f6673ce3cd7233d0ab8915a7eeffa4"
+      "sourceHash": "c2638c44de078a821ece5a211cdaee073f0b1abdbcca48b89c9f43edc305e310"
     },
     {
       "path": [
@@ -1306,7 +1306,7 @@
         "hero",
         "suggestedPrompt"
       ],
-      "sourceHash": "49af3ef27e527dde4cd8650a5b4aa84b60518dad51baf5d5040842bc0de7b842"
+      "sourceHash": "6fe1799bfee427a49f1b7aee94241fea9ee148fa3d400f4b663e5a10fd06bebf"
     },
     {
       "path": [
@@ -1315,7 +1315,7 @@
         "hero",
         "eyebrow"
       ],
-      "sourceHash": "587cfdad5f794cd0809586d25c813e54fddc3bc59eb99575c948e7dd53686c1b"
+      "sourceHash": "f6119bf043212ffcd1df5e31044dfb937d176e9ee9d5e052b3e582b98523d56f"
     },
     {
       "path": [
@@ -1324,7 +1324,7 @@
         "hero",
         "heading"
       ],
-      "sourceHash": "10b436e05b821f2571250f75df8e2123d41822ddd5436f6df96767a2a265f71e"
+      "sourceHash": "a135e3f7d4a7c936ef8e45338e075ef404abc40f65904188cae4712a35edb21e"
     },
     {
       "path": [
@@ -1333,7 +1333,7 @@
         "hero",
         "accentText"
       ],
-      "sourceHash": "449ebf79ed6ff67eabfbf5385823d36a266f5e12c478295df47de53a946abe5b"
+      "sourceHash": "4f22353e638b9140db4d6992a8ec14c576b1e8448edf9aa0989f786438fbc61e"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "37b2327995e6edce6d32694c3492d2ec784664503793626292abdc57bd4ceef6"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1351,7 +1351,7 @@
         "hero",
         "primaryCtaLabel"
       ],
-      "sourceHash": "95f4ffdfd6c14c8fdfbac06eb9c47c3b10b5b8e661ee4f64e069080a3870b9ec"
+      "sourceHash": "de5bdb82ba5896423e322f8863b253df0ba529e0f2cad6d850e79f542b393178"
     },
     {
       "path": [
@@ -1369,7 +1369,7 @@
         "hero",
         "characterAlt"
       ],
-      "sourceHash": "20d4f29421f4dfec99b74f725ddaf22c4b4f6842c78ae8f930c6b89c939422c4"
+      "sourceHash": "dce142c74c8be251caba4b6af1fae021645f5b0a7fa32537fad9a511355a07d9"
     },
     {
       "path": [
@@ -1379,7 +1379,7 @@
         "chat",
         "statusLabel"
       ],
-      "sourceHash": "c75d388ff284a195c488b5216827cbf5aeb5a7aca6ce0218813ab3234abbb399"
+      "sourceHash": "ebb487c4b0c344fae75eff1b0ea8a14f50e6c4d23c556b7e91dd1313ddb75433"
     },
     {
       "path": [
@@ -1389,7 +1389,7 @@
         "chat",
         "operatorBadge"
       ],
-      "sourceHash": "d1ed1a7ddcb069d5aab82036b1fdc4c8fa33f0dd59f6577530c3507a243fe9c1"
+      "sourceHash": "9a142ae4d2220ecab0bd3f27c2c9558f9c3efb84cf4afebc6ea05e2bc75a0c03"
     },
     {
       "path": [
@@ -1399,7 +1399,7 @@
         "chat",
         "openingMessage"
       ],
-      "sourceHash": "375c7b09811972b06032e2d6ce5eff922e2d467329c869517d9960ee1d29acd2"
+      "sourceHash": "148429bbfa20ab6dee3e141a0638421f1f34614f98c46490acd96e1395399268"
     },
     {
       "path": [
@@ -1409,7 +1409,7 @@
         "chat",
         "inputPlaceholder"
       ],
-      "sourceHash": "2ebdc20cd445d7b6b1120a255b202e6af0eb1d6e546b26b0f58709b2e0d3a25d"
+      "sourceHash": "3b5c8ce3b0f42d6c64059867bcf7aa45642281783e57a4eb4e447d4da7e780c9"
     },
     {
       "path": [
@@ -1420,7 +1420,7 @@
         "suggestedPrompts",
         0
       ],
-      "sourceHash": "26ca45f9ea19023f7334da85224465bdbe43da23fb4ca02aa2727542149f7357"
+      "sourceHash": "b32e6b2c6dd1ab100a04ba58b20097260d3161b3702fae5876f89f2f9f25463f"
     },
     {
       "path": [
@@ -1431,7 +1431,7 @@
         "suggestedPrompts",
         1
       ],
-      "sourceHash": "1d5ed26d7a55bc27adb7ca11a6f7ded383f0e6f68da76b896ea4ff9664ba1fc4"
+      "sourceHash": "cd10c3685870fd7b7a919bb510ab4cd94852fd32258ab513d0e3a53f51533954"
     },
     {
       "path": [
@@ -1442,7 +1442,7 @@
         "suggestedPrompts",
         2
       ],
-      "sourceHash": "1713984e90f76e7cb75953bd408f19f372724abcfc8b69122b9c560edb7f15dd"
+      "sourceHash": "f44278fd2911d446e43d9ff365ce69b3aa457b1e22e9309d5f25154f5ea54fa4"
     },
     {
       "path": [
@@ -1807,7 +1807,7 @@
         "about",
         "kicker"
       ],
-      "sourceHash": "4b8e481ab1d8d43322d33969e1f955718018c56e614dce639cf9efe926f50abe"
+      "sourceHash": "63cb8644c05a1647e0dfa5a7cf72d296aacfd9fb46d78fbb67314eb77ed5eedb"
     },
     {
       "path": [
@@ -1816,7 +1816,7 @@
         "about",
         "heading"
       ],
-      "sourceHash": "a3ea452fa7212eddfbf490fc50df25a5bf3204f05c31c72b18022a2c238f6788"
+      "sourceHash": "ce527dfd5f670d18a62650e1fd7b962cb23effee93d89fff8c4245b7776e4a49"
     },
     {
       "path": [
@@ -1825,7 +1825,7 @@
         "about",
         "body"
       ],
-      "sourceHash": "73225178f28f1cd773997e280e15af78ff6718bcccdccf0c361a85580b5b7d8b"
+      "sourceHash": "fb81fb04c2e20f2a3cfde55fe40d2fdb297b32fb30b2a03207ba5ccfbed232c9"
     },
     {
       "path": [
@@ -1902,7 +1902,7 @@
         0,
         "title"
       ],
-      "sourceHash": "64d0b3f4d2245403e428a088bea36257051b377c2a834e6a487ca9b6868c879e"
+      "sourceHash": "b9acd6683c8f4d7ab830d2c81ff702c34c1ddfc5c77d7c4cbf968e1ca1ea637c"
     },
     {
       "path": [
@@ -1913,7 +1913,7 @@
         0,
         "body"
       ],
-      "sourceHash": "1e762ba22a6b57f8a311de18f419023613bdc43821b75fbcc45f8ecbb82cb1b5"
+      "sourceHash": "38091fe466298d0352dfffe5a961aed04bf84a9dda91ab9b5d3092cfc47487e4"
     },
     {
       "path": [
@@ -1924,7 +1924,7 @@
         1,
         "title"
       ],
-      "sourceHash": "ab97eb3187f030f25c311c0210af861ee2f73452b78dede8df75796207214b07"
+      "sourceHash": "2c3d914e997902599abed15488259e233ebdef7610157fbd5ea28e227225d0fc"
     },
     {
       "path": [
@@ -1935,7 +1935,7 @@
         1,
         "body"
       ],
-      "sourceHash": "ee24fad859c9306c233ec4819da693b365923ec537b944f84b464fac81e9b679"
+      "sourceHash": "f8f317c4bd20b0b0a25f87d6ee41ac5ff9bd4f7784036ccc9c6a5d87b4bd8ff3"
     },
     {
       "path": [
@@ -1946,7 +1946,7 @@
         2,
         "title"
       ],
-      "sourceHash": "dac03e92abae8587b42b169d4b068265b654893fcd440c217d44185502a74893"
+      "sourceHash": "4c2fc7967488fcf176377d1b5407bb081c6d47a89b8beeb1b10cd3dee59bdf5e"
     },
     {
       "path": [
@@ -1957,7 +1957,7 @@
         2,
         "body"
       ],
-      "sourceHash": "67a666e5bdaa6ecb0431db245bb8ed30c4ecdd8c483af9bfb4cae03091d84a44"
+      "sourceHash": "08a990696b6d6d1a1d6a0e87640c7c2acdd66cfc45cc0022b0b34c134a684c43"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "f954fe4e0fc9334e1f589c29d48e28a12bdfe5b2c3b5c3e91caf7a895e5a3000"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -1975,7 +1975,7 @@
         "process",
         "kicker"
       ],
-      "sourceHash": "3b054d1282a1e70550e4d43046d15062031faaf8f5f541d3d612dc49b479b08e"
+      "sourceHash": "1a21293ff4921f11603454253063caff6707050dc50b070bd51d785910b652b6"
     },
     {
       "path": [
@@ -1984,7 +1984,7 @@
         "process",
         "heading"
       ],
-      "sourceHash": "7cd9c587bc8caae41e9813069240b6f51c079acad04c2b3ed31f04d76b91481d"
+      "sourceHash": "b9895ae3ef5fef621028f94d4592738ba8f9315dff711d9c5bf80ccbfaa3c53c"
     },
     {
       "path": [
@@ -1993,7 +1993,7 @@
         "process",
         "body"
       ],
-      "sourceHash": "4e7ac0397a55663c04aab384fdd76a6e4c6e81cc800eb2c3b0335e614a39fd04"
+      "sourceHash": "5db39ac9e571e5bd0e7e7d2ba86146db2c70f066fdb2d1637fd03e86732a64da"
     },
     {
       "path": [
@@ -2004,7 +2004,7 @@
         0,
         "title"
       ],
-      "sourceHash": "717df15b37447af15cbcc04e2be3d81b39c0226c68a10b27d4f6db1f155c46a2"
+      "sourceHash": "bd3e533f4347e1a0cb63009b383bc406eca2978adb44cc976e0df5daba4ed03f"
     },
     {
       "path": [
@@ -2015,7 +2015,7 @@
         0,
         "body"
       ],
-      "sourceHash": "c334e3c4d23660751c4b640e922b37e012695d2875836674be3030ebc753fc85"
+      "sourceHash": "bc2fb154a387698524901d9a591a7ad3b0c59400fe229cb6288df074825435a5"
     },
     {
       "path": [
@@ -2026,7 +2026,7 @@
         1,
         "title"
       ],
-      "sourceHash": "0f1a0bf088f27379aee8fc5205119a63d8c2650bbab27971207ce58d519e481a"
+      "sourceHash": "daa31d045db241a6311bd84c25b5119e59e604845fcf42b0a82fb64c8cb0b19e"
     },
     {
       "path": [
@@ -2037,7 +2037,7 @@
         1,
         "body"
       ],
-      "sourceHash": "7437342f937f890408609f8a237c75d56e419213dca1ed1819f8f8fb89d99b6e"
+      "sourceHash": "24f27f2372538c0a50eeb5c6b152ca82cd5b3a75b9338c876e5bce475eeaa4ed"
     },
     {
       "path": [
@@ -2048,7 +2048,7 @@
         2,
         "title"
       ],
-      "sourceHash": "a2e88372f98cb14321eb372ba3d1f342f054bb569a28ca1e50fc0625af640c3f"
+      "sourceHash": "8f61452091aa715f27dfabe89d58e9fd6e99264090ffcf53815061bfe903a55e"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "cdbd910208728b07c0f11d513d6e15e00b44a9d6c9502e109f9534274b3eae4d"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2070,7 +2070,7 @@
         3,
         "title"
       ],
-      "sourceHash": "b8a93bb76e6f665a335c4a9bb4339b9d32f7f1395896cffbc5fb93acf9b70cf1"
+      "sourceHash": "3c1be86f611ccba17429cb297bae03bfa97a6dba7263e383f4682624f2905e83"
     },
     {
       "path": [
@@ -2081,7 +2081,7 @@
         3,
         "body"
       ],
-      "sourceHash": "d2b208427dff91f560e31600ec65668324fcd0d0a278e2ca6821bb7a9eb48d6a"
+      "sourceHash": "b2ad6396f075dd26023d03c5b5b9b98caea091ee300e0bbcb7a35c225ec97098"
     },
     {
       "path": [
@@ -2090,7 +2090,7 @@
         "pairing",
         "kicker"
       ],
-      "sourceHash": "88fff25471ced6882e5efc88e04c965f57d2f8e3f4698bc5b1c4ba8c898d387b"
+      "sourceHash": "90a792839a7a5699cadec53a84526e39776dd8c97d784176210ee0d3ed3c3005"
     },
     {
       "path": [
@@ -2099,7 +2099,7 @@
         "pairing",
         "heading"
       ],
-      "sourceHash": "12bd696ee4ad1199b2b1ff9040a002b3de062e675162c51f170a73f7f5eec9ee"
+      "sourceHash": "a32cfe5840ffc543846862b72cf556f36d68b12975e0a681eb653d2455c74ea3"
     },
     {
       "path": [
@@ -2108,7 +2108,7 @@
         "pairing",
         "body"
       ],
-      "sourceHash": "e6f3fa0798ad758d1ab92c2cf75bec15d762e9df6b0375af6773615452f5b0fa"
+      "sourceHash": "a34bb14b0d7d3d7183e4afdc5b171f7ec69575e31db6e3afc1c5c536f145d9f5"
     },
     {
       "path": [
@@ -2149,7 +2149,7 @@
         "criteria",
         0
       ],
-      "sourceHash": "cce6ff7bee23795905013fef9f927a2d161dccd499b082a3d3088e0cb04fe489"
+      "sourceHash": "c085f4b2d9a81792132668890d4726e078152294a1f3918a3bf20637d541929e"
     },
     {
       "path": [
@@ -2159,7 +2159,7 @@
         "criteria",
         1
       ],
-      "sourceHash": "b959ab3ebc742c157d5ceb88e29e94a813a8eb9d5caefb630e89d538760ddd85"
+      "sourceHash": "72852269c186a8d288e3adf7064f44d20fd0b138670b856fe331913d1c16f6b5"
     },
     {
       "path": [
@@ -2169,7 +2169,7 @@
         "criteria",
         2
       ],
-      "sourceHash": "78ca515d50d325ddd5956e1f8f2c6e413db0d33e88ddf6958c5322ffdbf24602"
+      "sourceHash": "1f3b6b75a4bf406e57e1a42ae18217c5e443e0b2936831b50de3f12779e65a6d"
     },
     {
       "path": [
@@ -2178,7 +2178,7 @@
         "pairing",
         "statusHeading"
       ],
-      "sourceHash": "faeac1a90668493ee490bf6d765833ba39a8ee61ba09f40d0a4101d2eed4dce3"
+      "sourceHash": "a8389f7a4521512de182a1de7bd01307f3d12d0f990b76cc690f3797023ffa7a"
     },
     {
       "path": [
@@ -2187,7 +2187,7 @@
         "pairing",
         "statusBody"
       ],
-      "sourceHash": "9115787dbc4d0f434f4aaa30160109e8236b12537d2472889c779de3344a2522"
+      "sourceHash": "0a3ee5918d6c4cc34ed9754164ce15e388cb352816377d1c54384564579df3af"
     },
     {
       "path": [
@@ -2198,7 +2198,7 @@
         0,
         "track"
       ],
-      "sourceHash": "cc77e6bcdd9fee32c3153a788f8930fbe7087f6482620e1ad83690965df45aeb"
+      "sourceHash": "1f31a9536fab7ebe74160b0f116393db686d851772372e2e4b5915e4afa1cfc0"
     },
     {
       "path": [
@@ -2209,7 +2209,7 @@
         0,
         "location"
       ],
-      "sourceHash": "4a73a26339fa31f56f91961cdfa9e46dc545b0b20223ebf297c05af2791cd665"
+      "sourceHash": "86f649d93bb7e88f713bd810f591ff5523e1f351fccd6cb82c1933a7b46b4dcb"
     },
     {
       "path": [
@@ -2220,7 +2220,7 @@
         0,
         "note"
       ],
-      "sourceHash": "3d9ec0f9fca2b47d0d427d7fd270bc6dec32a6fc12f13c8107b5709dc73e4bde"
+      "sourceHash": "cf53cc602d3d505d3019a8db719a1aed6ce4b25b162ef05389bc77c708d6466c"
     },
     {
       "path": [
@@ -2231,7 +2231,7 @@
         1,
         "track"
       ],
-      "sourceHash": "8aac67af55ad1e56188bf3c02cfad6d1a8420b1ac0380396d26bef2f72451d50"
+      "sourceHash": "4c88ff3caa1e9c285bf4be49019ca4679b3f436ae3f8f049a4f46e40eb2b6a98"
     },
     {
       "path": [
@@ -2242,7 +2242,7 @@
         1,
         "location"
       ],
-      "sourceHash": "4a73a26339fa31f56f91961cdfa9e46dc545b0b20223ebf297c05af2791cd665"
+      "sourceHash": "069650f46f891d6f24b354c0dfbae568317876b4aaa8544520b6103a03dd0a9c"
     },
     {
       "path": [
@@ -2253,7 +2253,7 @@
         1,
         "note"
       ],
-      "sourceHash": "269f288d4e641b2b36c066262ef70d2078ad7081282779342f651006bb71ab7d"
+      "sourceHash": "90d6d4a0e25e756be2321a2a2af1363098a76adf510f584f95898831d667a07e"
     },
     {
       "path": [
@@ -2264,7 +2264,7 @@
         2,
         "track"
       ],
-      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
+      "sourceHash": "4df074367d0fd45c7a7ff01b6ff88f98f09ef4332e33d81894e9be3f18e3f52a"
     },
     {
       "path": [
@@ -2275,7 +2275,7 @@
         2,
         "location"
       ],
-      "sourceHash": "ae3dd8ba9f4eb5ca16354633c44fdd84c76a3bbd053d4438bb2291053c3d4ff6"
+      "sourceHash": "186fa480891620c5db758c296e618f9a4fa66354327f9b3bd5910f6afdfbc066"
     },
     {
       "path": [
@@ -2286,7 +2286,7 @@
         2,
         "note"
       ],
-      "sourceHash": "851f5c57c453b01e925ce4ce41979813c5157dd1215b1248920bc7a763caa36c"
+      "sourceHash": "40cb0ed107b8c8b200f7aa67f4e6a1956e905ae07a2f48b0140f302cd91b2c0f"
     },
     {
       "path": [
@@ -2304,7 +2304,7 @@
         "faq",
         "heading"
       ],
-      "sourceHash": "f97636fecfa0da289459a1973fc32b23ed93f7d2d028d05a2740183b95b2bf07"
+      "sourceHash": "862598aebdb2d1ceee985aef731815c7825d83ec71ddf0bf705e69b22ec98351"
     },
     {
       "path": [
@@ -2337,7 +2337,7 @@
         1,
         "question"
       ],
-      "sourceHash": "7b0449a1ee9ad1124a6d0ea1c8d02eac3db185b36335ea48813713d3d813cdc8"
+      "sourceHash": "4674af6b397e9596fa203037578529b271921b3eaac4715db069ae14994d1b1d"
     },
     {
       "path": [
@@ -2348,7 +2348,7 @@
         1,
         "answer"
       ],
-      "sourceHash": "67e885ace79999cb27ef0e340fccd0d5acea76c7eeff1ae58ffe0a46593b9ce4"
+      "sourceHash": "5df5848207162801b60e82d89c5bb30adceeb501bc5d4b55df3cf2011a89d32b"
     },
     {
       "path": [
@@ -2359,7 +2359,7 @@
         2,
         "question"
       ],
-      "sourceHash": "cd4c7d08891f61738d16c565075ad73d7b39f50dbde3048aafc613e8cab7245b"
+      "sourceHash": "ad23548aa4f15de380adcb32f47ccdeb97942707df1ce2eef448155eb965616f"
     },
     {
       "path": [
@@ -2370,7 +2370,7 @@
         2,
         "answer"
       ],
-      "sourceHash": "36cb10425d3572745261c1540d7e396aaad4d29171276ed935343101351fc718"
+      "sourceHash": "7eeca6ff4276c1e1d4f79d1a6d8ee9c6f6826cf347e1327e6367ebfb39e43dd1"
     },
     {
       "path": [
@@ -2381,7 +2381,7 @@
         3,
         "question"
       ],
-      "sourceHash": "8d65d8f0c0ea86a55cd5f520465462b878493120ff5c9d20199a3f154b6aea63"
+      "sourceHash": "af18b3f7dab785c93d05ea6ae21ef54709a6798dad9eb0f8fa9536567e9242b3"
     },
     {
       "path": [
@@ -2392,7 +2392,7 @@
         3,
         "answer"
       ],
-      "sourceHash": "f856930f12bee6feeac906490f29e4ae9f66c6637daf4f515d33200a46b615a0"
+      "sourceHash": "b61ae3edc817be786f77c8577ea64f29f2a8bb230675ed185cb9da37214ab4be"
     },
     {
       "path": [
@@ -2403,7 +2403,7 @@
         4,
         "question"
       ],
-      "sourceHash": "b8ba5a361af8959412180a14a578e48d80ef18504a593b7103e6b571d24e5ecc"
+      "sourceHash": "dc937a281e11843925a8ed00e497190e415ab705fc9a8028d80a7f08bc7c47e4"
     },
     {
       "path": [
@@ -2414,7 +2414,7 @@
         4,
         "answer"
       ],
-      "sourceHash": "581aa9c41ba31542d4ab1aed4fd424916ddef5d016af592451b417075d109e38"
+      "sourceHash": "9d60aa417efb750be4f2f2eaca0eb00aa0911fe7c386f0e152c22c60283dc88f"
     },
     {
       "path": [
@@ -2425,7 +2425,7 @@
         5,
         "question"
       ],
-      "sourceHash": "cc6df61ccfe3c76d15c5f5fd89d873a3fa6d6e30511612c987d9e89c3c56c23d"
+      "sourceHash": "72413f1a7aaed1ff703877886646ddd15dee0c840afb2ab295a42ff1035c046b"
     },
     {
       "path": [
@@ -2436,7 +2436,7 @@
         5,
         "answer"
       ],
-      "sourceHash": "cfa62e3b4c329b017fcd535f846028d94224dc3d18050a5deba3ff7c9ea4c391"
+      "sourceHash": "5851f5d2dd6553e4c2c3ba35628a243aa576279bd66b6c818bf77b0344d8ea38"
     },
     {
       "path": [
@@ -2535,7 +2535,7 @@
         "closing",
         "heading"
       ],
-      "sourceHash": "970fec56e77eca4517c13bac5269b864c3936912f9ed05c68cf41a61a51fa345"
+      "sourceHash": "75bf9418cc2d4186994bdb954418a0ecffbab263f5d3b0b4fb56a14604b07277"
     },
     {
       "path": [
@@ -2544,7 +2544,7 @@
         "closing",
         "body"
       ],
-      "sourceHash": "b0fa41496e8cbba3228b396dd94c9a4fb19975e2e3e8fccbdbb8df33b3764e32"
+      "sourceHash": "5a057f4ab3f1f944e44d8ad768198c2c944a91e6173638b398ddf0de9a0a0192"
     },
     {
       "path": [
@@ -2553,7 +2553,7 @@
         "closing",
         "ctaLabel"
       ],
-      "sourceHash": "95f4ffdfd6c14c8fdfbac06eb9c47c3b10b5b8e661ee4f64e069080a3870b9ec"
+      "sourceHash": "de5bdb82ba5896423e322f8863b253df0ba529e0f2cad6d850e79f542b393178"
     },
     {
       "path": [
@@ -2562,7 +2562,7 @@
         "closing",
         "note"
       ],
-      "sourceHash": "f9f34731811411aea7a4fee2553d680ae8966434fd63aacf3c19c11824e5b348"
+      "sourceHash": "1b5be627d8dd6a039fe7cfae7f82679b19cd2290be62923e03c250734245aa88"
     },
     {
       "path": [
@@ -2571,7 +2571,7 @@
         "closing",
         "characterAlt"
       ],
-      "sourceHash": "1c7f862dd58c3b3b811bf25ab04eb0cffd4a4d5e6fadebe1dfb7f1fe5d521a2b"
+      "sourceHash": "975922a537c945ebe0c29a31885f8eb181570e043508803477c04bd0c4d36e7b"
     },
     {
       "path": [
@@ -2589,7 +2589,7 @@
         "footer",
         "disclaimer"
       ],
-      "sourceHash": "24a24e431346a8f9e858bc5d4c95789a2892becdace3095003259d8f839aec88"
+      "sourceHash": "19e3e4486e1ed03fec204a18f10b71464ecebb72c7e2f0c356b2f377b06de78b"
     },
     {
       "path": [
@@ -4382,28 +4382,9 @@
         "landingPage",
         "roiCalculator",
         "businessImpact",
-        "costMode"
-      ],
-      "sourceHash": "0257609b2e009aa6c788941fbcaeee13877465889a94aaf0444c7d4159ee616c"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
         "reviewMode"
       ],
       "sourceHash": "ca8b22d0db83a22db163b560b3e4e51527e533d31d067b614a0c33c4d2df8432"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "selected",
-        0
-      ],
-      "sourceHash": "c8333158bd18b91a71842cfd38c2d6ddab471bda158b19286d96d4a4ed973ac4"
     },
     {
       "path": [
@@ -4465,54 +4446,6 @@
         "roiCalculator",
         "businessImpact",
         "tabs",
-        0,
-        "fields",
-        0
-      ],
-      "sourceHash": "62d7a6b1211d627650e2bf0c869b69b564e2cd74290ae1dd78ae4b5e20b0cfe7"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        0,
-        "fields",
-        1
-      ],
-      "sourceHash": "90e63d85fa1ab2c8ed65222f3ebd794b1e524b4b7cf84bec451542d0451b2985"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        0,
-        "fields",
-        2
-      ],
-      "sourceHash": "6d65ed5c750019a199c61a33ea9202fb727c05e257560f38f014e6b1520e50ed"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        0,
-        "fields",
-        3
-      ],
-      "sourceHash": "c97ace4c8fef2cee8fa0f3c9f52aab18dbd4f42438afe362ffb8f75ce4c04b84"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
         1,
         "label"
       ],
@@ -4528,42 +4461,6 @@
         "intro"
       ],
       "sourceHash": "3b504eadeae05d50c2a66f2bbbfcc2e7f1027b268a97026325d7837454f1feca"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        1,
-        "fields",
-        0
-      ],
-      "sourceHash": "252b07fa1db64f9ca920817ce39dec8523f46fca171a3dfd2721f7406ad524b3"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        1,
-        "fields",
-        1
-      ],
-      "sourceHash": "ddb2485b111f5d7373d804bdb4010b2590b72ba7b899fd5e11c4e0d5e00fb524"
-    },
-    {
-      "path": [
-        "landingPage",
-        "roiCalculator",
-        "businessImpact",
-        "tabs",
-        1,
-        "fields",
-        2
-      ],
-      "sourceHash": "d36f8ed71fe4f06ad33653f5b2a02efb6b90532b03694d27b25f01211ee64df5"
     },
     {
       "path": [
@@ -4615,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-11T04:24:57.463Z"
+  "generatedAt": "2026-09-23T00:47:16.277Z"
 }
