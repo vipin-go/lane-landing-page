@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "ca",
   "regionKey": null,
-  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
   "landingPage": {
     "headline": "Trobeu patrons de connexió provats, després persones i empreses que s'ajustin a ells.",
     "subheadline": "Lane analitza una font pública, troba entitats comparables, verifica les seves relacions i ajuda els fundadors i inversors a descobrir connexions recolzades per evidències.",
@@ -63,7 +63,7 @@
       "header": {
         "brandLabel": "Lane.",
         "brandTagline": "Descobriment avalat per evidències",
-        "editionLabel": "Startups",
+        "editionLabel": "Founders",
         "secondaryEditionLabel": "Inversors",
         "navItems": [
           {
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "Encaix empresarial",
-          "label": "Startups ↔ startups",
-          "pairing": "Inici × Inici BD",
-          "body": "Cada startup comparteix el que ofereix, els sectors o els tipus d'empresa que vol conèixer i com sembla un ajust comercial útil.",
+          "label": "Founders ↔ startup partners",
+          "pairing": "Founder × Startup partner",
+          "body": "Founders share what their startup offers, the complementary capabilities they need, and what a useful partnership could create.",
           "sides": [
             "Oferta d'inici",
             "Buscant startups"
@@ -149,7 +149,7 @@
         "eyebrow": "Recerca dirigida per la competència per a fundadors",
         "heading": "Converteix l'URL d'una empresa en connexions recolzades per proves.",
         "accentText": "Converteix l'URL d'una empresa en connexions recolzades per proves.",
-        "body": "Trieu si necessiteu un cofundador, inversors o clients inicials. Lane analitza la vostra font pública, mostra empreses comparables citades i utilitza només els competidors que seleccioneu per descobrir candidats rellevants.",
+        "body": "Choose whether you need a co-founder, investors, or startup partners. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
         "primaryCtaLabel": "Cerca connexions",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Operadors de startups discutint una col·laboració empresarial",
-            "label": "Startups ↔ startups"
+            "label": "Founders ↔ startup partners"
           }
         ],
         "principles": [
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "Per a fundadors i inversors que investiguen cofundadors, capital, clients, LP, startups, co-inversors o companys. Les relacions no compatibles segueixen sent desconegudes."
+        "scopeNote": "For founders and investors researching co-founders, capital, startup partnerships, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
       },
       "process": {
         "kicker": "Com funciona la investigació",
@@ -319,7 +319,7 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Verificar les relacions provades",
-            "body": "Lane investiga els fundadors, inversors, clients, carteres, rondes, patrocinadors o associacions rellevants per al vostre objectiu."
+            "body": "Lane researches the founders, investors, startup partnerships, portfolios, rounds, backers, or peer relationships relevant to your goal."
           },
           {
             "number": "04",
@@ -383,7 +383,7 @@
         "items": [
           {
             "question": "Lane és només per a fundadors que busquen inversors?",
-            "answer": "No. El servei és deliberadament bidireccional: els inversors utilitzen Lane per trobar fundadors, els fundadors utilitzen Lane per trobar inversors, els possibles cofundadors es troben entre ells i les startups troben una altra startup amb un client plausible o una col·laboració."
+            "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and founders find startups with a credible partnership fit."
           },
           {
             "question": "Lane cerca el seu grup privat de participants?",
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
+      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
+      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
+      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
+      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
+      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
+      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
+      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-23T00:47:16.277Z"
+  "generatedAt": "2026-09-24T21:58:20.063Z"
 }

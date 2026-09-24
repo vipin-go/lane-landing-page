@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "fr",
   "regionKey": null,
-  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
   "landingPage": {
     "headline": "Trouvez des modèles de connexion éprouvés, puis les personnes et les entreprises qui leur correspondent.",
     "subheadline": "Lane analyse une source publique, trouve des entités comparables, vérifie leurs relations et aide les fondateurs et les investisseurs à découvrir des liens étayés par des preuves.",
@@ -63,7 +63,7 @@
       "header": {
         "brandLabel": "voie.",
         "brandTagline": "Découverte fondée sur des preuves",
-        "editionLabel": "startups",
+        "editionLabel": "Fondateurs",
         "secondaryEditionLabel": "Investisseurs",
         "navItems": [
           {
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "Ajustement commercial",
-          "label": "Démarrages ↔ Démarrages",
-          "pairing": "Démarrage × Démarrage BD",
-          "body": "Chaque startup partage ce qu'elle propose, les secteurs ou les types d'entreprises qu'elle souhaite rencontrer et à quoi ressemble un ajustement commercial utile.",
+          "label": "Fondateurs ↔ partenaires de startups",
+          "pairing": "Fondateur × partenaire de startup",
+          "body": "Les fondateurs présentent ce que propose leur startup, les capacités complémentaires dont ils ont besoin et ce qu’un partenariat utile pourrait créer.",
           "sides": [
             "Offre de démarrage",
             "Recherche de startups"
@@ -149,7 +149,7 @@
         "eyebrow": "Recherche dirigée par les concurrents pour les fondateurs",
         "heading": "Transformez l’URL d’une entreprise en connexions fondées sur des preuves.",
         "accentText": "Transformez l’URL d’une entreprise en connexions fondées sur des preuves.",
-        "body": "Choisissez si vous avez besoin d'un co-fondateur, d'investisseurs ou de clients startups. Lane analyse votre source publique, affiche les entreprises comparables citées et utilise uniquement les concurrents que vous sélectionnez pour découvrir les candidats pertinents.",
+        "body": "Choisissez si vous avez besoin d’un cofondateur, d’investisseurs ou de partenaires de startups. Lane analyse votre source publique, présente des entreprises comparables citées et utilise uniquement les concurrents que vous sélectionnez pour découvrir des candidats pertinents.",
         "primaryCtaLabel": "Trouver des connexions",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Opérateurs de startups discutant d'une collaboration commerciale",
-            "label": "Démarrages ↔ Démarrages"
+            "label": "Fondateurs ↔ partenaires de startups"
           }
         ],
         "principles": [
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "Pour les fondateurs et les investisseurs recherchant des co-fondateurs, des capitaux, des clients, des LP, des startups, des co-investisseurs ou des pairs. Les relations non prises en charge restent inconnues."
+        "scopeNote": "Pour les fondateurs et les investisseurs qui recherchent des cofondateurs, des capitaux, des partenariats avec des startups, des LP, des startups, des co-investisseurs ou des pairs. Les relations non étayées restent inconnues."
       },
       "process": {
         "kicker": "Comment fonctionne la recherche",
@@ -319,7 +319,7 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Vérifier les relations prouvées",
-            "body": "Lane recherche les fondateurs, les investisseurs, les clients, les portefeuilles, les rondes, les bailleurs de fonds ou les partenariats pertinents pour votre objectif."
+            "body": "Lane étudie les fondateurs, les investisseurs, les partenariats avec des startups, les portefeuilles, les tours de table, les bailleurs de fonds ou les relations entre pairs pertinents pour votre objectif."
           },
           {
             "number": "04",
@@ -383,7 +383,7 @@
         "items": [
           {
             "question": "Lane est-il réservé aux fondateurs à la recherche d'investisseurs ?",
-            "answer": "Non. Le service est délibérément bilatéral : les investisseurs utilisent Lane pour trouver des fondateurs, les fondateurs utilisent Lane pour trouver des investisseurs, des co-fondateurs potentiels se trouvent et des startups trouvent une autre startup avec un client ou une collaboration plausible."
+            "answer": "Non. Le service est volontairement bilatéral : les investisseurs utilisent Lane pour trouver des fondateurs, les fondateurs utilisent Lane pour trouver des investisseurs, les cofondateurs potentiels se rencontrent et les fondateurs trouvent des startups présentant un potentiel de partenariat crédible."
           },
           {
             "question": "Lane effectue-t-il des recherches dans son pool privé de participants ?",
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
+      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
+      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
+      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
+      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
+      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
+      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
+      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
+      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-23T00:47:16.277Z"
+  "generatedAt": "2026-09-24T21:58:20.063Z"
 }
