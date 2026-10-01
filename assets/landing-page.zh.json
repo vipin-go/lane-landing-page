@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "language": "zh",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
     "headline": "找到经过验证的联系模式，然后找到适合它们的人和公司。",
-    "subheadline": "莱恩分析一个公共来源，找到可比较的实体，验证它们的关系，并帮助创始人和投资者发现有证据支持的联系。",
-    "ctaLabel": "与莱恩聊天",
+    "subheadline": "Lane 分析一个公共来源，找到可比较的实体，验证它们的关系，并帮助创始人和投资者发现有证据支持的联系。",
+    "ctaLabel": "与 Lane 聊天",
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "莱恩。",
+        "brandLabel": "Lane。",
         "brandTagline": "有证据支持的发现",
-        "editionLabel": "Founders",
+        "editionLabel": "初创公司",
         "secondaryEditionLabel": "投资者",
         "navItems": [
           {
@@ -83,7 +83,7 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "遇见莱恩"
+        "ctaLabel": "联系 Lane"
       },
       "event": {
         "name": "HumanX 阿姆斯特丹",
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "商务适合",
-          "label": "Founders ↔ startup partners",
-          "pairing": "Founder × Startup partner",
-          "body": "Founders share what their startup offers, the complementary capabilities they need, and what a useful partnership could create.",
+          "label": "初创公司 ↔ 初创公司",
+          "pairing": "创业 × 创业 BD",
+          "body": "每家初创公司都会分享其提供的产品、其想要满足的行业或公司类型，以及有用的商业契合度。",
           "sides": [
             "初创公司产品",
             "寻求创业"
@@ -139,7 +139,7 @@
           "eyebrow": "竞争对手主导的投资者研究",
           "heading": "从您认识的基金或投资者开始。发现围绕证据的网络。",
           "accentText": "从您认识的基金或投资者开始。",
-          "body": "选择您是否需要有限合伙人和家族办公室、论文一致的初创公司、回合联合投资者或同行投资者。莱恩分析了一个公共来源，显示了引用的可比实体，并仅研究您选择的竞争对手。",
+          "body": "选择您是否需要有限合伙人和家族办公室、论文一致的初创公司、回合联合投资者或同行投资者。 Lane 分析一个公共来源，显示引用的可比实体，并仅研究您选择的竞争对手。",
           "primaryCtaLabel": "作为投资者进行研究",
           "secondaryCtaLabel": "See how it works",
           "suggestedPrompt": "我想找到与论文相符的初创公司。"
@@ -149,7 +149,7 @@
         "eyebrow": "竞争对手主导的创始人研究",
         "heading": "将一个公司 URL 转变为有证据支持的联系。",
         "accentText": "有证据支持的联系。",
-        "body": "Choose whether you need a co-founder, investors, or startup partners. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
+        "body": "选择您是否需要联合创始人、投资者或初创客户。 Lane 分析您的公共资源，显示引用的可比公司，并仅使用您选择的竞争对手来发现相关候选人。",
         "primaryCtaLabel": "寻找联系",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -157,7 +157,7 @@
         "chat": {
           "statusLabel": "在线·研究就绪",
           "operatorBadge": "公开证据",
-          "openingMessage": "嗨，我是莱恩。给我一个公共来源，我将追踪可比较的实体、经过验证的关系和相似的联系。",
+          "openingMessage": "你好，我是 Lane。给我一个公共来源，我将追踪可比较的实体、经过验证的关系和相似的联系。",
           "inputPlaceholder": "开始有证据支持的研究……",
           "suggestedPrompts": [
             "竞争对手主导的研究如何运作？",
@@ -246,13 +246,13 @@
           "loginNotice": "登录并将此私人介绍简介提交给 Lane 供人工审核。",
           "expiryCopy": "未提交的简报将在一小时后过期。",
           "privacyCopy": "匿名时不会有参与者搜索或联系披露。",
-          "errorCopy": "莱恩无法保存这份简报。请重试或登录。"
+          "errorCopy": "Lane 无法保存此简报。请重试或登录。"
         }
       },
       "about": {
         "kicker": "可追溯的研究方法",
         "heading": "从已被证明的内容开始，然后发现类似的内容。",
-        "body": "莱恩在推荐候选人之前，会根据公共来源的发现、引用可比较的实体并验证关系证据。",
+        "body": "Lane 在公开来源中进行发现，引用可比较的实体，并在推荐候选人之前验证关系证据。",
         "images": [
           {
             "number": "01",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "初创运营商讨论业务合作",
-            "label": "Founders ↔ startup partners"
+            "label": "初创公司 ↔ 初创公司"
           }
         ],
         "principles": [
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "For founders and investors researching co-founders, capital, startup partnerships, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
+        "scopeNote": "适合创始人和投资者研究联合创始人、资本、客户、有限合伙人、初创企业、联合投资者或同行。不受支持的关系仍然未知。"
       },
       "process": {
         "kicker": "研究如何进行",
@@ -319,7 +319,7 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "验证已证实的关系",
-            "body": "Lane researches the founders, investors, startup partnerships, portfolios, rounds, backers, or peer relationships relevant to your goal."
+            "body": "Lane 研究与您的目标相关的创始人、投资者、客户、投资组合、回合、支持者或合作伙伴。"
           },
           {
             "number": "04",
@@ -344,7 +344,7 @@
             "alt": "初创运营商讨论潜在合作"
           }
         ],
-        "fitLabel": "莱恩的适合度",
+        "fitLabel": "Lane 的适合度",
         "criteria": [
           "公共来源是可审查的",
           "引用竞争对手的证据",
@@ -378,19 +378,19 @@
       },
       "faq": {
         "kicker": "好问题",
-        "heading": "在莱恩开始研究之前。",
+        "heading": "在 Lane 开始研究之前。",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
             "question": "Lane 只适合创始人寻找投资者吗？",
-            "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and founders find startups with a credible partnership fit."
+            "answer": "不。这项服务故意是双向的：投资者使用 Lane 寻找创始人，创始人使用 Lane 寻找投资者，潜在的联合创始人互相寻找，初创公司找到另一家拥有合理客户或合作契合度的初创公司。"
           },
           {
             "question": "Lane 是否会搜索其私人参与者池？",
             "answer": "不会。此旅程使用公共来源分析、引用可比实体、经过验证的关系证据和相似发现。它不会搜索 Lane 的参与者池。"
           },
           {
-            "question": "莱恩是否会公开私人联系方式？",
+            "question": "Lane 是否会暴露私人联系方式？",
             "answer": "不。Lane 仅存储公共身份和证据。绝不会推断或显示私人联系数据和不受支持的关系。"
           },
           {
@@ -409,7 +409,7 @@
       },
       "waitlist": {
         "kicker": "一次一个事件",
-        "heading": "希望莱恩参加您的活动吗？",
+        "heading": "想要在您的活动中拨打 Lane 吗？",
         "body": "Lane 从一个选定的会议转到下一个会议。加入未来活动等候名单，并告诉接线员哪些地方需要仔细介绍。",
         "nameLabel": "名称",
         "emailLabel": "电子邮件",
@@ -425,12 +425,12 @@
         "ctaLabel": "寻找联系",
         "note": "仅公开证据 · 无参与者池搜索 · 无外展 · 仅保存您选择的内容",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "莱恩拿着平板电脑平静地站着，准备研究联系"
+        "characterAlt": "Lane 拿着平板电脑平静地站着，准备研究联系"
       },
       "footer": {
-        "tagline": "加布里埃尔操作员的车道。",
-        "disclaimer": "莱恩是一个人工智能，可能会犯错误。请仔细检查回复和引用的公开证据。",
-        "copyright": "2026巷",
+        "tagline": "Lane，加布里埃尔接线员。",
+        "disclaimer": "Lane 是人工智能，可能会犯错误。请仔细检查回复和引用的公开证据。",
+        "copyright": "2026 Lane",
         "groups": [
           {
             "label": "探索",
@@ -450,7 +450,7 @@
             ]
           },
           {
-            "label": "巷",
+            "label": "Lane",
             "links": [
               {
                 "label": "常见问题解答",
@@ -474,23 +474,23 @@
       "enabled": true,
       "kicker": "Business impact",
       "heading": "ROI Calculator",
-      "subheading": "A typical event host: 16 researched matches. Lane prepares; a person still greets.",
-      "disclaimer": "A scenario built from typical introduction-research usage, not investment proceeds or successful fundraising. Mutual consent still happens with people.",
+      "subheading": "典型的赛事主持人：16 场研究比赛。 Lane 准备；依然是一个人打招呼。",
+      "disclaimer": "该场景是根据典型的介绍研究用途构建的，而不是投资收益或成功的筹款。人们之间仍然存在相互同意。",
       "currency": "EUR",
       "currencyCopy": {
         "native": "Amounts in {currency}.",
         "loading": "Checking the local currency. Amounts remain in {currency} until a rate is available.",
         "unavailable": "A current local exchange rate is unavailable. Amounts remain in {currency}.",
         "converted": "Amounts converted from {base} to {currency} using the reference rate dated {date}.",
-        "basis": "Currency conversion is not local cost research. Enter your own local costs and contribution assumptions. Language changes do not change amounts."
+        "basis": "货币换算不是本地成本研究。输入您自己的当地成本和贡献假设。语言的变化不会改变数量。"
       },
       "costCopy": {
-        "breakdown": "How the all-in AI cost is built",
+        "breakdown": "人工智能的总体成本是如何构建的",
         "perUnit": "{amount} per work unit (average)",
-        "budgetOnly": "This is your total budget. Switch to Cost breakdown to itemize it; no split has been assumed.",
-        "benefitNotice": "Modeled benefits, not charges. Crossed-out amounts are spending you expect to avoid, not discounts on the AI bill.",
+        "budgetOnly": "这是您的总预算。切换到成本细分以逐项列出；假设没有分裂。",
+        "benefitNotice": "建模福利，而不是收费。划掉的金额是您希望避免的支出，而不是人工智能账单上的折扣。",
         "remainder": "Other included operating costs",
-        "allocation": "Returned hours are capacity, not automatic savings. Only the portions you assign to actual spending reductions or additional contribution receive a monetary value."
+        "allocation": "返回的小时数是容量，而不是自动节省的时间。只有您分配给实际支出减少或额外捐款的部分才会获得货币价值。"
       },
       "locale": "en-GB",
       "inputs": [],
@@ -514,10 +514,10 @@
           "workloadStep": "Introduction briefs",
           "costStep": "Token usage",
           "valueStep": "Host time",
-          "workloadIntro": "Model introduction research and coordination—not investment proceeds or successful fundraising.",
-          "costIntro": "Typical token consumption and the platform fee are prefilled for an average user. Edit them if your usage differs.",
-          "valueIntro": "This is the modeled output and capacity for that typical usage. Edit the assumptions if they do not match your work.",
-          "sampleNotice": "Typical usage · not observed results",
+          "workloadIntro": "模型引入研究和协调——而不是投资收益或成功的筹款。",
+          "costIntro": "典型的代币消耗和平台费用是为普通用户预先填充的。如果您的用法不同，请编辑它们。",
+          "valueIntro": "这是针对该典型用途的模拟输出和容量。如果假设与您的工作不匹配，请编辑它们。",
+          "sampleNotice": "典型用法·未观察到的结果",
           "monthly": "Monthly",
           "yearly": "Yearly",
           "next": "Continue",
@@ -542,11 +542,11 @@
           "reviewMode": "Who handles the review?",
           "teamReview": "Existing team",
           "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
+          "reviewNote": "现有团队审查使用返回的容量。额外的付费审核包含在运营成本中，不会再次从团队能力中扣除。",
           "totalMode": "Monthly budget",
           "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
+          "budgetNote": "预算必须包括模型/媒体、工具、基础设施、Gabriel 费用和额外的付费审查。不要将不变的工资单计为新支出。",
+          "itemizedNote": "代币使用量是根据每个输出的数量 × 代币数计算得出的。除非适用，否则额外的媒体、工具和基础设施将保持为零。额外付费审阅根据审阅时间及其费率计算。",
           "paidReviewCost": "Additional paid review cost",
           "allInCost": "Operating cost",
           "missing": "Add your assumptions",
@@ -559,29 +559,29 @@
           "multiple": "Economic return multiple",
           "notApplicable": "Not applicable",
           "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
+          "annualNote": "相同的每月假设，没有增长或复利。招聘节省仅在输入的期间有效。",
           "method": "How this is calculated",
           "burdenHeading": "Repetitive work reduced",
           "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
+          "methodBody": "运营负担消除（负生产力），恢复产能。只有利用这种能力，更高价值的工作（潜在的积极生产力）才能创造经济价值。仅靠时间并不能节省现金。代币成本使用建模的输入/输出组合，而不是提供商报价。",
+          "formulaLabel": "经济价值÷运营成本=经济回报倍数。净收益减去运营成本一次。",
+          "allocationNote": "每个小时可以分配一次。未分配的时间仍然是容量，没有货币价值。",
+          "overlapLabel": "这些好处各不相同；我已经排除了其他地方已经计算的成本和损失。",
+          "overlapNote": "错误和风险估计不包括节省的劳动力，并且同一事件不得出现在两个类别中。贡献不包括人工智能成本，人工智能成本需单独扣除。",
+          "hiringLabel": "这次招聘是经过真正计划的，分配的能力可以满足这项工作。",
+          "reviewedLabel": "我已经审查了我的结果；未选择的结果在此估计中没有财务价值。",
           "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
+          "throughputResult": "由能力和需求支持的额外工作",
+          "assumptionsIncomplete": "完成选定的假设以计算财务价值。",
+          "allocationError": "分配的小时数超出了可用的净容量。减少拨款。",
+          "reviewError": "审查所花费的时间比减少的工作量还要多。在这些假设下，没有可用的正容量。",
+          "cashError": "避免的支出不能超过当前支出，或者在没有分配时间的情况下具有正值。",
+          "hiringError": "分配的容量必须覆盖计划的雇用时间。确认计划的雇佣及其持续时间。",
+          "riskError": "对于损失减少估计，事后概率不能超过事前概率。",
+          "overlapError": "在将其纳入财务结果之前，请确认收益不会重叠。",
+          "boundsError": "使用显示限制内的值。",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "noCurrencyChange": "语言改变格式，而不是你的货币或假设。",
           "currentPreparation": "目前的准备时间",
           "reviewHours": "人工审核时间",
           "reworkHours": "避免或增加返工时间",
@@ -601,131 +601,131 @@
         "fields": {
           "volume": {
             "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "help": "计算您实际进行的介绍，而不是每次徽章扫描。"
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "今天研究一篇介绍的分钟",
+            "help": "亲力亲为的匹配和协调，而不是活动的长短。"
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "该研究的份额 Lane 处理",
+            "help": "研究和简报的说明性份额，而不是交易完成率。"
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "主持人在每个简报上仍花费的分钟数",
+            "help": "在介绍任何人之前进行人为判断。"
           },
           "tokens_per_output": {
             "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "help": "模拟代币来研究和撰写一份比赛简介。"
           },
           "budget": {
             "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "help": "包括代币使用、模型/媒体、工具、基础设施、Gabriel 费用和额外付费评论。"
           },
           "model_cost": {
             "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "help": "仅图像、视频或其他生成与代币使用分开收费。如果没有则输入零。"
           },
           "tools_cost": {
             "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "help": "浏览器会话、连接器和其他计量服务。如果没有则输入零。"
           },
           "infrastructure_cost": {
             "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "help": "此工作负载的增量托管、存储和计算。如果没有则输入零。"
           },
           "platform_cost": {
             "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "help": "此使用包的典型每月访问量。这是一个模型假设，而不是报价。"
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "每小时额外付费评论",
+            "help": "实际的额外审稿人支出，而不是不变员工的工资。"
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "消除有偿工作的时间",
+            "help": "仅分配加班、承包商或加工支出实际上会停止的工作。"
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "目前该工作的每月支出",
+            "help": "减少的现金预算。"
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "你会停止的每月支出",
+            "help": "一个明确的金额，而不是工时乘以工资；排除任何单独输入的计划雇用节省。"
           },
           "higher_value_hours": {
             "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "help": "主持时间从研究转向与人打招呼。"
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "主持人一小时的贡献",
+            "help": "稀缺的主持人在场时间的增量价值，而不是筹款收益。"
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "用于额外容量的小时数",
+            "help": "该拨款也不能用于咨询工作或削减支出。"
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "每增加一个单位的团队分钟数",
+            "help": "剩余的人力工作（包括审核）需要再交付一个单元。"
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "预计需求的额外单位",
+            "help": "容量本身并不是需求。输入您预计每月承担的额外工作量。"
           },
           "unit_margin": {
             "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "help": "增量收入减去交付成本； AI运营成本单独扣除。"
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "计划雇用的时间",
+            "help": "将能力分配给具体的计划工作，而不是一般的全职等效估计。"
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "计划雇用的每月工时",
+            "help": "分配的容量必须覆盖整个工作负载。"
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "实际递延的每月租金费用",
+            "help": "使用真正计划的雇用成本，而不是已经雇用的人的工资。"
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "推迟雇用的月份",
+            "help": "一到十二个月；在此期间之后，年度估算将停止计算节余。"
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "每月预期避免的错误",
+            "help": "使用您的基线和预期减少量。排除事件也算作风险降低。"
           },
           "incident_cost": {
             "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "help": "不包括其他地方已包含的人工、退款或其他损失。"
           },
           "probability_before": {
             "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "help": "您的估计，不是保证的风险评估。"
           },
           "probability_after": {
             "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "help": "使用相同的事件和每月时间范围作为基线。"
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "该事件的损失风险",
+            "help": "排除错误事件和已计算的支出。这是不确定的预期价值，而不是节省的现金。"
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "之前的周期时间（以天为单位）",
+            "help": "从开始到完成所花费的时间，与实际操作的努力无关。"
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "之后的周期时间（以天为单位）",
+            "help": "仅显示为运营变化，没有假定的货币价值。"
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
+          "介绍研究和匹配简介",
           "Repeated coordination and follow-ups"
         ],
         "opportunity": [
@@ -779,15 +779,15 @@
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "让主人保持在地板上",
+            "help": "利用返回的时间与人打招呼，而不是重新研究应该见面的人。"
           }
         ],
         "tabs": [
           {
             "id": "briefs",
             "label": "Introduction briefs",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "intro": "一个典型的主持人实际上会准备多少仔细的介绍，并且仍然需要审查。",
             "fields": [
               "volume",
               "minutes",
@@ -800,7 +800,7 @@
           {
             "id": "tokens",
             "label": "Token usage",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "intro": "研究一场比赛的代币，加上该套餐的加布里埃尔费用。",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -811,7 +811,7 @@
           {
             "id": "host",
             "label": "Host time",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "intro": "时间回来迎接和接待。这不是融资轮预测。",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -822,7 +822,7 @@
         "primaryLabel": "Talk with Lane",
         "primaryTarget": "waitlist",
         "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "privacyNote": "您的数据保持私密。小时数即容量。财务金额是模型估计值，而不是观察到的结果。",
         "secondaryTarget": "how-it-works"
       }
     }
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:29.330Z"
 }

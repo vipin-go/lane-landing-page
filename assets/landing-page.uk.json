@@ -2,16 +2,16 @@
   "schemaVersion": 2,
   "language": "uk",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
     "headline": "Знайдіть перевірені схеми зв’язку, а потім людей і компанії, які їм відповідають.",
-    "subheadline": "Лейн аналізує одне загальнодоступне джерело, знаходить подібні організації, перевіряє їхні зв’язки та допомагає засновникам та інвесторам виявити підтверджені зв’язки.",
-    "ctaLabel": "Спілкуйтеся з Лейн",
+    "subheadline": "Lane аналізує одне загальнодоступне джерело, знаходить подібні організації, перевіряє їхні зв’язки та допомагає засновникам та інвесторам виявити підтверджені зв’язки.",
+    "ctaLabel": "Chat with Lane",
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Дослідження підключення під керівництвом конкурентів для засновників та інвесторів"
+      "alt": "Lane Дослідження з’єднань під керівництвом конкурентів для засновників та інвесторів"
     },
     "design": {
       "variant": "event-introductions",
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "пров.",
+        "brandLabel": "Lane.",
         "brandTagline": "Відкриття, підтверджене доказами",
-        "editionLabel": "Founders",
+        "editionLabel": "Стартапи",
         "secondaryEditionLabel": "Інвестор",
         "navItems": [
           {
@@ -83,7 +83,7 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "Зустріч"
+        "ctaLabel": "Meet Lane"
       },
       "event": {
         "name": "Humanx Амстердам",
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "Придатність для бізнесу",
-          "label": "Founders ↔ startup partners",
-          "pairing": "Founder × Startup partner",
-          "body": "Founders share what their startup offers, the complementary capabilities they need, and what a useful partnership could create.",
+          "label": "Стартапи ↔ стартапи",
+          "pairing": "Запуск × Запуск BD",
+          "body": "Кожен стартап ділиться тим, що він пропонує, секторами або типами компаній, яким він хоче зустрітися, і як виглядає корисна комерційна відповідність.",
           "sides": [
             "Пропозиція стартапів",
             "Пошук стартапу"
@@ -149,15 +149,15 @@
         "eyebrow": "Дослідження засновників під керівництвом конкурентів",
         "heading": "Перетворіть URL-адресу однієї компанії на підтверджені зв’язки.",
         "accentText": "Перетворіть URL-адресу однієї компанії на підтверджені зв’язки.",
-        "body": "Choose whether you need a co-founder, investors, or startup partners. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
+        "body": "Виберіть, чи потрібен вам співзасновник, інвестори чи клієнти-стартапи. Lane аналізує ваше загальнодоступне джерело, показує цитовані порівняльні компанії та використовує лише обраних вами конкурентів, щоб знайти релевантних кандидатів.",
         "primaryCtaLabel": "Знайти зв'язки",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Лейн, підключено-дослідницький посібник",
+        "characterAlt": "Lane, довідник по підключенню",
         "chat": {
           "statusLabel": "Онлайн · дослідження готові",
           "operatorBadge": "Публічні докази",
-          "openingMessage": "Привіт, я Лейн. Дайте мені одне загальнодоступне джерело, і я відстежу порівнювані організації, перевірені зв’язки та схожі зв’язки.",
+          "openingMessage": "Привіт, я Lane. Дайте мені одне загальнодоступне джерело, і я відстежу порівнювані організації, перевірені зв’язки та схожі зв’язки.",
           "inputPlaceholder": "Розпочати науково-обґрунтоване дослідження…",
           "suggestedPrompts": [
             "Як працюють дослідження, проведені конкурентами?",
@@ -232,7 +232,7 @@
             {
               "key": "privateConstraints",
               "label": "Приватні обмеження",
-              "placeholder": "Будь-яка смуга повинна бути приватною",
+              "placeholder": "Все, що Lane має залишатися приватним",
               "type": "textarea",
               "required": false
             }
@@ -242,17 +242,17 @@
           "editLabel": "укладати",
           "reviewHeading": "Перегляньте свій приватний запис",
           "reviewBody": "Нічого не надсилається, не шукається чи не розповсюджується, доки ви не ввійдете та явно не схвалите.",
-          "submitLabel": "Увійдіть і надішліть на провулок",
-          "loginNotice": "Увійдіть, щоб подати цей приватний вступ до Лейн для огляду людини.",
+          "submitLabel": "Увійдіть і надішліть заявку за номером Lane",
+          "loginNotice": "Увійдіть, щоб надіслати це приватне ознайомлення на номер Lane для перевірки спеціалістом.",
           "expiryCopy": "Термін дії ненадісланих трусів закінчується через годину.",
           "privacyCopy": "Немає пошуку учасників або розкриття контактів, поки анонімні.",
-          "errorCopy": "Лейн не зміг врятувати цей запис. Будь ласка, повторіть спробу або ввійдіть."
+          "errorCopy": "Lane не вдалося зберегти цей бриф. Повторіть спробу або ввійдіть."
         }
       },
       "about": {
         "kicker": "Простежуваний метод дослідження",
         "heading": "Почніть з того, що доведено, а потім знайдіть те, що є аналогічним.",
-        "body": "Перш ніж запропонувати кандидата, Лейн обґрунтовує відкриття в загальнодоступному джерелі, цитує порівнювані сутності та перевіряє докази спорідненості.",
+        "body": "Lane обґрунтовує відкриття в загальнодоступному джерелі, цитує порівнювані сутності та перевіряє докази спорідненості, перш ніж запропонувати кандидата.",
         "images": [
           {
             "number": "01",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Оператори стартапів обговорюють ділову співпрацю",
-            "label": "Founders ↔ startup partners"
+            "label": "Стартапи ↔ стартапи"
           }
         ],
         "principles": [
@@ -283,7 +283,7 @@
           {
             "icon": "users",
             "title": "Ви обираєте порівняння.",
-            "body": "Лейн досліджує лише від одного до п’яти цитованих конкурентів, яких ви чітко вибираєте.",
+            "body": "Lane досліджує лише від одного до п’яти цитованих конкурентів, яких ви явно вибрали.",
             "tone": "iris"
           },
           {
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "For founders and investors researching co-founders, capital, startup partnerships, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
+        "scopeNote": "Для засновників та інвесторів, які досліджують співзасновників, капітал, клієнтів, LP, стартапи, співінвесторів або колег. Непідтримувані відносини залишаються невідомими."
       },
       "process": {
         "kicker": "Як працює дослідження",
@@ -312,14 +312,14 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
             "title": "Огляд цитованих конкурентів",
-            "body": "Лейн аналізує джерело, знаходить схожі сутності через Exa та просить вас вибрати від одного до п’яти."
+            "body": "Lane аналізує джерело, знаходить схожі об’єкти через Exa та просить вас вибрати від одного до п’яти."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Перевірте доведені відносини",
-            "body": "Lane researches the founders, investors, startup partnerships, portfolios, rounds, backers, or peer relationships relevant to your goal."
+            "body": "Lane досліджує засновників, інвесторів, клієнтів, портфоліо, раунди, спонсорів або партнерства, що стосуються вашої мети."
           },
           {
             "number": "04",
@@ -344,7 +344,7 @@
             "alt": "Оператори стартапів обговорюють потенційну співпрацю"
           }
         ],
-        "fitLabel": "Підгонка Лейна",
+        "fitLabel": "Lane’s fit",
         "criteria": [
           "Загальнодоступне джерело доступне для перегляду",
           "Наводяться докази конкурентів",
@@ -378,20 +378,20 @@
       },
       "faq": {
         "kicker": "Гарні запитання",
-        "heading": "Перш ніж Лейн почне дослідження.",
+        "heading": "До початку дослідження Lane.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
-            "question": "Лейн лише для засновників, які шукають інвесторів?",
-            "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and founders find startups with a credible partnership fit."
+            "question": "Lane тільки для засновників, які шукають інвесторів?",
+            "answer": "Ні. Послуга навмисне двостороння: інвестори використовують Lane, щоб знайти засновників, засновники використовують Lane, щоб знайти інвесторів, потенційні співзасновники знаходять один одного, а стартапи знаходять інший стартап із вірогідним клієнтом або співробітництвом."
           },
           {
             "question": "Чи шукає Lane свій приватний пул учасників?",
-            "answer": "Ні. У цій подорожі використовується аналіз загальнодоступних джерел, цитовані порівняльні об’єкти, підтверджені докази спорідненості та відкриття подібних. Він не шукає список учасників Лейна."
+            "answer": "Ні. У цій подорожі використовується аналіз загальнодоступних джерел, цитовані порівняльні об’єкти, підтверджені докази спорідненості та відкриття подібних. Він не шукає список учасників Lane."
           },
           {
-            "question": "Чи розкриває Лейн приватні контактні дані?",
-            "answer": "Ні. Лейн зберігає лише публічну інформацію та докази. Приватні контактні дані та непідтримувані зв’язки ніколи не виводяться та не відображаються."
+            "question": "Чи розкриває Lane приватні контактні дані?",
+            "answer": "№ Lane зберігає лише публічну ідентифікацію та докази. Приватні контактні дані та непідтримувані зв’язки ніколи не виводяться та не відображаються."
           },
           {
             "question": "Що відбувається до того, як я ввійду?",
@@ -399,7 +399,7 @@
           },
           {
             "question": "Що відбувається, коли докази недоступні?",
-            "answer": "Лейн повертає невідомий або відсутній результат. Він не вгадує стосунки, доступність або особисту інформацію."
+            "answer": "Lane повертає невідомий або відсутній результат. Він не вгадує стосунки, доступність або особисту інформацію."
           },
           {
             "question": "Збереження зв'язку зв'язується з кимось?",
@@ -409,8 +409,8 @@
       },
       "waitlist": {
         "kicker": "Одна подія за раз",
-        "heading": "Хочете Лейн на вашому заході?",
-        "body": "Лейн переходить від однієї вибраної конференції до іншої. Приєднуйтесь до списку очікування на майбутні події та скажіть оператору, де будуть мати значення ретельне ознайомлення.",
+        "heading": "Хочете Lane на вашій події?",
+        "body": "Lane переходить від однієї обраної конференції до наступної. Приєднайтеся до списку очікування майбутніх подій і скажіть оператору, де ретельне представлення має значення.",
         "nameLabel": "ім'я",
         "emailLabel": "Email",
         "eventLabel": "Назва події або конференції",
@@ -421,16 +421,16 @@
       "closing": {
         "kicker": "готовий, коли ти будеш",
         "heading": "Почніть з одного джерела. Слідкуйте за доказами.",
-        "body": "Виберіть мету засновника чи інвестора, надайте одну загальнодоступну URL-адресу та вирішіть, які схожі організації Лейн повинен дослідити.",
+        "body": "Виберіть мету засновника чи інвестора, надайте одну загальнодоступну URL-адресу та вирішіть, які подібні організації Lane повинні дослідити.",
         "ctaLabel": "Знайти зв'язки",
         "note": "Лише публічні докази · Без пошуку учасників · Без охоплення · Зберігайте лише те, що ви вибрали",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Лейн спокійно стоїть із планшетом, готовий досліджувати зв’язки"
+        "characterAlt": "Lane спокійно стоїть із планшетом, готовий досліджувати зв'язки"
       },
       "footer": {
-        "tagline": "Провулок Габріель Оператор.",
-        "disclaimer": "Лейн — штучний інтелект і може робити помилки. Будь ласка, ще раз перевірте відповіді та наведені публічні докази.",
-        "copyright": "2026 пров.",
+        "tagline": "Lane оператор Габріель.",
+        "disclaimer": "Lane є ШІ і може робити помилки. Будь ласка, ще раз перевірте відповіді та наведені публічні докази.",
+        "copyright": "2026 Lane",
         "groups": [
           {
             "label": "досліджувати",
@@ -450,7 +450,7 @@
             ]
           },
           {
-            "label": "доріжка",
+            "label": "Lane",
             "links": [
               {
                 "label": "поширені запитання",
@@ -474,23 +474,23 @@
       "enabled": true,
       "kicker": "Business impact",
       "heading": "ROI Calculator",
-      "subheading": "A typical event host: 16 researched matches. Lane prepares; a person still greets.",
-      "disclaimer": "A scenario built from typical introduction-research usage, not investment proceeds or successful fundraising. Mutual consent still happens with people.",
+      "subheading": "Типовий ведучий події: 16 досліджених матчів. Lane prepares; a person still greets.",
+      "disclaimer": "Сценарій, побудований на основі типового ознайомлювально-дослідницького використання, а не надходжень від інвестицій чи успішного збору коштів. Взаємна згода все ж буває з людьми.",
       "currency": "EUR",
       "currencyCopy": {
         "native": "Amounts in {currency}.",
         "loading": "Checking the local currency. Amounts remain in {currency} until a rate is available.",
         "unavailable": "A current local exchange rate is unavailable. Amounts remain in {currency}.",
         "converted": "Amounts converted from {base} to {currency} using the reference rate dated {date}.",
-        "basis": "Currency conversion is not local cost research. Enter your own local costs and contribution assumptions. Language changes do not change amounts."
+        "basis": "Конвертація валют не є дослідженням місцевих витрат. Введіть власні місцеві витрати та припущення щодо внесків. Зміни мови не змінюють суми."
       },
       "costCopy": {
-        "breakdown": "How the all-in AI cost is built",
+        "breakdown": "Як будується загальна вартість AI",
         "perUnit": "{amount} per work unit (average)",
-        "budgetOnly": "This is your total budget. Switch to Cost breakdown to itemize it; no split has been assumed.",
-        "benefitNotice": "Modeled benefits, not charges. Crossed-out amounts are spending you expect to avoid, not discounts on the AI bill.",
+        "budgetOnly": "Це ваш загальний бюджет. Перейдіть до розподілу витрат, щоб деталізувати його; ніякого розколу не передбачається.",
+        "benefitNotice": "Змодельовані переваги, а не збори. Закреслені суми – це витрати, яких ви очікуєте уникнути, а не знижки на рахунок за штучний інтелект.",
         "remainder": "Other included operating costs",
-        "allocation": "Returned hours are capacity, not automatic savings. Only the portions you assign to actual spending reductions or additional contribution receive a monetary value."
+        "allocation": "Повернені години – це потужність, а не автоматичне збереження. Лише ті частини, які ви призначаєте фактичним скороченням витрат або додатковому внеску, отримують грошову оцінку."
       },
       "locale": "en-GB",
       "inputs": [],
@@ -514,10 +514,10 @@
           "workloadStep": "Introduction briefs",
           "costStep": "Token usage",
           "valueStep": "Host time",
-          "workloadIntro": "Model introduction research and coordination—not investment proceeds or successful fundraising.",
-          "costIntro": "Typical token consumption and the platform fee are prefilled for an average user. Edit them if your usage differs.",
-          "valueIntro": "This is the modeled output and capacity for that typical usage. Edit the assumptions if they do not match your work.",
-          "sampleNotice": "Typical usage · not observed results",
+          "workloadIntro": "Дослідження та координація впровадження моделі, а не надходження від інвестицій чи успішний збір коштів.",
+          "costIntro": "Типове споживання токенів і комісія за платформу попередньо заповнені для середнього користувача. Відредагуйте їх, якщо ваше використання відрізняється.",
+          "valueIntro": "Це змодельований вихід і потужність для типового використання. Відредагуйте припущення, якщо вони не відповідають вашій роботі.",
+          "sampleNotice": "Типове використання · результати не спостерігаються",
           "monthly": "Monthly",
           "yearly": "Yearly",
           "next": "Continue",
@@ -542,11 +542,11 @@
           "reviewMode": "Who handles the review?",
           "teamReview": "Existing team",
           "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
+          "reviewNote": "Перегляд існуючої команди використовує повернуту ємність. Додатковий оплачуваний огляд включено в експлуатаційні витрати, а не вираховується повторно з можливостей команди.",
           "totalMode": "Monthly budget",
           "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
+          "budgetNote": "Бюджет має включати моделі/медіа, інструменти, інфраструктуру, гонорари Габріеля та додатковий платний огляд. Не включайте незмінену платіжну відомість як нові витрати.",
+          "itemizedNote": "Використання токенів обчислюється за об’ємом × жетони на вихід. Додаткові засоби масової інформації, інструменти та інфраструктура залишаються нульовими, якщо вони не застосовуються. Додатковий платний огляд розраховується з годин перегляду та його тарифу.",
           "paidReviewCost": "Additional paid review cost",
           "allInCost": "Operating cost",
           "missing": "Add your assumptions",
@@ -559,29 +559,29 @@
           "multiple": "Economic return multiple",
           "notApplicable": "Not applicable",
           "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
+          "annualNote": "Ті самі щомісячні припущення, без зростання чи складення. Заощадження від найму зберігаються лише протягом зазначеного періоду.",
           "method": "How this is calculated",
           "burdenHeading": "Repetitive work reduced",
           "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
+          "methodBody": "Усунення операційного тягаря (від'ємна продуктивність) повертає потужність. Робота з вищою вартістю (потенційна позитивна продуктивність) створює економічну цінність, лише якщо використовується цей потенціал. Години самі по собі не є грошовою економією. Вартість токена використовує змодельовану суміш введення/виведення, а не котирування постачальника.",
+          "formulaLabel": "Економічна цінність ÷ експлуатаційні витрати = множник економічного прибутку. Чиста вигода віднімає операційні витрати один раз.",
+          "allocationNote": "Кожна година може бути виділена один раз. Нерозподілені години залишаються ємними, без грошової оцінки.",
+          "overlapLabel": "Ці переваги є відмінними; Я виключив витрати та збитки, уже підраховані в іншому місці.",
+          "overlapNote": "Оцінки помилок і ризиків виключають економію праці, і той самий інцидент не повинен з’являтися в обох категоріях. Внесок не включає витрати на ШІ, які вираховуються окремо.",
+          "hiringLabel": "Цей найм був справді запланований, і виділені потужності можуть покрити роботу.",
+          "reviewedLabel": "Я переглянув свої результати; невибрані результати не мають фінансової цінності в цій оцінці.",
           "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
+          "throughputResult": "Додаткова робота, що підтримується потужністю та попитом",
+          "assumptionsIncomplete": "Заповніть вибрані припущення для розрахунку фінансової вартості.",
+          "allocationError": "Виділені години перевищують доступну чисту потужність. Reduce the allocations.",
+          "reviewError": "Огляд займає більше часу, ніж скорочується робота. За цих припущень немає жодної позитивної здатності.",
+          "cashError": "Уникнені витрати не можуть перевищувати поточні витрати або мати позитивне значення без виділених годин.",
+          "hiringError": "Виділена потужність повинна покривати заплановані години найму. Підтвердьте запланований найм і його тривалість.",
+          "riskError": "Імовірність після не може перевищувати ймовірність до оцінки зменшення втрат.",
+          "overlapError": "Переконайтеся, що переваги не збігаються, перш ніж включити їх у фінансовий результат.",
+          "boundsError": "Використовуйте значення в межах, що відображаються.",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "noCurrencyChange": "Мова змінює форматування, а не вашу валюту чи припущення.",
           "currentPreparation": "Поточні години підготовки",
           "reviewHours": "Години огляду людини",
           "reworkHours": "уникнення або додаткове перероблення",
@@ -601,131 +601,131 @@
         "fields": {
           "volume": {
             "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "help": "Порахуйте представлення, які б ви насправді зробили, а не кожне сканування значка."
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "Хвилини для дослідження одного вступу сьогодні",
+            "help": "Практичний підбір та координація, а не тривалість заходу."
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "Частка цього дослідження Lane обробляє",
+            "help": "Ілюстративна частка досліджень і брифінгів, а не швидкість закриття угоди."
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "Хвилини, які ведучий все ще витрачає на кожен бриф",
+            "help": "Людське судження перед будь-ким представленим."
           },
           "tokens_per_output": {
             "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "help": "Змодельовані токени для дослідження та написання одного опису відповідності."
           },
           "budget": {
             "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "help": "Включіть використання токенів, моделі/носії, інструменти, інфраструктуру, комісії Gabriel і додатковий платний огляд."
           },
           "model_cost": {
             "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "help": "Лише зображення, відео чи інше генерування оплачується окремо від використання маркера. Enter zero if none."
           },
           "tools_cost": {
             "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "help": "Сеанси веб-переглядача, з’єднувачі та інші тарифні служби. Enter zero if none."
           },
           "infrastructure_cost": {
             "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "help": "Додатковий хостинг, сховище та обчислення для цього робочого навантаження. Enter zero if none."
           },
           "platform_cost": {
             "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "help": "Типовий місячний доступ для цього пакету використання. Це змодельоване припущення, а не цінова пропозиція."
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "Додатковий оплачуваний огляд за годину",
+            "help": "Фактичні додаткові витрати рецензента, а не зарплата незмінного працівника."
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "Години, що знімають оплачувану роботу",
+            "help": "Виділяйте лише ті роботи, понаднормові, підрядники чи витрати на обробку яких фактично припиниться."
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "Поточні місячні витрати на цю роботу",
+            "help": "Грошовий бюджет, за рахунок якого буде відбуватися скорочення."
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "Щомісячні витрати ви б припинили",
+            "help": "Одна чітка сума, а не години, помножені на зарплату; виключити будь-яку економію запланованого найму, введену окремо."
           },
           "higher_value_hours": {
             "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "help": "Час господаря перенаправлено з дослідження на привітання людей."
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "Внесок ведучої години",
+            "help": "Додаткова цінність дефіцитного часу ведучого на майданчику, а не доходів від збору коштів."
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "Години, використані для додаткового обсягу",
+            "help": "Ці асигнування також не можна використовувати для консультаційної роботи чи скорочення витрат."
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "Командні хвилини на додаткову одиницю",
+            "help": "Решта людських зусиль, включаючи огляд, знадобилася для доставки ще одного блоку."
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "Додаткові одиниці з очікуваним попитом",
+            "help": "Попитом не є лише потужність. Введіть додаткову місячну роботу, яку ви плануєте виконувати."
           },
           "unit_margin": {
             "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "help": "Додатковий дохід за вирахуванням витрат на доставку; Експлуатаційні витрати AI вираховуються окремо."
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "Години, що покривають запланований найм",
+            "help": "Розподіл потенціалу на конкретну заплановану роботу, а не на загальну оцінку в еквіваленті повної зайнятості."
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "Щомісячні години, заплановані на роботу, покриватимуть",
+            "help": "Виділена потужність повинна покривати все це робоче навантаження."
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "Місячна вартість оренди фактично відкладена",
+            "help": "Використовуйте вартість дійсно запланованого найму, а не зарплату того, хто вже працює."
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "Місяці, коли наймання відстрочено",
+            "help": "Від одного до дванадцяти місяців; річна оцінка припиняє зараховувати заощадження після закінчення цього терміну."
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "Очікувана кількість уникнутих помилок на місяць",
+            "help": "Використовуйте базову лінію та очікуване скорочення. Виключіть інциденти, які також враховуються як зменшення ризику."
           },
           "incident_cost": {
             "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "help": "Виключіть витрати на оплату праці, відшкодування чи інші втрати, які вже включені в інші місця."
           },
           "probability_before": {
             "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "help": "Ваша оцінка, а не гарантована оцінка ризику."
           },
           "probability_after": {
             "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "help": "Використовуйте ту саму подію та місячний часовий горизонт як базову лінію."
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "Втрати від цієї події",
+            "help": "Виключіть випадки помилок і вже підраховані витрати. Це невизначена очікувана вартість, а не заощаджені гроші."
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "Час циклу до, у днях",
+            "help": "Час, що минув від початку до завершення, окремо від практичних зусиль."
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "Час циклу після, у днях",
+            "help": "Показано лише як операційну зміну, без припущеної грошової вартості."
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
+          "Вступне дослідження та відповідні зведення",
           "Repeated coordination and follow-ups"
         ],
         "opportunity": [
@@ -779,15 +779,15 @@
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "Тримайте господарів на підлозі",
+            "help": "Використовуйте повернуті години, щоб привітати людей, а не повторно досліджувати, хто має зустрітися."
           }
         ],
         "tabs": [
           {
             "id": "briefs",
             "label": "Introduction briefs",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "intro": "Скільки ретельних представлень насправді готує типовий ведучий, а огляд все ще потрібен.",
             "fields": [
               "volume",
               "minutes",
@@ -800,7 +800,7 @@
           {
             "id": "tokens",
             "label": "Token usage",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "intro": "Жетони для дослідження одного збігу плюс комісія Габріеля за цей пакет.",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -811,7 +811,7 @@
           {
             "id": "host",
             "label": "Host time",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "intro": "Години повернулися, щоб привітати та прийняти. Це не фінансовий прогноз.",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -822,7 +822,7 @@
         "primaryLabel": "Talk with Lane",
         "primaryTarget": "waitlist",
         "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "privacyNote": "Ваші дані залишаються конфіденційними. Години - це місткість. Фінансові суми є змодельованими оцінками, а не результатами спостереження.",
         "secondaryTarget": "how-it-works"
       }
     }
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:29.526Z"
 }

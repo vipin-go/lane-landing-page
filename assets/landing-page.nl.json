@@ -2,16 +2,16 @@
   "schemaVersion": 2,
   "language": "nl",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
-    "headline": "Vind bewezen verbindingspatronen en vervolgens mensen en bedrijven die daarbij passen.",
-    "subheadline": "Lane analyseert één openbare bron, vindt vergelijkbare entiteiten, verifieert hun relaties en helpt oprichters en investeerders door bewijsmateriaal ondersteunde verbanden te ontdekken.",
+    "headline": "Vind bewezen verbindingspatronen, daarna mensen en bedrijven die daarbij passen.",
+    "subheadline": "Lane analyseert één openbare bron, vindt vergelijkbare entiteiten, verifieert hun relaties en helpt oprichters en investeerders bij het ontdekken van op bewijs gebaseerde verbindingen.",
     "ctaLabel": "Chat met Lane",
-    "secondaryCtaLabel": "See how it works",
+    "secondaryCtaLabel": "Zie hoe het werkt",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Lane door concurrenten geleid verbindingsonderzoek voor oprichters en investeerders"
+      "alt": "Concurrentiegestuurde verbindingsonderzoek van Lane voor oprichters en investeerders"
     },
     "design": {
       "variant": "event-introductions",
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "Laan.",
+        "brandLabel": "Lane.",
         "brandTagline": "Op bewijs gebaseerde ontdekking",
-        "editionLabel": "Oprichters",
+        "editionLabel": "Startups",
         "secondaryEditionLabel": "Investeerders",
         "navItems": [
           {
@@ -83,29 +83,29 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "Maak kennis met Lane"
+        "ctaLabel": "Ontmoet Lane"
       },
       "event": {
         "name": "HumanX Amsterdam",
-        "shortName": "MensX",
+        "shortName": "HumanX",
         "city": "Amsterdam",
         "venue": "RAI",
         "neighborhood": "RAI, Zuidas",
         "dateRange": "22–24 september 2026",
-        "shortDateRange": "22–24 september 2026",
-        "cardDate": "di 22–do 24 sep",
+        "shortDateRange": "22–24 sep 2026",
+        "cardDate": "Di 22–Do 24 sep",
         "availability": "unverified",
-        "availabilityLabel": "Beschikbaarheid handmatig bevestigd",
-        "confirmedLocation": "Exacte tafel of rustige hoek gedeeld nadat beide partijen dit hebben geaccepteerd",
-        "disclaimer": "HumanX Amsterdam is geen partner tenzij anders vermeld."
+        "availabilityLabel": "Beschikbaarheid wordt handmatig bevestigd",
+        "confirmedLocation": "Exacte tafel of rustige hoek wordt gedeeld nadat beide partijen akkoord gaan",
+        "disclaimer": "HumanX Amsterdam is geen partner, tenzij anders vermeld."
       },
       "tracks": [
         {
           "id": "founder-investor",
           "kicker": "Kapitaal",
           "label": "Oprichters ↔ investeerders",
-          "pairing": "Oprichter × Zaadinvesteerder",
-          "body": "Oprichters delen de loonsverhoging, controleren de omvang en de reden om elkaar te ontmoeten. Investeerders delen hun stellingen, controleren de omvang en de oprichters die ze willen vinden.",
+          "pairing": "Oprichter × Seed investeerder",
+          "body": "Oprichters delen de financieringsronde, de omvang van de cheque en de reden om af te spreken. Investeerders delen hun thesis, de omvang van de cheque en de oprichters die ze willen vinden.",
           "sides": [
             "Oprichter",
             "Investeerder"
@@ -113,64 +113,64 @@
         },
         {
           "id": "founder-cofounder",
-          "kicker": "Mede-oprichter",
+          "kicker": "Mede-oprichting",
           "label": "Oprichters ↔ medeoprichters",
           "pairing": "Oprichter × Mede-oprichter",
-          "body": "Elke partij deelt de rol of kracht die ze met zich meebrengen, de leemte die ze willen opvullen, de bedrijfsfase en wat er al is opgebouwd.",
+          "body": "Elke partij deelt de rol of kracht die ze inbrengen, de leemte die ze willen opvullen, het stadium van het bedrijf en wat er al is gebouwd.",
           "sides": [
             "Oprichter",
-            "Toekomstige mede-oprichter"
+            "Potentiële mede-oprichter"
           ]
         },
         {
           "id": "startup-startup",
-          "kicker": "Zakelijke pasvorm",
-          "label": "Oprichters ↔ startuppartners",
-          "pairing": "Oprichter × startuppartner",
-          "body": "Oprichters delen wat hun startup aanbiedt, welke aanvullende capaciteiten ze nodig hebben en wat een waardevolle samenwerking kan opleveren.",
+          "kicker": "Zakelijke match",
+          "label": "Startups ↔ startups",
+          "pairing": "Startup × Startup BD",
+          "body": "Elke startup deelt wat het aanbiedt, de sectoren of bedrijfstypen waarmee het wil afspreken, en hoe een nuttige commerciële match eruitziet.",
           "sides": [
             "Startup aanbod",
-            "Startup zoeken"
+            "Startup gezocht"
           ]
         }
       ],
       "investorEdition": {
         "hero": {
-          "eyebrow": "Door concurrenten geleid onderzoek voor investeerders",
-          "heading": "Begin bij een fonds of investeerder die u kent. Ontdek het netwerk rond het bewijsmateriaal.",
-          "accentText": "Begin bij een fonds of investeerder die u kent.",
-          "body": "Kies of u LP's en family offices, op scripties afgestemde startups, ronde mede-investeerders of peer-investeerders nodig heeft. Lane analyseert één openbare bron, toont geciteerde vergelijkbare entiteiten en doet alleen onderzoek naar de concurrenten die u selecteert.",
+          "eyebrow": "Concurrentiegestuurde onderzoek voor investeerders",
+          "heading": "Begin met een fonds of investeerder die je kent. Ontdek het netwerk rondom het bewijs.",
+          "accentText": "Begin met een fonds of investeerder die je kent.",
+          "body": "Kies of je LPs en family offices, thesis-gerichte startups, mede-investeerders in een ronde, of mede-investeerders nodig hebt. Lane analyseert één openbare bron, toont geciteerde vergelijkbare entiteiten en onderzoekt alleen de concurrenten die jij selecteert.",
           "primaryCtaLabel": "Onderzoek als investeerder",
-          "secondaryCtaLabel": "See how it works",
-          "suggestedPrompt": "Ik wil startups vinden die op hun scriptie zijn afgestemd."
+          "secondaryCtaLabel": "Zie hoe het werkt",
+          "suggestedPrompt": "Ik wil thesis-gerichte startups vinden."
         }
       },
       "hero": {
-        "eyebrow": "Door concurrenten geleid onderzoek voor oprichters",
-        "heading": "Verander één bedrijfs-URL in op bewijzen gebaseerde verbindingen.",
-        "accentText": "op bewijzen gebaseerde verbindingen.",
-        "body": "Kies of je een medeoprichter, investeerders of startuppartners nodig hebt. Lane analyseert je openbare bron, toont onderbouwde vergelijkbare bedrijven en gebruikt alleen de concurrenten die je selecteert om relevante kandidaten te ontdekken.",
-        "primaryCtaLabel": "Zoek verbindingen",
-        "secondaryCtaLabel": "See how it works",
+        "eyebrow": "Concurrentiegestuurde onderzoek voor oprichters",
+        "heading": "Verander één bedrijfs-URL in op bewijs gebaseerde verbindingen.",
+        "accentText": "op bewijs gebaseerde verbindingen.",
+        "body": "Kies of je een mede-oprichter, investeerders of startup-klanten nodig hebt. Lane analyseert je openbare bron, toont geciteerde vergelijkbare bedrijven en gebruikt alleen de concurrenten die jij selecteert om relevante kandidaten te ontdekken.",
+        "primaryCtaLabel": "Vind verbindingen",
+        "secondaryCtaLabel": "Zie hoe het werkt",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
         "characterAlt": "Lane, een gids voor verbindingsonderzoek",
         "chat": {
-          "statusLabel": "Online · onderzoek klaar",
+          "statusLabel": "Online · onderzoeksklaar",
           "operatorBadge": "Openbaar bewijs",
-          "openingMessage": "Hallo, ik ben Lane. Geef mij één openbare bron en ik traceer vergelijkbare entiteiten, bewezen relaties en vergelijkbare verbanden.",
-          "inputPlaceholder": "Start wetenschappelijk onderbouwd onderzoek…",
+          "openingMessage": "Hallo, ik ben Lane. Geef me één openbare bron en ik traceer vergelijkbare entiteiten, bewezen relaties en gelijksoortige verbindingen.",
+          "inputPlaceholder": "Start op bewijs gebaseerd onderzoek…",
           "suggestedPrompts": [
             "Hoe werkt concurrentiegestuurd onderzoek?",
             "Welk bewijs wordt getoond?",
-            "Wat wordt er gered?"
+            "Wat wordt er opgeslagen?"
           ]
         },
         "briefDemo": {
           "enabled": true,
           "commandTrigger": "find-connections",
-          "introHeading": "Uw persoonlijke introductiebrief",
-          "introBody": "Je vertelt aan welke kant van de tafel je zit en hoe een nuttige vergadering eruit ziet. Ik zal één pasvorm voorstellen. Beiden accepteren of gaan privé over.",
-          "trackLabel": "Introductietraject",
+          "introHeading": "Jouw privé-introductiebriefing",
+          "introBody": "Je vertelt me aan welke kant van de tafel je zit en hoe een nuttige ontmoeting eruitziet. Ik stel één match voor. Beide accepteren of passen privé.",
+          "trackLabel": "Introductie-track",
           "sideLabel": "Jouw kant",
           "fields": [
             {
@@ -183,13 +183,13 @@
             {
               "key": "role",
               "label": "Jouw rol",
-              "placeholder": "Oprichter, investeerder, exploitant…",
+              "placeholder": "Oprichter, investeerder, operator…",
               "type": "text",
               "required": true
             },
             {
               "key": "currentEvent",
-              "label": "Actueel evenement",
+              "label": "Huidige gebeurtenis",
               "placeholder": "HumanX Amsterdam",
               "type": "text",
               "required": true
@@ -204,21 +204,21 @@
             {
               "key": "offer",
               "label": "Wat je aanbiedt",
-              "placeholder": "Wat kun jij bijdragen?",
+              "placeholder": "Wat kun je bijdragen?",
               "type": "textarea",
               "required": true
             },
             {
               "key": "need",
               "label": "Wat je nodig hebt",
-              "placeholder": "Welke hulp of tegenhanger?",
+              "placeholder": "Wat voor hulp of tegenhanger?",
               "type": "textarea",
               "required": true
             },
             {
               "key": "fitCriteria",
-              "label": "Geschiktheidscriteria",
-              "placeholder": "Fase, scriptie, expertise, werkstijl…",
+              "label": "Pas criteria toe",
+              "placeholder": "Fase, thesis, expertise, werkwijze…",
               "type": "textarea",
               "required": true
             },
@@ -231,148 +231,148 @@
             },
             {
               "key": "privateConstraints",
-              "label": "Privé beperkingen",
+              "label": "Privébeperkingen",
               "placeholder": "Alles wat Lane privé moet houden",
               "type": "textarea",
               "required": false
             }
           ],
-          "voiceLabel": "Met uw stem bouwen · 5 min",
-          "reviewLabel": "Beoordeling kort",
+          "voiceLabel": "Bouwen via spraak · 5 min",
+          "reviewLabel": "Brief beoordelen",
           "editLabel": "Bewerken",
-          "reviewHeading": "Controleer uw privébriefing",
-          "reviewBody": "Er wordt niets verzonden, doorzocht of gedeeld totdat u zich aanmeldt en dit expliciet goedkeurt.",
-          "submitLabel": "Log in en verzend het naar Lane",
-          "loginNotice": "Meld u aan om deze privé-introductiebrief naar Lane te sturen voor menselijke beoordeling.",
-          "expiryCopy": "Niet-ingeleverde briefings vervallen na één uur.",
-          "privacyCopy": "Geen zoeken naar deelnemers of openbaarmaking van contacten terwijl u anoniem bent.",
-          "errorCopy": "Lane kon deze opdracht niet redden. Probeer het opnieuw of log in."
+          "reviewHeading": "Beoordeel uw privé-brief",
+          "reviewBody": "Niets wordt ingediend, doorzocht of gedeeld totdat je inlogt en expliciet goedkeurt.",
+          "submitLabel": "Inloggen en indienen bij Lane",
+          "loginNotice": "Log in om deze privé-introductieopdracht in te dienen bij Lane voor beoordeling door een mens.",
+          "expiryCopy": "Niet-ingediende brieven verlopen na een uur.",
+          "privacyCopy": "Geen zoekopdrachten naar deelnemers of contactvermeldingen terwijl je anoniem bent.",
+          "errorCopy": "Lane kon deze opdracht niet opslaan. Probeer het opnieuw of log in."
         }
       },
       "about": {
         "kicker": "Een traceerbare onderzoeksmethode",
-        "heading": "Begin met wat bewezen is en ontdek dan wat analoog is.",
-        "body": "Lane gronden ontdekking in een openbare bron, citeerde vergelijkbare entiteiten en verifieerde relatiebewijs voordat een kandidaat werd voorgesteld.",
+        "heading": "Begin met wat bewezen is, ontdek dan wat analoog is.",
+        "body": "Lane baseert ontdekking op een openbare bron, geciteerde vergelijkbare entiteiten en geverifieerd relatiebewijs voordat een kandidaat wordt voorgesteld.",
         "images": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
-            "alt": "Oprichter en investeerder in een gerichte eerste bijeenkomst op een conferentie",
+            "alt": "Oprichter en investeerder in een gerichte eerste ontmoeting op een conferentie",
             "label": "Oprichters ↔ investeerders"
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-cofounder.png",
-            "alt": "Potentiële mede-oprichters bespreken hoe ze werken",
+            "alt": "Potentiële medeoprichters die bespreken hoe ze werken",
             "label": "Oprichters ↔ medeoprichters"
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
-            "alt": "Startende exploitanten die een zakelijke samenwerking bespreken",
-            "label": "Oprichters ↔ startuppartners"
+            "alt": "Startup-operators die een zakelijke samenwerking bespreken",
+            "label": "Startups ↔ startups"
           }
         ],
         "principles": [
           {
             "icon": "check",
-            "title": "Bewijs voor kandidaten.",
+            "title": "Bewijs vóór kandidaten.",
             "body": "Elke suggestie is terug te voeren op een openbare bron, een geselecteerde concurrent en een geverifieerd relatiepatroon.",
             "tone": "signal"
           },
           {
             "icon": "users",
-            "title": "Jij kiest de vergelijkingen.",
-            "body": "Lane doet alleen onderzoek naar de één tot vijf genoemde concurrenten die u expliciet selecteert.",
+            "title": "Jij kiest de vergelijkbare entiteiten.",
+            "body": "Lane onderzoekt alleen de één tot vijf geciteerde concurrenten die jij expliciet selecteert.",
             "tone": "iris"
           },
           {
             "icon": "shield-check",
             "title": "Onderzoek, nooit outreach.",
-            "body": "De reis bespaart alleen geselecteerde publieke kandidaten. Het neemt nooit contact op met iemand en geeft nooit privé-contactgegevens vrij.",
+            "body": "De reis slaat alleen geselecteerde openbare kandidaten op. Het neemt nooit contact op met iemand of maakt privécontactgegevens bekend.",
             "tone": "mint"
           }
         ],
-        "scopeNote": "Voor oprichters en investeerders die onderzoek doen naar medeoprichters, kapitaal, startuppartnerschappen, LP's, startups, mede-investeerders of peers. Niet-ondersteunde relaties blijven onbekend."
+        "scopeNote": "Voor oprichters en investeerders die medeoprichters, kapitaal, klanten, LPs, startups, mede-investeerders of collega's onderzoeken. Niet-ondersteunde relaties blijven onbekend."
       },
       "process": {
         "kicker": "Hoe het onderzoek werkt",
-        "heading": "Van één publieke URL tot geciteerde verbindingskandidaten.",
-        "body": "Dezelfde volgorde zorgt voor het landingsvoorbeeld, de ingelogde webervaring, iOS en Android.",
+        "heading": "Van één openbare URL naar geciteerde verbindingskandidaten.",
+        "body": "Dezelfde reeks drijft de landingspreview, de ingelogde webervaring, iOS en Android aan.",
         "steps": [
           {
             "number": "01",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-conversation.png",
             "alt": "",
             "title": "Kies een doel en bron",
-            "body": "Selecteer een doel voor een oprichter of investeerder en geef één URL voor een openbaar bedrijf, fonds of professioneel profiel op."
+            "body": "Selecteer een doel voor oprichter of investeerder en geef één openbare URL van een bedrijf, fonds of professioneel profiel op."
           },
           {
             "number": "02",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
-            "title": "Review geciteerde concurrenten",
-            "body": "Lane analyseert de bron, vindt vergelijkbare entiteiten via Exa en vraagt je om er één tot vijf te selecteren."
+            "title": "Geciteerde concurrenten beoordelen",
+            "body": "Lane analyseert de bron, vindt vergelijkbare entiteiten via Exa en vraagt je er één tot vijf te selecteren."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
-            "title": "Controleer bewezen relaties",
-            "body": "Lane onderzoekt de oprichters, investeerders, startuppartnerschappen, portfolio's, rondes, financiers of peerrelaties die relevant zijn voor je doel."
+            "title": "Bewezen relaties verifiëren",
+            "body": "Lane onderzoekt de oprichters, investeerders, klanten, portefeuilles, rondes, financiers of partnerschappen die relevant zijn voor je doel."
           },
           {
             "number": "04",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-confirmed.png",
             "alt": "",
-            "title": "Selecteer wat u wilt opslaan",
-            "body": "Filter en inspecteer vergelijkbare kandidaten en sla vervolgens alleen de openbare verbindingen op die u expliciet kiest."
+            "title": "Selecteer wat je wilt opslaan",
+            "body": "Filter en inspecteer gelijksoortige kandidaten, sla vervolgens alleen de openbare verbindingen op die je expliciet kiest."
           }
         ]
       },
       "pairing": {
         "kicker": "Bewijsketen",
-        "heading": "Een kandidaat is alleen nuttig als het pad er naartoe zichtbaar is.",
-        "body": "Lane houdt het bronprofiel, geselecteerde concurrenten, geverifieerde relatiepatronen, citaten, provider-ID's en vertrouwen bij elkaar ter beoordeling.",
+        "heading": "Een kandidaat is pas nuttig als het pad ernaartoe zichtbaar is.",
+        "body": "Lane bewaart het bronprofiel, geselecteerde concurrenten, geverifieerde relatiepatronen, citaties, provider-ID's en betrouwbaarheid voor beoordeling.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
-            "alt": "Twee deelnemers aan het evenement overwegen een doordachte introductie"
+            "alt": "Twee evenementbezoekers die een doordachte introductie overwegen"
           },
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
-            "alt": "Startup-exploitanten die een mogelijke samenwerking bespreken"
+            "alt": "Startup-operators die een potentiële samenwerking bespreken"
           }
         ],
         "fitLabel": "Lane's pasvorm",
         "criteria": [
-          "Openbare bron is controleerbaar",
-          "Er wordt bewijsmateriaal van concurrenten aangehaald",
+          "Openbare bron is beoordeelbaar",
+          "Concurrentiebewijs is geciteerd",
           "Relatiepatroon ondersteunt de kandidaat"
         ],
-        "statusHeading": "Onderzoek blijft onder uw controle.",
-        "statusBody": "Illustratieve kaarten tonen de opgeslagen, beoordeelde en gearchiveerde statussen. Geen enkele staatsverandering leidt tot outreach.",
+        "statusHeading": "Onderzoek blijft onder jouw controle.",
+        "statusBody": "Illustratieve kaarten tonen de opgeslagen, beoordeelde en gearchiveerde staten. Geen statuswijziging stuurt outreach.",
         "cards": [
           {
             "track": "Geselecteerde concurrent",
             "time": "Source analyzed",
             "status": "proposed",
-            "location": "Openbaar bewijsmateriaal bijgevoegd",
+            "location": "Openbaar bewijs bijgevoegd",
             "note": "Klaar voor relatieonderzoek"
           },
           {
             "track": "Geverifieerde relatie",
             "time": "Evidence reviewed",
             "status": "accepted",
-            "location": "Citaties bewaard gebleven",
-            "note": "Patroon ondersteunt lookalike-detectie"
+            "location": "Citaties bewaard",
+            "note": "Patroon ondersteunt gelijksoortige ontdekking"
           },
           {
             "track": "Opgeslagen verbinding",
             "time": "User selected",
             "status": "confirmed",
             "location": "Alleen privéwerkruimte",
-            "note": "Er is geen bericht verzonden"
+            "note": "Er is geen outreach verzonden"
           }
         ]
       },
@@ -383,57 +383,57 @@
         "items": [
           {
             "question": "Is Lane alleen voor oprichters die op zoek zijn naar investeerders?",
-            "answer": "Nee. De dienst is bewust tweezijdig: investeerders gebruiken Lane om oprichters te vinden, oprichters gebruiken Lane om investeerders te vinden, potentiële medeoprichters vinden elkaar en oprichters vinden startups met een geloofwaardige partnerfit."
+            "answer": "Nee. De service is bewust tweeledig: investeerders gebruiken Lane om oprichters te vinden, oprichters gebruiken Lane om investeerders te vinden, potentiële medeoprichters vinden elkaar, en startups vinden een andere startup met een plausibele klant- of samenwerkingsfit."
           },
           {
-            "question": "Zoekt Lane in de privé-deelnemerspool?",
-            "answer": "Nee. Deze reis maakt gebruik van analyse van openbare bronnen, geciteerde vergelijkbare entiteiten, geverifieerd bewijs van relaties en dubbelzinnige ontdekkingen. Er wordt niet gezocht in de deelnemerspool van Lane."
+            "question": "Doorzoekt Lane zijn privédeelnemerspool?",
+            "answer": "Nee. Deze reis maakt gebruik van analyse van openbare bronnen, geciteerde vergelijkbare entiteiten, geverifieerd relatiebewijs en gelijksoortige ontdekking. Het doorzoekt niet de deelnemerspool van Lane."
           },
           {
-            "question": "Geeft Lane privécontactgegevens vrij?",
-            "answer": "Nee. Lane bewaart alleen publieke identiteit en bewijsmateriaal. Privécontactgegevens en niet-ondersteunde relaties worden nooit afgeleid of weergegeven."
+            "question": "Maakt Lane privécontactgegevens bekend?",
+            "answer": "Nee. Lane bewaart alleen openbare identiteit en bewijs. Privégegevens en niet-ondersteunde relaties worden nooit afgeleid of weergegeven."
           },
           {
-            "question": "Wat gebeurt er voordat ik me aanmeld?",
-            "answer": "Anonieme bezoekers kunnen één bron analyseren, maximaal vijf genoemde concurrenten beoordelen en er één tot vijf selecteren. Onderzoek naar relaties en lookalikes wordt pas hervat nadat u zich heeft aangemeld."
+            "question": "Wat gebeurt er voordat ik inlog?",
+            "answer": "Anonieme bezoekers kunnen één bron analyseren, maximaal vijf geciteerde concurrenten bekijken en één tot vijf selecteren. Relatie- en lookalike-onderzoek gaat pas verder na het inloggen."
           },
           {
-            "question": "Wat gebeurt er als er geen bewijs beschikbaar is?",
-            "answer": "Lane retourneert onbekend of geen resultaat. Er worden geen relaties, beschikbaarheid of privégegevens geraden."
+            "question": "Wat gebeurt er als bewijs niet beschikbaar is?",
+            "answer": "Lane retourneert onbekend of geen resultaat. Het raadt geen relaties, beschikbaarheid of privé-informatie."
           },
           {
-            "question": "Neemt het opslaan van een verbinding contact op met iemand?",
-            "answer": "Nee. Met Saving wordt de geselecteerde publieke kandidaat en de herkomst van zijn onderzoek toegevoegd aan uw privé Founder- of Investor-werkruimte. Outreach en introductie zijn afzonderlijke acties."
+            "question": "Wordt het opslaan van een contactpersoon iemand op de hoogte gesteld?",
+            "answer": "Nee. Opslaan voegt de geselecteerde openbare kandidaat en de onderzoeksherkomst toe aan uw privé-werkruimte voor oprichters of investeerders. Outreach en introducties zijn aparte acties."
           }
         ]
       },
       "waitlist": {
-        "kicker": "Eén gebeurtenis tegelijk",
-        "heading": "Wil jij Lane op jouw evenement?",
-        "body": "Lane gaat van de ene geselecteerde conferentie naar de volgende. Sluit u aan op de wachtlijst voor toekomstige evenementen en vertel de telefoniste waar zorgvuldige introducties van belang zijn.",
+        "kicker": "Eén evenement tegelijk",
+        "heading": "Wilt u Lane op uw evenement?",
+        "body": "Lane verplaatst zich van de ene geselecteerde conferentie naar de volgende. Meld u aan voor de wachtlijst voor toekomstige evenementen en vertel de operator waar zorgvuldige introducties van belang zouden zijn.",
         "nameLabel": "Naam",
         "emailLabel": "E-mail",
         "eventLabel": "Naam van evenement of conferentie",
         "cityLabel": "Stad",
-        "ctaLabel": "Schrijf u in op de wachtlijst voor toekomstige evenementen",
-        "loginNotice": "Meld u aan om dit introductieverzoek voor een toekomstig evenement op te slaan bij Lane."
+        "ctaLabel": "Meld u aan voor de wachtlijst voor toekomstige evenementen",
+        "loginNotice": "Log in om dit verzoek tot introductie voor toekomstige evenementen met Lane op te slaan."
       },
       "closing": {
-        "kicker": "Klaar wanneer jij dat bent",
+        "kicker": "Klaar wanneer u dat bent",
         "heading": "Begin met één bron. Volg het bewijs.",
-        "body": "Kies een Founder- of Investor-doel, geef één openbare URL op en beslis welke vergelijkbare entiteiten Lane moet onderzoeken.",
-        "ctaLabel": "Zoek verbindingen",
-        "note": "Alleen openbaar bewijs · Geen zoeken in de deelnemerspool · Geen bereik · Bewaar alleen wat u selecteert",
+        "body": "Kies een doelstelling voor oprichters of investeerders, geef één openbare URL op en bepaal welke vergelijkbare entiteiten Lane moet onderzoeken.",
+        "ctaLabel": "Vind verbindingen",
+        "note": "Alleen openbaar bewijs · Geen zoekopdracht in deelnemerspool · Geen outreach · Sla alleen op wat u selecteert",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Lane staat rustig met een tablet, klaar om verbindingen te onderzoeken"
+        "characterAlt": "Lane staat kalm met een tablet, klaar om verbindingen te onderzoeken"
       },
       "footer": {
-        "tagline": "Lane van Gabriel Operator.",
-        "disclaimer": "Lane is een AI en kan fouten maken. Controleer de reacties en geciteerd openbaar bewijsmateriaal nogmaals.",
-        "copyright": "2026 Laan",
+        "tagline": "Lane door Gabriel Operator.",
+        "disclaimer": "Lane is een AI en kan fouten maken. Controleer antwoorden en geciteerd openbaar bewijs.",
+        "copyright": "2026 Lane",
         "groups": [
           {
-            "label": "Ontdek",
+            "label": "Ontdekken",
             "links": [
               {
                 "label": "Over",
@@ -444,13 +444,13 @@
                 "target": "how-it-works"
               },
               {
-                "label": "paring",
+                "label": "Koppelingen",
                 "target": "pairings"
               }
             ]
           },
           {
-            "label": "Laan",
+            "label": "Lane",
             "links": [
               {
                 "label": "Veelgestelde vragen",
@@ -461,7 +461,7 @@
                 "target": "waitlist"
               },
               {
-                "label": "Bouw een korte opdracht",
+                "label": "Bouw een briefing",
                 "target": "hero-chat"
               }
             ]
@@ -472,25 +472,25 @@
     "roiCalculator": {
       "methodologyVersion": 2,
       "enabled": true,
-      "kicker": "Business impact",
-      "heading": "ROI Calculator",
-      "subheading": "A typical event host: 16 researched matches. Lane prepares; a person still greets.",
-      "disclaimer": "A scenario built from typical introduction-research usage, not investment proceeds or successful fundraising. Mutual consent still happens with people.",
+      "kicker": "Zakelijke impact",
+      "heading": "ROI-calculator",
+      "subheading": "Een typische evenementorganisator: 16 onderzochte matches. Lane bereidt voor; een persoon begroet nog steeds.",
+      "disclaimer": "Een scenario opgebouwd uit typisch gebruik van introductieonderzoek, niet uit investeringsopbrengsten of succesvolle fondsenwerving. Wederzijdse toestemming gebeurt nog steeds met mensen.",
       "currency": "EUR",
       "currencyCopy": {
         "native": "Amounts in {currency}.",
         "loading": "Checking the local currency. Amounts remain in {currency} until a rate is available.",
         "unavailable": "A current local exchange rate is unavailable. Amounts remain in {currency}.",
         "converted": "Amounts converted from {base} to {currency} using the reference rate dated {date}.",
-        "basis": "Currency conversion is not local cost research. Enter your own local costs and contribution assumptions. Language changes do not change amounts."
+        "basis": "Valutaconversie is geen onderzoek naar lokale kosten. Voer uw eigen lokale kosten en bijdrageaannames in. Taalwijzigingen veranderen de bedragen niet."
       },
       "costCopy": {
-        "breakdown": "How the all-in AI cost is built",
+        "breakdown": "Hoe de all-in AI-kosten zijn opgebouwd",
         "perUnit": "{amount} per work unit (average)",
-        "budgetOnly": "This is your total budget. Switch to Cost breakdown to itemize it; no split has been assumed.",
-        "benefitNotice": "Modeled benefits, not charges. Crossed-out amounts are spending you expect to avoid, not discounts on the AI bill.",
-        "remainder": "Other included operating costs",
-        "allocation": "Returned hours are capacity, not automatic savings. Only the portions you assign to actual spending reductions or additional contribution receive a monetary value."
+        "budgetOnly": "Dit is uw totale budget. Schakel over naar Kostenoverzicht om het te specificeren; er is geen verdeling aangenomen.",
+        "benefitNotice": "Gemodelleerde voordelen, geen kosten. Doorgehaalde bedragen zijn uitgaven die u verwacht te vermijden, geen kortingen op de AI-rekening.",
+        "remainder": "Andere inbegrepen operationele kosten",
+        "allocation": "Teruggegeven uren zijn capaciteit, geen automatische besparingen. Alleen de delen die u toewijst aan daadwerkelijke kostenreducties of extra bijdragen krijgen een geldelijke waarde."
       },
       "locale": "en-GB",
       "inputs": [],
@@ -511,226 +511,226 @@
         },
         "copy": {
           "navLabel": "Prijzen",
-          "workloadStep": "Introduction briefs",
-          "costStep": "Token usage",
-          "valueStep": "Host time",
-          "workloadIntro": "Model introduction research and coordination—not investment proceeds or successful fundraising.",
-          "costIntro": "Typical token consumption and the platform fee are prefilled for an average user. Edit them if your usage differs.",
-          "valueIntro": "This is the modeled output and capacity for that typical usage. Edit the assumptions if they do not match your work.",
-          "sampleNotice": "Typical usage · not observed results",
-          "monthly": "Monthly",
-          "yearly": "Yearly",
-          "next": "Continue",
-          "back": "Back",
-          "reset": "Reset assumptions",
-          "summary": "Your modeled impact",
-          "volume": "Briefs modeled",
-          "grossHours": "Repetitive work reduced",
-          "capacity": "Host hours returned",
-          "retained": "Capacity kept available",
-          "hours": "hours",
-          "days": "days",
+          "workloadStep": "Introductiebriefings",
+          "costStep": "Tokengebruik",
+          "valueStep": "Hosttijd",
+          "workloadIntro": "Model introductieonderzoek en coördinatie - niet investeringsopbrengsten of succesvolle fondsenwerving.",
+          "costIntro": "Typisch tokenverbruik en de platformkosten zijn vooraf ingevuld voor een gemiddelde gebruiker. Bewerk ze als uw gebruik afwijkt.",
+          "valueIntro": "Dit is de gemodelleerde output en capaciteit voor dat typische gebruik. Bewerk de aannames als ze niet overeenkomen met uw werk.",
+          "sampleNotice": "Typisch gebruik · geen waargenomen resultaten",
+          "monthly": "Maandelijks",
+          "yearly": "Jaarlijks",
+          "next": "Doorgaan",
+          "back": "Terug",
+          "reset": "Aannames resetten",
+          "summary": "Uw gemodelleerde impact",
+          "volume": "Gemodelleerde briefs",
+          "grossHours": "Repetitief werk verminderd",
+          "capacity": "Hosturen geretourneerd",
+          "retained": "Beschikbaar gehouden capaciteit",
+          "hours": "uren",
+          "days": "dagen",
           "percent": "%",
-          "minutes": "minutes",
+          "minutes": "minuten",
           "tokens": "tokens",
-          "monthlyTokens": "Monthly tokens",
-          "tokenCost": "Token usage",
-          "packageLabel": "Usage package",
-          "packageBase": "Base",
+          "monthlyTokens": "Maandelijkse tokens",
+          "tokenCost": "Tokengebruik",
+          "packageLabel": "Gebruikspakket",
+          "packageBase": "Basis",
           "packageMedium": "Medium",
-          "packageCustom": "Custom",
-          "reviewMode": "Who handles the review?",
-          "teamReview": "Existing team",
-          "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
-          "totalMode": "Monthly budget",
-          "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
-          "paidReviewCost": "Additional paid review cost",
-          "allInCost": "Operating cost",
-          "missing": "Add your assumptions",
-          "cashValue": "Cash spending avoided",
-          "contribution": "Expected contribution",
-          "expectedLoss": "Expected loss reduction",
-          "riskValue": "Uncertain risk value included",
-          "economicValue": "Modeled economic value",
-          "netBenefit": "Net modeled benefit",
-          "multiple": "Economic return multiple",
-          "notApplicable": "Not applicable",
-          "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
-          "method": "How this is calculated",
-          "burdenHeading": "Repetitive work reduced",
-          "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
-          "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
-          "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
-          "currentPreparation": "Actuele voorbereidingstijden",
-          "reviewHours": "Menselijke beoordelingsuren",
-          "reworkHours": "Vermeden of toegevoegde herwerkuren",
+          "packageCustom": "Aangepast",
+          "reviewMode": "Wie handelt de beoordeling af?",
+          "teamReview": "Bestaand team",
+          "paidReview": "Extra betaalde beoordelaar",
+          "reviewNote": "Beoordeling door bestaand team gebruikt de terugverdiende capaciteit. Extra betaalde beoordeling is inbegrepen in de operationele kosten, wordt niet nogmaals afgetrokken van de teamcapaciteit.",
+          "totalMode": "Maandelijks budget",
+          "itemizedMode": "Kostenoverzicht",
+          "budgetNote": "Het budget moet modellen/media, tools, infrastructuur, Gabriel-kosten en extra betaalde beoordeling bevatten. Onveranderde salarisadministratie niet meerekenen als nieuwe uitgaven.",
+          "itemizedNote": "Tokengebruik wordt berekend op basis van volume × tokens per output. Extra media, tools en infrastructuur blijven op nul, tenzij van toepassing. Extra betaalde beoordeling wordt berekend op basis van beoordelingsuren en het tarief.",
+          "paidReviewCost": "Kosten voor extra betaalde beoordeling",
+          "allInCost": "Operationele kosten",
+          "missing": "Voeg uw aannames toe",
+          "cashValue": "Vermeden contante uitgaven",
+          "contribution": "Verwachte bijdrage",
+          "expectedLoss": "Verwachte vermindering van verlies",
+          "riskValue": "Onzekere risicowaarde inbegrepen",
+          "economicValue": "Gemodelleerde economische waarde",
+          "netBenefit": "Netto gemodelleerd voordeel",
+          "multiple": "Economische rendementsmultiple",
+          "notApplicable": "Niet van toepassing",
+          "annual": "Jaarlijks overzicht",
+          "annualNote": "Dezelfde maandelijkse aannames, zonder groei of samengestelde rente. Besparingen op personeel duren slechts voor de ingevoerde periode.",
+          "method": "Hoe dit wordt berekend",
+          "burdenHeading": "Repetitief werk verminderd",
+          "opportunityHeading": "Capaciteit voor werk van hogere waarde",
+          "methodBody": "Operationele lasten verwijderd (negatieve productiviteit) leveren capaciteit op. Werk van hogere waarde (potentiële positieve productiviteit) creëert economische waarde alleen als die capaciteit wordt benut. Alleen uren zijn geen contante besparingen. Tokenkosten gebruiken een gemodelleerde input/output-mix, geen offerte van een provider.",
+          "formulaLabel": "Economische waarde ÷ operationele kosten = economische rendementsmultiple. Netto voordeel minus operationele kosten eenmalig.",
+          "allocationNote": "Elk uur kan eenmaal worden toegewezen. Niet-toegewezen uren blijven capaciteit, zonder geldelijke waarde.",
+          "overlapLabel": "Deze voordelen zijn afzonderlijk; ik heb kosten en verliezen uitgesloten die al elders zijn meegeteld.",
+          "overlapNote": "Fout- en risico-schattingen sluiten arbeidsbesparingen uit en hetzelfde incident mag niet in beide categorieën voorkomen. Bijdrage sluit AI-kosten uit, die afzonderlijk worden afgetrokken.",
+          "hiringLabel": "Deze aanwerving was echt gepland en de toegewezen capaciteit kan het werk dekken.",
+          "reviewedLabel": "Ik heb mijn resultaten beoordeeld; niet-geselecteerde resultaten hebben geen financiële waarde in deze schatting.",
+          "cycleResult": "Verbetering van cyclustijd",
+          "throughputResult": "Aanvullend werk ondersteund door capaciteit en vraag",
+          "assumptionsIncomplete": "Voltooi de geselecteerde aannames om de financiële waarde te berekenen.",
+          "allocationError": "Toegewezen uren overschrijden de netto beschikbare capaciteit. Verminder de toewijzingen.",
+          "reviewError": "Beoordeling kost meer tijd dan het verminderde werk. Er is geen positieve capaciteit beschikbaar bij deze aannames.",
+          "cashError": "Vermeden uitgaven kunnen geen uitgaven overschrijden of een positieve waarde hebben zonder toegewezen uren.",
+          "hiringError": "Toegewezen capaciteit moet de geplande aanstellingsuren dekken. Bevestig de geplande aanstelling en de duur ervan.",
+          "riskError": "De kans na kan niet groter zijn dan de kans voor een schatting van verliesvermindering.",
+          "overlapError": "Bevestig dat de voordelen elkaar niet overlappen voordat u ze opneemt in het financiële resultaat.",
+          "boundsError": "Gebruik waarden binnen de weergegeven limieten.",
+          "rangeLabel": "Waarde aanpassen",
+          "noCurrencyChange": "Taal verandert de opmaak, niet uw valuta of aannames.",
+          "currentPreparation": "Huidige voorbereidingsuren",
+          "reviewHours": "Uren menselijke beoordeling",
+          "reworkHours": "Vermeden of toegevoegde rework-uren",
           "capacityValue": "Gemodelleerde capaciteitswaarde",
           "acceptedUnits": "Geaccepteerde eenheden",
           "attendedUnits": "Bezochte eenheden",
           "costPerAttended": "Kosten per bezochte eenheid",
-          "benefitCost": "Voordeel-kosten veelvoud",
-          "firstYearCost": "Kosten eerste jaar",
-          "firstYearRoi": "ROI in het eerste jaar",
-          "paybackOutsideTerm": "Niet hersteld binnen de gemodelleerde termijn",
+          "benefitCost": "Voordeel-kosten multiple",
+          "firstYearCost": "Eerstejaars kosten",
+          "firstYearRoi": "Eerstejaars ROI",
+          "paybackOutsideTerm": "Niet terugverdiend binnen de gemodelleerde termijn",
           "months": "months",
           "customerBenefit": "Gemodelleerd klantvoordeel",
-          "customerRoi": "Klant-ROI",
-          "payback": "Terugbetaling van de installatiekosten"
+          "customerRoi": "Klant ROI",
+          "payback": "Terugverdientijd van setup-kosten"
         },
         "fields": {
           "volume": {
-            "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "label": "Introducties per maand",
+            "help": "Tel het aantal introducties dat u daadwerkelijk zou doen, niet elke badge-scan."
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "Minuten om één introductie te onderzoeken vandaag",
+            "help": "Hands-on matching en coördinatie, niet de duur van het evenement."
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "Aandeel van die onderzoek Lane afhandelt",
+            "help": "Illustratief aandeel van onderzoek en briefing, geen deal-sluitingspercentage."
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "Minuten die een host nog steeds aan elke briefing besteedt",
+            "help": "Menselijk oordeel voordat iemand wordt geïntroduceerd."
           },
           "tokens_per_output": {
-            "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "label": "Tokens per introductiebrief",
+            "help": "Gemodelleerde tokens om één matchbrief te onderzoeken en te schrijven."
           },
           "budget": {
-            "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "label": "Geschat maandelijks operationeel budget",
+            "help": "Inclusief tokengebruik, modellen/media, tools, infrastructuur, Gabriel-kosten en extra betaalde beoordeling."
           },
           "model_cost": {
-            "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "label": "Extra modellen en media",
+            "help": "Alleen afbeeldingen, video's of andere generatie die apart van tokengebruik worden gefactureerd. Voer nul in als er geen zijn."
           },
           "tools_cost": {
-            "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "label": "Tools en integraties",
+            "help": "Browsersessies, connectoren en andere gemeten services. Voer nul in als er geen zijn."
           },
           "infrastructure_cost": {
-            "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "label": "Infrastructuur",
+            "help": "Incrementele hosting, opslag en rekenkracht voor deze workload. Voer nul in indien van toepassing."
           },
           "platform_cost": {
-            "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "label": "Gabriel platformkosten",
+            "help": "Typisch maandelijks gebruik voor dit gebruikspakket. Dit is een gemodelleerde aanname, geen prijsopgave."
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "Extra betaalde beoordeling per uur",
+            "help": "Werkelijke extra kosten voor reviewers, niet het salaris van een ongewijzigde werknemer."
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "Uren die betaald werk besparen",
+            "help": "Wijs alleen werk toe waarvan de overwerk-, contractanten- of verwerkingskosten daadwerkelijk stoppen."
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "Huidige maandelijkse uitgaven aan dat werk",
+            "help": "Het cashbudget waaruit de reductie zal komen."
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "Maandelijkse uitgaven die u zou stoppen",
+            "help": "Eén expliciet bedrag, geen uren vermenigvuldigd met salaris; sluit besparingen op geplande aanwervingen die afzonderlijk zijn ingevoerd uit."
           },
           "higher_value_hours": {
-            "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "label": "Uren gereserveerd voor hosting",
+            "help": "Hosttijd omgeleid van onderzoek naar het begroeten van mensen."
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "Bijdrage van een hostuur",
+            "help": "Incrementele waarde van schaarse hosttijd op de werkvloer, geen fondsenwervingsopbrengsten."
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "Uren gebruikt voor extra volume",
+            "help": "Deze toewijzing kan niet ook worden gebruikt voor advieswerk of kostenbesparingen."
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "Teamminuten per extra eenheid",
+            "help": "De resterende menselijke inspanning, inclusief beoordeling, die nodig is om nog een eenheid te leveren."
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "Extra eenheden met verwachte vraag",
+            "help": "Capaciteit alleen is geen vraag. Voer het extra maandelijkse werk in dat u verwacht aan te nemen."
           },
           "unit_margin": {
-            "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "label": "Bijdrage per extra eenheid",
+            "help": "Incrementele omzet minus leveringskosten; AI-operationele kosten worden apart afgetrokken."
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "Uren die de geplande aanwerving dekken",
+            "help": "Wijs capaciteit toe aan specifiek gepland werk, niet aan een algemene fulltime-equivalent schatting."
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "Maandelijkse uren die de geplande aanwerving zou dekken",
+            "help": "De toegewezen capaciteit moet deze volledige workload dekken."
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "Maandelijkse kosten van aanwerving die daadwerkelijk zijn uitgesteld",
+            "help": "Gebruik de kosten van een daadwerkelijk geplande aanwerving, niet het salaris van iemand die al in dienst is."
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "Maanden dat de aanwerving wordt uitgesteld",
+            "help": "Eén tot twaalf maanden; de jaarlijkse schatting stopt met het tellen van besparingen na deze periode."
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "Verwachte vermeden fouten per maand",
+            "help": "Gebruik uw basislijn en verwachte reductie. Sluit incidenten uit die ook worden meegeteld als risicoreductie."
           },
           "incident_cost": {
-            "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "label": "Incrementele kosten per fout",
+            "help": "Sluit arbeid, terugbetalingen of andere verliezen die al elders zijn opgenomen uit."
           },
           "probability_before": {
-            "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "label": "Maandelijkse verlieskans voorheen",
+            "help": "Uw schatting, geen gegarandeerde risicobeoordeling."
           },
           "probability_after": {
-            "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "label": "Maandelijkse verlieskans hierna",
+            "help": "Gebruik hetzelfde evenement en dezelfde maandelijkse tijdshorizon als de basislijn."
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "Verliesblootstelling voor dat evenement",
+            "help": "Sluit foutincidenten en uitgaven die al zijn meegeteld uit. Dit is onzekere verwachte waarde, geen bespaard geld."
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "Cyclustijd voorheen, in dagen",
+            "help": "Verstreken tijd van begin tot voltooiing, gescheiden van hands-on inspanning."
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "Cyclustijd hierna, in dagen",
+            "help": "Weergegeven als een operationele verandering, zonder een veronderstelde geldwaarde."
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
-          "Repeated coordination and follow-ups"
+          "Introductieonderzoek en matchingbriefings",
+          "Herhaalde coördinatie en follow-ups"
         ],
         "opportunity": [
-          "Thoughtful relationship-building",
-          "Additional reviewed introductions"
+          "Doordachte relatieopbouw",
+          "Extra beoordeelde introducties"
         ],
         "usagePackages": {
           "base": {
@@ -774,20 +774,20 @@
         },
         "hero": {
           "kind": "volume",
-          "label": "Researched matches"
+          "label": "Onderzochte matches"
         },
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "Hosts op de vloer houden",
+            "help": "Gebruik teruggegeven uren om mensen te begroeten, niet om opnieuw te onderzoeken wie elkaar zou moeten ontmoeten."
           }
         ],
         "tabs": [
           {
             "id": "briefs",
-            "label": "Introduction briefs",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "label": "Introductiebriefings",
+            "intro": "Hoeveel zorgvuldige introducties een typische host daadwerkelijk voorbereidt, en de nog steeds vereiste beoordeling.",
             "fields": [
               "volume",
               "minutes",
@@ -799,8 +799,8 @@
           },
           {
             "id": "tokens",
-            "label": "Token usage",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "label": "Tokengebruik",
+            "intro": "Tokens om één match te onderzoeken, plus de Gabriel-vergoeding voor dit pakket.",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -810,8 +810,8 @@
           },
           {
             "id": "host",
-            "label": "Host time",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "label": "Hosttijd",
+            "intro": "Uren teruggegeven om te begroeten en te hosten. Dit is geen voorspelling van een gefinancierde ronde.",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -819,13 +819,16 @@
         ]
       },
       "cta": {
-        "primaryLabel": "Talk with Lane",
+        "primaryLabel": "Praat met Lane",
         "primaryTarget": "waitlist",
-        "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "secondaryLabel": "Zie hoe het werkt",
+        "privacyNote": "Uw gegevens blijven privé. Uren zijn capaciteit. Financiële bedragen zijn gemodelleerde schattingen, geen waargenomen resultaten.",
         "secondaryTarget": "how-it-works"
       }
     }
+  },
+  "uiCopy": {
+    "impactLabel": "Bedrijfs-ROI-impact"
   },
   "translationIndex": [
     {
@@ -889,7 +892,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1197,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1207,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1217,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1345,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1894,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1969,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2062,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2329,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4515,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:30.172Z"
 }

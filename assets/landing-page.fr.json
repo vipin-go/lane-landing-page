@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "fr",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
     "headline": "Trouvez des modèles de connexion éprouvés, puis les personnes et les entreprises qui leur correspondent.",
     "subheadline": "Lane analyse une source publique, trouve des entités comparables, vérifie leurs relations et aide les fondateurs et les investisseurs à découvrir des liens étayés par des preuves.",
@@ -11,7 +11,7 @@
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
       "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
-      "alt": "Recherche de connexions dirigée par les concurrents pour les fondateurs et les investisseurs"
+      "alt": "Lane Recherche de connexions dirigée par les concurrents pour les fondateurs et les investisseurs"
     },
     "design": {
       "variant": "event-introductions",
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "voie.",
+        "brandLabel": "Lane.",
         "brandTagline": "Découverte fondée sur des preuves",
-        "editionLabel": "Fondateurs",
+        "editionLabel": "Startups",
         "secondaryEditionLabel": "Investisseurs",
         "navItems": [
           {
@@ -83,7 +83,7 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "Rencontrez la voie"
+        "ctaLabel": "Rencontrez le Lane"
       },
       "event": {
         "name": "Humanx Amsterdam",
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "Ajustement commercial",
-          "label": "Fondateurs ↔ partenaires de startups",
-          "pairing": "Fondateur × partenaire de startup",
-          "body": "Les fondateurs présentent ce que propose leur startup, les capacités complémentaires dont ils ont besoin et ce qu’un partenariat utile pourrait créer.",
+          "label": "Startups ↔ startups",
+          "pairing": "Démarrage × Démarrage BD",
+          "body": "Chaque startup partage ce qu’elle propose, les secteurs ou types d’entreprises qu’elle souhaite rencontrer et à quoi ressemble une adéquation commerciale utile.",
           "sides": [
             "Offre de démarrage",
             "Recherche de startups"
@@ -149,7 +149,7 @@
         "eyebrow": "Recherche dirigée par les concurrents pour les fondateurs",
         "heading": "Transformez l’URL d’une entreprise en connexions fondées sur des preuves.",
         "accentText": "Transformez l’URL d’une entreprise en connexions fondées sur des preuves.",
-        "body": "Choisissez si vous avez besoin d’un cofondateur, d’investisseurs ou de partenaires de startups. Lane analyse votre source publique, présente des entreprises comparables citées et utilise uniquement les concurrents que vous sélectionnez pour découvrir des candidats pertinents.",
+        "body": "Choisissez si vous avez besoin d'un co-fondateur, d'investisseurs ou de clients startups. Lane analyse votre source publique, affiche les entreprises comparables citées et utilise uniquement les concurrents que vous sélectionnez pour découvrir les candidats pertinents.",
         "primaryCtaLabel": "Trouver des connexions",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -232,7 +232,7 @@
             {
               "key": "privateConstraints",
               "label": "Contraintes privées",
-              "placeholder": "Tout ce que la voie doit garder en privé",
+              "placeholder": "Tout ce qui concerne Lane doit rester privé",
               "type": "textarea",
               "required": false
             }
@@ -242,10 +242,10 @@
           "editLabel": "Éditer",
           "reviewHeading": "Passez en revue votre mémoire privé",
           "reviewBody": "Rien n'est soumis, recherché ou partagé jusqu'à ce que vous vous connectiez et que vous approuviez explicitement.",
-          "submitLabel": "Connectez-vous et soumettez-vous à",
+          "submitLabel": "Connectez-vous et soumettez au Lane",
           "loginNotice": "Connectez-vous pour soumettre ce mémoire d'introduction privé à Lane pour examen humain.",
           "expiryCopy": "Les mémoires non soumis expirent après une heure.",
-          "privacyCopy": "No participant search or contact disclosure while anonymous.",
+          "privacyCopy": "Aucune recherche de participant ni divulgation de contact en cas d'anonymat.",
           "errorCopy": "Lane n'a pas pu enregistrer ce brief. Veuillez réessayer ou vous connecter."
         }
       },
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Opérateurs de startups discutant d'une collaboration commerciale",
-            "label": "Fondateurs ↔ partenaires de startups"
+            "label": "Startups ↔ startups"
           }
         ],
         "principles": [
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "Pour les fondateurs et les investisseurs qui recherchent des cofondateurs, des capitaux, des partenariats avec des startups, des LP, des startups, des co-investisseurs ou des pairs. Les relations non étayées restent inconnues."
+        "scopeNote": "Pour les fondateurs et les investisseurs recherchant des co-fondateurs, des capitaux, des clients, des LP, des startups, des co-investisseurs ou des pairs. Les relations non prises en charge restent inconnues."
       },
       "process": {
         "kicker": "Comment fonctionne la recherche",
@@ -319,7 +319,7 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Vérifier les relations prouvées",
-            "body": "Lane étudie les fondateurs, les investisseurs, les partenariats avec des startups, les portefeuilles, les tours de table, les bailleurs de fonds ou les relations entre pairs pertinents pour votre objectif."
+            "body": "Lane recherche les fondateurs, investisseurs, clients, portefeuilles, rondes, bailleurs de fonds ou partenariats pertinents pour votre objectif."
           },
           {
             "number": "04",
@@ -383,7 +383,7 @@
         "items": [
           {
             "question": "Lane est-il réservé aux fondateurs à la recherche d'investisseurs ?",
-            "answer": "Non. Le service est volontairement bilatéral : les investisseurs utilisent Lane pour trouver des fondateurs, les fondateurs utilisent Lane pour trouver des investisseurs, les cofondateurs potentiels se rencontrent et les fondateurs trouvent des startups présentant un potentiel de partenariat crédible."
+            "answer": "Le service est délibérément bilatéral : les investisseurs utilisent le Lane pour trouver des fondateurs, les fondateurs utilisent le Lane pour trouver des investisseurs, les cofondateurs potentiels se trouvent et les startups trouvent une autre startup avec un client ou une collaboration plausible."
           },
           {
             "question": "Lane effectue-t-il des recherches dans son pool privé de participants ?",
@@ -430,7 +430,7 @@
       "footer": {
         "tagline": "Lane par l'opérateur de Gabriel.",
         "disclaimer": "Lane est une IA et peut faire des erreurs. Veuillez revérifier les réponses et les preuves publiques citées.",
-        "copyright": "2026 voie",
+        "copyright": "2026 Lane",
         "groups": [
           {
             "label": "Explorer",
@@ -450,7 +450,7 @@
             ]
           },
           {
-            "label": "Voie",
+            "label": "Lane",
             "links": [
               {
                 "label": "FAQ",
@@ -474,23 +474,23 @@
       "enabled": true,
       "kicker": "Business impact",
       "heading": "ROI Calculator",
-      "subheading": "A typical event host: 16 researched matches. Lane prepares; a person still greets.",
-      "disclaimer": "A scenario built from typical introduction-research usage, not investment proceeds or successful fundraising. Mutual consent still happens with people.",
+      "subheading": "Un hôte d'événement typique : 16 matchs recherchés. Lane prépare ; une personne salue toujours.",
+      "disclaimer": "Un scénario construit à partir d'une utilisation typique d'introduction-recherche, et non de produits d'investissement ou de collecte de fonds réussie. Le consentement mutuel existe toujours entre les gens.",
       "currency": "EUR",
       "currencyCopy": {
         "native": "Amounts in {currency}.",
         "loading": "Checking the local currency. Amounts remain in {currency} until a rate is available.",
         "unavailable": "A current local exchange rate is unavailable. Amounts remain in {currency}.",
         "converted": "Amounts converted from {base} to {currency} using the reference rate dated {date}.",
-        "basis": "Currency conversion is not local cost research. Enter your own local costs and contribution assumptions. Language changes do not change amounts."
+        "basis": "La conversion de devises n'est pas une recherche de coûts locaux. Saisissez vos propres coûts locaux et hypothèses de contribution. Les changements de langue ne modifient pas les montants."
       },
       "costCopy": {
-        "breakdown": "How the all-in AI cost is built",
+        "breakdown": "Comment est construit le coût tout compris de l'IA",
         "perUnit": "{amount} per work unit (average)",
-        "budgetOnly": "This is your total budget. Switch to Cost breakdown to itemize it; no split has been assumed.",
-        "benefitNotice": "Modeled benefits, not charges. Crossed-out amounts are spending you expect to avoid, not discounts on the AI bill.",
+        "budgetOnly": "Ceci est votre budget total. Passez à Répartition des coûts pour le détailler ; aucune scission n'a été supposée.",
+        "benefitNotice": "Des avantages modélisés, pas des frais. Les montants barrés correspondent à des dépenses que vous comptez éviter, et non à des réductions sur la facture de l’IA.",
         "remainder": "Other included operating costs",
-        "allocation": "Returned hours are capacity, not automatic savings. Only the portions you assign to actual spending reductions or additional contribution receive a monetary value."
+        "allocation": "Les heures renvoyées correspondent à la capacité et non aux économies automatiques. Seules les portions que vous attribuez à des réductions de dépenses réelles ou à des contributions supplémentaires reçoivent une valeur monétaire."
       },
       "locale": "en-GB",
       "inputs": [],
@@ -514,10 +514,10 @@
           "workloadStep": "Introduction briefs",
           "costStep": "Token usage",
           "valueStep": "Host time",
-          "workloadIntro": "Model introduction research and coordination—not investment proceeds or successful fundraising.",
-          "costIntro": "Typical token consumption and the platform fee are prefilled for an average user. Edit them if your usage differs.",
-          "valueIntro": "This is the modeled output and capacity for that typical usage. Edit the assumptions if they do not match your work.",
-          "sampleNotice": "Typical usage · not observed results",
+          "workloadIntro": "Recherche et coordination de l’introduction du modèle – et non des produits d’investissement ou d’une collecte de fonds réussie.",
+          "costIntro": "La consommation typique de jetons et les frais de plateforme sont pré-remplis pour un utilisateur moyen. Modifiez-les si votre utilisation diffère.",
+          "valueIntro": "Il s'agit de la sortie et de la capacité modélisées pour cette utilisation typique. Modifiez les hypothèses si elles ne correspondent pas à votre travail.",
+          "sampleNotice": "Utilisation typique · résultats non observés",
           "monthly": "Monthly",
           "yearly": "Yearly",
           "next": "Continue",
@@ -542,11 +542,11 @@
           "reviewMode": "Who handles the review?",
           "teamReview": "Existing team",
           "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
+          "reviewNote": "La révision par l’équipe existante utilise la capacité restituée. Les évaluations payantes supplémentaires sont incluses dans les coûts de fonctionnement et ne sont plus déduites de la capacité de l'équipe.",
           "totalMode": "Monthly budget",
           "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
+          "budgetNote": "Le budget doit inclure les modèles/médias, les outils, l'infrastructure, les frais Gabriel et les révisions payantes supplémentaires. N’incluez pas la masse salariale inchangée dans les nouvelles dépenses.",
+          "itemizedNote": "L'utilisation des jetons est calculée à partir du volume × jetons par sortie. Les médias, outils et infrastructures supplémentaires restent à zéro, sauf s'ils s'appliquent. Les avis payants supplémentaires sont calculés à partir des heures d’avis et de leur tarif.",
           "paidReviewCost": "Additional paid review cost",
           "allInCost": "Operating cost",
           "missing": "Add your assumptions",
@@ -559,29 +559,29 @@
           "multiple": "Economic return multiple",
           "notApplicable": "Not applicable",
           "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
+          "annualNote": "Les mêmes hypothèses mensuelles, sans croissance ni capitalisation. L'épargne à l'embauche ne dure que pour la période saisie.",
           "method": "How this is calculated",
           "burdenHeading": "Repetitive work reduced",
           "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
+          "methodBody": "La charge d’exploitation supprimée (productivité négative) restitue la capacité. Un travail à plus forte valeur ajoutée (productivité positive potentielle) ne crée de la valeur économique que si cette capacité est utilisée. Les heures à elles seules ne constituent pas des économies d'argent. Le coût du jeton utilise une combinaison entrées/sorties modélisée, et non un devis du fournisseur.",
+          "formulaLabel": "Valeur économique ÷ coût d'exploitation = multiple de rendement économique. Le bénéfice net soustrait les coûts d’exploitation une fois.",
+          "allocationNote": "Chaque heure peut être allouée une fois. Les heures non allouées restent de la capacité, sans valeur monétaire.",
+          "overlapLabel": "Ces avantages sont distincts ; J'ai exclu les coûts et les pertes déjà comptabilisés ailleurs.",
+          "overlapNote": "Les estimations d’erreurs et de risques excluent les économies de main d’œuvre et le même incident ne doit pas apparaître dans les deux catégories. La contribution exclut les coûts de l'IA, qui sont déduits séparément.",
+          "hiringLabel": "Cette location a été véritablement planifiée et la capacité allouée peut couvrir les travaux.",
+          "reviewedLabel": "J'ai révisé mes résultats ; les résultats non sélectionnés n’ont aucune valeur financière dans cette estimation.",
           "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
+          "throughputResult": "Travaux supplémentaires soutenus par la capacité et la demande",
+          "assumptionsIncomplete": "Complétez les hypothèses sélectionnées pour calculer la valeur financière.",
+          "allocationError": "Les heures allouées dépassent la capacité nette disponible. Réduisez les allocations.",
+          "reviewError": "La révision prend plus de temps que le travail n’en réduit. Aucune capacité positive n’est disponible selon ces hypothèses.",
+          "cashError": "Les dépenses évitées ne peuvent pas dépasser les dépenses actuelles ni avoir une valeur positive sans heures allouées.",
+          "hiringError": "La capacité allouée doit couvrir les heures de location prévues. Confirmez la location prévue et sa durée.",
+          "riskError": "La probabilité après ne peut pas dépasser la probabilité avant pour une estimation de réduction des pertes.",
+          "overlapError": "Confirmez que les avantages ne se chevauchent pas avant de les inclure dans le résultat financier.",
+          "boundsError": "Utilisez les valeurs dans les limites affichées.",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "noCurrencyChange": "La langue change le formatage, pas votre devise ou vos hypothèses.",
           "currentPreparation": "Heures de préparation actuelles",
           "reviewHours": "Heures de révision humaine",
           "reworkHours": "Horaires de reprise évités ou ajoutés",
@@ -601,131 +601,131 @@
         "fields": {
           "volume": {
             "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "help": "Comptez les présentations que vous feriez réellement, pas chaque numérisation de badge."
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "Minutes pour rechercher une introduction aujourd'hui",
+            "help": "Correspondance et coordination pratiques, pas la durée de l'événement."
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "Part de cette recherche gérée par Lane",
+            "help": "Part illustrative de la recherche et du briefing, pas un taux de conclusion de transactions."
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "Minutes qu'un hôte consacre encore à chaque brief",
+            "help": "Le jugement humain avant que quiconque ne soit présenté."
           },
           "tokens_per_output": {
             "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "help": "Jetons modélisés pour rechercher et rédiger un brief de match."
           },
           "budget": {
             "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "help": "Incluez l'utilisation des jetons, les modèles/médias, les outils, l'infrastructure, les frais Gabriel et les avis payants supplémentaires."
           },
           "model_cost": {
             "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "help": "Seules les images, vidéos ou autres générations sont facturées séparément de l'utilisation du jeton. Entrez zéro si aucun."
           },
           "tools_cost": {
             "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "help": "Sessions de navigateur, connecteurs et autres services facturés. Entrez zéro si aucun."
           },
           "infrastructure_cost": {
             "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "help": "Hébergement, stockage et calcul incrémentiels pour cette charge de travail. Entrez zéro si aucun."
           },
           "platform_cost": {
             "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "help": "Accès mensuel typique pour ce forfait d'utilisation. Il s’agit d’une hypothèse modélisée et non d’un devis."
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "Examen payant supplémentaire par heure",
+            "help": "Dépenses supplémentaires réelles des évaluateurs, et non le salaire d'un employé inchangé."
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "Des heures qui suppriment le travail rémunéré",
+            "help": "Attribuez uniquement le travail dont les heures supplémentaires, les dépenses de sous-traitant ou de traitement s'arrêteront réellement."
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "Dépenses mensuelles actuelles pour ce travail",
+            "help": "Le budget de trésorerie à partir duquel proviendra la réduction."
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "Dépenses mensuelles que tu arrêterais",
+            "help": "Un montant explicite, pas d'heures multipliées par le salaire ; exclure toute économie de location prévue saisie séparément."
           },
           "higher_value_hours": {
             "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "help": "Temps d'accueil redirigé de la recherche vers l'accueil des gens."
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "Contribution d'une heure d'accueil",
+            "help": "Valeur incrémentale du peu de temps passé par l'hôte sur le terrain, et non des recettes de la collecte de fonds."
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "Heures utilisées pour le volume supplémentaire",
+            "help": "Cette allocation ne peut pas non plus être utilisée pour des travaux de conseil ou des réductions de dépenses."
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "Minutes d'équipe par unité supplémentaire",
+            "help": "L'effort humain restant, y compris l'examen, était nécessaire pour livrer une unité supplémentaire."
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "Unités supplémentaires avec demande attendue",
+            "help": "La capacité à elle seule ne constitue pas une demande. Entrez le travail mensuel supplémentaire que vous comptez effectuer."
           },
           "unit_margin": {
             "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "help": "Revenus supplémentaires moins les coûts de livraison ; Les frais de fonctionnement de l’IA sont déduits séparément."
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "Horaires couvrant la location prévue",
+            "help": "Allouez la capacité à des travaux planifiés spécifiques, et non à une estimation générique d’équivalent temps plein."
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "Heures mensuelles couvertes par l'embauche prévue",
+            "help": "La capacité allouée doit couvrir l’intégralité de cette charge de travail."
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "Coût de location mensuel effectivement différé",
+            "help": "Utilisez le coût d’une embauche véritablement planifiée, et non le salaire d’une personne déjà employée."
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "Mois pendant lesquels l'embauche est différée",
+            "help": "Un à douze mois ; l'estimation annuelle ne prend plus en compte les économies passées après cette période."
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "Erreurs évitées attendues par mois",
+            "help": "Utilisez votre référence et la réduction attendue. Exclure les incidents également comptabilisés comme réduction des risques."
           },
           "incident_cost": {
             "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "help": "Excluez la main-d'œuvre, les remboursements ou autres pertes déjà incluses ailleurs."
           },
           "probability_before": {
             "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "help": "Votre estimation, pas une évaluation des risques garantie."
           },
           "probability_after": {
             "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "help": "Utilisez le même événement et le même horizon temporel mensuel comme référence."
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "Exposition aux pertes pour cet événement",
+            "help": "Excluez les incidents d’erreur et les dépenses déjà comptabilisées. Il s’agit d’une valeur attendue incertaine, et non d’argent économisé."
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "Temps de cycle avant, en jours",
+            "help": "Temps écoulé du début à la fin, distinct des efforts pratiques."
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "Temps de cycle après, en jours",
+            "help": "Montré comme un changement opérationnel uniquement, sans valeur monétaire supposée."
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
+          "Recherche d’introduction et mémoires d’appariement",
           "Repeated coordination and follow-ups"
         ],
         "opportunity": [
@@ -779,15 +779,15 @@
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "Gardez les hôtes au sol",
+            "help": "Utilisez les heures retournées pour saluer les gens, et non pour rechercher à nouveau qui devrait se rencontrer."
           }
         ],
         "tabs": [
           {
             "id": "briefs",
             "label": "Introduction briefs",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "intro": "Combien de présentations minutieuses un hôte typique prépare réellement, et la révision est toujours nécessaire.",
             "fields": [
               "volume",
               "minutes",
@@ -800,7 +800,7 @@
           {
             "id": "tokens",
             "label": "Token usage",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "intro": "Des jetons pour rechercher une correspondance, plus les frais Gabriel pour ce package.",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -811,7 +811,7 @@
           {
             "id": "host",
             "label": "Host time",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "intro": "Les heures sont revenues pour accueillir et accueillir. Il ne s’agit pas d’une prévision de cycle de financement.",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -822,7 +822,7 @@
         "primaryLabel": "Talk with Lane",
         "primaryTarget": "waitlist",
         "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "privacyNote": "Vos données restent privées. Les heures sont la capacité. Les montants financiers sont des estimations modélisées et non des résultats observés.",
         "secondaryTarget": "how-it-works"
       }
     }
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:29.084Z"
 }

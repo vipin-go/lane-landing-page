@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "ro",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
     "headline": "Găsiți modele de conexiune dovedite, apoi oameni și companii care se potrivesc acestora.",
     "subheadline": "Lane analizează o sursă publică, găsește entități comparabile, verifică relațiile acestora și ajută fondatorii și investitorii să descopere conexiuni susținute de dovezi.",
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "alee.",
+        "brandLabel": "Lane.",
         "brandTagline": "Descoperire susținută de dovezi",
-        "editionLabel": "Founders",
+        "editionLabel": "Startup-uri",
         "secondaryEditionLabel": "Investitori",
         "navItems": [
           {
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "AFACERI FIT",
-          "label": "Founders ↔ startup partners",
-          "pairing": "Founder × Startup partner",
-          "body": "Founders share what their startup offers, the complementary capabilities they need, and what a useful partnership could create.",
+          "label": "Startup-uri ↔ startup-uri",
+          "pairing": "Pornire × Pornire BD",
+          "body": "Fiecare startup împărtășește ceea ce oferă, sectoarele sau tipurile de companii pe care dorește să le cunoască și cum arată o potrivire comercială utilă.",
           "sides": [
             "Oferta de pornire",
             "Căutare de startup"
@@ -149,7 +149,7 @@
         "eyebrow": "Cercetare condusă de concurenți pentru fondatori",
         "heading": "Transformați adresa URL a unei companii în conexiuni susținute de dovezi.",
         "accentText": "conexiuni susținute de dovezi.",
-        "body": "Choose whether you need a co-founder, investors, or startup partners. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
+        "body": "Alegeți dacă aveți nevoie de un co-fondator, investitori sau clienți startup. Lane analizează sursa dvs. publică, arată companii comparabile citate și folosește numai concurenții pe care îi selectați pentru a descoperi candidați relevanți.",
         "primaryCtaLabel": "Găsiți conexiuni",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Operatorii startup care discută despre o colaborare în afaceri",
-            "label": "Founders ↔ startup partners"
+            "label": "Startup-uri ↔ startup-uri"
           }
         ],
         "principles": [
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "For founders and investors researching co-founders, capital, startup partnerships, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
+        "scopeNote": "Pentru fondatori și investitori care caută co-fondatori, capital, clienți, LP, startup-uri, co-investitori sau colegi. Relațiile neacceptate rămân necunoscute."
       },
       "process": {
         "kicker": "Cum funcționează cercetarea",
@@ -319,7 +319,7 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Verificați relațiile dovedite",
-            "body": "Lane researches the founders, investors, startup partnerships, portfolios, rounds, backers, or peer relationships relevant to your goal."
+            "body": "Lane cercetează fondatorii, investitorii, clienții, portofoliile, rundele, susținătorii sau parteneriatele relevante pentru obiectivul dvs."
           },
           {
             "number": "04",
@@ -383,7 +383,7 @@
         "items": [
           {
             "question": "Lane este doar pentru fondatorii care caută investitori?",
-            "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and founders find startups with a credible partnership fit."
+            "answer": "Nu. Serviciul este în mod deliberat cu două fețe: investitorii folosesc Lane pentru a găsi fondatori, fondatorii folosesc Lane pentru a găsi investitori, potențialii co-fondatori se găsesc reciproc, iar startup-urile găsesc un alt startup cu un client plauzibil sau o potrivire de colaborare."
           },
           {
             "question": "Își caută Lane grupul privat de participanți?",
@@ -428,7 +428,7 @@
         "characterAlt": "Lane stând calm cu o tabletă, gata să cerceteze conexiunile"
       },
       "footer": {
-        "tagline": "banda de către operatorul Gabriel.",
+        "tagline": "Lane de Gabriel Operator.",
         "disclaimer": "Lane este un AI și poate face greșeli. Vă rugăm să verificați din nou răspunsurile și dovezile publice citate.",
         "copyright": "2026 Lane",
         "groups": [
@@ -450,7 +450,7 @@
             ]
           },
           {
-            "label": "Bandă",
+            "label": "Lane",
             "links": [
               {
                 "label": "Întrebări frecvente",
@@ -542,11 +542,11 @@
           "reviewMode": "Who handles the review?",
           "teamReview": "Existing team",
           "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
+          "reviewNote": "Evaluarea echipelor existente utilizează capacitatea returnată. Revizuirea suplimentară plătită este inclusă în costul operațional, nededusă din nou din capacitatea echipei.",
           "totalMode": "Monthly budget",
           "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
+          "budgetNote": "Bugetul trebuie să includă modele/media, instrumente, infrastructură, taxe Gabriel și revizuire suplimentară plătită. Nu includeți statul de plată neschimbat ca cheltuieli noi.",
+          "itemizedNote": "Utilizarea jetoanelor este calculată din volum × jetoane pe ieșire. Media, instrumentele și infrastructura suplimentare rămân la zero, dacă nu se aplică. Revizuirea suplimentară plătită este calculată din orele de examinare și din rata acesteia.",
           "paidReviewCost": "Additional paid review cost",
           "allInCost": "Operating cost",
           "missing": "Add your assumptions",
@@ -559,29 +559,29 @@
           "multiple": "Economic return multiple",
           "notApplicable": "Not applicable",
           "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
+          "annualNote": "Aceleași ipoteze lunare, fără creștere sau capitalizare. Economiile la angajare durează doar pentru perioada introdusă.",
           "method": "How this is calculated",
           "burdenHeading": "Repetitive work reduced",
           "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
+          "methodBody": "Sarcina operațională eliminată (productivitate negativă) returnează capacitatea. Munca cu valoare mai mare (productivitate pozitivă potențială) creează valoare economică numai dacă această capacitate este utilizată. Numai orele nu reprezintă economii de numerar. Costul simbolurilor folosește un mix de intrare/ieșire modelat, nu o cotație a furnizorului.",
+          "formulaLabel": "Valoare economică ÷ cost de exploatare = multiplu rentabilitate economică. Beneficiul net scade costul operațional o dată.",
+          "allocationNote": "Fiecare oră poate fi alocată o singură dată. Orele nealocate rămân capacitate, fără valoare monetară.",
+          "overlapLabel": "Aceste beneficii sunt distincte; Am exclus costurile și pierderile deja numărate în altă parte.",
+          "overlapNote": "Estimările de eroare și risc exclud economiile de muncă și același incident nu trebuie să apară în ambele categorii. Contribuția exclude costurile AI, care sunt deduse separat.",
+          "hiringLabel": "Această angajare a fost cu adevărat planificată și capacitatea alocată poate acoperi munca.",
+          "reviewedLabel": "Mi-am revizuit rezultatele; rezultatele neselectate nu au valoare financiară în această estimare.",
           "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
+          "throughputResult": "Muncă suplimentară susținută de capacitate și cerere",
+          "assumptionsIncomplete": "Completați ipotezele selectate pentru a calcula valoarea financiară.",
+          "allocationError": "Orele alocate depășesc capacitatea netă disponibilă. Reduceți alocațiile.",
+          "reviewError": "Revizuirea durează mai mult decât munca redusă. Nu este disponibilă o capacitate pozitivă la aceste ipoteze.",
+          "cashError": "Cheltuielile evitate nu pot depăși cheltuielile curente sau au valoare pozitivă fără ore alocate.",
+          "hiringError": "Capacitatea alocată trebuie să acopere orele de închiriere planificate. Confirmați închirierea planificată și durata acesteia.",
+          "riskError": "Probabilitatea după nu poate depăși probabilitatea înainte pentru o estimare a reducerii pierderilor.",
+          "overlapError": "Confirmați că beneficiile nu se suprapun înainte de a le include în rezultatul financiar.",
+          "boundsError": "Utilizați valori în limitele afișate.",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "noCurrencyChange": "Limba modifică formatarea, nu moneda sau ipotezele dvs.",
           "currentPreparation": "orele de pregătire curente",
           "reviewHours": "Orele de revizuire umană",
           "reworkHours": "a evitat sau a adăugat ore de reprelucrare",
@@ -601,131 +601,131 @@
         "fields": {
           "volume": {
             "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "help": "Numărați prezentările pe care le-ați face de fapt, nu fiecare scanare a insignelor."
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "Minute pentru a cerceta o introducere astăzi",
+            "help": "Potrivirea și coordonarea practică, nu durata evenimentului."
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "Cota de cercetare Lane mânere",
+            "help": "Cotă ilustrativă de cercetare și informare, nu o rată de încheiere a tranzacției."
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "Minute pe care o gazdă încă le petrece pentru fiecare brief",
+            "help": "Judecata umană înaintea oricui este introdusă."
           },
           "tokens_per_output": {
             "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "help": "Jetoane modelate pentru a cerceta și a scrie o scurtă de meci."
           },
           "budget": {
             "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "help": "Includeți utilizarea simbolurilor, modelele/media, instrumentele, infrastructura, taxele Gabriel și revizuirea suplimentară plătită."
           },
           "model_cost": {
             "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "help": "Doar imaginea, videoclipul sau altă generație este taxată separat de utilizarea simbolului. Introduceți zero dacă niciunul."
           },
           "tools_cost": {
             "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "help": "Sesiuni de browser, conectori și alte servicii măsurate. Introduceți zero dacă niciunul."
           },
           "infrastructure_cost": {
             "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "help": "Găzduire, stocare și calcul incremental pentru această sarcină de lucru. Introduceți zero dacă niciunul."
           },
           "platform_cost": {
             "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "help": "Acces lunar tipic pentru acest pachet de utilizare. Aceasta este o ipoteză modelată, nu o cotație de preț."
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "Evaluare suplimentară plătită pe oră",
+            "help": "Cheltuieli suplimentare reale ale evaluatorului, nu salariul unui angajat neschimbat."
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "Orele care elimină munca plătită",
+            "help": "Alocați numai lucrări ale cărei ore suplimentare, contractor sau cheltuieli de procesare se vor opri efectiv."
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "Cheltuielile lunare curente pentru lucrarea respectivă",
+            "help": "Bugetul de numerar din care va proveni reducerea."
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "Cheltuielile lunare te-ai opri",
+            "help": "O sumă explicită, nu ore înmulțite cu salariul; excludeți orice economisire planificată pentru închiriere introdusă separat."
           },
           "higher_value_hours": {
             "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "help": "Timpul gazdă redirecționat de la cercetare la salutul oamenilor."
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "Contribuția unei ore de gazdă",
+            "help": "Valoarea sporită a timpului limitat de gazdă pe teren, nu a veniturilor din strângere de fonduri."
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "Ore folosite pentru volum suplimentar",
+            "help": "Această alocare nu poate fi folosită și pentru activități de consultanță sau reduceri de cheltuieli."
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "Minute de echipă per unitate suplimentară",
+            "help": "Efortul uman rămas, inclusiv revizuirea, trebuia să furnizeze încă o unitate."
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "Unități suplimentare cu cerere așteptată",
+            "help": "Numai capacitatea nu este cerere. Introduceți munca lunară suplimentară pe care vă așteptați să o preluați."
           },
           "unit_margin": {
             "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "help": "Venituri suplimentare minus costurile de livrare; Costurile de operare AI sunt deduse separat."
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "Orele care acoperă angajarea planificată",
+            "help": "Alocați capacitate unei anumite activități planificate, nu unei estimări generice echivalente cu normă întreagă."
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "Orele lunare pe care le-ar acoperi angajarea planificată",
+            "help": "Capacitatea alocată trebuie să acopere întregul volum de muncă."
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "Costul lunar de închiriere a fost efectiv amânat",
+            "help": "Folosiți costul unei angajări planificate cu adevărat, nu salariul unei persoane deja angajate."
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "Lunile în care angajarea este amânată",
+            "help": "Una până la douăsprezece luni; estimarea anuală nu mai numără economiile după această perioadă."
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "Erori evitate așteptate pe lună",
+            "help": "Utilizați valoarea de bază și reducerea așteptată. Excludeți incidentele considerate și ca reducere a riscului."
           },
           "incident_cost": {
             "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "help": "Excludeți forța de muncă, rambursările sau alte pierderi deja incluse în altă parte."
           },
           "probability_before": {
             "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "help": "Estimarea dvs., nu o evaluare garantată a riscurilor."
           },
           "probability_after": {
             "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "help": "Utilizați același eveniment și același orizont de timp lunar ca linia de bază."
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "Expunerea la pierderi pentru acel eveniment",
+            "help": "Excludeți incidentele de eroare și cheltuielile deja contorizate. Aceasta este o valoare așteptată incertă, nu bani economisiți."
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "Ciclu timp înainte, în zile",
+            "help": "Timp scurs de la început până la finalizare, separat de efortul practic."
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "Timp de ciclu după, în zile",
+            "help": "Afișat doar ca o modificare operațională, fără o valoare monetară asumată."
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
+          "Cercetare introductivă și rezumate de potrivire",
           "Repeated coordination and follow-ups"
         ],
         "opportunity": [
@@ -779,15 +779,15 @@
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "Țineți gazdele pe podea",
+            "help": "Folosiți orele revenite pentru a saluta oamenii, nu pentru a cerceta din nou cine ar trebui să se întâlnească."
           }
         ],
         "tabs": [
           {
             "id": "briefs",
             "label": "Rezumate introductive",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "intro": "Câte prezentări atente pregătește de fapt o gazdă tipică și revizuirea încă este necesară.",
             "fields": [
               "volume",
               "minutes",
@@ -800,7 +800,7 @@
           {
             "id": "tokens",
             "label": "Utilizarea jetoanelor",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "intro": "Jetoane pentru a căuta o potrivire, plus taxa Gabriel pentru acest pachet.",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -811,7 +811,7 @@
           {
             "id": "host",
             "label": "Timpul gazdei",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "intro": "S-au întors ore pentru a saluta și a găzdui. Aceasta nu este o prognoză a rundei finanțate.",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -822,7 +822,7 @@
         "primaryLabel": "Talk with Lane",
         "primaryTarget": "waitlist",
         "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "privacyNote": "Datele dvs. rămân private. Orele sunt capacitate. Sumele financiare sunt estimări modelate, nu rezultate observate.",
         "secondaryTarget": "how-it-works"
       }
     }
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:29.643Z"
 }

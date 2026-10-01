@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "language": "ru",
   "regionKey": null,
-  "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
+  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
   "landingPage": {
     "headline": "Найдите проверенные модели связей, а затем людей и компании, которые им подходят.",
-    "subheadline": "Лейн анализирует один общедоступный источник, находит сопоставимые организации, проверяет их связи и помогает основателям и инвесторам обнаружить связи, подтвержденные фактами.",
-    "ctaLabel": "Пообщайтесь с Лейном",
+    "subheadline": "Lane анализирует один общедоступный источник, находит сопоставимые организации, проверяет их связи и помогает основателям и инвесторам обнаружить связи, подтвержденные фактами.",
+    "ctaLabel": "Чат с Lane",
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
@@ -61,9 +61,9 @@
     },
     "eventIntroductions": {
       "header": {
-        "brandLabel": "полоса",
+        "brandLabel": "Lane.",
         "brandTagline": "Открытие, подтвержденное фактическими данными",
-        "editionLabel": "Founders",
+        "editionLabel": "Стартапы",
         "secondaryEditionLabel": "Инвесторы",
         "navItems": [
           {
@@ -83,7 +83,7 @@
             "target": "faqs"
           }
         ],
-        "ctaLabel": "Встречайте Лейн"
+        "ctaLabel": "Знакомьтесь: Lane"
       },
       "event": {
         "name": "Хьюманкс Амстердам",
@@ -125,9 +125,9 @@
         {
           "id": "startup-startup",
           "kicker": "Бизнес подходит",
-          "label": "Founders ↔ startup partners",
-          "pairing": "Founder × Startup partner",
-          "body": "Founders share what their startup offers, the complementary capabilities they need, and what a useful partnership could create.",
+          "label": "Стартапы ↔ стартапы",
+          "pairing": "Запуск × Запуск BD",
+          "body": "Каждый стартап рассказывает о том, что он предлагает, о секторах или типах компаний, с которыми он хочет работать, и о том, как выглядит его полезное коммерческое применение.",
           "sides": [
             "Стартап предложение",
             "стартап ищет"
@@ -139,7 +139,7 @@
           "eyebrow": "Исследование конкурентов для инвесторов",
           "heading": "Начните с фонда или инвестора, которого вы знаете. Откройте для себя сеть вокруг улик.",
           "accentText": "Начните с фонда или инвестора, которого вы знаете.",
-          "body": "Выберите, нужны ли вам LP и семейные офисы, стартапы, ориентированные на диссертацию, круглые соинвесторы или равноправные инвесторы. Лейн анализирует один общедоступный источник, показывает цитируемые сопоставимые компании и исследует только выбранных вами конкурентов.",
+          "body": "Выберите, нужны ли вам LP и семейные офисы, стартапы, ориентированные на диссертацию, круглые соинвесторы или равноправные инвесторы. Lane анализирует один общедоступный источник, показывает цитируемые сопоставимые организации и исследует только выбранных вами конкурентов.",
           "primaryCtaLabel": "Исследования в качестве инвестора",
           "secondaryCtaLabel": "See how it works",
           "suggestedPrompt": "Я хочу найти стартапы, ориентированные на диссертацию."
@@ -149,15 +149,15 @@
         "eyebrow": "Исследование конкурентов для основателей",
         "heading": "Превратите один URL-адрес компании в подтвержденные ссылки.",
         "accentText": "Превратите один URL-адрес компании в подтвержденные ссылки.",
-        "body": "Choose whether you need a co-founder, investors, or startup partners. Lane analyzes your public source, shows cited comparable companies, and uses only the competitors you select to discover relevant candidates.",
+        "body": "Выберите, нужен ли вам сооснователь, инвесторы или клиенты стартапа. Lane анализирует ваш общедоступный источник, показывает цитируемые сопоставимые компании и использует только выбранных вами конкурентов для поиска подходящих кандидатов.",
         "primaryCtaLabel": "Найдите связи",
         "secondaryCtaLabel": "See how it works",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Лейн, руководство по исследованию связей",
+        "characterAlt": "Lane, справочник по исследованию связи",
         "chat": {
           "statusLabel": "Онлайн · исследование готово",
           "operatorBadge": "Публичные доказательства",
-          "openingMessage": "Привет, я Лейн. Дайте мне один общедоступный источник, и я отследю сопоставимые объекты, проверенные связи и похожие связи.",
+          "openingMessage": "Привет, я Lane. Дайте мне один общедоступный источник, и я отследю сопоставимые объекты, проверенные связи и похожие связи.",
           "inputPlaceholder": "Начать научно обоснованное исследование…",
           "suggestedPrompts": [
             "Как работают исследования, проводимые конкурентами?",
@@ -232,7 +232,7 @@
             {
               "key": "privateConstraints",
               "label": "Частные ограничения",
-              "placeholder": "Все, что дороже, должно быть закрыто",
+              "placeholder": "Все, что Lane, должно оставаться конфиденциальным.",
               "type": "textarea",
               "required": false
             }
@@ -243,16 +243,16 @@
           "reviewHeading": "Просмотрите свой личный бриф",
           "reviewBody": "Ничего не отправляется, не выполняется поиск и не передается, пока вы не войдете в систему и не одобрите.",
           "submitLabel": "Войдите и отправьте на Lane",
-          "loginNotice": "Войдите, чтобы отправить этот частный вводный бриф для Лейна для человеческих обзоров.",
+          "loginNotice": "Войдите в систему, чтобы отправить это частное вводное описание на номер Lane для проверки человеком.",
           "expiryCopy": "Срок действия неотправленных справочников истекает через час.",
           "privacyCopy": "Никакого поиска участников или раскрытия контакта во время анонимности.",
-          "errorCopy": "Лейн не смог сохранить эту краткую информацию. Пожалуйста, повторите попытку или войдите в систему."
+          "errorCopy": "Lane не смог сохранить этот бриф. Пожалуйста, повторите попытку или войдите в систему."
         }
       },
       "about": {
         "kicker": "Прослеживаемый метод исследования",
         "heading": "Начните с того, что доказано, а затем найдите аналог.",
-        "body": "Лейн обосновал открытие общедоступным источником, процитировал сопоставимые организации и проверил доказательства родства, прежде чем предложить кандидата.",
+        "body": "Lane обосновывает обнаружение в общедоступном источнике, цитирует сопоставимые организации и проверяет доказательства родства, прежде чем предлагать кандидата.",
         "images": [
           {
             "number": "01",
@@ -270,7 +270,7 @@
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-collaboration.png",
             "alt": "Стартап-операторы обсуждают деловое сотрудничество",
-            "label": "Founders ↔ startup partners"
+            "label": "Стартапы ↔ стартапы"
           }
         ],
         "principles": [
@@ -283,7 +283,7 @@
           {
             "icon": "users",
             "title": "Вы выбираете аналоги.",
-            "body": "Лейн исследует только одного-пяти конкурентов, которых вы явно выбрали.",
+            "body": "Lane исследует только одного-пяти конкурентов, которых вы явно выбрали.",
             "tone": "iris"
           },
           {
@@ -293,7 +293,7 @@
             "tone": "mint"
           }
         ],
-        "scopeNote": "For founders and investors researching co-founders, capital, startup partnerships, LPs, startups, co-investors, or peers. Unsupported relationships remain unknown."
+        "scopeNote": "Для основателей и инвесторов, исследующих соучредителей, капитал, клиентов, LP, стартапы, соинвесторов или коллег. Неподдерживаемые отношения остаются неизвестными."
       },
       "process": {
         "kicker": "Как работает исследование",
@@ -312,14 +312,14 @@
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-search.png",
             "alt": "",
             "title": "Обзор цитируемых конкурентов",
-            "body": "Лейн анализирует источник, находит похожие сущности через Exa и просит выбрать от одной до пяти."
+            "body": "Lane анализирует источник, находит похожие сущности через Exa и просит выбрать от одной до пяти."
           },
           {
             "number": "03",
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-step-intro.png",
             "alt": "",
             "title": "Подтвердить проверенные связи",
-            "body": "Lane researches the founders, investors, startup partnerships, portfolios, rounds, backers, or peer relationships relevant to your goal."
+            "body": "Lane исследует основателей, инвесторов, клиентов, портфели, раунды, спонсоров или партнерства, имеющие отношение к вашей цели."
           },
           {
             "number": "04",
@@ -333,7 +333,7 @@
       "pairing": {
         "kicker": "Цепочка доказательств",
         "heading": "Кандидат полезен только тогда, когда виден путь к нему.",
-        "body": "Лейн сохраняет для анализа исходный профиль, выбранных конкурентов, проверенные модели взаимоотношений, цитирования, идентификаторы поставщиков и достоверность информации.",
+        "body": "Lane хранит исходный профиль, выбранных конкурентов, проверенные модели взаимоотношений, цитаты, идентификаторы поставщиков и достоверность вместе для проверки.",
         "images": [
           {
             "image": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-real-pairing.png",
@@ -344,7 +344,7 @@
             "alt": "Стартап-операторы обсуждают потенциальное сотрудничество"
           }
         ],
-        "fitLabel": "Лейн подходит",
+        "fitLabel": "Lane подходит",
         "criteria": [
           "Открытый источник доступен для проверки",
           "Приводятся доказательства конкурентов",
@@ -378,20 +378,20 @@
       },
       "faq": {
         "kicker": "хорошие вопросы",
-        "heading": "Прежде чем Лейн начнет исследование.",
+        "heading": "До Lane начнется исследование.",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-transparent.png",
         "items": [
           {
             "question": "Lane только для основателей ищет инвесторов?",
-            "answer": "No. The service is deliberately two-sided: investors use Lane to find founders, founders use Lane to find investors, potential co-founders find each other, and founders find startups with a credible partnership fit."
+            "answer": "Нет. Сервис намеренно двусторонний: инвесторы используют номер Lane для поиска основателей, основатели используют номер Lane для поиска инвесторов, потенциальные сооснователи находят друг друга, а стартапы находят другой стартап с подходящим клиентом или подходящим для сотрудничества."
           },
           {
-            "question": "Просматривает ли Лейн свой частный пул участников?",
-            "answer": "Нет. В этом путешествии используется анализ общедоступных источников, цитируются сопоставимые объекты, проверенные доказательства родства и обнаружение двойников. Он не выполняет поиск среди участников Лейна."
+            "question": "Выполняет ли Lane поиск в своем частном пуле участников?",
+            "answer": "Нет. В этом путешествии используется анализ общедоступных источников, цитируются сопоставимые объекты, проверенные доказательства родства и обнаружение двойников. Он не выполняет поиск в пуле участников Lane."
           },
           {
-            "question": "Раскрывает ли Лейн личные контактные данные?",
-            "answer": "Нет. Лейн хранит только публичные данные и доказательства. Личные контактные данные и неподдерживаемые связи никогда не выводятся и не отображаются."
+            "question": "Раскрывает ли номер Lane личные контактные данные?",
+            "answer": "В номере Lane хранятся только публичные данные и доказательства. Личные контактные данные и неподдерживаемые связи никогда не выводятся и не отображаются."
           },
           {
             "question": "Что происходит до того, как я вхожу в систему?",
@@ -399,7 +399,7 @@
           },
           {
             "question": "Что происходит, когда доказательства недоступны?",
-            "answer": "Лейн возвращает неизвестный результат или его отсутствие. Он не угадывает отношения, доступность или личную информацию."
+            "answer": "Lane возвращает неизвестный результат или его отсутствие. Он не угадывает отношения, доступность или личную информацию."
           },
           {
             "question": "Сохранение соединения с кем-нибудь связывается?",
@@ -409,8 +409,8 @@
       },
       "waitlist": {
         "kicker": "Одно событие за раз",
-        "heading": "Хотите переулок на вашем мероприятии?",
-        "body": "Дорожка переходит от одной избранной конференции к другой. Присоединяйтесь к списку ожидания будущего события и сообщите оператору, где будут иметь значение тщательное знакомство.",
+        "heading": "Хотите Lane на вашем мероприятии?",
+        "body": "Lane переходит от одной избранной конференции к другой. Присоединяйтесь к списку ожидания будущих мероприятий и сообщите оператору, где будет важно тщательное знакомство.",
         "nameLabel": "Имя",
         "emailLabel": "Электронное письмо",
         "eventLabel": "Название события или конференции",
@@ -421,16 +421,16 @@
       "closing": {
         "kicker": "Готовы, когда вы",
         "heading": "Начните с одного источника. Следуйте доказательствам.",
-        "body": "Выберите цель «Основатель» или «Инвестор», укажите один общедоступный URL-адрес и решите, какие сопоставимые организации Лейн должен исследовать.",
+        "body": "Выберите цель основателя или инвестора, укажите один общедоступный URL-адрес и решите, какие сопоставимые организации Lane следует исследовать.",
         "ctaLabel": "Найдите связи",
         "note": "Только публичные доказательства · Никакого поиска среди участников · Никакой информационно-пропагандистской деятельности · Сохраняйте только то, что вы выберете",
         "characterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
-        "characterAlt": "Лейн спокойно стоит с планшетом, готовый исследовать связи."
+        "characterAlt": "Lane спокойно стоит с планшетом и готов исследовать связи."
       },
       "footer": {
-        "tagline": "Лейн от оператора Габриэля.",
-        "disclaimer": "Лейн — искусственный интеллект и может ошибаться. Пожалуйста, перепроверьте ответы и приведенные общедоступные доказательства.",
-        "copyright": "2026 Лейн",
+        "tagline": "Lane от Габриэля Оператора.",
+        "disclaimer": "Lane — это искусственный интеллект, который может ошибаться. Пожалуйста, перепроверьте ответы и приведенные общедоступные доказательства.",
+        "copyright": "2026 Lane",
         "groups": [
           {
             "label": "Проводить исследования",
@@ -450,7 +450,7 @@
             ]
           },
           {
-            "label": "Переулок",
+            "label": "Lane",
             "links": [
               {
                 "label": "Часто задаваемые вопросы",
@@ -474,23 +474,23 @@
       "enabled": true,
       "kicker": "Business impact",
       "heading": "ROI Calculator",
-      "subheading": "A typical event host: 16 researched matches. Lane prepares; a person still greets.",
-      "disclaimer": "A scenario built from typical introduction-research usage, not investment proceeds or successful fundraising. Mutual consent still happens with people.",
+      "subheading": "Типичный ведущий мероприятия: 16 исследованных матчей. Lane готовится; человек все равно здоровается.",
+      "disclaimer": "Сценарий построен на основе типичного внедрения и исследования, а не на инвестициях или успешном сборе средств. Взаимное согласие все еще случается с людьми.",
       "currency": "EUR",
       "currencyCopy": {
         "native": "Amounts in {currency}.",
         "loading": "Checking the local currency. Amounts remain in {currency} until a rate is available.",
         "unavailable": "A current local exchange rate is unavailable. Amounts remain in {currency}.",
         "converted": "Amounts converted from {base} to {currency} using the reference rate dated {date}.",
-        "basis": "Currency conversion is not local cost research. Enter your own local costs and contribution assumptions. Language changes do not change amounts."
+        "basis": "Конвертация валюты не является исследованием местных затрат. Введите свои собственные местные затраты и предполагаемые взносы. Изменения языка не меняют суммы."
       },
       "costCopy": {
-        "breakdown": "How the all-in AI cost is built",
+        "breakdown": "Как формируется общая стоимость ИИ",
         "perUnit": "{amount} per work unit (average)",
-        "budgetOnly": "This is your total budget. Switch to Cost breakdown to itemize it; no split has been assumed.",
-        "benefitNotice": "Modeled benefits, not charges. Crossed-out amounts are spending you expect to avoid, not discounts on the AI bill.",
+        "budgetOnly": "Это ваш общий бюджет. Переключитесь на разбивку затрат, чтобы детализировать ее; никакого разделения не предполагалось.",
+        "benefitNotice": "Смоделированные выгоды, а не сборы. Зачеркнутые суммы — это расходы, которых вы ожидаете избежать, а не скидки на счет ИИ.",
         "remainder": "Other included operating costs",
-        "allocation": "Returned hours are capacity, not automatic savings. Only the portions you assign to actual spending reductions or additional contribution receive a monetary value."
+        "allocation": "Возвращенные часы — это мощность, а не автоматическая экономия. Только те части, которые вы назначаете на фактическое сокращение расходов или дополнительные взносы, получают денежную оценку."
       },
       "locale": "en-GB",
       "inputs": [],
@@ -514,10 +514,10 @@
           "workloadStep": "Introduction briefs",
           "costStep": "Token usage",
           "valueStep": "Host time",
-          "workloadIntro": "Model introduction research and coordination—not investment proceeds or successful fundraising.",
-          "costIntro": "Typical token consumption and the platform fee are prefilled for an average user. Edit them if your usage differs.",
-          "valueIntro": "This is the modeled output and capacity for that typical usage. Edit the assumptions if they do not match your work.",
-          "sampleNotice": "Typical usage · not observed results",
+          "workloadIntro": "Исследование и координация внедрения модели, а не инвестиционные поступления или успешный сбор средств.",
+          "costIntro": "Типичное потребление токенов и комиссия платформы предварительно указаны для обычного пользователя. Отредактируйте их, если ваше использование отличается.",
+          "valueIntro": "Это смоделированная производительность и мощность для этого типичного использования. Отредактируйте предположения, если они не соответствуют вашей работе.",
+          "sampleNotice": "Типичное использование · не наблюдаемые результаты",
           "monthly": "Monthly",
           "yearly": "Yearly",
           "next": "Continue",
@@ -542,11 +542,11 @@
           "reviewMode": "Who handles the review?",
           "teamReview": "Existing team",
           "paidReview": "Additional paid reviewer",
-          "reviewNote": "Existing-team review uses returned capacity. Additional paid review is included in operating cost, not deducted again from team capacity.",
+          "reviewNote": "При проверке существующей командой используются возвращенные мощности. Дополнительная платная проверка включена в эксплуатационные расходы и не вычитается повторно из возможностей команды.",
           "totalMode": "Monthly budget",
           "itemizedMode": "Cost breakdown",
-          "budgetNote": "The budget must include models/media, tools, infrastructure, Gabriel fees and additional paid review. Do not include unchanged payroll as new spending.",
-          "itemizedNote": "Token usage is calculated from volume × tokens per output. Extra media, tools and infrastructure stay at zero unless they apply. Additional paid review is calculated from review hours and its rate.",
+          "budgetNote": "Бюджет должен включать модели/медиа, инструменты, инфраструктуру, гонорары Габриэля и дополнительную платную проверку. Не включайте неизмененный фонд заработной платы в качестве новых расходов.",
+          "itemizedNote": "Использование токенов рассчитывается как объем × токенов на выход. Дополнительные средства массовой информации, инструменты и инфраструктура остаются на нуле, если они не применяются. Дополнительная платная рецензия рассчитывается исходя из часов рецензии и ее стоимости.",
           "paidReviewCost": "Additional paid review cost",
           "allInCost": "Operating cost",
           "missing": "Add your assumptions",
@@ -559,29 +559,29 @@
           "multiple": "Economic return multiple",
           "notApplicable": "Not applicable",
           "annual": "Annual view",
-          "annualNote": "The same monthly assumptions, without growth or compounding. Hiring savings last only for the entered period.",
+          "annualNote": "Те же ежемесячные предположения, без роста или начисления процентов. Экономия на найме действительна только в течение введенного периода.",
           "method": "How this is calculated",
           "burdenHeading": "Repetitive work reduced",
           "opportunityHeading": "Capacity for higher-value work",
-          "methodBody": "Operating burden removed (negative productivity) returns capacity. Higher-value work (potential positive productivity) creates economic value only if that capacity is used. Hours alone are not cash savings. Token cost uses a modeled input/output mix, not a provider quote.",
-          "formulaLabel": "Economic value ÷ operating cost = economic return multiple. Net benefit subtracts operating cost once.",
-          "allocationNote": "Each hour can be allocated once. Unallocated hours remain capacity, with no monetary value.",
-          "overlapLabel": "These benefits are distinct; I have excluded costs and losses already counted elsewhere.",
-          "overlapNote": "Error and risk estimates exclude labor savings and the same incident must not appear in both categories. Contribution excludes AI costs, which are deducted separately.",
-          "hiringLabel": "This hire was genuinely planned and the allocated capacity can cover the work.",
-          "reviewedLabel": "I have reviewed my outcomes; unselected outcomes have no financial value in this estimate.",
+          "methodBody": "Снятие операционной нагрузки (отрицательная производительность) возвращает мощность. Работа с более высокой ценностью (потенциальная положительная производительность) создает экономическую ценность только в том случае, если эта мощность используется. Часы сами по себе не являются экономией денег. В стоимости токена используется смоделированное сочетание входных/выходных данных, а не котировка поставщика.",
+          "formulaLabel": "Экономическая ценность ÷ эксплуатационные затраты = кратная экономическая отдача. Из чистой прибыли один раз вычитаются эксплуатационные расходы.",
+          "allocationNote": "Каждый час можно выделить один раз. Нераспределенные часы остаются емкостью и не имеют денежной оценки.",
+          "overlapLabel": "Эти преимущества различны; Я исключил затраты и потери, уже подсчитанные в других местах.",
+          "overlapNote": "Оценки ошибок и рисков исключают экономию труда, и один и тот же инцидент не должен появляться в обеих категориях. Взнос не включает затраты на ИИ, которые вычитаются отдельно.",
+          "hiringLabel": "Этот найм был действительно запланирован, и выделенные мощности могут покрыть эту работу.",
+          "reviewedLabel": "Я просмотрел свои результаты; невыбранные результаты не имеют финансовой ценности в этой оценке.",
           "cycleResult": "Cycle-time improvement",
-          "throughputResult": "Additional work supported by capacity and demand",
-          "assumptionsIncomplete": "Complete the selected assumptions to calculate financial value.",
-          "allocationError": "Allocated hours exceed the net capacity available. Reduce the allocations.",
-          "reviewError": "Review takes more time than the work reduced. No positive capacity is available at these assumptions.",
-          "cashError": "Avoided spending cannot exceed current spending or have positive value with no hours allocated.",
-          "hiringError": "Allocated capacity must cover the planned hire hours. Confirm the planned hire and its duration.",
-          "riskError": "The after probability cannot exceed the before probability for a loss-reduction estimate.",
-          "overlapError": "Confirm the benefits do not overlap before including them in the financial result.",
-          "boundsError": "Use values within the displayed limits.",
+          "throughputResult": "Дополнительная работа, поддерживаемая возможностями и спросом",
+          "assumptionsIncomplete": "Завершите выбранные допущения для расчета финансовой стоимости.",
+          "allocationError": "Выделенные часы превышают доступную чистую мощность. Сократите ассигнования.",
+          "reviewError": "Проверка занимает больше времени, чем сокращается работа. При этих предположениях положительная емкость невозможна.",
+          "cashError": "Расходы, которых удалось избежать, не могут превышать текущие расходы или иметь положительную ценность без отведенных часов.",
+          "hiringError": "Выделенная мощность должна покрывать запланированные часы аренды. Подтвердите запланированный прокат и его продолжительность.",
+          "riskError": "Вероятность «после» не может превышать вероятность «до» для оценки сокращения потерь.",
+          "overlapError": "Прежде чем включать их в финансовый результат, убедитесь, что выгоды не пересекаются.",
+          "boundsError": "Используйте значения в пределах отображаемых пределов.",
           "rangeLabel": "Adjust value",
-          "noCurrencyChange": "Language changes formatting, not your currency or assumptions.",
+          "noCurrencyChange": "Язык меняет форматирование, а не вашу валюту или предположения.",
           "currentPreparation": "Текущие часы подготовки",
           "reviewHours": "Человеческие часы обзора",
           "reworkHours": "избегали или добавляли часы доработки",
@@ -601,131 +601,131 @@
         "fields": {
           "volume": {
             "label": "Introduction briefs each month",
-            "help": "Count introductions you would actually make, not every badge scan."
+            "help": "Посчитайте знакомства, которые вы действительно сделали, а не каждое сканирование бейджа."
           },
           "minutes": {
-            "label": "Minutes to research one introduction today",
-            "help": "Hands-on matching and coordination, not the length of the event."
+            "label": "Минуты на исследование одного введения сегодня",
+            "help": "Практическое сопоставление и координация, а не продолжительность мероприятия."
           },
           "automation": {
-            "label": "Share of that research Lane handles",
-            "help": "Illustrative share of research and briefing, not a deal-close rate."
+            "label": "Доля этого исследования Lane ручки",
+            "help": "Показательная доля исследований и брифингов, а не показатель заключения сделок."
           },
           "review": {
-            "label": "Minutes a host still spends on each brief",
-            "help": "Human judgment before anyone is introduced."
+            "label": "Минуты, которые организатор по-прежнему тратит на каждый бриф",
+            "help": "Человеческое суждение, прежде чем кто-либо будет представлен."
           },
           "tokens_per_output": {
             "label": "Tokens per introduction brief",
-            "help": "Modeled tokens to research and write one match brief."
+            "help": "Смоделированные жетоны для исследования и написания описания одного матча."
           },
           "budget": {
             "label": "Estimated monthly operating budget",
-            "help": "Include token usage, models/media, tools, infrastructure, Gabriel fees and additional paid review."
+            "help": "Включите использование токенов, модели/медиа, инструменты, инфраструктуру, комиссионные сборы Gabriel и дополнительный платный обзор."
           },
           "model_cost": {
             "label": "Extra models and media",
-            "help": "Only image, video or other generation charged separately from token usage. Enter zero if none."
+            "help": "Отдельно от использования токена взимается только генерация изображений, видео или других данных. Введите ноль, если нет."
           },
           "tools_cost": {
             "label": "Tools and integrations",
-            "help": "Browser sessions, connectors and other metered services. Enter zero if none."
+            "help": "Сеансы браузера, коннекторы и другие измеряемые службы. Введите ноль, если нет."
           },
           "infrastructure_cost": {
             "label": "Infrastructure",
-            "help": "Incremental hosting, storage and compute for this workload. Enter zero if none."
+            "help": "Дополнительный хостинг, хранилище и вычислительные ресурсы для этой рабочей нагрузки. Введите ноль, если нет."
           },
           "platform_cost": {
             "label": "Gabriel platform fee",
-            "help": "Typical monthly access for this usage package. This is a modeled assumption, not a price quote."
+            "help": "Типичный ежемесячный доступ для этого пакета использования. Это смоделированное предположение, а не ценовое предложение."
           },
           "review_rate": {
-            "label": "Additional paid review per hour",
-            "help": "Actual extra reviewer spending, not the salary of an unchanged employee."
+            "label": "Дополнительный платный обзор в час",
+            "help": "Фактические дополнительные расходы рецензента, а не зарплата неизменного сотрудника."
           },
           "cash_hours": {
-            "label": "Hours that remove paid work",
-            "help": "Allocate only work whose overtime, contractor or processing spend will actually stop."
+            "label": "Часы, которые удаляют оплачиваемую работу",
+            "help": "Выделяйте только те работы, затраты на сверхурочную работу, работу подрядчиков или обработку которых фактически прекратятся."
           },
           "cash_baseline": {
-            "label": "Current monthly spending on that work",
-            "help": "The cash budget from which the reduction will come."
+            "label": "Текущие ежемесячные расходы на эту работу",
+            "help": "Денежный бюджет, из которого будет происходить сокращение."
           },
           "cash_avoided": {
-            "label": "Monthly spending you would stop",
-            "help": "One explicit amount, not hours multiplied by salary; exclude any planned-hire saving entered separately."
+            "label": "Ежемесячные расходы, которые вы бы прекратили",
+            "help": "Одна конкретная сумма, а не часы, умноженные на зарплату; исключить любую экономию по плановому найму, введенную отдельно."
           },
           "higher_value_hours": {
             "label": "Hours kept for hosting",
-            "help": "Host time redirected from research to greeting people."
+            "help": "Время хоста перенаправлено с исследований на приветствие людей."
           },
           "contribution_rate": {
-            "label": "Contribution of a host hour",
-            "help": "Incremental value of scarce host time on the floor, not fundraising proceeds."
+            "label": "Вклад принимающего часа",
+            "help": "Дополнительная ценность ограниченного времени, проведенного хостом в зале, а не доходы от сбора средств."
           },
           "throughput_hours": {
-            "label": "Hours used for additional volume",
-            "help": "This allocation cannot also be used for advisory work or spending reductions."
+            "label": "Часы, использованные для дополнительного объема",
+            "help": "Эти ассигнования также не могут быть использованы для консультативной работы или сокращения расходов."
           },
           "extra_minutes": {
-            "label": "Team minutes per additional unit",
-            "help": "The remaining human effort, including review, needed to deliver one more unit."
+            "label": "Командные минуты на дополнительную единицу",
+            "help": "Оставшиеся человеческие усилия, включая проверку, потребовались для доставки еще одного устройства."
           },
           "demand": {
-            "label": "Additional units with expected demand",
-            "help": "Capacity alone is not demand. Enter the extra monthly work you expect to take on."
+            "label": "Дополнительные единицы с ожидаемым спросом",
+            "help": "Сами по себе мощности еще не являются спросом. Введите дополнительную ежемесячную работу, которую вы ожидаете выполнить."
           },
           "unit_margin": {
             "label": "Contribution per additional unit",
-            "help": "Incremental revenue less delivery costs; AI operating costs are deducted separately."
+            "help": "Дополнительный доход за вычетом затрат на доставку; Эксплуатационные расходы ИИ вычитаются отдельно."
           },
           "hiring_hours": {
-            "label": "Hours covering the planned hire",
-            "help": "Allocate capacity to specific planned work, not a generic full-time-equivalent estimate."
+            "label": "Часы, охватывающие запланированный прием на работу",
+            "help": "Распределяйте мощности для конкретной запланированной работы, а не для общей оценки, эквивалентной полной занятости."
           },
           "planned_hours": {
-            "label": "Monthly hours the planned hire would cover",
-            "help": "The allocated capacity must cover this entire workload."
+            "label": "Ежемесячные часы, которые запланированный найм будет охватывать",
+            "help": "Выделенная мощность должна покрывать всю эту рабочую нагрузку."
           },
           "hire_cost": {
-            "label": "Monthly hire cost actually deferred",
-            "help": "Use the cost of a genuinely planned hire, not the salary of someone already employed."
+            "label": "Ежемесячная стоимость аренды фактически отложена",
+            "help": "Используйте стоимость действительно запланированного найма, а не зарплату уже трудоустроенного сотрудника."
           },
           "hire_months": {
-            "label": "Months that hire is deferred",
-            "help": "One to twelve months; the annual estimate stops counting savings after this period."
+            "label": "Месяцы, в течение которых прием на работу откладывается",
+            "help": "От одного до двенадцати месяцев; годовая смета перестает учитывать сбережения после этого периода."
           },
           "incidents": {
-            "label": "Expected avoided errors per month",
-            "help": "Use your baseline and expected reduction. Exclude incidents also counted as risk reduction."
+            "label": "Ожидаемое количество предотвращенных ошибок в месяц",
+            "help": "Используйте базовый уровень и ожидаемое сокращение. Исключение инцидентов также считается снижением риска."
           },
           "incident_cost": {
             "label": "Incremental cost per error",
-            "help": "Exclude labor, refunds or other losses already included elsewhere."
+            "help": "Исключите оплату труда, возмещение или другие потери, уже включенные в другие разделы."
           },
           "probability_before": {
             "label": "Monthly loss probability before",
-            "help": "Your estimate, not a guaranteed risk assessment."
+            "help": "Ваша оценка, а не гарантированная оценка риска."
           },
           "probability_after": {
             "label": "Monthly loss probability after",
-            "help": "Use the same event and monthly time horizon as the baseline."
+            "help": "Используйте те же события и месячный временной горизонт, что и в качестве базового плана."
           },
           "loss": {
-            "label": "Loss exposure for that event",
-            "help": "Exclude error incidents and spending already counted. This is uncertain expected value, not cash saved."
+            "label": "Риск убытков по этому событию",
+            "help": "Исключите случаи ошибок и уже подсчитанные расходы. Это неопределенная ожидаемая ценность, а не сэкономленные деньги."
           },
           "days_before": {
-            "label": "Cycle time before, in days",
-            "help": "Elapsed time from start to completion, separate from hands-on effort."
+            "label": "Продолжительность цикла до, в днях",
+            "help": "Время, прошедшее от начала до завершения, отдельно от практических усилий."
           },
           "days_after": {
-            "label": "Cycle time after, in days",
-            "help": "Shown as an operational change only, without an assumed monetary value."
+            "label": "Время цикла после, в днях",
+            "help": "Отображается только как операционное изменение без предполагаемой денежной стоимости."
           }
         },
         "burden": [
-          "Introduction research and matching briefs",
+          "Вводные исследования и соответствующие краткие описания",
           "Repeated coordination and follow-ups"
         ],
         "opportunity": [
@@ -779,15 +779,15 @@
         "outcomes": [
           {
             "id": "higher_value",
-            "label": "Keep hosts on the floor",
-            "help": "Use returned hours to greet people, not to re-research who should meet."
+            "label": "Держите хозяев на полу",
+            "help": "Используйте возвращенные часы для приветствия людей, а не для повторного изучения того, кому следует встретиться."
           }
         ],
         "tabs": [
           {
             "id": "briefs",
             "label": "Introduction briefs",
-            "intro": "How many careful introductions a typical host actually prepares, and the review still required.",
+            "intro": "Сколько тщательных представлений на самом деле готовит типичный ведущий, и сколько еще требуется обзор.",
             "fields": [
               "volume",
               "minutes",
@@ -800,7 +800,7 @@
           {
             "id": "tokens",
             "label": "Token usage",
-            "intro": "Tokens to research one match, plus the Gabriel fee for this package.",
+            "intro": "Жетоны для исследования одного совпадения, а также плата Габриэля за этот пакет.",
             "fields": [
               "tokens_per_output",
               "platform_cost",
@@ -811,7 +811,7 @@
           {
             "id": "host",
             "label": "Host time",
-            "intro": "Hours returned to greet and host. This is not a funded-round forecast.",
+            "intro": "Часы вернулись, чтобы поприветствовать и принять гостей. Это не прогноз финансируемого раунда.",
             "fields": [],
             "showPackage": true,
             "showOutcomes": true
@@ -822,7 +822,7 @@
         "primaryLabel": "Talk with Lane",
         "primaryTarget": "waitlist",
         "secondaryLabel": "See how it works",
-        "privacyNote": "Your data stays private. Hours are capacity. Financial amounts are modeled estimates, not observed results.",
+        "privacyNote": "Ваши данные остаются конфиденциальными. Часы - это емкость. Финансовые суммы представляют собой смоделированные оценки, а не наблюдаемые результаты.",
         "secondaryTarget": "how-it-works"
       }
     }
@@ -889,7 +889,7 @@
         "header",
         "editionLabel"
       ],
-      "sourceHash": "75f977702daaf9b50c20c16411fa382eb7706f2ed4a5f420e85ccb082d86ae18"
+      "sourceHash": "076e0331e1fa1b79e3efee1a400218217d58762287cb88badd28ad3f184b5fe0"
     },
     {
       "path": [
@@ -1194,7 +1194,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1204,7 +1204,7 @@
         2,
         "pairing"
       ],
-      "sourceHash": "c91f63252d9dfaba8e9efa38cb914d0c94f307903bd4609b505f1d8d07d088e1"
+      "sourceHash": "eb7e99f1a79d372da368831db3c46dc9ad681b251345aa0e39bef5da27cee2e6"
     },
     {
       "path": [
@@ -1214,7 +1214,7 @@
         2,
         "body"
       ],
-      "sourceHash": "d57aea22e6c68bc9316c322506dcbffed2f18e6c822669b97bb355b2a254e5bc"
+      "sourceHash": "afea6d6bbc056aa297a77645f472ab49b0c2dc37aa2377ef0cc1beef67f6b981"
     },
     {
       "path": [
@@ -1342,7 +1342,7 @@
         "hero",
         "body"
       ],
-      "sourceHash": "d68392a1988d32c7b9ee91f06c8fc65051256b4a5a1b67fc5c387799cb716fcf"
+      "sourceHash": "0d03c1b25b87b01483d38f5411b087c760960e5bf12a035f1fb5f724d4db2064"
     },
     {
       "path": [
@@ -1891,7 +1891,7 @@
         2,
         "label"
       ],
-      "sourceHash": "e22413b7bafc40e9219efb0e8a42890828d3705f4701f343608b3334a3ec07bf"
+      "sourceHash": "a787a3415fc463a8c8a5c8632d492b821d7b597388b01ab51f3923d5add1d07e"
     },
     {
       "path": [
@@ -1966,7 +1966,7 @@
         "about",
         "scopeNote"
       ],
-      "sourceHash": "69b3b9973a23c5c0afdf24600245927a8d8f037a2599d8add2c4bf9a5fcd4374"
+      "sourceHash": "7dd5a8edd5305e095fa74eb613c61a7ab5b05a5414c742c1dce342d3c814d8e9"
     },
     {
       "path": [
@@ -2059,7 +2059,7 @@
         2,
         "body"
       ],
-      "sourceHash": "784220c91e69b4358d2c4fe35e92361fd53c3a7ffce7e69e4b45a2fccc7a5897"
+      "sourceHash": "7a74c8ac5fda5076e3084fe743357aeed6f6c3d4a9db40f3ba2e86fd0255bcdc"
     },
     {
       "path": [
@@ -2326,7 +2326,7 @@
         0,
         "answer"
       ],
-      "sourceHash": "00522365831218016650f1ba7c193a1fa40c0eb199229c9fd5082a5683eb2a6a"
+      "sourceHash": "cb9f7e548245bdd1d8c4304274bf52d416054eaa6bd4e574db7a307267783a23"
     },
     {
       "path": [
@@ -4512,5 +4512,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-09-24T21:58:20.063Z"
+  "generatedAt": "2026-10-01T12:38:29.164Z"
 }
