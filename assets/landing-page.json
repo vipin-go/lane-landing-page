@@ -842,7 +842,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.es.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.313Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "de",
@@ -850,7 +850,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.de.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.409Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "ja",
@@ -858,7 +858,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ja.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.450Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "fr",
@@ -866,7 +866,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.fr.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.509Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "pt",
@@ -874,7 +874,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.pt.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.539Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "ru",
@@ -882,7 +882,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.ru.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.584Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "it",
@@ -890,239 +890,7 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.it.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.644Z"
-          },
-          {
-            "language": "pl",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.pl.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.677Z"
-          },
-          {
-            "language": "tr",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.tr.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.710Z"
-          },
-          {
-            "language": "zh",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.zh.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.736Z"
-          },
-          {
-            "language": "fa",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.fa.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.766Z"
-          },
-          {
-            "language": "vi",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.vi.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.804Z"
-          },
-          {
-            "language": "cs",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.cs.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.844Z"
-          },
-          {
-            "language": "id",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.id.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.869Z"
-          },
-          {
-            "language": "ko",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.ko.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.893Z"
-          },
-          {
-            "language": "uk",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.uk.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.922Z"
-          },
-          {
-            "language": "hu",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.hu.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.945Z"
-          },
-          {
-            "language": "ar",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.ar.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:48.978Z"
-          },
-          {
-            "language": "sv",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.sv.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.047Z"
-          },
-          {
-            "language": "ro",
-            "regionKey": null,
-            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
-            "assetPath": "assets/landing-page.ro.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.087Z"
-          },
-          {
-            "language": "el",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.el.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.128Z"
-          },
-          {
-            "language": "da",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.da.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.165Z"
-          },
-          {
-            "language": "fi",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.fi.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.190Z"
-          },
-          {
-            "language": "he",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.he.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.215Z"
-          },
-          {
-            "language": "sk",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.sk.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.236Z"
-          },
-          {
-            "language": "th",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.th.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.262Z"
-          },
-          {
-            "language": "bg",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.bg.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.288Z"
-          },
-          {
-            "language": "hr",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.hr.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.315Z"
-          },
-          {
-            "language": "nb",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.nb.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.354Z"
-          },
-          {
-            "language": "lt",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.lt.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.419Z"
-          },
-          {
-            "language": "sr",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.sr.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.472Z"
-          },
-          {
-            "language": "sl",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.sl.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.531Z"
-          },
-          {
-            "language": "ca",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.ca.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.558Z"
-          },
-          {
-            "language": "et",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.et.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.616Z"
-          },
-          {
-            "language": "no",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.no.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.664Z"
-          },
-          {
-            "language": "lv",
-            "regionKey": null,
-            "sourceRevision": "5552fabc711283b73bb18cdb9c6ed8fb0dbd8f6a9f060f5c7f3c5aba0ba2997d",
-            "assetPath": "assets/landing-page.lv.json",
-            "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.695Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           },
           {
             "language": "nl",
@@ -1130,7 +898,239 @@
             "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
             "assetPath": "assets/landing-page.nl.json",
             "assetSchemaVersion": 2,
-            "generatedAt": "2026-10-01T16:11:49.727Z"
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "pl",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.pl.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "tr",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.tr.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "zh",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.zh.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "fa",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.fa.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "vi",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.vi.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "cs",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.cs.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "id",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.id.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "ko",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.ko.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "uk",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.uk.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "hu",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.hu.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "ar",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.ar.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "sv",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.sv.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "ro",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.ro.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "el",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.el.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "da",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.da.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "fi",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.fi.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "he",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.he.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "sk",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.sk.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "th",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.th.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "bg",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.bg.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "hr",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.hr.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "nb",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.nb.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "lt",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.lt.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "sr",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.sr.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "sl",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.sl.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "ca",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.ca.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "et",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.et.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "no",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.no.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
+          },
+          {
+            "language": "lv",
+            "regionKey": null,
+            "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+            "assetPath": "assets/landing-page.lv.json",
+            "assetSchemaVersion": 2,
+            "generatedAt": "2026-10-08T22:06:26.482Z"
           }
         ]
       },
