@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "pt",
   "regionKey": null,
-  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+  "sourceRevision": "7772691da0be12b2295e85f679d8ef119b0d8129823060a5d30b58f31e9392b4",
   "landingPage": {
     "headline": "Encontre padrões de conexão comprovados e, em seguida, pessoas e empresas que se encaixem neles.",
     "subheadline": "Lane analisa uma fonte pública, encontra entidades comparáveis, verifica seus relacionamentos e ajuda fundadores e investidores a descobrir conexões baseadas em evidências.",
@@ -10,7 +10,7 @@
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
-      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "src": "https://gabrieloperator.com/api/page-builder/media/58b73df6-78d3-4d33-96c0-2ba30f94c522/47e8a8af-ef61-4866-8b3b-3b64789950a0/content/lane-og-banner-v1-47e8a8af-ef61-4866-8b3b-3b64789950a0.webp",
       "alt": "Pesquisa de conexão liderada por concorrentes da Lane para fundadores e investidores"
     },
     "design": {
@@ -4503,5 +4503,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-10-08T22:06:26.482Z"
+  "generatedAt": "2026-10-11T12:32:30.427Z"
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "ko",
   "regionKey": null,
-  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+  "sourceRevision": "7772691da0be12b2295e85f679d8ef119b0d8129823060a5d30b58f31e9392b4",
   "landingPage": {
     "headline": "검증된 연결 패턴을 찾은 다음 이에 적합한 사람과 회사를 찾으세요.",
     "subheadline": "Lane은 하나의 공개 소스를 분석하고, 비교 가능한 엔터티를 찾고, 관계를 확인하고, 창립자와 투자자가 증거로 뒷받침되는 연결을 발견하도록 돕습니다.",
@@ -10,7 +10,7 @@
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
-      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "src": "https://gabrieloperator.com/api/page-builder/media/58b73df6-78d3-4d33-96c0-2ba30f94c522/47e8a8af-ef61-4866-8b3b-3b64789950a0/content/lane-og-banner-v1-47e8a8af-ef61-4866-8b3b-3b64789950a0.webp",
       "alt": "Lane 창업자와 투자자를 위한 경쟁사 주도 연결 연구"
     },
     "design": {
@@ -4503,5 +4503,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-10-08T22:06:26.482Z"
+  "generatedAt": "2026-10-11T12:32:30.427Z"
 }

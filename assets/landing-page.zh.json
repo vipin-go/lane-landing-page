@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "language": "zh",
   "regionKey": null,
-  "sourceRevision": "1781d28d251619dee0bccbef731f6f9cba6176d55306f17e0097d08b8b2fd662",
+  "sourceRevision": "7772691da0be12b2295e85f679d8ef119b0d8129823060a5d30b58f31e9392b4",
   "landingPage": {
     "headline": "找到经过验证的联系模式，然后找到适合它们的人和公司。",
     "subheadline": "Lane 分析一个公共来源，找到可比较的实体，验证它们的关系，并帮助创始人和投资者发现有证据支持的联系。",
@@ -10,7 +10,7 @@
     "secondaryCtaLabel": "See how it works",
     "heroCharacterImage": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-mascot-relaxed.png",
     "seoImage": {
-      "src": "https://raw.githubusercontent.com/vipin-go/lane-landing-page/main/assets/media/lane-humanx-2026-og.jpg",
+      "src": "https://gabrieloperator.com/api/page-builder/media/58b73df6-78d3-4d33-96c0-2ba30f94c522/47e8a8af-ef61-4866-8b3b-3b64789950a0/content/lane-og-banner-v1-47e8a8af-ef61-4866-8b3b-3b64789950a0.webp",
       "alt": "Lane 竞争对手主导的针对创始人和投资者的联系研究"
     },
     "design": {
@@ -4503,5 +4503,5 @@
       "sourceHash": "0e96f5e15977ab0a2a8d684c0d35d7459f3afc862b606046310ae1fbbd4be12b"
     }
   ],
-  "generatedAt": "2026-10-08T22:06:26.482Z"
+  "generatedAt": "2026-10-11T12:32:30.427Z"
 }

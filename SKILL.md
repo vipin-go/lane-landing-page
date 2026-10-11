@@ -15,6 +15,11 @@ metadata:
 
 # Landing Page Builder
 
+For authenticated persona workspace creation, switching, sharing, or agent setup, load the gateway skill topic `persona-workspaces` (canonical [`Persona Workspaces`](../persona-workspaces/SKILL.md)). Keep `personaWorkspaceId` separate from business/harness IDs. Each explicitly created owned workspace gets author-owned definition branches and private runtime bindings. Invitees join the existing workspace; joining creates no copy or branch, and it becomes their default only when none existed. Owner-only definition/member management, private Coach/profile/memory, owner-funded execution and workspace-scoped ROI are required. Keep the standard dashboard/sidebar composition.
+
+For workspace changes, follow the [workspace validation and frontend packaging contract](../persona-workspaces/SKILL.md#validation): run the disposable Lane browser/API test in the platform checkout, verify both Docker frontend input lists for imported shared contracts, and distinguish local fixture coverage from real invitation delivery, account registration and model generation.
+
+
 ## What this actually renders
 
 A persona's public page at `/chat/:agentId` shows this content as a real,
