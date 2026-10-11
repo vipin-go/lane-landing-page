@@ -1,0 +1,13 @@
+Use case: ads-marketing.
+Asset type: wide Open Graph share banner and AI persona cover banner for Lane, 1200 by 630 composition, landscape ratio 1.905:1.
+Primary request: create a polished Lane brand banner in the same premium, warm miniature-studio visual family as Cole's wardrobe banner and Mirav's neighborhood banner: cream background, elegant spacious typographic composition on the left, exquisite realistic 3D architectural still-life on the right, one delicate orbital arc and a few floating spheres. This is a NEW Lane image, not a collage.
+Scene: matte warm ivory seamless studio backdrop and tabletop with natural soft daylight, subtle paper and limestone textures, gentle contact shadows. On the right, a compact sculptural miniature modern startup workspace/business district with a few refined architectural blocks, small glass and lavender-indigo surfaces, an abstract research/network motif represented by connected spheres, and a pale green accent sphere. Clear visual theme: founders and investors discovering evidence-backed connections; no human figures.
+Palette: warm ivory #f8f6f0, deep indigo #24213e, muted lavender #7768e8, small chartreuse accents reminiscent of Lane's landing page. Sophisticated, tactile, editorial, not futuristic neon.
+Left layout: generous safe margins of at least 70 pixels. At upper left a subtle simple connection/network emblem followed by brand name. Clean strong elegant typography, highly legible at social-share thumbnail size.
+Text verbatim and ONLY these three text groups:
+"LANE"
+"Connections built on evidence."
+"FOUNDERS · INVESTORS · PARTNERSHIPS"
+Set LANE large at top left in deep indigo. Set the non-imperative descriptive headline in two elegant lines below it. Place the small widely tracked audience line near lower left. No other text.
+Composition: left 50% typography, right 50% tactile architectural scene, balanced generous negative space, subject must not cover the text. The elliptical orbit gives a coherent premium visual connection to the reference banners, with subtle lavender and sage spheres.
+Constraints: NO mascot, NO character, NO people, NO faces, NO wings, NO CTA, NO button, NO call-to-action wording, NO website URL, NO logos from other companies, NO watermark, NO fake UI panels, NO chart data or unsupported claims. Preserve excellent text spelling and crisp readability. Entire image must read as one professionally art-directed banner.
